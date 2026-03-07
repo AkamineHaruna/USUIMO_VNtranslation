@@ -1,5 +1,5 @@
 # USUIMO Translation Source
-![Project Banner](docs/EN.jpg)
+![Project Banner](docs/LOGO.jpg)
 
 This repository contains the translation source files for **A Simple Life with My Unobtrusive Sister**.
 
