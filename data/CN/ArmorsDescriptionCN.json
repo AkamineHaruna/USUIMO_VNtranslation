@@ -1249,6 +1249,20 @@
         ],
         "ability": []
     },
+    "203": {
+        "name": [
+            "向Ruika借来的好运"
+        ],
+        "subtitle": [
+            "「Ruika不擅长拒绝别人的请求——」"
+        ],
+        "description": [
+		    "待补充"
+        ],
+        "ability": [
+            "幸运值随机波动"
+        ]
+    },    
     "296": {
         "name": [
             "Ruika的万宝槌"
