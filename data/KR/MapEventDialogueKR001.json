@@ -59,7 +59,7 @@
     ],
     "11": [
       "………………!",
-      "ASABA는 나에게 원한을 품고 있는것 같다…"
+      "ASABA는 나에게 원한을 품고 있는 것 같다…"
     ],
     "objectName": [
       "A↗SA↘BA↗"
@@ -83,579 +83,591 @@
   },
   "9": {
     "objectName": [
-      "\\c[116]Fish"
+      "\\c[116]물고기"
     ],
     "sentouryoku": [
       "1"
     ],
     "description": [
-      "A fish shadow swimming underwater that quickly ",
-      "flees when it senses someone approaching.",
-      "What could be the right way to catch them...?"
+      "수중을 헤엄치는 물고기 그림자.",
+      "인기척이 느껴지면 금방 도망쳐 버린다.",
+      "어떻게 잡는 게 좋을까...?"
     ]
   },
   "10": {
     "1": [
-      "I’m just here to challenge myself. I’m not really ",
-      "interested in the truth of the Grand Labyrinth."
+      "나는 그냥 나 자신에게 도전하러 온 거야.",
+      "거대 미궁의 진실에는 별로 관심 없어."
     ],
     "2": [
-      "That thing you’re carrying is...!",
-      "Are you also a fan of yuusha-sama!?"
+      "그거 들고 있는 거...!",
+      "혹시 너도 용사님 팬이야!?"
     ],
     "3": [
-      "A wooden sword of such high quality",
-      "isn’t easy to come by..."
+      "이 정도 품질의 목검은",
+      "쉽게 구할 수 있는 게 아니야..."
     ],
     "4": [
-      "Um—!",
-      "If you don’t mind..."
+      "저기—!",
+      "괜찮다면..."
     ],
     "5": [
-      "Would you like to spar with me?",
-      "I really want to see how we measure up as rivals."
+      "나랑 한 판 겨뤄보지 않을래?",
+      "라이벌로서 실력을 한번 확인해보고 싶어."
     ],
     "6": [
-      "Accept",
-      "Decline"
+      "수락",
+      "거절"
     ],
     "7": [
-      "That’s great!",
-      "Let’s start right away!"
+      "좋아!",
+      "그럼 바로 시작하자!"
     ],
     "8": [
-      "I see...",
-      "That’s a shame."
+      "그렇구나...",
+      "아쉽네."
     ],
     "9": [
-      "But if you ever become interested,",
-      "I’ll be happy to fight you anytime."
+      "그래도 나중에 마음이 바뀌면,",
+      "언제든 상대해줄게."
     ],
     "10": [
-      "Born in Shiri Village...",
-      "My ambition is to become a Sword Saint!"
+      "시리 마을 출신...",
+      "내 목표는 검성이 되는 거야!"
     ],
     "11": [
-      "\\{…Koko ni mairi mashita!"
+      "\\{…여기에 왔다!"
     ],
     "12": [
-      "Ahh... you seem to be alright.",
-      "That’s such a relief!"
+      "아... 무사해서 다행이야.",
+      "정말 안심했다!"
     ],
     "13": [
-      "I’m terribly sorry",
-      "for proposing such a duel earlier!"
+      "아까 그런 결투를 제안해서",
+      "정말 미안해!"
     ],
     "14": [
-      "It seems I may have gone ",
-      "a bit too far... But!"
+      "조금 과했던 것 같긴 하지만...",
+      "그래도!"
     ],
     "15": [
-      "Since it’s a duel, I’ll give it ",
-      "it my all without holding back."
+      "결투인 만큼,",
+      "전력으로 임할게."
     ],
     "16": [
-      "Challenge her!",
-      "Never mind"
+      "도전한다!",
+      "그만둔다"
     ],
     "17": [
-      "That’s some impressive fighting spirit!",
-      "Needless to say, I won’t refuse your challenge!"
+      "굉장한 기백이네!",
+      "당연히 도전은 거절하지 않겠어!"
     ],
     "18": [
-      "Hah... hah...",
-      "I’ve lost..."
+      "하아... 하아...",
+      "내가 졌어..."
     ],
     "19": [
-      "You’re truly amazing.",
-      "That final strike was beautiful."
+      "정말 대단하네.",
+      "마지막 일격이 아름다웠어."
     ],
     "20": [
-      "That unpredictable fighting style",
-      "was truly eye opening!"
+      "그 예측 불가능한 전투 방식,",
+      "정말 큰 도움이 됐어!"
     ],
     "21": [
-      "Dragging you into such an unreasonable duel",
-      "without offering any reward feels wrong..."
+      "이렇게 무리한 결투에 끌어들였는데,",
+      "아무 보상도 없는 건 좀 그렇지..."
     ],
     "22": [
-      "Please take this—it's a skill I developed myself.",
-      "I’m sure it’ll be useful to you!"
+      "이거 받아—내가 만든 기술이야.",
+      "분명 도움이 될 거야!"
     ],
     "23": [
-      "It might sound a bit boastful,",
-      "but I’m already the strongest in my village."
+      "좀 자랑처럼 들릴 수도 있지만,",
+      "우리 마을에선 내가 제일 강해."
     ],
     "24": [
-      "Still, thanks to you, I’ve learned that ",
-      "there’s always someone stronger out there."
+      "그래도 덕분에 알게 됐어.",
+      "세상엔 더 강한 사람이 있다는 걸."
     ],
     "25": [
-      "Well then—",
-      "Time to train harder with my sword!!"
+      "그럼—",
+      "더 열심히 수련해야겠다!!"
     ],
     "objectName": [
-      "Mysterious Swordswoman"
+      "수수께끼의 검사 소녀"
     ],
     "sentouryoku": [
       "?99"
     ],
     "description": [
-      "A cat eared girl from a small village, ",
-      "looking both cute and energetic.",
-      "The katana at her waist hints that ",
-      "she is far from ordinary.",
-      "She travels around seeking duels with ",
-      "strong opponents, though her flashy behavior ",
-      "always makes one worry she might attract ",
-      "some shady adults..."
+      "작은 마을 출신의 고양이 귀 소녀.",
+      "귀엽고 활기찬 인상이지만,",
+      "허리에 찬 검에서 평범하지 않음을 느낄 수 있다.",
+      "강한 상대를 찾아 결투를 벌이며 떠돌아다니지만,",
+      "그 화려한 행동 때문에 괜히 수상한 사람들에게",
+      "눈에 띄지 않을까 걱정되기도 한다..."
     ]
   },
   "11": {
     "1": [
-      "……Ohhh! Have you also come here ",
-      "in pursuit of the Grand Labyrinth?"
+      "……오오! 당신도 ",
+      "거대 미궁을 찾아 여기까지 온 건가요?"
     ],
     "2": [
-      "You may have heard of me—",
-      "I am but a humble game developer by trade."
+      "혹시 제 이야기를 들어본 적 있을지도 모르겠군요—",
+      "저는 그저 평범한 게임 개발자입니다."
     ],
     "3": [
-      "Drawn in by this Grand Labyrinth,",
-      "I wished to share its mysterious allure with the world."
+      "이 거대 미궁에 이끌려,",
+      "그 신비로운 매력을 세상에 전하고 싶었습니다."
     ],
     "4": [
-      "Yet, I must admit with some shame that I am no warrior,",
-      "and can only express this passion through creation."
+      "하지만 부끄럽게도 저는 전사가 아니라서,",
+      "이 열정을 창작으로밖에 표현할 수 없죠."
     ],
     "5": [
-      "…Hm?Are you perhaps ",
-      "curious about this armor?"
+      "…음? 혹시 ",
+      "이 갑옷이 신경 쓰이나요?"
     ],
     "6": [
-      "Hahaha… It’s nothing more ",
-      "than a personal hobby of mine!"
+      "하하하… 그저 ",
+      "개인적인 취미일 뿐입니다!"
     ],
     "7": [
-      "By donning such equipment like this,",
-      "I can at least feel somewhat like an adventurer."
+      "이런 장비를 갖춰 입으면,",
+      "조금이나마 모험가가 된 기분을 느낄 수 있거든요."
     ],
     "8": [
-      "Of course—it’s incredibly heavy!",
-      "In fact, I can barely move under its weight…"
+      "물론—엄청 무겁습니다!",
+      "사실 거의 움직일 수도 없을 정도죠…"
     ],
     "9": [
-      "But even so…!",
-      "I will never give in!"
+      "하지만 그래도…!",
+      "절대 포기하지 않을 겁니다!"
     ],
     "10": [
-      "So many heroes and legends gather in this place,",
-      "and I must continue gathering inspiration and materials."
+      "이곳에는 수많은 영웅과 전설이 모여 있으니까요,",
+      "저도 계속해서 영감과 자료를 모아야 합니다."
     ],
     "11": [
-      "That being said, if you don’t mind,",
-      "would you be willing to try my humble work?"
+      "그래서 말인데, 괜찮으시다면",
+      "제 작품을 한번 체험해보시겠습니까?"
     ],
     "12": [
-      "I’m certain it will be of help",
-      "in your exploration——"
+      "분명 당신의 탐험에도 ",
+      "도움이 될 겁니다——"
     ],
     "13": [
-      "…What!? You don’t know who I am,",
-      "and lack a device capable of running games!?"
+      "…뭐라고요!? 저를 모른다고요,",
+      "게임을 할 기기도 없다고요!?"
     ],
     "14": [
-      "Fear not! To prepare for such situations,",
-      "I always carry missionary tools with me!"
+      "걱정 마십시오! 이런 상황에 대비해,",
+      "전도용 장비를 항상 가지고 다닙니다!"
     ],
     "15": [
-      "Our meeting here is a kind of fate,",
-      "so I shall offer the device at cost price!"
+      "이 만남도 인연이니,",
+      "기기는 원가에 드리겠습니다!"
     ],
     "16": [
-      "Furthermore, to aid fellow adventurers,",
-      "I also happen to run a small shop——"
+      "게다가 동료 모험가들을 돕기 위해,",
+      "작은 상점도 운영하고 있습니다——"
     ],
     "17": [
-      "Naturally, this is also because I must",
-      "secure funds to continue development…"
+      "물론, 개발을 계속하려면 ",
+      "자금도 필요하니까요…"
     ],
     "18": [
-      "So if you find yourself interested,",
-      "I would greatly appreciate your patronage!"
+      "혹시 관심이 생기신다면,",
+      "부디 이용해주시면 감사하겠습니다!"
     ],
     "19": [
-      "Hahaha, then the pact is sealed.",
-      "I await your thoughts after you have played."
+      "하하하, 그럼 약속입니다.",
+      "플레이 후 감상을 기다리고 있겠습니다."
     ],
     "20": [
-      "And should you be willing to share your tales,",
-      "they may yet inspire my future creations."
+      "그리고 당신의 모험 이야기를 들려주신다면,",
+      "제 다음 작품에 영감이 될지도 모르겠군요."
     ],
     "30": [
-      "Talk",
-      "Trade",
-      "Share Tales"
+      "대화",
+      "거래",
+      "이야기 나누기"
     ],
     "31": [
-      "Oh? We meet again!",
-      "my fellow."
+      "오? 또 만났군요!",
+      "동료여."
     ],
     "32": [
-      "We cross paths once more.",
-      "Well then—",
-      "have you found any interest in ",
-      "taking part in my great undertaking?"
+      "다시 만났네요.",
+      "그래서—",
+      "제 계획에 참여할 생각은 좀 드셨습니까?"
     ],
     "33": [
-      "Well then? Have you ",
-      "taken anything away from my game?"
+      "그래서 어떤가요?",
+      "제 게임에서 얻은 건 있었습니까?"
     ],
     "34": [
-      "So you seek an antidote for your family—",
-      "A resolve worthy of respect."
+      "가족을 위한 해독제를 찾고 계신다니—",
+      "참으로 훌륭한 각오입니다."
     ],
     "35": [
-      "Regrettably, ",
-      "I must confess my own inadequacy.",
-      "Of the alchemical secret known as Elixir Rubrum, ",
-      "I know but little..."
+      "유감스럽게도,",
+      "제 능력 부족을 인정해야겠군요.",
+      "홍수액이라는 연금 비술에 대해서는 ",
+      "저도 아는 것이 많지 않습니다..."
     ],
     "36": [
-      "At your present level of arms and equipment,",
-      "The descent into the Abyss will not be an easy trial."
+      "현재의 장비 상태로는,",
+      "어비스로 내려가기 쉽지 않을 겁니다."
     ],
     "37": [
-      "I advise you to prepare more supplies,",
-      "Or to take time and study the true nature of your weapons."
+      "더 많은 준비를 하시거나,",
+      "무기의 본질을 깊이 이해하는 시간을 가지십시오."
     ],
     "38": [
-      "Many alchemical remnants from bygone eras ",
-      "lie scattered here.",
-      "Observe them carefully—",
-      "you may yet uncover their true purpose."
+      "이곳에는 옛 시대의 연금 유산이 ",
+      "곳곳에 흩어져 있습니다.",
+      "잘 관찰해보면—",
+      "그 진짜 용도를 알 수 있을지도 모릅니다."
     ],
     "39": [
-      "I too collect items of practical use.",
-      "Should you wish, I would welcome your patronage."
+      "저 역시 유용한 물건을 수집하고 있습니다.",
+      "필요하시면 언제든 이용해주십시오."
     ],
     "40": [
-      "Among monsters dwell intelligent races, versed in human speech,",
-      "Some of whom bear no ill will toward mankind."
+      "몬스터 중에는 인간의 말을 이해하는 ",
+      "지능적인 종족도 존재합니다.",
+      "그중 일부는 인간에게 적대적이지 않죠."
     ],
     "41": [
-      "Should you encounter them on your journey,",
-      "Do not be surprised— ",
-      "you may even trade for valuable information.",
-      " "
+      "여정 중 그들을 만나게 되더라도,",
+      "놀라지 마십시오—",
+      "오히려 유용한 정보를 얻을 수도 있습니다."
     ],
     "42": [
-      "Take care on your journey,",
-      "my fellow."
+      "여정에 행운이 함께하길,",
+      "동료여."
     ],
     "43": [
-      "There is no need to hurry.",
-      "Return when the need arises."
+      "서두를 필요는 없습니다.",
+      "필요할 때 다시 오십시오."
     ],
     "44": [
-      "You require \\ii[\\v[84]]?",
-      "Then the price shall be \\c[6]\\v[85]\\c[0] yen."
+      "\\ii[\\v[84]]이 필요하신가요?",
+      "가격은 \\c[6]\\v[85]\\c[0]엔입니다."
     ],
     "45": [
-      "You require \\ii[\\v[84]]?",
-      "For a fellow kindred, \\c[6]\\v[85]\\c[0] yen will suffice."
+      "\\ii[\\v[84]]이 필요하신가요?",
+      "동료니까 \\c[6]\\v[85]\\c[0]엔에 드리죠."
     ],
     "46": [
-      "Purchase",
-      "Leave it"
+      "구입",
+      "그만둔다"
     ],
     "47": [
-      "May this item Help you ",
-      "overcome the trials before you."
+      "이 물건이 ",
+      "당신의 여정에 도움이 되길 바랍니다."
     ],
     "48": [
-      "A wise decision. May it ",
-      "serve you well when it matters most."
+      "현명한 선택입니다.",
+      "필요한 순간에 큰 도움이 될 겁니다."
     ],
     "49": [
-      "You seem somewhat impatient.",
-      "Even among adventurers, all trades require fair terms."
+      "조금 성급해 보이시는군요.",
+      "거래에는 항상 정당한 대가가 필요합니다."
     ],
     "50": [
-      "Do not force yourself.",
-      "Return when your purse is better prepared."
+      "무리하지 마십시오.",
+      "준비가 되었을 때 다시 오세요."
     ],
     "51": [
-      "Impressive—you have purchased everything.",
-      "That is all I can offer for today."
+      "대단하군요—모두 구입하셨습니다.",
+      "오늘은 이게 전부입니다."
     ],
     "52": [
-      "My stock is now exhausted.",
-      "That these items found their way to you is satisfaction enough."
+      "재고가 모두 소진되었습니다.",
+      "이 물건들이 당신에게 간 것만으로도 만족입니다."
     ],
     "53": [
-      "Ah. ",
-      "this oversight is mine.",
-      "Were you looking for this? ",
-      "To find it at my feet… how curious."
+      "아… ",
+      "이건 제 실수군요.",
+      "이걸 찾고 계셨습니까? ",
+      "발밑에 있었다니… 신기하군요."
     ],
     "54": [
-      "Now then, Has fortune ",
-      "brought you anything of interest?"
+      "자, 이번엔 어떤 성과를 ",
+      "얻으셨습니까?"
     ],
     "55": [
-      "(Hmm… there doesn’t seem to be",
-      "anything worth sharing…)"
+      "(음… 공유할 만한 건",
+      "딱히 없는 것 같네…)"
     ],
     "56": [
-      "Shared some thoughts about ",
-      "\\str[120] playing Shadow Souls."
+      "\\str[120]이 Shadow Souls을 플레이한",
+      "이야기를 전했다."
     ],
     "57": [
-      "Oh! To receive praise from your family—",
-      "it truly is a great honor for me."
+      "오! 가족에게서 칭찬을 받다니—",
+      "정말 영광입니다."
     ],
     "58": [
-      "With that, I feel even more ",
-      "motivated to work on updates."
+      "덕분에 더 열심히 ",
+      "업데이트를 만들고 싶어졌습니다."
     ],
     "59": [
-      "That said, it seems I still haven’t",
-      "heard your own evaluation yet."
+      "그런데, 아직 당신의 ",
+      "평가는 듣지 못했군요."
     ],
     "60": [
-      "Hm? Big… white…",
-      "nd very soft?"
+      "음? 크고… 하얗고…",
+      "그리고 아주 부드럽다고요?"
     ],
     "61": [
-      "…Is there really something in my game",
-      "that would inspire such an impression?"
+      "…제 게임에 그런 인상을 줄 요소가",
+      "있었던가요?"
     ],
     "62": [
-      "Oh no. I got too absorbed in that ",
-      "sensation and misspoke…"
+      "아… 감각에 너무 몰입해서",
+      "말이 이상하게 나왔군요…"
     ],
     "63": [
-      "Shared information that the mushrooms growing on ",
-      "walking mushrooms are actually quite tasty."
+      "움직이는 버섯에서 자라는 버섯이",
+      "꽤 맛있다는 정보를 공유했다."
     ],
     "64": [
-      "Monster cuisine, you say! What a novel idea!",
-      "As expected of you."
+      "몬스터 요리라니! 참신한 발상이군요!",
+      "역시 당신답습니다."
     ],
     "65": [
-      "Shared information that the strange birds in the dungeon",
-      "have extremely noisy cries."
+      "던전의 기묘한 새들이",
+      "굉장히 시끄러운 울음을 낸다는 정보를 공유했다."
     ],
     "66": [
-      "A juvenile Garuda, perhaps… I wonder which would be ",
-      "more overwhelming compared to the legendary dragon roar."
+      "어린 가루다일지도 모르겠군요…",
+      "전설의 용의 포효와 비교하면 어떨지 궁금합니다."
     ],
     "67": [
-      "Shared information that orc meat",
-      "is remarkably delicious."
+      "오크 고기가",
+      "의외로 맛있다는 정보를 공유했다."
     ],
     "68": [
-      "Shared information about a hidden passage in the Labyrinth",
-      "that connects to the outside world."
+      "미궁에서 바깥으로 이어지는 숨겨진 통로에 대한",
+      "정보를 공유했다."
     ],
     "69": [
-      "It looks like a passage left behind by a previous engineering team.",
-      "I heard they once planned to excavate the entire Labyrinth."
+      "이전 공사 팀이 남긴 통로인 것 같습니다.",
+      "한때 미궁 전체를 파헤치려 했다고 들었습니다."
     ],
     "70": [
-      "However, the project suddenly stalled halfway through.",
-      "No one knows what kind of trouble they ran into."
+      "하지만 프로젝트는 중간에 갑자기 중단되었죠.",
+      "무슨 일이 있었는지는 아무도 모릅니다."
     ],
     "71": [
-      "Shared information about a strange mushroom house",
-      "at the end of the forest where people get lost."
+      "숲 끝의 길 잃는 장소에 있는",
+      "기묘한 버섯 집에 대한 정보를 공유했다."
     ],
     "72": [
-      "I’ve heard many adventurers lose their way inside…",
-      "but as expected of you, you managed to make it through safely."
+      "많은 모험가들이 그곳에서 길을 잃는다고 들었습니다…",
+      "그래도 무사히 빠져나오셨다니 대단하군요."
     ],
     "73": [
-      "As for that enormous mushroom house…",
-      "it certainly makes one curious what kind of creature lives within."
+      "그 거대한 버섯 집…",
+      "어떤 존재가 살고 있을지 궁금해지는군요."
     ],
     "74": [
-      "Shared an experience of unfortunately",
-      "falling into a pit inside the dungeon."
+      "던전에서 함정에 빠졌던",
+      "경험을 공유했다."
     ],
     "75": [
-      "Hahaha…! That truly is an embarrassing experience.",
-      "As an adventurer, one must always be aware of their surroundings."
+      "하하하…! 꽤나 민망한 경험이군요.",
+      "모험가는 항상 주변을 경계해야 합니다."
     ],
     "76": [
-      "Shared information about discovering a mech",
-      "in an unknown area."
+      "미지의 장소에서 기계를 발견했다는",
+      "정보를 공유했다."
     ],
     "77": [
-      "I see… what a remarkable encounter. As expected,",
-      "the Great Labyrinth still hides traces of ancient civilizations."
+      "과연… 흥미로운 이야기군요.",
+      "역시 대미궁에는 고대 문명의 흔적이 남아 있군요."
     ],
     "78": [
-      "…So it has already vanished.",
-      "I have no reason to doubt your account."
+      "…이미 사라졌다고요.",
+      "당신의 말을 의심할 이유는 없습니다."
     ],
     "79": [
-      "This must be a matter of fate.",
-      "Someday, it will surely appear once again."
+      "이것도 운명의 일부겠지요.",
+      "언젠가 다시 모습을 드러낼 겁니다."
     ],
     "80": [
-      "Shared information that jelly made from slimes",
-      "surprisingly has quite a good texture."
+      "슬라임으로 만든 젤리가",
+      "의외로 식감이 좋다는 정보를 공유했다."
     ],
     "81": [
-      "Oh, my fellow!",
-      "Come and take this!"
+      "오, 동료여!",
+      "이걸 받아주십시오!"
     ],
     "82": [
-      "During these days, you’ve given me ",
-      "quite a lot of interesting inspiration.",
-      "If I didn’t offer at least a small token of thanks, ",
-      "it would hardly feel right."
+      "그동안 많은 흥미로운 영감을 주셨습니다.",
+      "이 정도 감사의 표시라도 하지 않으면 ",
+      "마음이 편치 않군요."
     ],
     "83": [
-      "This is an outfit I personally designed",
-      "for promoting the game.",
-      "Please accept it as a gift that ",
-      "represents my appreciation."
+      "이건 제가 직접 디자인한",
+      "게임 홍보용 의상입니다.",
+      "감사의 의미로 받아주십시오."
     ],
     "84": [
-      "(Huh... a bonus T-shirt...?",
-      "W-what should I do...)"
+      "(어… 보너스 티셔츠…?",
+      "어, 어떡하지…)"
     ],
     "85": [
-      "(I really don’t want to wear ",
-      "something like this outside...",
-      "I wonder if \\str[120] would like ",
-      "this kind of outfit...)"
+      "(이걸 밖에서 입는 건 좀…",
+      "부끄러운데…",
+      "\\str[120]은 이런 거 좋아할까…)"
+    ],
+    "86": [
+      "…흠, 밤에 볼 만한 걸 찾고 계신 건가요?"
+    ],
+    "87": [
+      "마침 잘됐군요! 영감을 위해",
+      "여러 테이프를 모아두었습니다."
+    ],
+    "88": [
+      "꽤 흥미로운 것들이 많으니—",
+      "하나 드려도 괜찮습니다."
+    ],
+    "89": [
+      "앞으로도 ",
+      "많은 이용 부탁드립니다…!"
     ],
     "objectName": [
-      "Weird Knight"
+      "이상한 기사"
     ],
     "sentouryoku": [
       "???"
     ],
     "description": [
-      "A knight clad in armor that radiates an ominous ",
-      "aura. Because the helmet is tightly sealed, ",
-      "their voice is muffled, making it impossible to ",
-      "determine their gender or age.",
-      "they claims to be a game developer and, ",
-      "in search of creative inspiration, ",
-      "asks adventurers about their journeys ",
-      "and offers material support in return. ",
-      "Also, they seems to know the Abyss well—"
+      "불길한 기운을 풍기는 갑옷을 입은 기사.",
+      "스스로를 게임 개발자라고 소개하며,",
+      "창작 영감을 얻기 위해 모험가들에게 여정을 묻고",
+      "그 대가로 물자 지원을 해준다."
     ]
   },
   "12": {
     "1": [
-      "A strange vending machine...",
-      "A bottle of drink... \\c[6]\\v[86]\\c[0] yen."
+      "이상한 자판기다...",
+      "음료 한 병... \\c[6]\\v[86]\\c[0]엔."
     ],
     "2": [
-      "Buy one",
-      "Never mind"
+      "구입한다",
+      "그만둔다"
     ],
     "3": [
-      "No...",
-      "I don't have enough money..."
+      "아니...",
+      "돈이 부족해..."
     ],
     "4": [
-      "\"Due to damage by unknown individuals, ",
-      "a temporary repair penalty has been added...\"",
-      "Until the penalty is fully paid... ",
-      "a bottle of drink... \\c[6]\\v[86]\\c[0] yen!?"
+      "\"정체불명의 인물에 의한 파손으로, ",
+      "임시 수리 비용이 추가되었습니다...\"",
+      "수리 비용이 모두 지불될 때까지... ",
+      "음료 한 병... \\c[6]\\v[86]\\c[0]엔!?"
     ],
     "5": [
-      "(There’s already…",
-      "no drinks left inside.)"
+      "(이미…",
+      "안에는 음료가 하나도 없다.)"
     ],
     "objectName": [
-      "Vending Machine"
+      "자판기"
     ],
     "sentouryoku": [
       "1"
     ],
     "description": [
-      "It seems to be a machine operated and ",
-      "managed by the Maid Bunny.",
-      "It’s not entirely clear why monsters would want ",
-      "to imitate humans and run a business,",
-      "but everyone has naturally come to accept it.",
-      "By the way, carrot milk has the worst reviews."
+      "메이드 바니가 운영하고 관리하는 기계로 보인다.",
+      "몬스터가 왜 인간을 흉내 내며 장사를 하는지는 알 수 없지만,",
+      "사람들은 자연스럽게 받아들이고 있다.",
+      "참고로 당근 우유는 평이 최악이다."
     ]
   },
   "13": {
     "objectName": [
-      "Shione"
+      "시오네"
     ],
     "subtitle": [
-      "Demonic Sister of The Fallen Church"
+      "타락한 교회의 마성의 자매"
     ],
     "bossName": [
-      "The Pride Demon"
+      "오만의 악마"
     ],
     "garble": true
   },
   "14": {
     "objectName": [
-      "\\c[116]Mysterious Bubble"
+      "\\c[116]수상한 거품"
     ],
     "sentouryoku": [
       "1"
     ],
     "description": [
-      "There seems to be something under the water..."
+      "물속에 뭔가 있는 것 같다..."
     ]
   },
   "15": {
     "objectName": [
-      "\\c[115]Jackalope"
+      "\\c[115]자칼로프"
     ],
     "sentouryoku": [
       "555"
     ],
     "description": [
-      "A high-rank monster evolved from the ",
-      "Horned Rabbit. For monster, horns serve both ",
-      "as weapons and as cores for storing mana.",
-      "Unlike the Horned Rabbit, it’s highly aggressive",
-      "When excited, its body turns red as mana surges, ",
-      "and it launches rapid, repeated charges."
+      "뿔토끼에서 진화한 상위 몬스터.",
+      "몬스터에게 뿔은 무기이자 마력을 저장하는 핵이다.",
+      "뿔토끼와 달리 매우 공격적이며,",
+      "흥분하면 몸이 붉게 변하고 마력이 치솟아 빠른 돌진을 연속으로 퍼붓는다."
     ]
   },
   "16": {
     "objectName": [
-      "The Unnameable C"
+      "이름조차 금기된 B"
     ],
     "sentouryoku": [
       "9"
     ],
     "description": [
-      "A being so infamous that even its name ",
-      "became taboo. In theory, it’s almost harmless—",
-      "but its terrifying appearance and unpredictable ",
-      "movements are enough to throw everyone ",
-      "present into chaos."
+      "이름조차 언급이 금기시된 존재.",
+      "이론상으로는 거의 무해하지만—",
+      "기묘한 외형과 예측 불가능한 움직임만으로도",
+      "주변을 혼란에 빠뜨리기에 충분하다."
     ]
   },
   "18": {
     "objectName": [
-      "Stele of the End"
+      "종말의 비석"
     ],
     "sentouryoku": [
       "1"
     ],
     "description": [
-      "A long-neglected stone monument, ",
-      "now cracked and weathered.",
-      "You can tell it was once exquisitely carved.",
-      "Even after all these years, it still",
-      "carries an aura that inspires quiet awe."
+      "오랫동안 방치된 비석.",
+      "금이 가고 풍화되었지만,",
+      "한때 정교하게 조각된 흔적이 보인다.",
+      "세월이 흘렀음에도, 여전히 묘한 경외감을 자아낸다."
+    ]
+  },
+  "22": {
+    "objectName": [
+      "\\c[116]탑의 광신도"
+    ],
+    "sentouryoku": [
+      "800"
+    ],
+    "description": [
+      "어비스의 힘과 탑의 저주를 숭배하는 광신도들.",
+      "제어할 수 없는 이 힘이,",
+      "설령 모든 고통 위에 세워진다 해도",
+      "세상을 다시 태어나게 할 것이라 믿고 있다—"
     ]
   },
   "24": {
@@ -674,9 +686,9 @@
       "?77"
     ],
     "description": [
-      "항상 메이드복을 입고 있는, 토끼 귀를 가진 미지의 소녀.",
-      "공간 이동이 가능하며, 기묘한 구멍에서 나타날 수 있다.",
-      "때때로 모험가들을 곤란하게 만들지만, 기본적으로 무해하다.",
+      "항상 메이드복을 입고 있는 토끼 귀 소녀.",
+      "공간 이동이 가능하며, 기묘한 구멍에서 나타난다.",
+      "때때로 모험가를 곤란하게 만들지만, 기본적으로는 무해하다.",
       " "
     ]
   },
@@ -685,16 +697,37 @@
       "자이언트 사카밤바스피스"
     ],
     "subtitle": [
-      "물 속에 살고있다"
+      "물속에 서식"
     ],
     "bossName": [
-      "리버 로드 - 멸종되지 않은거야!?"
+      "리버 로드 - 멸종된 거 아니었어!?"
     ],
     "sentouryoku": [
       "999"
     ],
     "description": [
       ""
+    ]
+  },
+  "29": {
+    "objectName": [
+      "\\c[10]색욕의 악마"
+    ],
+    "subtitle": [
+      "아직 봉인 중"
+    ],
+    "bossName": [
+      "색욕의 악마"
+    ],
+    "garble": true,
+    "sentouryoku": [
+      "6666"
+    ],
+    "description": [
+      "탑에서 풀려난 색욕의 악마.",
+      "아직 진정한 힘은 억제된 상태다.",
+      "의외로 신사적이고 말도 잘 통하지만, 자극받으면 의식을 위한 도구로",
+      "상대에게 깊은 정신적 상처를 남긴다."
     ]
   },
   "32": {
@@ -730,9 +763,7 @@
       "타로 소환에 응해 나타난, 동글동글한 가챠 머신.",
       "모험가가 주는 것을 게걸스럽게 삼켜버린다.",
       "만족하면 기분 좋게 회전하고,",
-      "마지막으로 보상이 담긴 캡슐을 토해낸다.",
-      "하지만, 너무 많이 주는 것은 주의. 기계라고는 하지만,",
-      "아무래도 너무 많이 먹으면 상태가 나빠지기도 하는 것 같다…"
+      "보상이 담긴 캡슐을 토해낸다."
     ]
   },
   "41": {
@@ -749,9 +780,6 @@
     "description": [
       "두 마리 고양이 소녀들이 독립적으로 운영하는 이동식 상점.",
       "모험가의 부름에 응하여, 언제나 기세 좋게 나타난다.",
-      "상품은 기본적으로 어비스에서 주운 일용품뿐이라,",
-      "방심하면 터무니없는 가격으로 바가지를 쓰기도……。",
-      "하지만, 그렇다고 만만히 봤다가는, 오히려 따끔한 맛을 보게 된다.",
       "P.S.：\\c[2]메이드 바니와 손님을 빼앗고 싸운 결과,",
       "\\c[2]토끼 그룹에서는 완전히 출입 금지를 당했다."
     ]
@@ -765,26 +793,25 @@
     ],
     "description": [
       "항상 정글에 나타나는 특이한 마물로,",
-      "일반 버섯보다 크고, 다리로 자유롭게 움직입니다.",
+      "일반 버섯보다 크고, 다리로 자유롭게 움직인다.",
       "공격적이지만, 매우 맛있어서,",
-      "모험가나 요리사에게 노려지고 있습니다.",
-      " ."
+      "모험가나 요리사에게 노려지고 있다.",
+      "."
     ]
   },
   "47": {
     "objectName": [
-      "\\c[114]Door of Star"
+      "\\c[114]별의 문"
     ],
     "sentouryoku": [
       "1"
     ],
     "description": [
-      "A passable door summoned by the Star Tarot.",
-      "The stars are believed to guide one back home.",
-      "Passing through this door returns the traveler ",
-      "to a safe area. Adventurers often use it ",
-      "to return to a place of rest, or to retreat ",
-      "temporarily when the situation turns unfavorable."
+      "별의 타로로 소환되는 통과 가능한 문.",
+      "별은 길 잃은 이를 집으로 인도한다고 전해진다.",
+      "이 문을 통과하면 안전한 장소로 돌아갈 수 있다.",
+      "모험가들은 휴식 장소로 돌아가거나,",
+      "상황이 불리해졌을 때 잠시 후퇴하는 용도로 자주 사용한다."
     ]
   },
   "51": {
@@ -797,7 +824,7 @@
     "description": [
       "아직 성장 단계에 있는 오크로, 체격은 인간과 거의 비슷하지만",
       "여전히 흉포하고 강력한 전투 능력을 가지고 있다.",
-      "생명체에 반응하고 탐욕스럽게 반응합니다 ",
+      "생명체에 반응하며 탐욕스럽게 달려든다.",
       " "
     ]
   },
@@ -819,7 +846,7 @@
       "원더랜드의 흰 토끼"
     ],
     "subtitle": [
-      "폐허의 숲에 살고있다"
+      "폐허의 숲에 살고 있다"
     ],
     "bossName": [
       "원더랜드의 흰 토끼"
@@ -1063,8 +1090,8 @@
       "좀비처럼 모험가를 적극적으로 공격하며, 그 공격은 흉포함을 더하고 있다.",
       "더욱이, 달라붙는 죽음의 독기가 공격을 통해 모험가에게 감염되어,",
       "방심하면 즉사를 초래할 위험이 있다.",
-      "몸에 접촉 시 다른 사람을 감염시킬 수 있습니다.,",
-      "방심 하다간 즉사할 수 있습니다..."
+      "몸에 닿으면 다른 사람까지 감염시킬 수 있다.",
+      "방심하다간 즉사할 수도 있다…"
     ]
   },
   "90": {
@@ -1079,7 +1106,7 @@
       "수역에서만 활동하며, 마력을 이용해 자신에게 두꺼운 얼음 껍질을 두르고 있다.",
       "대량의 물을 흡수해 급속히 냉각시켜 분사함으로써,",
       "모험가를 혼란에 빠뜨리는 성가신 존재.",
-      "급속히 냉각시켜 모험가들에게 폭발시킨다."
+      "급속히 냉각시킨 냉기를 분사해 모험가를 얼려 버린다."
     ]
   },
   "91": {
@@ -1108,7 +1135,7 @@
       "몸에는 단단한 광석이 자라며,",
       "그 광석을 조종해 날카로운 무기로 변환할 수 있다.",
       "단단해졌다고는 해도, 결국은 슬라임이다.",
-      "게다가, 쓰러뜨리면 얻을 수 있는 광석은 고가에 거래된다고 한다…."
+      "게다가 쓰러뜨리면 얻을 수 있는 광석은 고가에 거래된다고 한다…"
     ]
   },
   "97": {
@@ -1149,7 +1176,7 @@
       "그렇네~ 아직 자기소개를 안 했구나~"
     ],
     "10": [
-      "으음, 나는~ 심연의 ",
+      "으음, 나는~ 어비스의 ",
       "깊은 곳에서 온 대악마! 아키야~"
     ],
     "11": [
@@ -1169,7 +1196,7 @@
       "나한테 줄 거지♥"
     ],
     "15": [
-      "(앗, 배낭속의 연어냄새에 ",
+      "(앗, 배낭 속의 연어 냄새에 ",
       "낚인 건가......)"
     ],
     "16": [
@@ -1236,7 +1263,7 @@
       "너라면 물고기 정도는 쉽게 잡을 수 있잖아~?"
     ],
     "32": [
-      "그걸로 끝이라고 생각했다면, 큰 오산이야 ~♥",
+      "그걸로 끝이라고 생각했다면 큰 오산이야~♥",
       "더 반성하지 않으면 절대 용서하지 않을 거니까!"
     ],
     "33": [
@@ -1367,6 +1394,55 @@
       "그 정도라면~",
       "한 마리 주면 팔아줄 수도 있어~♥"
     ],
+    "65": [
+      "헤헤~ 밤에 볼 거 찾는 거야~?",
+      "이 시간에 고르는 거 보니까… 좀 자극적인 걸 찾는 거야~?"
+    ],
+    "66": [
+      "여동생이랑 같이 볼 생각이야~? 오빠, ",
+      "점점 수상해지는데~? ♥"
+    ],
+    "67": [
+      "그래도 운 좋은 줄 알아, 오빠~",
+      "마침 그런 거 하나 갖고 있거든~"
+    ],
+    "68": [
+      "원하면,",
+      "연어 좀 가져와~"
+    ],
+    "69": [
+      "그냥 흔한 연어 말고~",
+      "좀 더 좋은 걸로 부탁해 ♥"
+    ],
+    "70": [
+      "뭐야~ 오빠 완전 허접이네~",
+      "고급 연어도 못 구하는 거야?"
+    ],
+    "71": [
+      "허접~",
+      "완전 허접~"
+    ],
+    "72": [
+      "뭐, 어쩔 수 없지~",
+      "조금 도와줄게 ♥",
+      "그래야… 물고기도 더 잘 잡을 수 있겠지~?"
+    ],
+    "73": [
+      "오오~~!",
+      "이 냄새~~"
+    ],
+    "74": [
+      "후후~ 오빠도 완전 쓸모없는 건 아니네~",
+      "이렇게 좋은 연어를 잡다니 ♥"
+    ],
+    "75": [
+      "자 ♥ 약속한 거야~",
+      "가서 제대로 즐겨봐, 오빠~"
+    ],
+    "76": [
+      "내가 도와줬는데도~",
+      "오빠 진짜 한심하네~"
+    ],
     "objectName": [
       "\\c[10]아키"
     ],
@@ -1429,8 +1505,8 @@
       "특별한 재료를 사용했는지, 신비한 향기가 난다…",
       "궁금해서 무엇이 들어있는지 물어봐도,",
       "소녀는 의미심장한 미소만 지을 뿐이었다…",
-      "호기심에 안에 무엇이 들어 있는지 물어보더라도,",
-      "당신이 얻을 수 있는 것은 그 소녀에게서 의미심장한 미소뿐입니다..."
+      "호기심에 안에 뭐가 들어 있는지 물어봐도,",
+      "돌아오는 건 그 소녀의 의미심장한 미소뿐이었다…"
     ]
   },
   "101": {
@@ -1460,7 +1536,7 @@
     ],
     "3": [
       "안에는 방금 버린 물건밖에 없다……",
-      "내가 방금 버린 물건이다..."
+      "내가 방금 버린 물건이다…"
     ],
     "4": [
       "（으음… 가방이 완전히 꽉 찼다……",
@@ -1488,63 +1564,61 @@
       "함부로 물건을 버리는 건 좋지 않다.",
       "하지만, 버린 물건은 다음 날이면 신기하게도 사라지는 것 같고,",
       "누군가 몰래 수거하는 걸지도 모른다…….",
-      "단, 가연성 물질은 절대 넣지말자.",
+      "단, 가연성 물질은 절대 넣지 말자.",
       "함부로 다루면, 큰 반응을 일으킬 수도 있다——"
     ]
   },
   "106": {
     "objectName": [
-      "Chili Pepper Tree"
+      "고추 나무"
     ],
     "sentouryoku": [
       "1"
     ],
     "description": [
-      "Wait, do peppers grow on trees?",
-      "Although \\str[120] really hates it, ",
-      "I, as an adventurer, ",
-      "can’t afford to be picky with food."
+      "아니, 고추가 나무에서 자랐나?",
+      "\\str[120]은 엄청 싫어하지만, ",
+      "모험가인 나는 ",
+      "음식을 가릴 처지가 아니다."
     ]
   },
   "107": {
     "objectName": [
-      "Potato"
+      "감자"
     ],
     "sentouryoku": [
       "1"
     ],
     "description": [
-      "Easy to mistake for weeds ",
-      "if you do not look closely. ",
-      "Dig beneath the soil and you will find ",
-      "tasty potatoes."
+      "자세히 보지 않으면 ",
+      "잡초로 착각하기 쉽다.",
+      "땅속을 파보면 ",
+      "맛있는 감자가 나온다."
     ]
   },
   "108": {
     "objectName": [
-      "Tomato Tree"
+      "토마토 나무"
     ],
     "sentouryoku": [
       "1"
     ],
     "description": [
-      "Tomatoes brimming with juice and ",
-      "a gentle fragrance, ",
-      "as if someone had raised them with great care..."
+      "과즙이 가득하고 은은한 향이 나는 토마토.",
+      "누군가 정성껏 키운 것 같은 느낌이다..."
     ]
   },
   "109": {
     "objectName": [
-      "Strawberry Tree"
+      "딸기 나무"
     ],
     "sentouryoku": [
       "1"
     ],
     "description": [
-      "A fruit tree laden with strawberries ",
-      "that looks absolutely delicious.",
-      "It often attracts a certain creature to come ",
-      "and steal a bite."
+      "먹음직스러운 딸기가 가득 열린 과일나무.",
+      "이 나무는 종종 어떤 생물을 끌어들여 ",
+      "몰래 따 먹게 만든다."
     ]
   },
   "110": {
@@ -1572,7 +1646,7 @@
       "하지만 아직 성장 중이기 때문에 그다지 위협적이지 않다.",
       "참고로, 고기의 맛은 여전히 일품.",
       "그리고 특별히 위험하지는 않다.",
-      "또한 고기가 부드럽고 맛있습니다.."
+      "또한 고기가 부드럽고 맛있다…"
     ]
   },
   "115": {
@@ -1588,7 +1662,7 @@
       "일반 공격은 거의 통하지 않으며, 모험가는",
       "이런 마물이 용암 같은 극한 환경에서만",
       "나타난다는 것을, 그저 행운이라고 생각할 수밖에 없다.",
-      "용암 지대와 같은 극한 환경."
+      "용암 지대와 같은 극한 환경에서만 나타난다."
     ]
   },
   "119": {
@@ -1607,7 +1681,7 @@
       "소환하거나 견뎌낼 수도 없다",
       "하지만, 이런 미약한 힘만으로도",
       "그 눈에 비치는 모든 것을 멸망시키기엔 충분하다",
-      "소환사를 포함하여. "
+      "소환사를 포함하여..."
     ]
   },
   "possibleDrops": [

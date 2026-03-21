@@ -1,0 +1,39 @@
+{
+  "categories": {
+    "SLG": {
+      "Category Name": "\\str[120]과의 추억",
+      "New Scene Name": "",
+      "Trophy Description": "\\str[120]은 나에게 있어 언제나 가장 소중한 사람이다"
+    },
+    "RPG": {
+      "Category Name": "어비스에서의 전투 추억",
+      "New Scene Name": "",
+      "Trophy Description": "싸워라... 계속 싸워라!"
+    },
+    "Gacha": {
+      "Category Name": "다양한 수집의 추억",
+      "New Scene Name": "",
+      "Trophy Description": "모든 것을 모으면 소환할 수 있다고 한다—"
+    },
+    "Ryouri": {
+      "Category Name": "요리의 추억",
+      "New Scene Name": "",
+      "Trophy Description": "요리는 사람에게 행복을 가져다주는 것"
+    }
+  },
+  "achievements": {
+    "JoyStation V": {
+      "Name": "게임 콘솔을 얻었다!",
+      "Description": "이제 \\str[120]과 함께 게임을 할 수 있다!",
+      "Pop Up Desc": "게임 콘솔을 얻었다!"
+    },
+    "AirKing": {
+      "Name": "잠푸 킹",
+      "Description": "\"하늘과 친구가 되고 싶지 않아?\"",
+      "Pop Up Desc": [
+        "\\fs[22]\"하늘과 친구가 ",
+        "되고 싶지 않아?\""
+      ]
+    }
+  }
+}
