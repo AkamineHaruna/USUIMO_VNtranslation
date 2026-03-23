@@ -17,20 +17,26 @@
             "nên làm gì đây…?"
         ],
         "1": [
-            "Dùng",
+            "Sử dụng",
             "Thôi vậy",
             "Vứt bỏ"
         ]
     },
+    "gameAnnouncement": {
+        "0": [
+            "Hãy xem thử ",
+            "không có gì"
+        ]
+    },
     "skillOnCooldown": {
         "0": [
-            "Đang hồi chiêu!"
+            "Đang hồi kỹ năng!"
         ]
     },
     "takePhotoOfImouto": {
         "0": [
             "\\nl< >\"Hngh! \\str[121]!    \\w[60]",
-            "Anh lại chụp lén nữa!\""
+            "Anh lại chụp lén nữa à!\""
         ]
     },
     "sealingScroll": [
@@ -52,7 +58,7 @@
     },
     "ElixirCraft": {
         "0": [
-            " Elixir Chế Tác "
+            " Chế Tạo Elixir "
 		],
 		"1": [
             " Thành công tạo ra Elixir Rubrum! "
@@ -97,10 +103,10 @@
     },
     "unlockJackalope": {
         "0": [
-            " Thỏ Rừng "
+            "Jackalope"
 		],
 		"1": [
-            " đã xuất hiện trong Vực Thẳm! "
+            "đã xuất hiện trong Vực Sâu! "
         ]		
     },
     "maidBunnyBoss": {
@@ -204,7 +210,7 @@
             "Tấm vé… nó mất rồi…"
         ],
         "13": [
-            "Tấm vé với những đường hoa văn dây leo đen và",
+            "Tấm vé với những đường hoa văn dây leo đen và ",
             "hình cây thập tự kỳ lạ ở giữa… biến mất rồi…"
         ],
         "14": [
@@ -241,14 +247,14 @@
         ],
         "22": [
             "…Hmm?",
-            "Liệu con tàu có quay lại đón mình không…?"
+            "Liệu con tàu có quay lại đón mình không ta…?"
         ],
         "23": [
             "Huh? Oh,",
             "lại là anh à, Nhà Thám Hiểm!"
         ],
         "24": [
-            "Mới khi nãy em còn nói chuyện với anh…",
+            "Mới lúc trước em còn nói chuyện với anh…",
             "Vậy mà giờ lại có cảm giác như đã trôi qua rất lâu rồi…"
         ],
         "25": [
@@ -260,7 +266,7 @@
             "Nó nhẹ lắm—nhẹ hơn cả một cánh lông thiên nga~"
         ],
         "27": [
-            "Màu sắc của nó trông như ‘hồ nước ngủ yên’ bị đóng băng bên trong,",
+            "Màu sắc của nó trông như 'hồ nước ngủ yên' bị đóng băng bên trong,",
             "và khi nghiêng dưới ánh sáng, bụi sao bên trong khẽ trôi lấp lánh~"
         ],
         "28": [
@@ -344,7 +350,7 @@
             "Tốt nhất không nên chạm vào nó lần nữa..."
         ],	
         "5": [
-            "\\nl< >\"...Đầu em hơi ngứa.   \\w[30]",
+            "\\nl< >\"...Đầu em có hơi ngứa.   \\w[30]",
 			"Anh có làm gì em không vậy, \\str[121]?\""
         ],
         "6": [
@@ -416,14 +422,14 @@
             "Em gái tôi có vẻ đang nói cái gì đó..."
 		],	
         "9": [
-            "\\nl< >\"Ah, \\str[121]! Chào buổi tối—!\""
+            "\\nl< >\"Ah, \\str[121]! Chào anh nhé—!\""
 		],
         "10": [
             "\\nl< >\"Um... Anh có nghe hết những gì em vừa nói không?\""
 		],
         "11": [
             "\\nl< >\"\\str[121], khuôn mặt của anh lúc ngủ ",
-			"khi nãy trong rất buồn cười~\""
+			"khi nãy trông buồn cười lắm đó~\""
 		],
         "12": [
             "\\nl< >\"Hiếm khi thấy anh ngủ gật như vậy~\""
@@ -474,11 +480,11 @@
 		],
         "1": [
             "Whoa…!?",
-			"Ngay cả một cô gái cũng nằm bất tỉnh ở đây..."
+			"Có cả một cô gái cũng nằm bất tỉnh ở đây..."
 		],
         "2": [
             "Nhìn lại thì, mình đã nghe thấy những tiếng ồn kì lạ...",
-			"Có phải đó là tiếng bụng cô ấy kêu không...?"
+			"Có phải đó là tiếng bụng của cô ấy kêu không...?"
 		],	
         "3": [
             "Ugh...",
@@ -513,14 +519,14 @@
 			"Mùi này... có phải là đồ ăn không?"
 		],		
         "11": [
-            "Mùi của đồ ăn!!"
+            "Mùi đồ ăn!!"
 		],		
         "12": [
             "\\{Được rồi, tôi ăn đây!!"
 		],		
         "13": [
-            "Cô... cô cái đồ...",
-			"Tôi đã làm nó, cô có biết không..."
+            "Cô... cô là cái đồ...",
+			"Tôi đã làm nó, cô có biết không đấy..."
 		],		
         "14": [
             "(Cô ấy ăn xong chỉ trong vài nốt nhạc...",
@@ -532,7 +538,7 @@
 		],			
         "16": [
             "Tôi cứ tưởng mình sẽ biến thành một hồn ma đói",
-			"lang thang trong hầm ngục này... Grrrr..."
+			"lang thang trong hầm ngục này chứ... Grrrr..."
 		],		
         "17": [
             "Này... ăn từ từ thôi... Nhân tiện,",
@@ -556,7 +562,7 @@
 		],	
         "22": [
             "Một ninja mà rơi vào rắc rối như thế này...",
-			"Tôi không còn mặt mũi để quay lại tổ chức..."
+			"Tôi không còn mặt mũi nào để quay lại tổ chức..."
 		],	
         "23": [
             "Huh... huh? Nhưng sao cô lại",
@@ -568,11 +574,11 @@
 		],	
         "25": [
             "Hơn nữa, tôi không thể để ai biết chuyện này,",
-			"đây là một nhiệm vụ siêu bí mật được giao trực tiếp từ sếp!"
+			"đây là một nhiệm vụ siêu bí mật được giao trực tiếp từ Boss!"
 		],	
         "26": [
             "Nếu người khác biết...",
-			"cậu nghĩ chuyện gì sẽ xảy ra..."
+			"Cô nghĩ chuyện gì sẽ xảy ra..."
 		],	
         "27": [
             "Tất nhiên, tôi phải âm thầm xử lý họ...",
@@ -630,7 +636,7 @@
 			"Tránh xa tôi ra!!"
 		],
         "41": [
-            "Cậu thật sự có năng khiếu với mấy thứ ninja này...!",
+            "Cậu thật sự có năng khiếu với mấy thứ ninja này đấy...!",
 			"Cậu sẽ học được hết chỉ sau một chút luyện tập thôi!"
 		],
         "42": [
@@ -639,7 +645,7 @@
 		],
         "43": [
             "Nhưng tôi sẽ phải đợi đến khi hoàn thành nhiệm vụ,",
-			"trước khi có thể giới thiệu cậu với ông chủ!"
+			"trước khi có thể giới thiệu cậu với Boss!"
 		],
         "44": [
             "Ở thời điểm này,",

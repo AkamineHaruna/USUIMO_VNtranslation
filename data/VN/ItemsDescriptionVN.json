@@ -130,7 +130,7 @@
         "subtitle": "",
         "description": [
             "Một xấp dày những tờ tiền 5000 Yên",
-            "Khi các cô hầu gái Thỏ mở rộng buôn bán nhanh chóng",
+            "Khi các cô Thỏ Hầu Gái mở rộng buôn bán nhanh chóng",
             "lũ quái vật cũng bắt đầu giật ví của các mạo hiểm giả",
             "chỉ để trải nghiệm cái thứ gọi là 'mua sắm' này"
         ],
@@ -155,13 +155,13 @@
         "beIndependent": true,
         "subtitle": "",
         "description": [
-            "Một tấm bản đồ được các hầu gái thỏ sử dụng, vẫn còn dính vụn cà rốt.",
+            "Một tấm bản đồ được các Thỏ Hầu Gái sử dụng, vẫn còn dính vụn cà rốt.",
 			"Chúng đào những Hố Thỏ và di chuyển khắp nơi — gần như một đội shipper thực thụ.",
             "Kể từ khi người lãnh đạo quỷ quyệt và sắc sảo xuất hiện cách đây mười năm,",
-            "bầy thỏ đã chiếm lĩnh Vực Thẳm và bắt đầu giao thương với quái vật."
+            "bầy thỏ đã chiếm lĩnh Vực Sâu và bắt đầu giao thương với quái vật."
         ],
         "ability": [
-            "Cho phép bạn xem bản đồ Vực Thẳm và tất cả các vật thể có thể tương tác"
+            "Cho phép bạn xem bản đồ Vực Sâu và tất cả các vật thể có thể tương tác"
         ]
     },
     "14": {
@@ -172,7 +172,7 @@
         "subtitle": "",
         "description": [
             "Được cho là một bảo vật phương Đông, chế tác tinh xảo nhưng bị thất lạc",
-            "trong Vực Thẳm... Nó đóng băng cảnh vật thành hình ảnh, nhưng",
+            "trong Vực Sâu... Nó đóng băng cảnh vật thành hình ảnh, nhưng",
             "dễ bị ảnh hưởng bởi ma thuật, đôi khi chụp được những thứ kỳ lạ"
         ],
         "ability": [
@@ -484,7 +484,7 @@
     },
     "46": {
         "name": [
-            "The Fool (Gã Khờ)"
+            "Gã Khờ"
         ],
         "subtitle": [
             "\"Sự tò mò vô tận của một nhà phiêu lưu ngu ngốc\""
@@ -499,7 +499,7 @@
     },
     "48": {
         "name": [
-            "The High Priestess (Thánh Nữ Tối Cao)"
+            "Nữ Tư Tế Tối Cao"
         ],
         "subtitle": [
             "\"Mong ngươi nhận được ân sủng của nàng...\""
@@ -509,15 +509,15 @@
             "cũng có thể dễ dàng kích hoạt hiệu ứng."
         ],
         "ability": [
-            "Khi sử dụng, triệu hồi một cánh cổng dẫn đến Nhà Thờ Sa Ngã"
+            "Khi sử dụng, triệu hồi một cánh cổng dẫn đến Thánh Đường Sa Ngã"
         ]
     },
     "50": {
         "name": [
-            "The Emperor (Đế Vương)"
+            "Hoàng Đế"
         ],
         "subtitle": [
-            "\"Uy nghi của rồng, bất khả xâm phạm\""
+            "\"Uy nghiêm của rồng, bất khả xâm phạm\""
         ],
         "description": [
             "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
@@ -529,7 +529,7 @@
     },
     "52": {
         "name": [
-            "The Lovers (Tình Nhân)"
+            "Tình Nhân"
         ],
         "subtitle": [
             "\"Hương Thơm Lưu Luyến Của Phù Thủy\""
@@ -544,7 +544,7 @@
     },
     "53": {
         "name": [
-            "Chariot (Chiến Xa)"
+            "Chiến Xa"
         ],
         "subtitle": [
             "\"Sẵn sàng phục vụ! Chuyển Phát Địa Ngục!\""
@@ -559,7 +559,7 @@
     },
     "54": {
         "name": [
-            "Strength (Sức Mạnh)"
+            "Sức Mạnh"
         ],
         "subtitle": [
             "\"Giải phóng sức mạnh của Chiến Binh Thần Khổng Lồ\""
@@ -574,7 +574,7 @@
     },
     "56": {
         "name": [
-            "The Wheel of Fortune (Bánh Xe Vận Mệnh)"
+            "Bánh Xe Vận Mệnh"
         ],
         "subtitle": [
             "\"Roulette Cá Cược Linh Hồn\""
@@ -589,7 +589,7 @@
     },	
     "57": {
         "name": [
-            "Justice (Công Lý)"
+            "Công Lý"
         ],
         "subtitle": [
             "\"Tro về với tro, bụi về với bụi\""
@@ -604,7 +604,7 @@
     },
     "59": {
         "name": [
-            "Death (Tử Thần)"
+            "Tử Thần"
         ],
         "subtitle": [
             "\"Đích đến của mọi sinh mệnh là cái chết\""
@@ -619,10 +619,10 @@
     },
     "60": {
         "name": [
-            "Temperance (Hòa Hợp)"
+            "Hòa Hợp"
         ],
         "subtitle": [
-            "\"Chiếc Hộp Pandora của Vực Thẳm\""
+            "\"Chiếc Hộp Pandora của Vực Sâu\""
         ],
         "description": [
             "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
@@ -634,10 +634,10 @@
     },
     "62": {
         "name": [
-            "The Tower (Tòa Tháp)"
+            "Tòa Tháp"
         ],
         "subtitle": [
-            "\"Lời mời đến yến tiệc Vực Thẳm\""
+            "\"Lời mời đến yến tiệc Vực Sâu\""
         ],
         "description": [
             "Một lá bài ma thuật được truyền ma pháp. Thiết kế sao cho ngay cả người mới",
@@ -649,7 +649,7 @@
     },
     "63": {
         "name": [
-            "The Star (Vì Sao Hy vọng)"
+            "Ngôi Sao"
         ],
         "subtitle": [
             "\"Ngôi sao là ngọn hải đăng dẫn lối về nhà\""
@@ -659,12 +659,12 @@
             "cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
-			"Triệu hồi Cửa Sao gần người chơi để trở về điểm xuất phát"
+			"Triệu hồi Cửa Thiên Tinh gần người chơi để trở về điểm xuất phát"
         ]
     },
     "65": {
         "name": [
-            "The Sun (Thái Dương)"
+            "Mặt Trời"
         ],
         "subtitle": [
             "\"Tái sinh từ tro tàn\""
@@ -674,12 +674,12 @@
             "cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
-            "Khi sử dụng, ban Phép Lành của Phượng Hoàng"
+            "Khi sử dụng, ban phép lành của Hỏa Điểu"
         ]
     },
     "67": {
         "name": [
-            "The World (Thế Giới)"
+            "Thế Giới"
         ],
         "subtitle": [
             " \"Mời bạn đến với thế giới vườn mini bí ẩn...\""
@@ -768,8 +768,8 @@
         "beIndependent": true,
         "subtitle": "",
         "description": [
-            "Một sinh vật đồng hành của một Ác Quỷ nào đó. Thả nó ra",
-            "Thả nó ra sẽ tiết lộ vị trí của ác quỷ",
+            "Một sinh vật đồng hành của một ác ma nào đó. Thả nó ra",
+            "Thả nó ra sẽ tiết lộ vị trí của ác ma",
             "Rốt cuộc nó là mèo, một miếng sushi, hay là bánh pudding?",
             "Bất kể hình dạng thật sự là gì, trông nó vẫn rất ngon!"
         ],
@@ -777,7 +777,7 @@
     },
     "80": {
         "name": [
-            "Phong Ấn Quyển"
+            "Cuộn Phép Phong Ấn"
         ],
         "beIndependent": true,		
         "subtitle": "",		
@@ -901,7 +901,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Một loại rau phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Thẳm",
+            "Một loại rau phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Sâu",
             "Cần chuẩn bị đúng cách trước khi ăn"
         ],
         "ability": ""
@@ -912,7 +912,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Một loại rau phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Thẳm",
+            "Một loại rau phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Sâu",
             "Cần chuẩn bị đúng cách trước khi ăn"
         ],
         "ability": ""
@@ -923,7 +923,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Một loại quả phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Thẳm",
+            "Một loại quả phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Sâu",
             "Cần chuẩn bị đúng cách trước khi ăn"
         ],
         "ability": ""
@@ -934,7 +934,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Một loại rau phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Thẳm",
+            "Một loại rau phổ biến, nhưng thật lạ khi tìm thấy nó trong Vực Sâu",
             "Cần chuẩn bị đúng cách trước khi ăn"
         ],
         "ability": ""
@@ -1033,7 +1033,7 @@
         "subtitle": "",
         "description": [
             "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
-            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+            "Tuy nhiên, tìm thấy nó trong Vực Sâu là khá hiếm"
         ],
         "ability": ""
     },
@@ -1044,7 +1044,7 @@
         "subtitle": "",
         "description": [
             "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
-            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+            "Tuy nhiên, tìm thấy nó trong Vực Sâu là khá hiếm"
         ],
         "ability": ""
     },
@@ -1055,7 +1055,7 @@
         "subtitle": "",
         "description": [
             "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
-            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+            "Tuy nhiên, tìm thấy nó trong Vực Sâu là khá hiếm"
         ],
         "ability": ""
     },
@@ -1066,7 +1066,7 @@
         "subtitle": "",
         "description": [
             "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
-            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+            "Tuy nhiên, tìm thấy nó trong Vực Sâu là khá hiếm"
         ],
         "ability": ""
     },
@@ -1077,7 +1077,7 @@
         "subtitle": "",
         "description": [
             "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
-            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+            "Tuy nhiên, tìm thấy nó trong Vực Sâu là khá hiếm"
         ],
         "ability": ""
     },
@@ -1088,7 +1088,7 @@
         "subtitle": "",
         "description": [
             "Một loại nấm phổ biến thường thấy ngoài tự nhiên",
-            "Tuy nhiên, tìm thấy nó trong Vực Thẳm là khá hiếm"
+            "Tuy nhiên, tìm thấy nó trong Vực Sâu là khá hiếm"
         ],
         "ability": ""
     },
@@ -1141,7 +1141,7 @@
     },
     "132": {
         "name": [
-            "Cá Vẹt Nhật Bản"
+            "Cá Vẹt"
         ],
         "subtitle": "",
         "description": [
@@ -1256,7 +1256,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Một quả trứng khổng lồ từ Vực Thẳm. Đây là trứng của sinh vật gì?",
+            "Một quả trứng khổng lồ từ Vực Sâu. Đây là trứng của sinh vật gì?",
             "Tôi không suy nghĩ quá nhiều, trứng là trứng mà"
         ],
         "ability": ""
@@ -1283,20 +1283,20 @@
     },
     "185": {
         "name": [
-            "Personal Jesus"
+            "Sự Cứu Rỗi Cá Nhân"
         ],
         "beIndependent": true,
         "subtitle": [
-            "\"Dirty Deeds Done Dirt Cheap...\""
+            "\"Những việc dơ bẩn thật rẻ mạc...\""
         ],
         "description": [
-            "Một tạo vật tà ác do một Ác Quỷ chế tác sau khi quan sát",
+            "Một tạo vật tà ác do một Đại Ác Ma chế tác sau khi quan sát",
             "nền văn minh nhân loại. Mọi tội lỗi của kẻ mang theo đều được",
             "ghi chép trung thực và chuyển hóa thành điểm. Những điểm này sau đó",
-            "có thể dâng cho ác quỷ để đổi lấy các ân huệ tà dị—"
+            "có thể dâng cho ác ma để đổi lấy các ân huệ tà giáo—"
         ],
         "ability": [
-            "Ghi nhận tội lỗi thành điểm. Mở khóa Giao Dịch Ác Quỷ"
+            "Ghi nhận tội lỗi thành điểm. Mở khóa Giao Dịch Ma Quỷ"
         ]
     },
     "187": {
@@ -1944,6 +1944,832 @@
 		    "Bộ sưu tập đã hoàn chỉnh! Vận may tăng vĩnh viễn!"
 		]
     },
+    "240": {
+        "name": [
+            "Cơm cà ri"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },  
+    "241": {
+        "name": [
+            "Bánh táo"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "242": {
+        "name": [
+            "Táo nướng"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "243": {
+        "name": [
+            "Sò ốc xào"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "244": {
+        "name": [
+            "Cá nướng"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "245": {
+        "name": [
+            "Nấm xào thanh đạm"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "246": {
+        "name": [
+            "Thịt xiên nướng"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "247": {
+        "name": [
+            "Cơm nắm"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "248": {
+        "name": [
+            "Cơm cà ri sườn"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "249": {
+        "name": [
+            "Thịt ba chỉ kho"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "250": {
+        "name": [
+            "Canh thịt thái lát"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "251": {
+        "name": [
+            "Thịt nướng"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "252": {
+        "name": [
+            "Cơm nắm thịt cốt lết"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "253": {
+        "name": [
+            "Thạch Slime"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "254": {
+        "name": [
+            "Thạch hắc ám"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "255": {
+        "name": [
+            "Thạch hỏa diễm"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "256": {
+        "name": [
+            "Thạch cầu vòng?"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "257": {
+        "name": [
+            "Chuối nướng"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "258": {
+        "name": [
+            "Súp củ cải đỏ"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "259": {
+        "name": [
+            "Bạch tuộc xiên nướng"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "260": {
+        "name": [
+            "Salad rau trộn"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+        ""
+        ]
+    },
+    "261": {
+        "name": [
+            "Khoai tây nghiền"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "262": {
+        "name": [
+            "Canh củ cải nấm"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "263": {
+        "name": [
+            "Mì Ý"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "264": {
+        "name": [
+            "Mì Ý sốt cà chua"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "265": {
+        "name": [
+            "Mì Ý hải sản"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "266": {
+        "name": [
+            "Cơm cà ri trứng"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "267": {
+        "name": [
+            "Cơm trứng cuộn"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "268": {
+        "name": [
+            "Cơm trứng cuộn sốt cà chua"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "269": {
+        "name": [
+            "Cơm hầm hải sản"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "270": {
+        "name": [
+            "Nước Dứa"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "271": {
+        "name": [
+            "Món xào thập cẩm Okinawa"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "272": {
+        "name": [
+            "Xô gà rán"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "273": {
+        "name": [
+            "Đùi gà rán"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "274": {
+        "name": [
+            "Cơm nắm tempura"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "275": {
+        "name": [
+            "Tôm hùm nướng"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "276": {
+        "name": [
+            "Cua hấp"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "277": {
+        "name": [
+            "Đầu cá ngừ"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "278": {
+        "name": [
+            "Takoyaki"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "279": {
+        "name": [
+            "Hamburger bít tết"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "280": {
+        "name": [
+            "Khoai tây nghiền cay"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "281": {
+        "name": [
+            "Súp ớt cay"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "282": {
+        "name": [
+            "Kẹo dẻo thủy quái"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "283": {
+        "name": [
+            "Đá bào thủy quái"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "284": {
+        "name": [
+            "Kẹo dẻo thủy quái đỏ"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "285": {
+        "name": [
+            "Bánh kếp"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "286": {
+        "name": [
+            "Bánh kếp dâu tây"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "287": {
+        "name": [
+            "Canh cà chua"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "288": {
+        "name": [
+            "Dâu tây đã rửa sạch"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "289": {
+        "name": [
+            "Cơm nắm gà xông khói"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "290": {
+        "name": [
+            "Cơm cà ri gà"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "291": {
+        "name": [
+            "Xiên cà rốt nướng"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "292": {
+        "name": [
+            "Sushi cá Sacabambaspis"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "293": {
+        "name": [
+            "Sushi tôm cá Sacabambaspis"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "294": {
+        "name": [
+            "Sushi thịt cá Sacabambaspis"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "295": {
+        "name": [
+            "Vịt nướng dung nham"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "296": {
+        "name": [
+            "Cơm nắm cá mập"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "298": {
+        "name": [
+            "Ramen địa ngục"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "300": {
+        "name": [
+            "Mì ly nóng hổi"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
     "311": {
         "name": [
             "Lam Thạch Phát Sáng"
@@ -1987,7 +2813,7 @@
         "subtitle": "",
         "description": [
             "Một tờ biên lai phạt nhận được sau khi bị đánh ngay tại chỗ vì lấy hàng ",
-            "mà không xin phép. Đúng là tôi ra tay trước, nhưng sau khi bị cho một trận, ",
+            "mà không xin phép. Đúng là tôi ra tay trước, nhưng sau khi bị tẩn cho một trận, ",
             "một phần tiền trên người tôi cũng bị cưỡng ép lấy đi.",
             "Cách xử lý như vậy cảm giác khá là tàn bạo…"
         ],
@@ -2002,7 +2828,7 @@
             "Anh ta đã từ chối việc đặt tên theo mình vì nghe quá chuuni—\""
         ],
         "description": [
-            "Một loại quặng đặc biệt chỉ được tìm thấy ở những tầng sâu của Vực Thẳm.",
+            "Một loại quặng đặc biệt chỉ được tìm thấy ở những tầng sâu của Vực Sâu.",
             "Nó chứa nguồn ma lực bỏng rát, nhưng lại cứng một cách khác thường, ",
             "và chỉ có thể được khai thác cũng như gia công bằng những phương pháp nhất định."
         ],

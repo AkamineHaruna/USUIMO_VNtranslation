@@ -61,7 +61,7 @@
 		"Cái này thật sự ổn chứ?"
 	],
 	"11": [
-		"✦Một loại dầu gội hương trái cây mà \\str[120] rất thích.",
+		"✦Loại dầu gội hương trái cây mà \\str[120] rất thích.",
 		"Nó giúp tóc em ấy óng ả mượt mà như sunsilk,",
 		"nhưng lại hết quá nhanh.",
 		"Hiện tại còn lại:\\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%"
@@ -76,22 +76,22 @@
 		"Sở hữu nó sẽ biến bạn thành huyền thoại trong giới game thủ."
 	],
 	"14": [
-		"✦Một con búp bê được tặng cho \\str[120] bởi bố ",
+		"✦Một con búp bê được tặng cho \\str[120] bởi cha ",
 		"nhân dịp ngày sinh nhật. Em ấy cực kì trân trọng ",
 		"và luôn giữ nó bên mình."
 	],
 	"15": [
 		"\\fr\\fs[20]\\c[10]Ma Pháp Trận Thất Lạc",
 		"\\fs[22]\\i[16]???\\fr",
-		"✦Một Không Gian Khác Giới được tạo ra bởi ",
-		"một lá bài ma pháp thừa hưởng từ cha.",
+		"✦Một Không Gian Dị Giới được tạo ra bởi ",
+		"một lá bài ma thuật thừa hưởng từ cha.",
 		"Hoàn toàn không bị ảnh hưởng bởi thời gian, ",
 		"những vật phẩm cất giữ ở đây sẽ không bao giờ biến mất.",
-		"Ma pháp trận này cũng được kết nối với lối vào của ngôi nhà,",
-		"cho phép trở về một cách an toàn.",
+		"Ma pháp trận này cũng được kết nối với lối vào",
+		"của ngôi nhà, cho phép trở về một cách an toàn.",
 		"Việc đây có phải là sự sắp đặt có chủ ý của cha, ",
 		"để phòng trước cho việc đứa con mình lạc vào ",
-		"Vực Thẳm, giờ vẫn là điều không rõ.."
+		"Vực Sâu, giờ vẫn là điều không rõ.."
 	],
 	"16": [
 		"\\fr\\fs[28]\\c[114]Đại Mê Cung",

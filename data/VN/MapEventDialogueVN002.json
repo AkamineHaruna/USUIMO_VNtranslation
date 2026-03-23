@@ -13,25 +13,25 @@
         "2": [
             "Người đàn ông yếu ớt nằm trên giường, tấm chăn ",
             "phủ lên người run rẩy theo nhịp thở khó nhọc ",
-			"như thể tắt lịm bất cứ lúc nào.",
+			"như thể muốn tắt lịm bất cứ lúc nào.",
             " "
         ],
         "3": [
             "Dù chỉ là một cậu bé ngây thơ,",
-			"tôi cũng cảm nhận bản năng từ cơ thể gầy yếu ",
+			"tôi cũng cảm nhận được theo bản năng từ cơ thể gầy yếu ",
 			"và khuôn mặt tái nhợt ấy rằng, đây là hình ảnh ",
-			"khi một sinh mệnh sắp tàn."
+			"khi một sinh mệnh sắp tàn lụi."
         ],
         "4": [
             "\"Có lẽ kể từ bây giờ, con sẽ gặp rất nhiều khó khăn...\""
         ],
         "5": [
             "Giọng ông khàn khàn, yếu ớt, từng lời nói nghe như đang rút cạn ",
-			"sinh lực ít ỏi còn lại của ông ấy, tựa một tiếng nấc gượng gạo đầy ",
-			"đầy thống khổ bật ra từ cổ họng."
+			"sinh lực ít ỏi còn lại của ông ấy, tựa một tiếng nấc gượng gạo ",
+			"đầy sự thống khổ bật ra từ cổ họng."
         ],
         "6": [
-            "\"Ta biết điều này không phải điều mà một người cha nên nói...  \\w[30]",
+            "\"Ta biết điều này không phải là điều mà một người cha nên nói...  \\w[30]",
 			"nhưng ta vẫn hy vọng con có thể hứa với ta—\""
         ],
         "7": [
@@ -43,9 +43,9 @@
 			"tâm trí tôi hoàn toàn trở nên trống rỗng."
         ],
         "9": [
-            "Ah... đây là những lời quan trọng biết bao, ",
+            "Ah... đây là những lời dặn quan trọng biết bao, ",
 			"vậy mà tôi không thể tập trung chút nào,",
-			"chỉ có thể nhìn trân trân vào khuôn mặt cha mình ",
+			"chỉ có thể trân trân nhìn vào khuôn mặt cha mình ",
 			"khi ánh sáng dần tắt đi."
         ],	
         "10": [

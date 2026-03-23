@@ -11,7 +11,7 @@
             "những người chưa quen..."
         ],
         "ability": [
-            "Chiêu Senpo thay đổi thành rút đe ra để sửa chữa vũ khí",
+            "Kỹ năng Thiểm Bộ thay đổi thành rút đe ra để sửa chữa vũ khí",
             "Không thể sửa vũ khí ma pháp hoặc vũ khí có độ hiếm cấp Vàng"
         ]
     },
@@ -59,7 +59,7 @@
     },
     "6": {
         "name": [
-            "Khởi Nguyên Của Tai Ương"
+            "Khởi Nguồn Của Tai Ương"
         ],
         "subtitle": "",
         "description": [
@@ -103,7 +103,7 @@
     },
     "9": {
         "name": [
-            "Cụm Mana Vực Thẳm"
+            "Cụm Mana Vực Sâu"
         ],
         "subtitle": "",
         "description": [
@@ -171,7 +171,7 @@
             "được chứa đựng linh hồn của mèo. Khi trang bị sẽ tăng sự nhanh nhẹn của bạn!"
         ],
         "ability": [
-            "Tăng tốc độ tấn công và di chuyển, giảm thời gian hồi chiêu Senpo"
+            "Tăng tốc độ tấn công và di chuyển, giảm thời gian hồi kỹ năng Thiểm Bộ"
         ]
     },
     "14": {
@@ -339,13 +339,13 @@
     },
     "26": {
         "name": [
-            "Lông Vũ Phượng Hoàng"
+            "Lông Vũ Hoả Điểu"
 		],
 		"subtitle": [
 		    ""
 		],
         "description": [
-            "Một chiếc lông vũ của Phượng Hoàng.",
+            "Một chiếc lông vũ của Hoả Điểu.",
 			"Biểu tượng của sự sống vĩnh hằng, vẫn cháy rực với ngọn lửa ấm áp.",
 			"Chỉ một chiếc lông của nó cũng mang sức mạnh hồi sinh kẻ đã khuất."
 		],
@@ -387,7 +387,7 @@
     },
     "29": {
         "name": [
-            "Jacky Láu Cá"
+            "Jacky Nghịch Ngợm"
         ],
         "subtitle": [
             "\"Thứ này khao khát những tiếng gào thét...\""		
@@ -417,7 +417,7 @@
     },
     "31": {
         "name": [
-            "Vụ Dạ Huyễn Ảnh"
+            "Huyễn Ảnh Sương Đêm"
         ],
         "subtitle": [
             "\"Kẻ này chỉ khao khát được biến mất...\""
@@ -433,7 +433,7 @@
     },
     "32": {
         "name": [
-            "Mèo Quyền"
+            "Găng Tay Vuốt Mèo"
         ],
         "subtitle": "",
         "description": [
@@ -526,7 +526,7 @@
             "Thế nhưng, dù bụng đã đầy vàng, lòng tham của nó vẫn không có giới hạn"
         ],
         "ability": [
-            "Tỏa ra hào quang Mamon’s Demand. Số tiền hiện có: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0]yen!",
+            "Giải phóng hào quang chiếm đoạt của Mammon. Số tiền hiện có: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0]yen!",
             "Thu thập tiền vô tận, nhả ra lãi suất mỗi 10 giây"
         ]
     },
@@ -666,7 +666,7 @@
     },
     "48": {
         "name": [
-            "Khế Ước Xiềng Xích Chú Phược"
+            "Khế Ước Xiềng Xích"
         ],
         "subtitle": [
             "\"Khi người mà bạn yêu thương chết đi, bạn phải tự kết liễu chính mình.",
@@ -682,18 +682,18 @@
     },
     "49": {
         "name": [
-            "Xích Giác"
+            "Sừng Đỏ"
         ],
         "subtitle": [
             "\"Đừng bao giờ dừng lại！\""
         ],
         "description": [
-            "Một chiếc sừng đỏ thẫm chứa đầy ma lực của Thỏ Rừng",
+            "Một chiếc sừng đỏ thẫm chứa đầy ma lực của Jackalope",
 			"Nếu có thể cung cấp ma lực vô hạn, nó có thể liên tục tăng tốc ",
 			"cho đến khi trở thành một ngôi sao chổi lao vụt qua bầu trời!"
         ],
         "ability": [
-            "Khi nạp đầy, Senpo không có thời gian hồi và di chuyển nhanh hơn",
+            "Khi nạp đầy, Thiểm Bộ không có thời gian hồi và di chuyển nhanh hơn",
 			"Khi năng lượng cạn, nó sẽ tự động nạp lại"
         ]
     },
@@ -716,7 +716,7 @@
         ],
         "subtitle": "",
         "description": [
-            "Tương truyền đây là biểu tượng đến từ vực thẳm nơi bóng tối",
+            "Tương truyền đây là biểu tượng đến từ Vực Sâu nơi bóng tối",
             "đang lan rộng. Chỉ cần cầm nó, bạn sẽ có cảm giác như có thứ gì đó ",
 			"đang âm thầm quẫy động sau lưng mình—"
         ],
@@ -798,8 +798,7 @@
             "cảm xúc của định mệnh, bạn cũng kế thừa cấm thuật này! "
         ],
         "ability": [
-            "Thi triển tuyệt chiêu khi dùng đúng câu lệnh ",
-            "HP càng thấp, tuyệt chiêu càng mạnh"
+            "Mở khóa và cho phép sử dụng kỹ năng \\c[27]Bạo Lưu Vô Song"
         ]
     },
     "59": {
@@ -843,7 +842,7 @@
             "bị ám bởi vong linh khao khát được báo thù"
         ],
         "ability": [
-            "Tàn ảnh tạo ra bởi Senpo tồn tại lâu hơn",
+            "Tàn ảnh tạo ra bởi Thiểm Bộ tồn tại lâu hơn",
             "Những vật thể chạm vào chúng sẽ bị đóng băng tại chỗ"
         ]
     },
@@ -870,7 +869,7 @@
             "chứa đựng một linh hồn đầy thù hận, ban cho sự nhanh nhẹn như bóng ma"
         ],
         "ability": [
-            "Tăng tốc độ di chuyển, nhận trạng thái hư vô khi sử dụng Senpo"
+            "Tăng tốc độ di chuyển, nhận trạng thái hư vô khi sử dụng Thiểm Bộ"
         ]
     },
     "65": {
@@ -891,7 +890,7 @@
     },
     "67": {
         "name": [
-            "Hộ Thủ Võ Giả"
+            "Băng Tay Võ Sĩ"
         ],
         "subtitle": "",
         "description": [
@@ -913,12 +912,12 @@
             "kỹ năng, tỏa ra hào quang mạnh mẽ"
         ],
         "ability": [
-            "Tăng tốc độ di chuyển. Nâng cấp hiệu quả Senpo"
+            "Tăng tốc độ di chuyển. Nâng cấp hiệu quả Thiểm Bộ"
         ]
     },
     "69": {
         "name": [
-            "Huỷ Dung"
+            "Găng Tay Huỷ Dung"
 		],
 		"subtitle": [
 		    "\"Chết tiệt... Tao chỉ muốn đấm vào mặt ai đó thôi...!\""
@@ -982,8 +981,8 @@
         ],
         "subtitle": "",
         "description": [
-            "Một nhãn cầu lấy từ ác quỷ. Nó vẫn đang quan sát mọi thứ. ",
-            "Những ác quỷ tinh thông thao túng tâm trí thường sở hữu năng lực ",
+            "Một nhãn cầu lấy từ ác ma. Nó vẫn đang quan sát mọi thứ. ",
+            "Những ác ma tinh thông thao túng tâm trí thường sở hữu năng lực ",
             "nhìn xuyên thấu. Có lẽ nó cho phép bạn nhận ra những chi tiết ",
             "vốn dĩ sẽ bị bỏ sót..."
         ],
@@ -1001,7 +1000,7 @@
         "description": [
             "Một lời cầu nguyện được dâng lên bởi một Đại Ác Ma ám ảnh việc ăn cá hồi",
             "Nói rằng nó có thể bẻ cong thực tại thì có lẽ hơi cường điệu…",
-            "nhưng cô ấy thật sự, chân thành chờ đợi lễ vật được dâng tới"
+            "nhưng cô ấy thật sự chân thành chờ đợi lễ vật được dâng tới"
         ],
         "ability": [
             "Tăng xác suất nhận được \\ii[142] và \\ii[143]"
@@ -1126,7 +1125,7 @@
     },
     "131": {
         "name": [
-            "Thú Nhồi Bông Hình Thỏ"
+            "Thỏ Nhồi Bông"
         ],
         "subtitle": [
             "\"Waaah—! Đừng làm hỏng nó~~!\""
@@ -1238,13 +1237,13 @@
     },
     "296": {
         "name": [
-            "Búa Phép Thuật của Ruika"
+            "Búa May Mắn của Ruika"
         ],
         "subtitle": [
             "\"Hầu gái trưởng Ruika luôn dùng nó để gõ vào những chú thỏ không nghe lời.\""
         ],
         "description": [
-		    "Báu vật bí ẩn của các Hầu gái Thỏ, được cho là lý do nó bán chạy đến vậy.",
+		    "Báu vật bí ẩn của các Thỏ Hầu Gái, được cho là lý do nó bán chạy đến vậy.",
 			"Chỉ cần một cú vung nhẹ, nó có thể ban điều ước cho người cầm nó —",
 			"Các nhà mạo hiểm thường thấy nó tự sửa những cỗ máy bị mấy kẻ xấu làm hỏng."
         ],
@@ -1304,7 +1303,7 @@
     },
     "300": {
         "name": [
-            "Chất Xúc Tác Ái Tình"
+            "Ái Thần Dâng Trào"
         ],
         "subtitle": [
             "\"Hãy trao cho em tình yêu của anh—! Nếu không, hãy cùng chết đi~~~!\""

@@ -14,7 +14,7 @@
 		],
 		"1": [
             "Tìm thấy lửa trại...",
-			"bây giờ tôi nên làm gì?"
+			"bây giờ tôi nên làm gì đây?"
         ],
         "2": [
             "Nghỉ ngơi",
@@ -121,11 +121,11 @@
         ],
         "2": [
             "Thứ anh đang mang theo kia là...!",
-            "Chẳng lẽ anh cũng là fan của yuusha-sama sao!?"
+            "Chẳng lẽ anh cũng là fan của Yuusha-sama sao!?"
         ],
         "3": [
             "Một thanh kiếm gỗ có chất lượng cao như vậy",
-            "đâu phải dễ kiếm…..."
+            "đâu phải dễ tìm thấy…..."
         ],
         "4": [
 		    "Um—!",
@@ -199,7 +199,7 @@
         	"mà lại không có phần thưởng gì thì thật là thất lễ."
         ],
         "22": [
-          	"Xin hãy nhận lấy thứ này—đó là kỹ năng do chính tôi tự phát triển.",
+          	"Xin hãy nhận lấy thứ này, đó là kỹ năng do chính tôi tự phát triển.",
           	"Tôi chắc chắn nó sẽ rất hữu ích cho anh!"
         ],
         "23": [
@@ -231,7 +231,7 @@
 			"cảm hứng sáng tạo, thường hỏi các nhà thám hiểm",
 			"về những chuyến hành trình của họ ",
 			"và đổi lại sẽ cung cấp sự hỗ trợ về vật chất. ",
-			"Ngoài ra, họ dường như cũng rất am hiểu về Vực Thẳm—"
+			"Ngoài ra, họ dường như cũng rất am hiểu về Vực Sâu—"
 		],
         "1": [
 		    "……Ohhh! Cậu cũng đến đây để ",
@@ -271,7 +271,7 @@
         ],
         "10": [
     	    "Biết bao anh hùng và huyền thoại hội tụ tại nơi này,",
-    	    "và tôi phải tiếp tục thu thập cảm hứng cùng tư liệu."
+    	    "và tôi phải tiếp tục thu thập cảm hứng cùng với tư liệu."
         ],
         "11": [
     	    "Đã nói vậy rồi, nếu cậu không phiền,",
@@ -344,7 +344,7 @@
         ],
         "36": [
     	    "Với trình độ chiến đấu và trang bị hiện tại của cậu,",
-    	    "việc tiến sâu xuống Vực Thẳm sẽ không phải là một thử thách dễ dàng đâu."
+    	    "việc tiến sâu xuống Vực Sâu sẽ không phải là một thử thách dễ dàng đâu."
         ],
         "37": [
     	    "Tôi khuyên anh bạn nên chuẩn bị thêm vật tư,",
@@ -580,7 +580,7 @@
 		],	  
         "description": [
             "Có vẻ đây là một cỗ máy được vận hành và  ",
-			"quản lý bởi Hầu Gái Thỏ.",
+			"quản lý bởi Thỏ Hầu Gái.",
 			"Không ai thực sự rõ vì sao quái vật lại muốn bắt chước",
 			"con người và kinh doanh buôn bán, nhưng mọi người",
 			"dường như đã tự nhiên chấp nhận chuyện đó.",
@@ -591,7 +591,7 @@
 			"Một chai nước uống giá... \\c[6]\\v[86]\\c[0] yên."
         ],
         "2": [
-			"Mua một chai",
+			"Mua một cái",
 			"Không có gì"
         ],
         "3": [
@@ -614,10 +614,10 @@
 		    "Shione"
 		],	  
 		"subtitle": [
-		    "Nữ Tu Ác Quỷ của Nhà Thờ Sa Ngã"
+		    "Nữ Tu Ác Ma Của Thánh Đường Sa Ngã"
 		],
 		"bossName": [
-		    "Ác Quỷ Kiêu Hãnh"
+		    "Ác Ma Kiêu Hãnh"
 		],
 		"garble": true
     },
@@ -640,7 +640,7 @@
 		    "555"
 		],	  
         "description": [
-            "Một loài quái vật cấp cao được tiến hóa từ thỏ có sừng nai.",
+            "Một loài quái vật cấp cao được tiến hóa từ Thỏ Mọc Sừng.",
 			"Cặp sừng vừa là vũ khí, vừa là lõi dùng để tích trữ ma lực.",
 			"Khác với Thỏ Mọc Sừng thông thường, nó cực kỳ hung hãn,",
 			"khi bị kích động, toàn thân nó chuyển sang màu đỏ.",
@@ -680,13 +680,13 @@
     },
 	"22": {
 		"objectName": [
-			"\\c[116]Tháp Cuồng Tín"
+			"\\c[116]Kẻ Cuồng Tín Tòa Tháp"
 		],
 		"sentouryoku": [
 			"800"
 		],
 		"description": [
-			"Những kẻ cuồng tín hiến dâng cho sức mạnh Vực Thẳm ",
+			"Những kẻ cuồng tín hiến dâng cho sức mạnh Vực Sâu ",
 			"và lời nguyền của Tòa Tháp.",
 			"Chúng tin rằng nguồn lực không thể thuần phục ấy sẽ ",
 			"mang lại sự tái sinh cho thế giới, dù nó được xây dựng ",
@@ -695,7 +695,7 @@
   	},
   	"24": {
 		"objectName": [
-		    "\\c[114]Hầu Gái Thỏ"
+		    "\\c[114]Thỏ Hầu Gái"
 		],	  
 		"sentouryoku": [
 		    "?77"
@@ -735,25 +735,25 @@
   	},
 	"29": {
 		"objectName": [
-			"\\c[10]Sắc Dục Ma"
+			"\\c[10]Ác Ma Sắc Dục"
 		],
 		"subtitle": [
 			"Vẫn Đang Bị Trấn Áp"
 		],
 		"bossName": [
-			"Sắc Dục Ma"
+			"Ác Ma Sắc Dục"
 		],
 		"garble": true,
 		"sentouryoku": [
 			"6666"
 		],
 		"description": [
-			"Một Sắc Dục Ma được giải phóng khỏi Tòa Tháp, ",
-			"nhưng chân lực vẫn còn bị phong tỏa.",
+			"Một Ác Ma Sắc Dục được giải phóng khỏi Tòa Tháp, ",
+			"nhưng chân lực vẫn còn bị phong ấn.",
 			"Đáng ngạc nhiên là khá lịch thiệp và lắm lời ",
-			"đối với một ác ma cùng loại. Tuy nhiên, một khi bị khơi gợi, ",
-			"pháp khí nghi thức to lớn của nó sẽ để lại",
-			"vết sẹo tâm lý sâu sắc cho đối thủ."
+			"đối với một ác ma cùng loại. Tuy nhiên,  ",
+			"một khi bị khơi gợi, pháp khí nghi thức to lớn",
+			"của nó sẽ để lại vết sẹo tâm lý sâu sắc cho đối thủ."
 		]
   	},
   	"32": {
@@ -805,10 +805,10 @@
         "description": [
 		    "Một cửa hàng di động do hai cô nàng mèo điều hành.",
 		    "Họ xuất hiện một cách lộng lẫy khi mạo hiểm giả gọi.",
-		    "Hàng hóa chủ yếu là rác từ Vực Thẳm mà họ tìm được.",
+		    "Hàng hóa chủ yếu là rác từ Vực Sâu mà họ tìm được.",
 		    "Cẩn thận, giá có thể đắt cắt cổ.",
 		    "Khinh thường họ, là sẽ bị đánh...",
-		    "PS:\\c[2]Bị các Hầu Gái Thỏ đưa vào danh sách đen ",
+		    "PS:\\c[2]Bị nhóm Thỏ Hầu Gái đưa vào danh sách đen ",
 			"\\c[2]vì chèo kéo khách hàng của họ."
 		],
 		"1": [
@@ -833,16 +833,16 @@
     },
 	"47": {
 		"objectName": [
-			"\\c[114]Cánh Cửa Vì Sao"
+			"\\c[114]Cửa Thiên Tinh"
 		],
 		"sentouryoku": [
 			"1"
 		],
 		"description": [
-			"Một cánh cửa có thể đi qua được triệu hồi bởi Tarot Ngôi Sao.",
+			"Một cánh cửa được triệu hồi bởi Tarot Ngôi Sao.",
 			"Những vì sao được tin là sẽ dẫn lối người ta trở về nhà.",
-			"Bước qua cánh cửa này sẽ đưa lữ khách ",
-			"trở về một khu vực an toàn. Các mạo hiểm giả thường sử dụng nó ",
+			"Bước qua cánh cửa này sẽ đưa lữ khách trở về ",
+			"khu vực an toàn. Các mạo hiểm giả thường sử dụng nó ",
 			"để quay lại nghỉ ngơi, hoặc tạm thời rút lui ",
 			"khi tình hình trở nên bất lợi."
 		]
@@ -876,13 +876,13 @@
     },
 	"59": {
 		"objectName": [
-			"Thỏ Trắng Xứ Wonderland"
+			"Thỏ Trắng Xứ Sở Thần Tiên"
 		],
 		"subtitle": [
 			"Cư ngụ trong Khu Rừng Tàn Tích"
 		],
 		"bossName": [
-			"Thỏ Trắng Xứ Wonderland"
+			"Thỏ Trắng Xứ Sở Thần Tiên"
 		],
 		"sentouryoku": [
 			"???"
@@ -893,7 +893,7 @@
   	},	  
   	"65": {
 		"objectName": [
-		    "\\c[116]Chim Khổng Lồ"
+		    "\\c[116]Quái Điểu"
 		],	  
 		"sentouryoku": [
 		    "260"
@@ -906,7 +906,7 @@
     },	  
   	"66": {
 		"objectName": [
-		    "\\c[114]Slime Mèo Mướp Cam"
+		    "\\c[114]Slime Mèo Cam"
 		],	  
 		"sentouryoku": [
 		    "?10"
@@ -925,7 +925,7 @@
     },	  
   	"67": {
 		"objectName": [
-		    "\\c[114]Slime Mèo Sọc Tam Thể"
+		    "\\c[114]Slime Mèo Tam Thể"
 		],	  
 		"sentouryoku": [
 		    "?10"
@@ -944,7 +944,7 @@
     },	  
   	"68": {
 		"objectName": [
-		    "\\c[114]Slime Mèo Mướp Trắng"
+		    "\\c[114]Slime Mèo Mướp"
 		],	  
 		"sentouryoku": [
 		    "?10"
@@ -982,14 +982,14 @@
     },	  
   	"70": {
 		"objectName": [
-		    "Tiên Chuối"
+		    "Tiểu Tiên Chuối"
 		],	  
 		"sentouryoku": [
 		    "?10"
 		],	  
         "description": [
             "Một sinh vật...? có hình dáng giống quả chuối.",
-            "Được sinh ra từ sức ảnh hưởng của Vực Thẳm. ",
+            "Được sinh ra từ sức ảnh hưởng của Vực Sâu. ",
             "Nó hầu như không gây nguy hiểm cho mạo hiểm giả.",
             "Tuy nhiên, có tin đồn rằng nó có thể ",
 			"dễ dàng làm người ta bay vút đi..."
@@ -997,14 +997,14 @@
     },	  
   	"71": {
 		"objectName": [
-		    "Tiên Táo"
+		    "Tiểu Tiên Táo"
 		],	  
 		"sentouryoku": [
 		    "?10"
 		],	  
         "description": [
             "Một sinh vật...? có hình dáng giống quả táo.",
-            "Được sinh ra từ sức ảnh hưởng của Vực Thẳm. ",
+            "Được sinh ra từ sức ảnh hưởng của Vực Sâu. ",
             "Nó hầu như không gây nguy hiểm cho mạo hiểm giả.",
             "Tuy nhiên, có tin đồn rằng nó có thể ",
 			"dễ dàng làm người ta bay vút đi..."
@@ -1020,14 +1020,14 @@
         "description": [
             "Chi bị chặt của một pháp sư đã chết.",
 			"Không ai biết chủ nhân ban đầu đã trải qua gì,",
-			"Nhưng được truyền phép thuật necromancy, bàn tay này vẫn có thể cử động.",
-			"Mạo hiểm giả thường thấy nó đưa ra những cử chỉ rõ ràng ",
-			"khi tấn công."
+			"Nhưng được truyền vào ma thuật necromancy, ",
+			"bàn tay này vẫn có thể cử động. Mạo hiểm giả thường  ",
+			"thấy nó đưa ra những cử chỉ rõ ràng khi tấn công."
 		]	
     },	  
   	"73": {
 		"objectName": [
-		    "Thủy Linh"
+		    "Thủy Quái"
 		],	  
 		"sentouryoku": [
 		    "180"
@@ -1062,8 +1062,9 @@
 		    "400"
 		],	  
         "description": [
-            "Một sinh vật ma thuật sinh ra từ mối hận thù của linh hồn đã chết ",
-			"nhờ necromancy. Nó lang thang không ngừng trong các nghĩa trang, ",
+            "Một sinh vật ma thuật sinh ra từ mối hận thù ",
+			"của linh hồn đã chết nhờ necromancy.",
+			"Nó lang thang không ngừng trong các nghĩa trang,",
 			"nó có khả năng kháng các đòn tấn công vật lý cao ",
 			"và có thể phun ra ngọn lửa ma quái chết người."
 		]	
@@ -1091,7 +1092,7 @@
 		],	  
         "description": [
         	"Một quái phổ biến thường xuất hiện ở vùng ngoại ô ",
-        	"của Vực Thẳm. Nó biến đổi thành màu xanh do ",
+        	"của Vực Sâu. Nó biến đổi thành màu xanh do ",
        	    "thói quen ăn thực vật. Khi bị tiếp cận ",
         	"bất ngờ, nó sẽ trở nên kích động và bắt đầu ",
 			"phun chất nhầy ăn mòn."
@@ -1120,8 +1121,8 @@
 		],	  
         "description": [
             "Một con slime biến đổi chịu ảnh hưởng từ môi trường ",
-			"của nghĩa trang. Nó tấn công mạo hiểm giả một cách hung hăng ",
-			"như xác sống, trở nên độc ác hơn,  ",
+			"của nghĩa trang. Nó tấn công mạo hiểm giả một cách ",
+			"hung hăng như xác sống, trở nên độc ác hơn,  ",
 			"và hào quang tử thần bao quanh cơ thể.",
 			"Nó có thể lây nhiễm cho người khác khi tiếp xúc, ",
 			"gây tử vong ngay lập tức nếu không cẩn thận..."
@@ -1151,9 +1152,9 @@
 		],	  
         "description": [
             "Một con slime lấp lánh có thể phóng điện khắp cơ thể. ",
-			"Ngay cả các slime khác cũng không biết nó đã ",
-			"ăn gì để biến đổi như vậy. Nhưng trong trạng thái hiện tại, ",
-			"nó có thể phóng điện một cách tự do, việc tiếp cận là rất nguy hiểm..."
+			"Ngay cả các slime khác cũng không biết nó đã ăn gì ",
+			"để biến đổi như vậy. Nhưng trong trạng thái hiện tại, ",
+			"nó phóng điện một cách tự do, việc tiếp rất nguy hiểm..."
 		]	
     },	  
   	"92": {
@@ -1176,7 +1177,7 @@
 		    "\\c[10]Aki"
 		],		
 		"sentouryoku": [
-		    "\\c[10]Thật thô lỗ khi hỏi chỉ số của con gái đấy~♥"
+		    "\\c[10]Thật thô lỗ khi hỏi chỉ số của con gái đó nha~♥"
 		],	  
         "description": [
             "Trông có vẻ như một cô bé vô hại,",
@@ -1189,24 +1190,24 @@
 			"từ con người bằng bất cứ cách nào có thể..."
 		],
         "1": [
-            "Ôi~ Một vị khách đặc biệt~ Hehe~",
-			"Em có một số vật phẩm ngon đây, cứ từ từ xem nhé♥"
+            "Ôi~ Có một vị khách đặc biệt nè~ Hehe~",
+			"Em có một số vật phẩm ngon đây, cứ từ từ xem nhé♥ "
         ],
         "2": [
-            "Yaho~! Thật trùng hợp~ Rất vui được gặp lại anh~!",
-			"Có phải là định mệnh~? Hay cậu chỉ may mắn thôi~?"
+            "Yaho~! Trùng hợp thật đó~ Rất vui được gặp lại anh~!",
+			"Liệu đây có phải là định mệnh~? Hay anh chỉ may mắn thôi~?"
         ],
         "3": [
-		    "Hehe, dù sao cũng vậy~! Khi may mắn đang ở bên anh,",
-            "cẩn thận đấy—ai đó có thể cướp mất nó luôn đó♥"
+		    "Hehe, dù sao đi nữa~! Khi vận may đang đứng về phía anh,",
+            "tốt nhất nên cẩn thận đó—kẻo bị ai đó thừa cơ cướp mất đấy♥ "
         ],
         "4": [
-            "Cửa hàng của em đặc biệt lắm, biết không~",
+            "Cửa hàng của em đặc biệt lắm đó, biết không~",
 			"Em bán những thứ mà chỗ khác không có~"
         ],
         "5": [
 		    "Mhm~ Sao vậy? Mặt anh đỏ bừng rồi~ \\w[45]Hehe~ \\w[45]",
-            "Em đã làm anh bị mê hoặc rồi hay gì vậy? Anh dễ thương quá đấy~"
+            "Em khiến anh bị mê hoặc rồi hay sao thế? Anh dễ thương quá đấy~"
         ],
         "6": [
 		    "Những món này là...",
@@ -1218,18 +1219,18 @@
         ],
         "8": [
 		    "Tất nhiên~ Em có sẵn những món đó rồi♥",
-            "onii-san... anh quan tâm à~?"
+            "Onii-san... anh thấy hứng thú à~?"
         ],
         "9": [
 		    "Oh~ anh muốn biết thêm về em à?",
-            "Được thôi~ em chưa tự giới thiệu, phải không~"
+            "Được thôi~ em còn chưa tự giới thiệu mà nhỉ~"
         ],
         "10": [
-		    "Vậy thì, em là~ Đại Ác Ma từ",
-            "sâu trong Vực Thẳm! Tên là Aki~!"
+		    "Xin tự giới thiệu, em là~ Đại Ác Ma đến từ ",
+            "bên trong Vực Sâu! Tên là Aki~!"
         ],
         "11": [
-		    "Này! Đừng làm mặt sợ hãi thế chứ~",
+		    "Này! Đừng làm vẻ mặt sợ hãi thế chứ~",
             "Em chỉ đến để làm một ít giao dịch thôi~!"
         ],
         "12": [
@@ -1245,7 +1246,7 @@
             "Anh sẽ đưa cho em chứ♥"
         ],
         "15": [
-		    "(À, hóa ra là cá hồi trong túi của tôi",
+		    "(À, hóa ra là cá hồi trong túi của tôi ",
 			"đã dụ em ấy tới...)"
         ],
         "16": [
@@ -1265,11 +1266,11 @@
         ],
         "20": [
 		    "Hoh~    \\w[45]",
-			"Anh đang chống đối lại quý cô Aki à?"
+			"Anh đang chống đối lại quý cô Aki này à?"
         ],
         "21": [
 		    "Tsk tsk~ Thật là một cậu bé hư đốn~!",
-            "Em đoán phải trừng phạt anh thật xứng đáng♥"
+            "Em đoán phải trừng phạt anh thật xứng đáng♥ "
         ],
         "22": [
 		    "\\>\\c[10]《Nghi Lễ Hợp Đồng Ác Ma: Lời Nguyền tuyệt đối dành cho Con Người Thuần Khiết =",
@@ -1280,7 +1281,7 @@
 			"Anh đã bị nguyền rủa—"
         ],
         "24": [
-		    "Cá hồi nhiều quá♥ Anh thật ngọt ngào, onii-san~",
+		    "Cá hồi nhiều quá♥ Anh thật ngọt ngào, Onii-san~",
 			"Anh đang cố chiếm lấy trái tim em à~?"
         ],
         "25": [
@@ -1289,19 +1290,19 @@
         ],
         "26": [
 		    "Mang cái thứ đáng yêu này theo nhé~",
-			"Nếu muốn tìm em, anh chỉ cần gửi một tin nhắn~♥"
+			"Nếu muốn tìm em, anh chỉ cần gửi một tin nhắn~♥ "
         ],
         "27": [
 		    "Anh muốn mua món này à?",
-			"Được thôi~ Em sẽ bán cho Anh~!"
+			"Được thôi~ Em sẽ bán cho anh~!"
         ],
         "28": [
 		    "Ah! Nhưng anh biết đấy, em không quan tâm đến tiền đâu~",
-			"Với một con quỷ như em, mấy thứ đó hoàn toàn vô giá trị~"
+			"Với một Đại Ác Ma như em, mấy thứ đó hoàn toàn vô giá trị~"
         ],
         "29": [
-		    "Hmm, cơ bắp của anh cũng khá đấy,",
-			"Em chắc chắn anh có thể xử lý~!"
+		    "Hmm, cơ bắp của anh cũng khá đấy chứ,",
+			"Em nghĩ chắc chắn anh có thể xử lý được~!"
         ],
         "30": [
 		    "...Hehe, nếu anh muốn món này~!",
@@ -1312,7 +1313,7 @@
 			"Chắc không khó để anh bắt được vài con cá đâu nhỉ~?"
         ],
         "32": [
-		    "Nếu anh nghĩ vậy đã là xong, thì anh sai rồi~♥",
+		    "Nếu anh nghĩ vậy đã là xong, thì anh sai rồi~♥ ",
 			"Trừ khi anh thật sự hối lỗi, em sẽ không tha cho anh đâu!"
         ],
         "33": [
@@ -1321,43 +1322,43 @@
         ],
         "34": [
 		    "Ahaha♥ Phiền phức quá nhỉ~?",
-			"Chắc anh sẽ cực kỳ khó chịu nhỉ, onii-san♥"
+			"Chắc anh sẽ cực kỳ khó chịu đó nha, Onii-san♥ "
         ],
         "35": [
-		    "Aww~ Muốn van em để gỡ lời nguyền à~?",
-			"Làm sao bây giờ~♥"
+		    "Aww~ Muốn van xin em để gỡ lời nguyền à~?",
+			"Phải làm sao bây giờ đây ta~♥ "
         ],
         "36": [
 		    "Và nếu em nói không~? Thì anh sẽ làm gì~?",
 			"Aww, đừng làm mặt đó~ Không có hiệu quả đâu~"
         ],
         "37": [
-		    "Giờ thì em chỉ muốn bắt nạt anh nhiều hơn, onii-san♥",
-			"Không gỡ lời nguyền đâu~ Ahaha♥"
+		    "Giờ thì em chỉ muốn bắt nạt anh nhiều hơn nữa, Onii-san♥ ",
+			"Không gỡ lời nguyền đâu~ Ahaha♥ "
         ],
         "38": [
-		    "Wow, anh thực sự tuyệt vọng nhỉ? Thật là ZAKO♥",
-			"Cho em thấy sự hối lỗi của anh với lòng thành hơn đi~♥"
+		    "Wow, anh thực sự tuyệt vọng nhỉ? Thật là ZAKO♥ ",
+			"Cho em thấy sự hối lỗi của anh với lòng thành hơn đi~♥ "
         ],
         "39": [
-		    "(Nếu tôi muốn phá vỡ lời nguyền...",
-			"Chắc tôi phải thật sự phải đưa cho em ấy một ít cá...)"
+		    "(Nếu mình muốn phá vỡ lời nguyền...",
+			"Chắc mình phải thật sự phải đưa cho em ấy một ít cá...)"
         ],
         "40": [
-		    "Waa~! Cảm ơn anh nhiều",
-			"onii-san~♥"
+		    "Waa~! Cảm ơn anh nhiều nha~",
+			"Onii-san~♥ "
         ],
         "41": [
-		    "Cá hồi cho tôi nhiều quá♥ sluuurp♥",
-			"Ahh~ Thiên đường cá hồi♥"
+		    "Cá hồi cho em nhiều quá♥ sluuurp♥ ",
+			"Ahh~ Thiên đường cá hồi♥ "
         ],
         "42": [
 		    "Được rồi~! Lời nguyền đã được gỡ~!",
-			"Hy vọng chúng ta sẽ sớm gặp lại nhau, onii-san♥"
+			"Hy vọng chúng ta sẽ sớm gặp lại nhau, Onii-san♥ "
         ],
         "43": [
-			"Ôi cha~ Lâu rồi không gặp, onii-san~",
-			"Anh đến đúng lúc thật~♥"
+			"Ôi cha~ Lâu rồi không gặp, Onii-san~",
+			"Anh đến đúng lúc thật~♥ "
         ],
         "44": [
 		    "Anh có muốn thử món mới không?",
@@ -1365,7 +1366,7 @@
         ],
         "45": [
 		    "Hiệu quả gì à? Hehe~!",
-			"Nó sẽ làm cơ thể trở nên cực kỳ nhạy cảm♥"
+			"Nó sẽ làm cơ thể trở nên cực kỳ nhạy cảm đó♥ "
         ],
         "46": [
 		    "Nó không chỉ tác dụng với con người~",
@@ -1373,18 +1374,18 @@
         ],		
         "47": [
 		    "Vậy anh nghĩ sao? Chỉ với mười con cá hồi~?",
-			"Anh muốn mua không? Không à? Nhanh quyết định đi♥"
+			"Anh muốn mua không? Không à? Nhanh quyết định đi♥ "
         ],
         "48": [
-		    "Tôi sẽ mua!",
+		    "Anh sẽ mua!",
 			"Không mua..."
         ],
         "49": [
-		    "Thật sự, ZAKO onii-san, ngay cả não anh cũng thật ZAKO~?",
-			"Không thể kiếm được vài con cá... thật vô dụng♥"
+		    "Thật sự, ZAKO Onii-san, ngay cả não anh cũng thật ZAKO~?",
+			"Không thể kiếm được vài con cá... thật vô dụng♥ "
         ],
         "50": [
-		    "Không tiền, không cá hồi—thật là một onii-san yếu ớt, thảm hại~",
+		    "Không tiền, không cá hồi—thật là một Onii-san yếu ớt, thảm hại~",
 			"Không có gì ngạc nhiên khi anh vẫn độc thân và còn trinh~"
         ],
         "51": [
@@ -1393,7 +1394,7 @@
         ],
         "52": [
 		    "Tch~ Chán quá, nya~",
-			"Không thể tin được là anh đã bỏ lỡ một thứ tuyệt vời thế này♥"
+			"Không thể tin được là anh đã bỏ lỡ một thứ tuyệt vời thế này♥ "
         ],
         "53": [
 		    "Cảm ơn vì đã mua, nya~",
@@ -1401,35 +1402,35 @@
         ],
         "54": [
 		    "Tch~ Chán quá, nya~",
-			"Không thể tin được là anh đã bỏ lỡ một thứ tuyệt vời thế này♥"
+			"Không thể tin được là anh đã bỏ lỡ một thứ tuyệt vời thế này♥ "
         ],
         "55": [
-		    "Ah~ Ý em là, có lẽ sẽ không có gì xảy ra đâu♥",
+		    "Ah~ Ý em là, có lẽ sẽ không có gì xảy ra đâu♥ ",
 			"Nhưng onii-san này, anh trông cực kỳ yếu đấy~"
         ],
         "56": [
-		    "Vậy nên em nghĩ là phải cảnh nói với anh~",
+		    "Vậy nên em nghĩ là phải cảnh báo với anh~",
 			"Anh biết đấy, anh cũng có thể dùng lên chính mình mà~"
         ],
         "57": [
-		    "Và vâng, hiệu quả là làm cơ thể cực kỳ nhạy cảm♥",
-			"Vậy nên, tuyệt đối đừng thử trên chính mình, được không~?"
+		    "Và vâng, hiệu quả là làm cơ thể cực kỳ nhạy cảm♥ ",
+			"Vậy nên, tuyệt đối đừng dùng thử lên chính mình nhé~?"
         ],
         "58": [
 		    "Đợi đã, anh thật sự muốn thử à?",
-			"Onii-san, anh đúng là một kẻ khổ dâm tuyệt vọng nhỉ♥"
+			"Onii-san, anh đúng là một kẻ khổ dâm tuyệt vọng nhỉ♥ "
         ],
         "59": [
 		    "Đùa thôi~♥ Vậy thì,",
-			"lần sau ghé thăm tiệm em tiếp nhé~♥"
+			"lần sau ghé thăm tiệm em tiếp nhé~♥ "
         ],
         "60": [
 		    "Tiếc quá~ Hàng đã hết rồi ư~?",
-			"Trời ơi, onii-san, anh thực sự tuyệt vọng nhỉ♥"
+			"Trời ơi, Onii-san, anh thực sự tuyệt vọng nhỉ♥ "
         ],
         "61": [
 		    "Nếu muốn nhiều hơn, phải đợi lần sau~",
-			"Nhưng nếu anh mang cá hồi, em có thể ngoại lệ cho anh♥"
+			"Nhưng nếu anh mang cá hồi, em có thể ngoại lệ cho anh đó♥ "
         ],
         "62": [
 			"Ôi trời♥ Anh muốn nhiều hơn ư? Thật tham quá~!",
@@ -1437,22 +1438,22 @@
         ],
         "63": [
 		    "Whoaaa—♥ Cá hồi chất lượng cao—!",
-			"Anh nên đưa cái này ra sớm hơn~"
+			"Anh nên đưa cái này ra sớm hơn chứ~"
         ],
         "64": [
 		    "Nếu là loại đó~",
-			"Chỉ đưa cho em một con và em sẽ bán cho anh~♥"
+			"Chỉ đưa cho em một con và em sẽ bán cho anh~♥ "
         ],
 		"65": [
 			"Hehe~ tìm gì đó để xem vào đêm khuya à~?",
-			"Chọn đúng lúc ghê đó… onii-san đang mong chờ thứ mặn nồng cỡ nào đây~?"
+			"Chọn đúng lúc ghê đó… Onii-san đang mong chờ thứ mặn nồng cỡ nào đây~?"
 		],
 		"66": [
-			"Muốn xem cùng Imouto sao~? onii-san, ",
+			"Muốn xem cùng với em gái sao~? Onii-san, ",
 			"càng ngày càng khả nghi đó nha~? ♥"
 		],
 		"67": [
-			"Nhưng onii-san may mắn lắm đó~",
+			"Nhưng Onii-san may mắn lắm đó~",
 			"Trùng hợp là em vừa có đúng thứ như vậy ngay đây~"
 		],
 		"68": [
@@ -1461,10 +1462,10 @@
 		],
 		"69": [
 			"Nhưng không phải loại cá hồi thường ngày nhàm chán đâu~",
-			"Em muốn loại cao cấp hơn cơ ♥"
+			"Em muốn loại cao cấp hơn cơ ♥ "
 		],
 		"70": [
-			"Gì cơ~? onii-san đúng là ZAKO~",
+			"Gì cơ~? Onii-san đúng là ZAKO mà~",
 			"Đến cả cá hồi hạng sang cũng không kiếm nổi sao?"
 		],
 		"71": [
@@ -1473,9 +1474,9 @@
 		],
 		"72": [
 			"Thôi được rồi, ",
-			"em sẽ giúp onii-san một chút ♥",
-			"Như vậy… chắc sẽ dễ ",
-			"bắt cá hơn, đúng không~?"
+			"em sẽ giúp Onii-san một chút vậy♥ ",
+			"Như vậy thì… chắc sẽ dễ ",
+			"bắt cá hơn rồi đúng không nào~?"
 		],
 		"73": [
 			"Ooh~~!",
@@ -1483,15 +1484,15 @@
 		],
 		"74": [
 			"Ây da~ onii-san cũng không đến nỗi vô dụng~",
-			"Bắt được cá hồi chất lượng cao thế này cơ mà ♥"
+			"Bắt được cá hồi chất lượng cao thế này cơ mà♥ "
 		],
 		"75": [
-			"Được rồi ♥ Đây, thứ em đã hứa đây~",
+			"Được rồi♥ Đây, thứ em đã hứa đây~",
 			"Nhớ tận hưởng cho đàng hoàng đó, onii-san~"
 		],
 		"76": [
-			"Dù có em giúp rồi~",
-			"onii-san vẫn thảm hại ghê đó~"
+			"Dù em đã giúp anh rồi~",
+			"Onii-san vẫn thảm hại ghê đó~"
 		]
     },
   	"98": {
@@ -1535,8 +1536,8 @@
             "Đổi bằng cá"
         ],
         "7": [
-		    "Nhưng... Tôi không có ",
-            "nhiều tiền như vậy..."
+		    "Nhưng... Mình không có ",
+            "nhiều tiền đến vậy..."
         ],
         "8": [
 		    "Đúng rồi, đúng rồi~♥",
@@ -1545,7 +1546,7 @@
     },	  
   	"101": {
 		"objectName": [
-		    "\\c[116]Hồng Thú Non"
+		    "\\c[116]Tiểu Quái Đỏ"
 		],	  
 		"sentouryoku": [
 		    "380"
@@ -1566,11 +1567,11 @@
 		    "???"
 		],	  
         "description": [
-            "Ngay cả ở Vực Thẳm chết chóc, việc xả rác cũng không hay.",
-			"Dù sao, bất cứ thứ gì bạn ném đi sẽ biến mất vào ngày hôm sau...",
-			"Cảm giác như có ai đó đang dọn dẹp.",
-			"Nhưng cẩn thận, đừng nên ném đồ dễ cháy vào.",
-			"Đối xử với nó một cách thô bạo, ",
+            "Ngay cả ở Vực Sâu chết chóc, việc xả rác ",
+			"cũng không hay đâu. Dù sao, bất cứ thứ gì bạn ném đi",
+			"đều biến mất vào ngày hôm sau... Cảm giác như có ai đó",
+			"đang dọn dẹp. Nhưng cẩn thận, đừng nên ném đồ",
+			"dễ cháy vào. Đối xử với nó một cách thô bạo, ",
 			"và bạn có thể kích hoạt điều gì đó cục kì khó chịu."
 		],
 		"1": [
@@ -1678,8 +1679,8 @@
 		    "50"
 		],	  
         "description": [
-            "Một con thỏ hoang bị biến đổi bởi sự ô nhiễm của ma thuật—",
-			"cái sừng trên đầu là dấu hiệu của sự thay đổi này.",
+            "Một con thỏ hoang bị biến đổi do sự ô nhiễm ma thuật.",
+			"Cái sừng trên đầu là dấu hiệu của sự thay đổi này.",
 			"Tuy nhiên, nó vẫn đang trong giai đoạn phát triển ",
 			"và không quá nguy hiểm.",
 			"Ngoài ra, thịt của nó vẫn mềm và ngon."
@@ -1687,7 +1688,7 @@
     },	  
   	"115": {
 		"objectName": [
-		    "\\c[115]Slime Lửa"
+		    "\\c[115]Slime Hỏa"
 		],	  
 		"sentouryoku": [
 		    "620"

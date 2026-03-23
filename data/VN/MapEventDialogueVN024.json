@@ -40,7 +40,7 @@
 		],
 		"11": [
 			"\\nl< >\"Xin lỗi nhé, \\str[121]...    \\w[60]",
-			"Em lại để anh đến nơi nguy hiểm đó nữa rồi—\""
+			"Em lại phải để anh đến nơi nguy hiểm đó nữa rồi—\""
 		],
 		"12": [
 			"\"Lại thế nữa! Đừng lo, không sao đâu mà.\""
@@ -51,7 +51,7 @@
 		"14": [
 			"\"Anh đã khám phá nơi đó nhiều lần rồi,",
 			"mà suốt bao năm qua mê cung đó vẫn luôn ổn định, ",
-			"nên không sao đâu.\""
+			"nên là không sao đâu.\""
 		],
 		"15": [
 			"\"Ừ... nhớ ngoan ngoãn trông nhà nhé?\""
@@ -63,7 +63,7 @@
 			"Ừ. \\str[120]... em ấy mắc phải một căn bệnh kỳ lạ."
 		],
 		"18": [
-			"Em ấy không thể ra ngoài, cũng như không được tiếp xúc ánh nắng. ",
+			"Em ấy không thể ra ngoài, cũng như không được tiếp xúc với ánh nắng. ",
 			"Và nếu không uống đều đặn loại thuốc giả kim đặc chế, ",
 			"tình trạng của em sẽ trở nên tệ hơn..."
 		],
@@ -73,7 +73,7 @@
 			"Nơi duy nhất còn có thể tìm được chúng chính là chỗ đó—"
 		],
 		"20": [
-			"Vậy nên, là người thân của em, dù phải đi bao nhiêu lần đi nữa, ",
+			"Vậy nên, là người thân của em ấy, dù phải đi bao nhiêu lần đi nữa, ",
 			"tôi nhất định phải bước vào nơi đó để tìm ra cách ",
 			"chữa khỏi hoàn toàn cho \\str[120]."
 		]
@@ -159,7 +159,7 @@
 			"chẳng hứng thú với thứ gì khác..."
 		],
 		"23": [
-			"\\nl< >\"Mừng anh về nhà,       \\w[45]\\^"
+			"\\nl< >\"Mừng anh về nhà...       \\w[45]\\^"
 		],
 		"24": [
 			"\\nl< >\"\\{Ugh, ghê quá!         \\}\\w[20]",
@@ -170,7 +170,7 @@
 		],
 		"26": [
 			"\\nl< >\"\\str[121], anh nồng nặc mùi thúi luôn đó!   \\w[90]",
-			"Đừng lại gần em...               \\w[90]",
+			"Đừng có mà lại gần em...               \\w[90]",
 			"Đi tắm ngay đi!           \\w[150]\\^"
 		],
 		"27": [
@@ -200,7 +200,7 @@
 			"rồi mới nghĩ đến chuyện chinh phục nó..."
 		],
 		"3": [
-			"\\nl< >\"Mừng anh về nhà,    \\w[60]\\^"
+			"\\nl< >\"Mừng anh về nhà...    \\w[60]\\^"
 		],
 		"4": [
 			"\\nl< >\"\\str[121]!?"
@@ -210,7 +210,7 @@
 			"Người anh toàn vết thương kìa...!\""
 		],
 		"6": [
-			"\"Ahaha... Anh hơi chày cối quá ấy mà,",
+			"\"Ahaha... Anh có hơi ép bản thân quá sức ấy mà,",
 			"rồi cuối cùng lại thất bại...\""
 		],
 		"7": [
@@ -234,7 +234,7 @@
 		],
 		"12": [
 			"\\nl< >\"Giờ thì \\str[121], anh cứ nghỉ ngơi đi!",
-			"Để bữa tối cho em lo!\""
+			"Để bữa tối cho em lo cho!\""
 		],
 		"13": [
 			"\"Ừ... được thôi...\""
@@ -261,7 +261,7 @@
 			"hãy để em chăm sóc cho anh nhé, \\str[121]!\""
 		],
 		"20": [
-			"Không biết có phải do mình nghĩ nhiều, ",
+			"Không biết có phải do mình nghĩ nhiều không, ",
 			"mà trông \\str[120] lại càng phấn khởi hơn thường lệ..."
 		]
 	},
@@ -269,10 +269,10 @@
 		"0": [
 			"Cảm giác ấm áp trong tay khiến tôi chợt nhận ra rằng. ",
 			"Tôi đã thực sự có được loại thuốc mà mình tìm kiếm bấy lâu nay. ",
-			"Thế nhưng, mọi thứ diễn ra ra như giấc mơ khiến lòng tôi bất an."
+			"Thế nhưng, mọi thứ diễn ra như một giấc mơ khiến lòng tôi bất an."
 		],
 		"1": [
-			"Lá bài The Star ở lối vào đã phát tín hiệu kết nối.",
+			"Lá bài Ngôi Sao ở lối vào đã phát ra tín hiệu kết nối.",
 			"Đó là một trong những vật kỷ niệm mà cha để lại.",
 			"Dù ông đã dành cả đời để nghiên cứu phương pháp chữa trị cho \\str[120],",
 			"nhưng tại sao bây giờ nó lại dễ dàng phản ứng đến thế…?"
@@ -298,7 +298,7 @@
 		],
 		"7": [
 			"Tôi nhẹ nhàng xoa đầu \\str[120] và an ủi em ấy một chút. ",
-			"Được rồi—mình nên làm gì tiếp theo nhỉ?"
+			"Được rồi, mình nên làm gì tiếp theo nhỉ?"
 		],
 		"8": [
 			"Chuẩn bị bữa tối",
@@ -311,7 +311,7 @@
 			"\"Em muốn ăn gì cho bữa tối nay?\""
 		],
 		"11": [
-			"\\nl< >\\{\"Cứ có thịt là được!\""
+			"\\nl< >\\{\"Miễn có thịt là được!\""
 		],
 		"12": [
 			"Hmm… đúng như mình nghĩ…",
@@ -319,7 +319,7 @@
 			"hiểu tầm quan trọng của việc ăn uống cân bằng rồi."
 		],
 		"13": [
-			"Ugh, tôi hơi muốn đi vệ sinh…"
+			"Ugh, mình hơi muốn đi vệ sinh…"
 		],
 		"14": [
 			"\"Xin lỗi, đợi lát nữa, anh sẽ chuẩn bị bữa tối sau nha.\""
@@ -379,7 +379,7 @@
 			"nên giờ em chưa thể nói cho anh biết được đâu…\""
 		],
 		"12": [
-			"Tôi chỉ nói đùa một chút thôi, thế mà\\str[120] lại có vẻ ",
+			"Tôi chỉ nói đùa một chút thôi, thế mà \\str[120] lại có vẻ ",
 			"đang thật sự suy nghĩ nghiêm túc về phần thưởng đặc biệt. ",
 			"Nhìn em ấy như thế, tự nhiên mình lại thấy động lực hẳn lên!"
 		],
@@ -401,7 +401,7 @@
 		"17": [
 			"\\nl< >\"Thế nên, hãy xem đây như là phần thưởng để anh được ",
 			"thoải mái tận hưởng cùng em nhé!\"",
-			"Bất cứ điều gì anh muốn cũng được — miễn là giúp anh thư giãn thật tốt!\""
+			"Bất cứ điều gì anh muốn cũng được—miễn là giúp anh thư giãn thật tốt!\""
 		],
 		"18": [
 			"\\nl< >\"Eh!?     \\w[30]",
@@ -451,7 +451,7 @@
 		"7": [
 			"Tôi hoảng hốt quay đi, vội vàng đóng sầm cửa lại. ",
 			"Làn da của \\str[120] không chịu được khi tiếp xúc với ánh nắng quá lâu. ",
-			"Chẳng lẽ em ấy phấn khích đến mức quên cả điểm yếu của mình rồi sao!?"
+			"Chẳng lẽ em ấy phấn khích đến mức quên cả điểm yếu của mình rồi à!?"
 		],
 		"8": [
 			"\\nl< >\"Đã thay đồ xong—!\""
@@ -510,7 +510,7 @@
 			"\\w[40]\\^"
 		],
 		"7": [
-			"\\nl< >\"\\str[121], người anh nóng hầm hập luôn...!\""
+			"\\nl< >\"\\str[121], người anh nóng hầm hập luôn kìa...!\""
 		],
 		"8": [
 			"Nhìn xuống cơ thể mình vẫn còn bốc hơi,",
@@ -561,7 +561,7 @@
 			"\\{\"Anh về rồi đâyー!\""
 		],
 		"21": [
-			"Mình cất tiếng gọi và",
+			"Tôi cất tiếng gọi và",
 			"chẳng bao lâu sau đã nghe thấy ",
 			"tiếng bước chân vội vã chạy xuống cầu thang."
 		],

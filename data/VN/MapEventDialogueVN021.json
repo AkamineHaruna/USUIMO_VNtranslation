@@ -8,7 +8,7 @@
 			"Có lẽ bữa tối vừa rồi ăn hơi nhiều..."
         ],
         "2": [
-            "Ah, tôi bỗng tỉnh dậy...!"
+            "Ah, tôi bỗng nhiên tỉnh dậy...!"
         ],
 		"3": [
             "Vẫn còn giữa đêm.",
@@ -20,7 +20,7 @@
 			"Đi ngủ"
         ],
 		"5": [
-            "Ngủ đến sáng luôn sao...?"
+            "Ngủ đến sáng luôn à...?"
         ],	
 		"6": [
             "Ngủ",
@@ -30,7 +30,7 @@
             "\"Ahhhhhhhhhhh—!!?\""
         ],
 		"8": [
-            "C-Cái quái gì thế? À, ra chỉ là một cơn ác mộng..."
+            "C-Cái quái gì thế? Hở, ra chỉ là một cơn ác mộng à..."
         ],
 		"9": [
             "Nó làm tôi giật mình... ",
@@ -62,10 +62,10 @@
         ],
         "3": [
             "...Đã sáng rồi sao? ",
-			"Mình có cảm giác ngủ không thoải mái lắm..."
+			"Mình có cảm giác ngủ không được thoải mái lắm..."
         ],
         "4": [
-            "Ah, đã sáng rồi sao? Tôi ngủ cực kì ngon."
+            "Ah, đã sáng rồi sao? Tôi ngủ cực kì ngon giấc."
         ],
         "5": [
             "Hôm nay trời đẹp quá...\\w[45]nhỉ? ",
@@ -82,8 +82,8 @@
 			"Hi vọng nó không ảnh hưởng đến chuyến phiêu lưu của mình..."
         ],
         "9": [
-            "Mấy ngày nay chưa đi kiểm tra \\str[120]... ",
-			"Chắc hôm nay nên ghé qua."
+            "Mấy ngày nay mình chưa đi kiểm tra \\str[120]... ",
+			"Chắc hôm nay nên ghé qua xem sao."
         ],
         "10": [
             "Được rồi, dậy thôi. Kế hoạch hôm nay là—"

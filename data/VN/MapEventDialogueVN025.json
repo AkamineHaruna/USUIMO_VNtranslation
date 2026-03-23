@@ -65,10 +65,10 @@
             "\\nl< >\"Thật đáng ngờ...\""
 		],
         "19": [
-            "\\nl< >\"Anh chậm quá, \\str[121]! Anh bị táo bón à?!\""
+            "\\nl< >\"Chậm quá, \\str[121]! Anh bị táo bón à?!\""
 		],
         "20": [
-            "\"Ahaha... không thể nào...\""
+            "\"Ahaha... không phải đâu...\""
 		],
         "21": [
             "\"Em đói rồi đúng không? ",
@@ -77,7 +77,7 @@
     },
     "3": {
         "0": [
-            "\\nl< >\"\\str[121]... Anh vẫn còn ở đó, phải không?\""
+            "\\nl< >\"\\str[121]... Anh vẫn còn ở đó phải không?\""
 		],
         "1": [
             "\\nl< >\"Côn trùng thật đáng sợ, ",
@@ -332,7 +332,7 @@
 			"Nó cứ không dừng lại được..."
         ],
         "9": [
-            "\\nl< >\"\\str[121]... anh vẫn còn ở đó à?\""
+            "\\nl< >\"\\str[121]... anh vẫn còn ở trong đó à?\""
         ],
         "10": [
             "\\nl< >\"U-um... thực ra...",
@@ -376,16 +376,16 @@
         "20": [
             "Đôi khi trầm như con quái thú sắp chết,",
 			"đôi khi chói tai như tiếng thét của một cô gái nhút nhát,",
-			"chúng hòa vào một bản giao hưởng hỗn loạn",
+			"chúng hòa tan vào tạo ra một bản giao hưởng hỗn loạn",
 			"và mơ hồ."
         ],	
         "21": [
             "Trong khi đó, sâu vào màn đêm khuya xa xôi,",
 			"ngay cả những mạo hiểm giả vẫn chiến đấu ở ",
-			"tận rìa vực thẳm cũng cảm thấy rùng mình.",
+			"tận rìa Vực Sâu cũng cảm thấy rùng mình.",
 			"Bản năng khiến họ tạm dừng tay cầm kiếm,",
 			"giao nhau ánh mắt, thoáng chốc tự hỏi liệu đâu đó",
-			"trong bóng tối, một sinh vật vực thẳm mới ",
+			"trong bóng tối, một sinh vật Vực Sâu mới ",
 			"chưa ai từng biết vừa được sinh ra."
         ]
     }

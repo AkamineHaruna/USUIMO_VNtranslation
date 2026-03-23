@@ -23,7 +23,7 @@
             "\\nl< >\"Mmm... hmm...\""
         ],
         "5": [
-            "\"Sáng rồi. Em có dậy nổi không?\""
+            "\"Đã sáng rồi đó. Em có dậy nổi không?\""
         ],	
         "6": [
             "Vì tình trạng sức khỏe, \\str[120] luôn gặp ",
@@ -31,8 +31,8 @@
 			"có lẽ mình không nên ép em quá...?"
         ],	
         "7": [
-            "Tiếp tục thử",
-			"Để em ngủ tiếp"
+            "Tiếp tục thử ",
+			"Để em ấy ngủ tiếp "
         ],	
         "8": [
             "\\nl< >\"Mnyaa...\"",
@@ -40,9 +40,9 @@
 			"\\nl< >\"Mmm... mmhm...\""
         ],
         "9": [
-            "Em chỉ lẩm bẩm vài tiếng rồi tiếp tục ngủ.",
+            "Em ấy chỉ lẩm bẩm vài tiếng rồi tiếp tục ngủ.",
 			"Chuyện này không thể vội vàng được. ",
-			"Tốt hơn hết là để em ngủ thêm một chút..."
+			"Tốt hơn hết là để em ấy ngủ thêm một chút..."
         ],	
         "10": [
             "Tôi nhẹ nhàng xoa đầu em ấy."
@@ -121,26 +121,26 @@
 		],
         "1": [
     		"Không biết anime gì mà em ấy mê mệt đến vậy...?",
-			"Vì ban ngày tôi chẳng bao giờ ở nhà, nên cũng không rõ",
-   		    "em thường xem gì. Nhưng thấy em ấy hào hứng như thế",
+			"Vì ban ngày tôi chẳng bao giờ ở nhà, nên cũng không rõ ",
+   		    "em ấy thường xem gì. Nhưng thấy em ấy hào hứng như thế ",
     		"thì cũng tò mò, thế là tôi ngồi xuống sofa và nhìn lên TV."
 		],
         "2": [
             "\\{\\c[27]“Ruby Cô Gái Phép Thuật Ánh Sao!”",
 			"Tập 1! ",
 			"Một Cô Gái Bình Thường và Phép Màu Từ Những Vì Sao! ",
-			"Hợp Đồng Bắt Đầu!"
+			"Khế Ước Bắt Đầu!"
 		],		
         "3": [
-            "\\c[27]Ruby chỉ là một cô gái bình thường, học hành thì làng nhàng, ",
-			"thể thao thì tệ, và chẳng có chút tài năng phép thuật nào—",
-            "nhưng một ngày nọ, trên đường về nhà, cô bị một con quái vật truy đuổi và rơi vào đường cùng!",
-            "Trong khoảnh khắc tuyệt vọng ấy, tinh linh sao bí ẩn 'Noa' xuất hiện, ",
-			"thức tỉnh bởi ý chí sống còn của cô! 'Mình muốn sống!' Ruby hét lên—và ngay lúc đó, "
+            "\\c[27]Ruby là một cô gái hết sức bình thường—học lực trung bình, thể thao thì tệ, ",
+			"và chẳng có chút tài năng phép thuật nào. Nhưng rồi một ngày nọ trên đường đi học về,",
+            "cô bị quái vật truy đuổi và dồn vào đường cùng! Ngay trong khoảnh khắc tuyệt vọng ấy,",
+            "tinh linh sao thần bí mang tên 'Noa' xuất hiện, thức tỉnh bởi ý chí muốn sống của cô! ",
+			"\\c[27]'Tôi muốn sống!' Ruby cất tiếng kêu lên, và ngay trong giây phút đó."
 
 		],	  
         "4": [
-            "\\c[27]ánh sao bùng nổ, hợp đồng định mệnh được ký kết!",
+            "\\c[27]Ánh sao bùng nổ, khế ước định mệnh được ký kết!",
 			"Màn biến hình đầu tiên! Theo bản năng, Ruby phản kháng và đánh bại con quái vật!",
 			"Nhìn đôi tay mình phát sáng trong ánh sao, ",
 			"Ruby sững sờ: 'Đây... là mình sao?'"
@@ -149,7 +149,7 @@
             "\\nl< >\"Cô ấy biến hình rồi! Thật tuyệt quá—! ",
 			"Với cả Noa dễ thương ghê! Ánh sao đẹp thật đó!   \\w[120]",
 			"Nhìn đi, \\str[121]! Ruby-chan trước giờ chẳng làm được gì cả!",
-			"Nhưng cuối cùng lại được chọn làm cô gái phép thuật!\""
+			"Nhưng cuối cùng lại được chọn làm cô gái phép thuật rồi đó!\""
 		],
         "6": [
             "\"Ờ, ừ thì...\""
@@ -160,9 +160,9 @@
 		],		
         "8": [
 			"Cô ấy... biến hình dễ dàng vậy sao!? ",
-			"Rồi trận chiến đã kết thúc luôn rồi?",
-			"Hợp đồng với quái vật đáng lẽ phải cực kỳ nguy hiểm chứ...",
-			"Giao cho một đứa trẻ lo liệu thế này chẳng phải sẽ khiến hội gặp rắc rối sao...?"
+			"Rồi trận chiến đã kết thúc luôn rồi hả?",
+			"Khế ước với quái vật đáng lẽ phải cực kỳ nguy hiểm chứ...",
+			"Giao cho một đứa trẻ lo liệu thế này chẳng phải sẽ khiến hội gặp rắc rối à...?"
 		],
         "9": [
 			"Tôi nhìn chằm chằm vào TV với vẻ mặt nghiêm túc, đầy hoang mang.",
@@ -173,8 +173,8 @@
             "\"Ừ, hình ảnh đẹp thật. Miễn là em thấy vui khi xem là được...\""
 		],
         "11": [
-            "Tôi chẳng hiểu cốt truyện cho lắm,",
-            "nhưng cũng có một khoảng thời gian yên tĩnh xem anime cùng \\str[120]!"
+            "Tôi chẳng hiểu nổi cốt truyện cho lắm,",
+            "nhưng mình đã có một khoảng thời gian yên tĩnh xem anime cùng \\str[120]!"
 		],
         "12": [
             "Tập trước thì thấy loạn xạ cả lên...",
@@ -377,10 +377,10 @@
             "\\str[120] ực một hơi hết sạch cốc nước..."
 		],
         "17": [
-            "\\nl< >\"Uuuu... miệng em vẫn còn đau...\""
+            "\\nl< >\"Uuuu... miệng em vẫn còn rát quá...\""
 		],
         "18": [
-            "\\nl< >\"Cuối cùng cũng thấy đỡ hơn chút... ",
+            "\\nl< >\"Cuối cùng cũng thấy đỡ hơn chút rồi... ",
 			"nhưng lưỡi em vẫn còn tê.\""
 		],
         "19": [
@@ -394,7 +394,7 @@
             "Kiểm tra miệng"
 		],
         "22": [
-            "\\nl< >\"Ehh... không, vậy thì ngại lắm...",
+            "\\nl< >\"Ehh... không đâu, vậy thì ngại lắm...",
 			"\\str[121] sẽ ngửi thấy mùi kỳ lạ mất!\""
 		],
         "23": [
@@ -402,9 +402,9 @@
 			"Có lẽ yêu cầu của tôi thực sự quá kỳ lạ..."
 		],
         "24": [
-            "Dù sao thì, mình cũng mừng vì em đã thấy đỡ hơn,",
-			"mình cần chú ý không nấu ăn quá cay ",
-			"lần sau nữa..."
+            "Dù sao thì, tôi cũng mừng vì em đã thấy đỡ hơn,",
+			"mình nên cần chú ý không nấu ăn quá cay vào lần sau...",
+			""
 		],
         "25": [
             "\"Không sao! Anh chỉ lo cho em thôi mà!?",
@@ -447,7 +447,7 @@
 		    "có phải em vẫn còn đau vì vị cay hay không."
 		],
         "34": [
-            "\\nl< >\"O-\\str[121]——— xong chưa thế?\"",
+            "\\nl< >\"\\str[121]——— xong chưa thế?\"",
 			"\\w[150]"
 		],
         "35": [
@@ -459,7 +459,7 @@
 		    "khó kiểm soát trào dâng trong lồng ngực."
 		],
         "37": [
-            "\"\\str[121] sẽ giúp em thấy dễ chịu hơn, được không? ",
+            "\"Anh sẽ giúp em thấy dễ chịu hơn, được không? ",
 			"Sẽ hết đau ngay thôi...\""
 		],
         "38": [
@@ -561,21 +561,21 @@
 		],
         "4": [
             "\"À đúng rồi, ",
-			"tối nay có hamburger thịt mới chiên xong đấy—\""
+			"tối nay có hamburger bít tết mới chiên xong đấy—\""
 		],
         "5": [
             "\\nl< >\"Ugh... em buồn ngủ quá—\""
 		],	
         "6": [
-            "\\nl< >\"Nhưng mà hamburger thịt đâu!? ",
-			"Ở đâu cơ!?\""
+            "\\nl< >\"Nhưng mà hamburger bít tết đâu!? ",
+			"Nó ở đâu cơ!?\""
 		],
         "7": [
             "\"Xin lỗi nhé, cái đó chỉ có ",
 			"trong mơ thôi—\""
 		],	
         "8": [
-            "\\nl< >\"Ehh... vậy sao!? Quá đáng thật đó, \\str[121]!\""
+            "\\nl< >\"Ehh... anh nói dối em à!? \\str[121] quá đáng thật đó! \""
 		]			
     },
 	"8": {
@@ -946,7 +946,7 @@
 		],
         "15": [
             "Cảm giác như có chuyện kinh khủng nào đó ",
-			"xảy ra trong Vực Thẳm—"
+			"xảy ra trong Vực Sâu—"
 		],
         "16": [
             "Sau khi uống một chai Elixir Rubrum, ",
@@ -992,7 +992,7 @@
         "25": [
             "Hmm... nói thì hơi muộn nhưng,",
 			"cuộn băng này trông hơi đáng ngờ thì phải?   \\w[30]",
-			"Khí thế đúng kiểu rùng rợn kiểu gì ấy...!"
+			"cảm giác nó rùng rợn kiểu gì ấy...!"
 		],
         "26": [
             "Kệ đi, mình cũng đang rảnh mà,     \\{",
@@ -1092,8 +1092,8 @@
 		],
         "10": [
             "Giờ mình phải trấn an \\str[120] thế nào đây...",
-			"Vì em ấy đang hoàn toàn bám chặt lấy tôi, ",
-			"nên với đôi tay chỉ còn cử động được chút ít, tôi chỉ có thể nhẹ nhàng vỗ lưng em ấy, ",
+			"Vì em ấy đang hoàn toàn bám chặt lấy tôi, nên với đôi tay ",
+			"chỉ còn cử động được chút ít, tôi chỉ có thể nhẹ nhàng vỗ lưng em ấy, ",
 			"hy vọng việc đó sẽ giúp em ấy bình tĩnh hơn một chút."
 		],
         "11": [
@@ -1360,7 +1360,7 @@
 			"Nhìn vào đôi mắt trống hoác, ",
 			"ngơ ngác đầy tò mò của \\str[120],",
 			"những thôi thúc vừa lắng xuống lại gào thét bên trong tôi,",
-			"và dương vật mềm nhũng nhanh chóng lấy lại sức sống."
+			"và dương vật mềm nhũn nhanh chóng lấy lại sức sống."
 		],
         "64": [
 			"\\nl< >\"Nnh♥ \\str[121]!?",

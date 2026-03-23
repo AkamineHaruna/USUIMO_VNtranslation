@@ -84,14 +84,14 @@
 			"Quả nhiên, bồn tắm này hơi chật chội để hai người cùng ngồi..."
         ],	
 		"20": [
-            "\"……说起来我之前把那东西捡回来了呢。\""
+            "\"...À đúng rồi, hồi nãy mình có nhặt được cái đó mà.\""
         ],	
         "21": [
-            "\"...À đúng rồi, tôi đã nhặt được thứ đó lúc nãy.\""
+            "\"...Sao vậy, \\str[121]?\""
         ],	
         "22": [
             "Tôi cẩn thận rửa sạch con vịt cao su rồi nhẹ nhàng đặt nó vào bồn tắm.",
-			"Nó lặng lẽ nổi trên mặt nước — trông thật yên bình và dễ thương." 
+			"Nó lặng lẽ nổi trên mặt nước—trông thật yên bình và dễ thương." 
         ],	
         "23": [
             "\"Mhm... bầu không khí giờ cảm giác dễ chịu hơn hẳn.\""
@@ -210,7 +210,7 @@
         ],	
         "52": [
             "\\nl< >\"Geez, \\str[121] lúc nào cũng chọc ghẹo em thôi!",
-			"Em đi đây!\""		
+			"Em đi ra ngoài đây!\""		
         ],	
         "53": [
             "Ugh... Có lẽ tôi đùa hơi quá rồi —\\str[120] chạy đi, ",
@@ -274,9 +274,9 @@
             "Hành động đột ngột và táo bạo của em ấy khiến tôi sững người.",
             "Không kịp phản ứng, nhưng sự ấm áp,",
             "mềm mại như trong mơ quanh cánh tay khiến tôi",
-            "chẳng còn chút sức lực nào để rút ra. Cuối cùng,",
-            "tôi đành từ bỏ việc chống cự và để",
-            "em ấy tiếp tục ‘dịch vụ tắm rửa đặc biệt’ kì lạ của mình."
+            "chẳng còn chút sức lực nào để rút ra.",
+            "Cuối cùng, tôi đành từ bỏ việc chống cự và để",
+            "em ấy tiếp tục 'dịch vụ tắm rửa đặc biệt' kỳ lạ của mình."
 		],
         "4": [
             "\\nl< >\"Nó như thế nào... \\str[121]...♥",
@@ -312,7 +312,7 @@
 		],
         "11": [
             "\\nl< >\"Ehehe♥ \\str[121], Anh đúng là một cậu bé ngoan~",
-			"Khiến em cũng muốn thưởng cho anh một chút.♥\""
+			"Khiến em cũng muốn thưởng cho anh một chút~♥\""
 		],
         "12": [
             "\\nl< >\"\\str[121]... Anh vừa phát ra một âm thanh dễ thương đó hả?",
@@ -369,7 +369,7 @@
         "23": [
 			"\\nl< >\"Thế này thì sao~?",
 			"Em chỉ dành riêng cho anh thôi đấy, \\str[121]〜♪      \\w[180]",
-			"Nào, anh muốn em “rửa” tiếp theo ở chỗ nào đây〜？\""
+			"Nào, anh muốn em rửa tiếp theo ở chỗ nào đây〜？\""
 		],
         "24": [
 			"Ahh... ra là em ấy thật sự chỉ muốn giúp mình tắm thôi, huh...",
@@ -386,7 +386,7 @@
             "\\str[120] tiếp tục xoay hông một cách cần mẫn,",
 			"những đợt khoái cảm trơn trượt, tê rần như điện giật lan khắp cơ thể tôi, ",
 			"hòa lẫn với cảm giác ngọt ngào cấm kỵ—",
-			"Vậy, tiếp theo tôi nên để \\str[120] làm gì đây?"
+			"Vậy thì tiếp theo mình nên để \\str[120] làm gì đây?"
 		],		
         "27": [
             "\\str[120] vẫn chăm chỉ vặn vẹo vòng eo,",
@@ -484,7 +484,7 @@
 			"E-Em có chà... mạnh quá không?\""
 		],
         "47": [
-			"\"Ổn rồi, đã được 'làm sạch' rất kỹ, cảm giác tuyệt vời lắm~",
+			"\"Ổn rồi, nó đã được 'làm sạch' rất kỹ rồi, cảm giác tuyệt vời lắm~",
 			"Em giỏi quá~\""
 		],
         "48": [
@@ -1363,15 +1363,15 @@
 			"Đủ rồi"
         ],
         "4": [
-            "\\{...Dầu gội đã hết rồi!"
+            "\\{...Dầu gội hết rồi!"
         ],
         "5": [
             "Thôi thì cứ dùng tạm thế này đã",
 			"rồi lần sau nhớ mua thêm là được..."
         ],
         "6": [
-            "Đã có quá nhiều bọt rồi!?",
-			"Tốt nhất là đừng lãng phí thêm dầu gội—"
+            "Nhiều bọt quá rồi!?",
+			"Tốt nhất là đừng lãng phí thêm dầu gội nữa—"
         ],
         "7": [
             "Huh? Mình có thực sự cần nhiều dầu gội đến thế không?",
@@ -1379,7 +1379,7 @@
         ],
         "8": [
             "Oa, đã có rất nhiều bọt rồi—",
-			"Thế này chắc đủ rồi, nhỉ~?"
+			"Thế này chắc đủ rồi nhỉ~?"
         ],
         "9": [
             "Ừ, làm thêm một chút bọt nữa đi—"
@@ -1401,7 +1401,7 @@
             "\"Mhm... bầu không khí giờ thấy dễ chịu hơn hẳn.\""
         ],
         "15": [
-            "\"Phù... chắc cũng đến lúc đi ra thôi.\""
+            "\"Phù... chắc cũng đến lúc đi ra ngoài thôi.\""
         ],
         "16": [
             "\"...Cuối cùng cũng rửa sạch được cái mùi kỳ lạ trên người rồi.\""
@@ -1502,10 +1502,10 @@
             "ở chỗ đó á...?\""
         ],
         "40": [
-            "\\nl< >\"—Thật là, em biết ngay \\str[121] ",
+            "\\nl< >\"—Thật là hết cách mà, em biết ngay là \\str[121] ",
             "lúc nào cũng tìm cách đòi hỏi mấy chuyện hư hỏng thế này.",
-            "Anh chẳng bao giờ bỏ lỡ cơ hội, ",
-            "nghĩ về chuyện hư hỏng nhỉ...♥\""
+            "Anh chẳng bao giờ bỏ lỡ cơ hội ",
+            "nghĩ về mấy chuyện hư hỏng nhỉ...♥\""
         ],
         "41": [
             "\\nl< >\"Eh—!? Không đời nào—!",
@@ -1520,9 +1520,9 @@
             "Chắc phải đợi hai đứa thân thiết hơn nữa mới dám thử lại thôi."
         ],
         "43": [
-            "\\nl< >\"...Just your arms?",
-            "\\str[121], you're being surprisingly ",
-            "well-behaved at a time like this...?\""
+            "\\nl< >\"...Chỉ cánh tay của anh thôi sao?",
+            "\\str[121], vào những lúc thế này mà anh lại ",
+            "ngoan ngoãn ngoài dự đoán thật đấy...?\""
         ]
     },
     "12": {
@@ -1551,7 +1551,7 @@
 			"tôi hoàn toàn bối rối."
         ],
 		"5": [
-        	"Chẳng lẽ một con quái vật từ Vực Thẳm đã theo tôi đến đây sao!?",
+        	"Chẳng lẽ một con quái vật từ Vực Sâu đã theo tôi đến đây sao!?",
         	"Ngay khi ý nghĩ nguy hiểm đó lóe lên trong đầu tôi, tôi liền vứt khăn tắm",
         	"sang một bên mà không một chút do dự—"
         ],
