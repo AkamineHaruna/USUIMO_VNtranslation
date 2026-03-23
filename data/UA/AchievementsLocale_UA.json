@@ -1,0 +1,39 @@
+{
+  "categories": {
+    "SLG": {
+      "Category Name": "Спогади з \\str[120]",
+      "New Scene Name": "",
+      "Trophy Description": "\\str[120] завжди буде для мене \nнай важливішою людиною!"
+    },
+    "RPG": {
+      "Category Name": "Спогади про битви в Безодні",
+      "New Scene Name": "",
+      "Trophy Description": "Бийся... продовжуй битися!"
+    },
+    "Gacha": {
+      "Category Name": "Спогади про різні колекції",
+      "New Scene Name": "",
+      "Trophy Description": "Кажуть, якщо зібрати всі, \nто вийде викликати..."
+    },
+    "Ryouri": {
+      "Category Name": "Спогади з кулінарії",
+      "New Scene Name": "",
+      "Trophy Description": "Готування — це те, що \nдарує людям щастя!"
+    }
+  },
+  "achievements": {
+    "JoyStation V": {
+      "Name": "У мене є ігрова приставка!",
+      "Description": "Тепер ви можете грати у відео ігры с \\str[120]!",
+      "Pop Up Desc": "Отримана ігрова приставка!"
+    },
+    "AirKing": {
+      "Name": "Повітряний король",
+      "Description": "\"Хіба ти не хочеш потоваришувати з небом?\"",
+      "Pop Up Desc": [
+        "\\fs[22]\"Хіба ти не хочеш ",
+        "потоваришувати з небом?\""
+      ]
+    }
+  }
+}

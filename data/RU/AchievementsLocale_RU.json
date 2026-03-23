@@ -1,0 +1,39 @@
+{
+  "categories": {
+    "SLG": {
+      "Category Name": "Воспоминания с \\str[120]",
+      "New Scene Name": "",
+      "Trophy Description": "\\str[120] всегда будет для меня \nсамым важным человеком!"
+    },
+    "RPG": {
+      "Category Name": "Воспоминания о сражении в Бездне",
+      "New Scene Name": "",
+      "Trophy Description": "Сражайся... продолжай сражаться!"
+    },
+    "Gacha": {
+      "Category Name": "Воспоминания о различных коллекциях",
+      "New Scene Name": "",
+      "Trophy Description": "Говорят, если собрать все, \nто получится призвать..."
+    },
+    "Ryouri": {
+      "Category Name": "Воспоминания о кулинарии",
+      "New Scene Name": "",
+      "Trophy Description": "Готовка - это то, что \nприносит людям счастье!"
+    }
+  },
+  "achievements": {
+    "JoyStation V": {
+      "Name": "У меня есть игровая приставка!",
+      "Description": "Теперь вы можете играть в игры с \\str[120]!",
+      "Pop Up Desc": "Получена \nигровая приставка!"
+    },
+    "AirKing": {
+      "Name": "Воздушный король",
+      "Description": "\"Разве ты не хочешь подружиться с небом?\"",
+      "Pop Up Desc": [
+        "\\fs[22]\"Разве ты не хочешь ",
+        "подружиться с небом?\""
+      ]
+    }
+  }
+}

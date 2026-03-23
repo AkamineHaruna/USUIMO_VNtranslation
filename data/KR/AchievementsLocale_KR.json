@@ -3,7 +3,7 @@
     "SLG": {
       "Category Name": "\\str[120]과의 추억",
       "New Scene Name": "",
-      "Trophy Description": "\\str[120]은 나에게 있어 언제나 가장 소중한 사람이다"
+      "Trophy Description": "\\str[120]은 나에게 있어 언제나 가장 소중한 존재이다"
     },
     "RPG": {
       "Category Name": "어비스에서의 전투 추억",
@@ -18,7 +18,7 @@
     "Ryouri": {
       "Category Name": "요리의 추억",
       "New Scene Name": "",
-      "Trophy Description": "요리는 사람에게 행복을 가져다주는 것"
+      "Trophy Description": "요리는 사람들에게 행복을 가져다주는 것"
     }
   },
   "achievements": {
