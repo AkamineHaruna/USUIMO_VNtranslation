@@ -19,6 +19,11 @@
       "Category Name": "料理の思い出",
       "New Scene Name": "",
       "Trophy Description": "料理は人に幸せをもたらすもの"
+    },
+    "Hentai": {
+      "Category Name": "えっちな思い出",
+      "New Scene Name": "",
+      "Trophy Description": "女の子は砂糖とスパイスと素敵なものでできている"
     }
   },
   "achievements": {
@@ -35,8 +40,38 @@
     "JoyStation V": {
       "Name": "ゲーム機ゲット!",
       "Description": "妹と一緒にゲームで遊べるようになった！",
-      "Pop Up Desc": "ゲーム機ゲット!"
+      "Pop Up Desc": "ゲームであっても遊びではない"
     },
+    "MyImoutoIsJustThatCute": {
+      "Name": "俺の妹はこんなに可愛い！",
+      "Description": "妹との好感度が最高になった！",
+      "Pop Up Desc": "俺の妹はこんなに可愛い！"
+    },     
+    "ImoutoBodyPillow": {
+      "Name": "妹の抱き枕になる",
+      "Description": "ゲーム中に妹を膝の上に乗せられるようになった！",
+      "Pop Up Desc": "妹がいればいいじゃない？"
+    },    
+    "PeopleDieIfTheyAreKilled": {
+      "Name": "人は殺されれば死ぬ……か？",
+      "Description": "アビスで体力がゼロになる……",
+      "Pop Up Desc": "人は殺されれば死ぬ……か？"
+    }, 
+    "HoardingHabit": {
+      "Name": "ため込み癖",
+      "Description": "星の門に大量のアイテムを入れた",
+      "Pop Up Desc": "ため込まないと死ぬ病気にかかった"
+    },
+    "TransportedToIsekai": {
+      "Name": "異世界転生？",
+      "Description": "トラックに無情にも轢かれた……",
+      "Pop Up Desc": "異世界転生魔法！？"      
+    }, 
+    "YouAreAlreadyDead": {
+      "Name": "レクイエム",
+      "Description": "死神に死を宣告された",
+      "Pop Up Desc": "お前は、もう死んでいる"      
+    },                 
     "AirKing": {
       "Name": "撃墜王",
       "Description": "もう何度落ちたか分からない…",
@@ -53,16 +88,39 @@
         "あの死兆星が！！」"
       ]
     },    
+    "ServantAndMaster": {
+      "Name": "サーヴァントとマスター",
+      "Description": "同時に5体のサーヴァントを使役する",
+      "Pop Up Desc": [
+        "\\fs[24]「問おう。",
+        "貴方が私たちのマスターか？」"
+      ]
+    }, 
+    "BossFirstAppearance": {
+      "Name": "王の誕生に、祝え！",
+      "Description": "初めてボスと戦闘する",
+      "Pop Up Desc": "王の誕生に、祝え！"
+    },       
     "UnlimitedBladeWaste": {
       "Name": "無限の剣冢",
-      "Description": "――武器の貯蔵は充分か？",
+      "Description": "100本以上の武器を壊した",
       "Pop Up Desc": "――武器の貯蔵は充分か？"
     },
     "YouTooCanBecomeLight": {
       "Name": "光になれる！",
-      "Description": "人は誰でも光になれる！",
+      "Description": "Akiの呪いが発作した",
       "Pop Up Desc": "\\fs[36]光になれる！"
     },    
+    "ObtainWornPanties": {
+      "Name": "履いていないパンツに価値はない！",
+      "Description": "妹からパンツをもらった〜！",
+      "Pop Up Desc": "履いていないパンツに価値はない！"
+    },
+    "ErogameWithImouto": {
+      "Name": "救いようのないシスコン",
+      "Description": "妹の部屋で、妹のパソコン使って、妹にいかがわしいことをする",
+      "Pop Up Desc": "妹とゲームをする？"
+    },           
     "Milkeddry": {
       "Name": "搾り尽くされた……",
       "Description": "もう……一滴も、残ってない……",
