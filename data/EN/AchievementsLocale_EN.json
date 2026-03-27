@@ -19,7 +19,12 @@
       "Category Name": "Memories of Cooking",
       "New Scene Name": "",
       "Trophy Description": "Cooking is something that brings happiness to people"
-    }
+    },
+    "Hentai": {
+      "Category Name": "Memories of Hentai",
+      "New Scene Name": "",
+      "Trophy Description": "Sugar and spice~And everything nice~"
+    }     
   },
   "achievements": {
     "WhereIsImouto": {
@@ -40,6 +45,35 @@
       "Description": "Now you can play games with \\str[120]!",
       "Pop Up Desc": "Got a Game Console!"
     },
+    "PeopleDieIfTheyAreKilled": {
+      "Name": "People Die If They Are Killed?",
+      "Description": "Your HP drops to zero in the Abyss...",
+      "Pop Up Desc": [
+        "\\fs[22]People Die If They",
+        "Are Killed?"
+      ]      
+    },
+    "HoardingHabit": {
+      "Name": "Hoarding Habit",
+      "Description": "Placed a large number of items into the Star Door",
+      "Pop Up Desc": [
+        "\\fs[22]I've got a disease where ",
+        "I'll die if I don't hoard"
+      ]
+    },
+    "TransportedToIsekai": {
+      "Name": "Transported To Isekai?",
+      "Description": "Mercilessly Run Over by a Shop Truck...",
+      "Pop Up Desc": [
+        "\\fs[22]Isekai Reincarnation ",
+        "Magic!?"   
+      ]   
+    },
+    "YouAreAlreadyDead": {
+      "Name": "Requiem",
+      "Description": "Declared dead by Death",
+      "Pop Up Desc": "You Are Already Dead"      
+    },                          
     "AirKing": {
       "Name": "Air King",
       "Description": "You’ve already fallen so many times…",
@@ -58,7 +92,7 @@
     },        
     "UnlimitedBladeWaste": {
       "Name": "Unlimited Blade Waste",
-      "Description": "Do you have enough weapons in stock?",
+      "Description": "Broke over 100 weapons",
       "Pop Up Desc": [
         "\\fs[22]\"Do you have enough ",
         "weapons in stock?\""
@@ -66,12 +100,20 @@
     },
     "YouTooCanBecomeLight": {
       "Name": "You too can become light!",
-      "Description": "Human beings... can become a light all on their own.",
+      "Description": "Aki's curse flared up",
       "Pop Up Desc": [
         "\\fs[22]\"You too can become ",
         "light!\""
       ]
-    },     
+    },
+    "ObtainWornPanties": {
+      "Name": "Unworn Panties Have No Value!",
+      "Description": "received panties from Imouto~!",
+      "Pop Up Desc": [
+        "\\fs[22]Unworn Panties Have ",
+        "No Value!"
+      ]
+    },         
     "Milkeddry": {
       "Name": "Milked Dry...",
       "Description": "There's... not a single drop left...",

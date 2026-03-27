@@ -1,19 +1,19 @@
 {
   "categories": {
     "SLG": {
-      "Category Name": "\\str[120]과의 추억",
+      "Category Name": "여동생과의 추억",
       "New Scene Name": "",
-      "Trophy Description": "\\str[120]은 나에게 있어 언제나 가장 소중한 존재이다"
+      "Trophy Description": "여동생은 언제나 가장 소중한 존재이다"
     },
     "RPG": {
-      "Category Name": "어비스에서의 전투 추억",
+      "Category Name": "전투의 추억",
       "New Scene Name": "",
-      "Trophy Description": "싸워라... 계속 싸워라!"
+      "Trophy Description": "싸워라...싸워라!!"
     },
     "Gacha": {
-      "Category Name": "다양한 수집의 추억",
+      "Category Name": "수집의 추억",
       "New Scene Name": "",
-      "Trophy Description": "모든 것을 모으면 소환할 수 있다고 한다—"
+      "Trophy Description": "모든 아이템을 모으면 소환할 수 있다고 한다—"
     },
     "Ryouri": {
       "Category Name": "요리의 추억",
@@ -24,15 +24,55 @@
   "achievements": {
     "JoyStation V": {
       "Name": "게임 콘솔을 얻었다!",
-      "Description": "이제 \\str[120]과 함께 게임을 할 수 있다!",
+      "Description": "이제 여동생과 함께 게임을 할 수 있다!",
       "Pop Up Desc": "게임 콘솔을 얻었다!"
     },
     "AirKing": {
       "Name": "에어 킹",
-      "Description": "\"하늘과 친구가 되고 싶지 않아?\"",
+      "Description": "이젠 몇 번이나 떨어졌는지 모르겠다…",
       "Pop Up Desc": [
         "\\fs[22]\"하늘과 친구가 ",
-        "되고 싶지 않아?\""
+        "되고 싶지 않은가!\""
+      ]
+    },
+    "WhereIsImouto": {
+      "Name": "여동생은 어디에?",
+      "Description": "사랑하는 동생을 찾아내야만 한다——",
+      "Pop Up Desc": "여동생은 어디에……?"
+    },
+    "ItsMyImouto": {
+      "Name": "내 여동생이다!",
+      "Description": "사랑하는 동생은 눈앞에 있다",
+      "Pop Up Desc": "내 여동생이다!"
+    },
+    "Shichosei": {
+      "Name": "빛나는 사조성",
+      "Description": "ASABA의 특수기술에 패배하다",
+      "Pop Up Desc": [
+        "\\fs[24]「하늘을 봐!! 보일 터이다,",
+        "저 사조성이!!」"
+      ]
+    },
+    "UnlimitedBladeWaste": {
+      "Name": "무한의 검총",
+      "Description": "무기의 저장량은 충분한가?",
+      "Pop Up Desc": [
+        "무기의 저장량은 충분한가?"
+      ]
+    },
+    "YouTooCanBecomeLight": {
+      "Name": "빛이 될 수 있어!",
+      "Description": "사람은 누구나 스스로 빛이 될 수 있어!",
+      "Pop Up Desc": [
+        "\\fs[36]빛이 될 수 있어!"
+      ]
+    },
+    "Milkeddry": {
+      "Name": "남김없이 빨렸다...",
+      "Description": "이제... 한 방울도 남지 않았어...",
+      "Pop Up Desc": [
+        "\\fs[24]「이제……",
+        "한 방울도 남지 않았어……」"
       ]
     }
   }

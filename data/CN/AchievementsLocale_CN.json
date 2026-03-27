@@ -21,9 +21,9 @@
       "Trophy Description": "料理是带给人们幸福的东西"
     },
     "Hentai": {
-      "Category Name": "",
+      "Category Name": "色色的回忆",
       "New Scene Name": "",
-      "Trophy Description": ""
+      "Trophy Description": "女孩子是由砂糖、香辛料和某些美好东西组成的"
     }    
   },
   "achievements": {
@@ -46,7 +46,30 @@
       "Name": "妹妹的靠枕",
       "Description": "可以把妹妹抱在腿上了！",
       "Pop Up Desc": "抱着妹妹一起玩游戏吧！"
-    },    
+    }, 
+    "PeopleDieIfTheyAreKilled": {
+      "Name": "人被杀就会死？",
+      "Description": "在深渊里体力归零……",
+      "Pop Up Desc": "人被杀就会死？"
+    }, 
+    "HoardingHabit": {
+      "Name": "囤积癖",
+      "Description": "向星之门放入了大量物品",
+      "Pop Up Desc": [
+        "\\fs[24]得了一种不囤东西",
+        "就会死的病"
+      ]      
+    },
+    "TransportedToIsekai": {
+      "Name": "转生异世界？",
+      "Description": "被商店车无情碾过……",
+      "Pop Up Desc": "异世界转生魔法！？"      
+    },              
+    "YouAreAlreadyDead": {
+      "Name": "镇魂曲",
+      "Description": "被死神宣告了死亡",
+      "Pop Up Desc": "你已经死了"      
+    },     
     "AirKing": {
       "Name": "击坠王",
       "Description": "已经不知道坠落多少次了…",
@@ -65,14 +88,22 @@
     },    
     "UnlimitedBladeWaste": {
       "Name": "无限剑冢",
-      "Description": "——武器的储备还够吗？",
+      "Description": "用坏了超过100把武器",
       "Pop Up Desc": "——武器的储备还够吗？"
     }, 
     "YouTooCanBecomeLight": {
       "Name": "你也可以变成光！",
-      "Description": "相信我，你也可以变成光！",
+      "Description": "aki的诅咒发作了",
       "Pop Up Desc": "你也可以变成光！"
     },
+    "ObtainWornPanties": {
+      "Name": "没被穿过的胖次是没有价值的！",
+      "Description": "收到了妹妹送的胖次~！",
+      "Pop Up Desc": [
+        "\\fs[24]没被穿过的胖次是没有",
+        "价值的！"
+      ]
+    },    
     "Milkeddry": {
       "Name": "被榨干了…",
       "Description": "已经、一滴都不剩了……",
