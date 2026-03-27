@@ -1,4 +1,14 @@
 {
+    "Note": [
+        "(This note is for the translator only and does not need to be translated.)", 
+        "If you notice strange gaps appearing in each line of text, those are placeholders.",
+        "The game is already set up so that each dialogue box can display a maximum of four lines of text, ",
+        "and any text exceeding four lines will automatically continue in the next dialogue box. ",
+        "To avoid awkward line breaks in the actual display, I will manually trim long passages whenever necessary so that, ",
+        "as much as possible, a complete sentence appears within a single dialogue box.",
+        "The intentional insertion of spaces is meant to split the text into content for different dialogue boxes.",
+        "So when translating into other languages, you may follow this rule and add blank placeholders yourself to split the text."
+    ],
     "1": {
         "0": [
             "Mặc dù đã đồng ý là sẽ tắm cùng nhau, ",
