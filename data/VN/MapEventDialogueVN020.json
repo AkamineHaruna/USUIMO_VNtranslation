@@ -114,8 +114,9 @@
 			"Rời đi"
 		],
         "3": [
-            "Không gian nhỏ chật chội này, thứ gì có thể đang ẩn nấp ở đây...?    \\w[45]",
-			"Dù nói vậy, tôi vẫn không thể nhịn mà tìm kiếm xung quanh."
+            "Không gian nhỏ chật chội như thế này,",
+			"liệu có thứ gì đó có thể đang ẩn nấp ở đây không nhỉ...?    \\w[45]",
+			"Dù nói vậy, tôi vẫn hơi tò mò mà tìm kiếm xung quanh."
 		],
         "4": [
             "\"Ooooh!! Đây là...!\""

@@ -21,127 +21,143 @@
             "Trophy Description": "Nấu ăn mang lại hạnh phúc cho mọi người"
         },
         "Hentai": {
-            "Category Name": "Memories of Hentai",
+            "Category Name": "Ký ức biến thái",
             "New Scene Name": "",
-            "Trophy Description": "Sugar and spice~And everything nice~"
+            "Trophy Description": 
+                "Ngọt ngào và cay đắng~Và mọi thứ đều tuyệt vời~"
         }
     },
     "achievements": {
         "WhereIsImouto": {
-            "Name": "Where Is Imouto",
-            "Description": "Must find the beloved girl—",
-            "Pop Up Desc": "\\fs[20]Where is my dear Imouto…?"
+            "Name": "Em gái đang ở đâu?",
+            "Description": "Phải tìm ra em gái mình yêu quý—",
+            "Pop Up Desc": [
+                "\\fs[22]Em gái của mình",
+                "đang ở đâu…?"
+            ]
         },
         "ItsMyImouto": {
-            "Name": "It's my dear Imouto!",
-            "Description": "The beloved girl is right in front of me",
-            "Pop Up Desc": "It's my dear Imouto!"
+            "Name": "Đó là em gái của tôi!",
+            "Description": "Em gái tôi yêu quý đang ở ngay trước mắt",
+            "Pop Up Desc": "Đó là em gái của tôi!!"
         },
         "JoyStation V": {
             "Name": "Đã có máy chơi game!",
             "Description": "Giờ bạn có thể chơi game cùng \\str[120]!",
             "Pop Up Desc": [
-                "\\fs[18]This may be a game, ",
-                "but it's not something you play"
+                "\\fs[16]Đây có thể là một trò chơi ",
+                "Nhưng không thể chơi theo cách đó "
             ]
         },
         "MyImoutoIsJustThatCute": {
-            "Name": "My Little Sister Is Just That Cute!",
-            "Description": "Imouto's affection has reached its peak!",
+            "Name": "Em gái tôi đáng yêu đến thế đấy!",
+            "Description": "Tình cảm của em gái đã đạt đến đỉnh điểm!",
             "Pop Up Desc": [
-                "\\fs[22]My Little Sister ",
-                "Is Just That Cute!"
+                "\\fs[22]Em gái của tôi ",
+                "cực kỳ đáng yêu!"
             ]
         },        
         "ImoutoBodyPillow": {
-            "Name": "Imouto Body Pillow",
-            "Description": "can now have Imouto sit on lap while gaming!",
-            "Pop Up Desc": "\\fs[20]Isn't having Imouto enough?"
+            "Name": "Gối ôm em gái",
+            "Description": "Giờ có thể để em gái ngồi lên đùi khi chơi game!",
+            "Pop Up Desc": [
+                "\\fs[22]Có em gái rồi ",
+                "thì còn cần thêm gì nữa?"
+            ]
         },
         "PeopleDieIfTheyAreKilled": {
-            "Name": "People Die If They Are Killed?",
-            "Description": "Your HP drops to zero in the Abyss...",
+            "Name": "Người ta sẽ chết nếu bị giết?",
+            "Description": "HP của bạn giảm về 0 trong Vực Sâu...",
             "Pop Up Desc": [
-                "\\fs[22]People Die If They",
-                "Are Killed?"
+                "\\fs[20]Người ta sẽ chết nếu bị giết?",
+                ""
             ]
         },
         "HoardingHabit": {
-            "Name": "Hoarding Habit",
-            "Description": "Placed a large number of items into the Star Door",
+            "Name": "Thói Quen Tích Trữ",
+            "Description": "Đã bỏ một lượng lớn vật phẩm vào Cửa Thiên Tinh",
             "Pop Up Desc": [
-                "\\fs[22]I've got a disease where ",
-                "I'll die if I don't hoard"
+                "\\fs[22]Tôi mắc một căn bệnh ",
+                "không tích đồ là sẽ chết "
             ]
         },
         "TransportedToIsekai": {
-            "Name": "Transported To Isekai?",
-            "Description": "Mercilessly Run Over by a Shop Truck...",
-            "Pop Up Desc": "\\fs[20]Isekai Reincarnation Magic!?"
+            "Name": "Chuyển sinh sang thế giới khác?",
+            "Description": "Bị xe van cửa hàng cán không thương tiếc...",
+            "Pop Up Desc": "\\fs[18]Chuyển sinh sang thế giới khác!?"
         },
         "YouAreAlreadyDead": {
-            "Name": "Requiem",
-            "Description": "Declared dead by Death",
-            "Pop Up Desc": "You Are Already Dead"
+            "Name": "Khúc Cầu Hồn",
+            "Description": "Bị Thần Chết tuyên bố đã tử vong",
+            "Pop Up Desc": "Ngươi đã chết rồi"
         },
         "AirKing": {
             "Name": "Vua Bầu Trời",
             "Description": "\"Ngươi không muốn làm bạn với bầu trời sao!\"",
             "Pop Up Desc": [
-                "\\fs[22]\"Ngươi không muốn trở thành ",
+                "\\fs[20]\"Ngươi không muốn trở thành ",
                 "bạn với bầu trời sao!\""
             ]
         },
         "Shichosei": {
-            "Name": "The Death Omen Star",
-            "Description": "Defeated by ASABA with a special move",
+            "Name": "Ngôi Sao Tử Vong",
+            "Description": "Bị ASABA hạ gục bằng tuyệt kỹ",
             "Pop Up Desc": [
-                "\\fs[22]\"You Can See It…",
-                "the Death Omen Star!!\""
+                "\\fs[22]\"Ngươi thấy rồi chứ…",
+                "Ngôi sao báo tử đó!\""
             ]
         },
         "ServantAndMaster": {
-            "Name": "Servants and Master",
-            "Description": "Command five Servants at the same time",
+            "Name": "Servants và Master",
+            "Description": "Điều khiển cùng lúc năm Servant",
             "Pop Up Desc": [
-                "\\fs[22]\"I ask of you.",
-                "Are you our Master?\""
+                "\\fs[18]\"Ta hỏi ngươi—Ngươi có phải là ",
+                "Master của chúng ta không?\""
             ]
         },
         "BossFirstAppearance": {
-            "Name": "Rejoice at the birth of the king!",
-            "Description": "Battle a boss for the first time",
-            "Pop Up Desc": "\\fs[18]Rejoice at the birth of the king!"
+            "Name": "Hãy hoan nghênh sự ra đời của vị vua!",
+            "Description": "Đánh boss lần đầu tiên",
+            "Pop Up Desc": [
+                "\\fs[22]Hãy hoan nghênh ",
+                "Sự ra đời của vị vua!"
+            ]
         },
         "UnlimitedBladeWaste": {
-            "Name": "Unlimited Blade Waste",
-            "Description": "Broke over 100 weapons",
+            "Name": "Lăng mộ kiếm vô tận",
+            "Description": "Phá hỏng hơn 100 vũ khí",
             "Pop Up Desc": [
-                "\\fs[22]\"Do you have enough ",
-                "weapons in stock?\""
+                "\\fs[24]\"Ngươi có đủ vũ khí ",
+                "dự trữ để dùng không?\""
             ]
         },
         "YouTooCanBecomeLight": {
-            "Name": "You too can become light!",
-            "Description": "Aki's curse flared up",
-            "Pop Up Desc": "\\fs[20]You too can become light!"
+            "Name": "Bạn cũng có thể trở thành ánh sáng!",
+            "Description": "Lời nguyền của Aki bùng phát ",
+            "Pop Up Desc": [
+                "\\fs[24]Bạn cũng có thể ",
+                "Trở thành ánh sáng!"
+            ]
         },
         "ObtainWornPanties": {
-            "Name": "Unworn Panties Have No Value!",
-            "Description": "received panties from Imouto~!",
-            "Pop Up Desc": "\\fs[18]Unworn Panties Have No Value!"
+            "Name": "Quần lót chưa mặc thì vô giá trị!",
+            "Description": "Nhận được quần lót từ em gái~!",
+            "Pop Up Desc":  [
+                 "\\fs[24]Quần lót chưa mặc ",
+                 "thì vô giá trị!"
+            ]
         },
         "ErogameWithImouto": {
-            "Name": "Hopeless Siscon",
-            "Description": "In Imouto room, using Imouto's computer to doing indecent things to Imouto",
-            "Pop Up Desc": "Play games with Imouto?"
+            "Name": "Siscon Vô Phương Cứu Chữa",
+            "Description": "Trong phòng em gái, dùng máy của em gái để làm những chuyện dâm đãng với em gái",
+            "Pop Up Desc": "Chơi game với em gái?"
         },
         "Milkeddry": {
-            "Name": "Milked Dry...",
-            "Description": "There's... not a single drop left...",
+            "Name": "Vắt cực khô...",
+            "Description": "Không... thật sự không còn một giọt nào sót lại nữa...",
             "Pop Up Desc": [
-                "\\fs[22]\"There's... ",
-                "not a single drop left...\""
+                "\\fs[22]\"Không... thật sự không còn",
+                "một giọt nào sót lại nữa...\""
             ]
         }
     }

@@ -1003,7 +1003,7 @@
 			"Tệ rồi, mình phải nhanh nghĩ cách gì đó!!"
 		],
         "19": [
-            "Làm tình với em ấy",
+            "Chịch em ấy",
             "Hối lộ",
 			"Năn nỉ"
 		],
@@ -1358,10 +1358,10 @@
     "7": {
         "0": [
             "Nhìn vẻ mặt đắc ý của \\str[120] khi khoe khoang về màn trả thù ",
-            "của mình rồi đang chuẩn bị trốn trở lại xuống nước, rồi tôi nhìn xuống ",
-            "dương vật của mình—bầm tím, sưng tấy và đau nhức vì bị trêu chọc suốt nãy giờ—",
-            "sợi dây lý trí trong tôi cuối cùng cũng đã đứt hẳn.",
-            ""
+            "của mình và đang chuẩn bị trốn trở lại xuống nước, ",
+            "rồi tôi nhìn xuống dương vật của mình—",
+            "bầm tím, sưng tấy và nhức nhói vì bị trêu chọc suốt nãy giờ—",
+            "Sợi dây lý trí trong tôi cuối cùng cũng đã đứt hẳn."
         ],     
         "1": [
             "Tôi lặng lẽ đứng dậy rồi bế \\str[120] đang ngồi xổm trước mặt lên.",
@@ -1377,7 +1377,7 @@
             "Sau đó, khi em ấy vẫn còn chưa kịp định thần,",
             "tôi dứt khoát ghì chặt hai cổ tay của \\str[120] ra phía sau lưng,",
             "ép em ấy ưỡn người về phía trước trong một tư thế đầy xấu hổ,",
-            "để dương vật của tôi ấn nhẹ nhàng vào khe ấm áp của em ấy."
+            "để dương vật của tôi ấn nhẹ nhàng vào âm hộ ấm áp của em ấy."
         ], 
         "3": [
             "\\nl< >\"Kyaa—!? \\str[121]!?",
@@ -1404,8 +1404,10 @@
         "7": [
             "Bất chấp những lời nũng nịu van xin tha thứ, cặp mông của \\str[120] ",
             "vẫn không ngừng cọ xát vặn vẹo đầy bất an lên phần dưới của tôi.",
-            "Trong mắt tôi, điều đó chẳng khác nào một lời mời gọi trắng trợn,",
-            "Máu dồn xuống dưới, dương vật tôi cứng ngắc lao thẳng vào khe ướt át nóng bỏng ấy."
+            "Trong mắt tôi, điều đó chẳng khác nào một lời mời gọi trắng trợn.",
+            "",
+            "Máu dồn xuống dưới, ",
+            "dương vật tôi cứng ngắc lao thẳng vào âm hộ ướt át nóng bỏng ấy."
         ], 
         "8": [
             "\\nl< >\"Mngh~~♥     \\{\\w[30]",
@@ -1413,7 +1415,7 @@
         ],
         "9": [
             "Với tiếng rên rỉ dâm dục từ sự xâm nhập đột ngột, ",
-            "toàn bộ dương vật của tôi chìm sâu đến tận gốc.",
+            "toàn bộ dương vật của tôi đâm sâu đến tận gốc.",
             "Cảm giác bị những lớp thịt ấm áp, ẩm ướt mãnh liệt ",
             "siết chặt lấy khiến da đầu tôi tê dại.",
             "Tôi có thể cảm nhận rõ ràng âm hộ nhỏ bé của em ấy ",
@@ -1425,8 +1427,9 @@
             " ",
             " ",
             "Nhìn cơ thể của \\str[120] đón nhận mình một cách dễ dàng như vậy—",
-            "tôi cảm nhận được độ vừa khít hoàn hảo đến mức kinh ngạc—tôi cảm thấy một niềm ",
-            "thỏa mãn sâu sắc. Tất cả những công sức trước đó của tôi đều không hề vô ích."
+            "tôi cảm nhận được độ vừa khít hoàn hảo đến mức kinh ngạc—",
+            "tôi cảm thấy một niềm thỏa mãn sâu sắc.",
+            "Tất cả những công sức trước đó của tôi đều không hề vô ích."
         ],
         "11": [
             "Tôi bắt đầu dập hông liên hồi, mỗi cú thúc sâu hết cỡ đều tạo ra ",
@@ -1504,7 +1507,7 @@
         ], 
         "24": [
             "\"Không sao đâu, đừng sợ... ",
-            "Trông em lúc này đáng yêu lắm, \\str[120],",
+            "Trông em lúc này đáng yêu lắm, \\str[120].",
             "Nhìn em giờ có biểu cảm sướng đến mức hạnh phúc thế kia mà.\""
         ], 
         "25": [
@@ -1513,21 +1516,21 @@
         ],   
         "26": [
             "\\nl< >\"Mngh... \\str[121], anh lại nói dối nữa rồi...!",
-            "Cô gái trong gương chẳng đáng yêu chút nào cả... uuuu...♥\""
+            "Cô gái trong gương kia chẳng đáng yêu chút nào cả... uuuu...♥\""
         ],   
         "27": [
             "\"Anh không nói dối đâu.",
             "Anh thật sự rất thích dáng vẻ của em lúc này đó.\""
         ],  
         "28": [
-            "Tôi tiếp tục nhẹ nhàng khen ngợi cô ấy, và như đáp lại sự tán thưởng đó,",
-            "âm hộ của em ấy đột nhiên siết chặt, mút mạnh lấy dương vật tôi",
+            "Tôi tiếp tục nhẹ nhàng khen ngợi em ấy, và như đáp lại sự tán thưởng đó,",
+            "âm hộ của em ấy đột nhiên siết chặt, mút mạnh lấy dương vật tôi.",
             "Vùng kín vốn đã ướt át bắt đầu tiết ra nhiều nước ái tình ấm áp, ",
             "đặc sệt và tươi mới hơn."
         ],   
         "29": [
             "\"Chúng ta đang làm chuyện khiến cả hai cảm thấy dễ chịu như thế này,",
-            "đó chính là minh chứng cho việc chúng ta yêu nhau nhiều đến mức nào.\""
+            "đó chính là minh chứng cho việc chúng ta yêu nhau nhiều đến mức nào đó.\""
         ], 
         "30": [
             "\\nl< >\"Mnh-ah♥ Yêu... nhau sao...?",
@@ -1556,16 +1559,16 @@
         ],
         "35": [
             "\\nl< >\"Những chuyện dâm đãng, trêu chọc em... ",
-            "Chỉ cần là với anh, \\str[121], em đều yêu thích hết...♥",
+            "Chỉ cần là với \\str[121], em đều yêu thích hết...♥",
             "Nên là... hãy ở bên cạnh em như thế này mãi mãi nhé... ",
-            "anh không được rời xa em đâu, được không?...♥\""
+            "anh không được rời xa em đâu, được chứ?...♥\""
         ], 
         "36": [
             "Lời van xin gần như tỏ tình ấy chính là giọt nước tràn ly cho dục vọng của tôi.",
             "Cảm nhận được cả hai đều đang đến giới hạn, ",
             "tôi tăng tốc nhịp dập hông lên đến mức tối đa.",
             " ",
-            "Hai cơ thể rung mạnh dữ dội trước mặt gương, ",
+            "Cơ thể của cả hai rung mạnh dữ dội trước mặt gương, ",
             "mồ hôi bay tứ tung hòa quyện vào nhau."
         ],
         "37": [
@@ -1579,7 +1582,7 @@
         ], 
         "40": [
             "Cuối cùng, ",
-            "với một cú thúc sâu mạnh mẽ cuối cùng,",
+            "với một cú đẩy vào sâu mạnh mẽ hết sức mình,",
             "tôi không chút kiềm chế xuất toàn bộ tinh dịch đã tích tụ từ lâu ",
             "sâu vào tận cùng âm hộ của em ấy.",
             "Dòng tinh dịch nóng bỏng tràn ngập vào nơi sâu nhất của em ấy, ",
@@ -1589,7 +1592,7 @@
             "Cú sốc dữ dội khiến \\str[120] thở hổn hển, ",
             "toàn thân em ấy co giật vì khoái cảm cực mạnh mẽ.",
             "Bụng em ấy vốn thon gọn giờ có hơi phồng lên, ",
-            "hiện rõ một đường nét rõ ràng dữ dội.",
+            "hiện ra một đường nét rõ ràng dữ dội.",
             "Một lượng lớn tinh dịch trào ra từ chỗ chúng tôi giao hợp với nhau, ",
             "nhỏ giọt xuống sàn nhà bừa bãi."
         ],   
@@ -1601,7 +1604,7 @@
             "\"X-Xin lỗi... chắc là anh hơi quá hứng rồi...\""
         ],   
         "44": [
-            "Tôi áy náy vuốt ve bụng của \\str[120] đang hơi phồng lên ",
+            "Tôi áy náy vuốt ve bụng của \\str[120] đang hơi phồng lên, ",
             "cảm giác nó đang dần xẹp xuống.",
             "Những động tác thô bạo lúc nãy chắc chắn là quá sức với em ấy. ",
             "Mình thật sự phải cần biết kiềm chế hơn mới được!"
@@ -1612,7 +1615,7 @@
             "Lẽ ra giờ này tụi mình tắm xong và ra ngoài rồi mới phải!\""
         ], 
         "46": [
-            "\\nl< >\"—Đợi đã. Ngay từ đầu...",
+            "\\nl< >\"—khoan đã. Ngay từ đầu...",
             "chẳng phải là anh nói muốn em giúp anh tắm à?\""
         ],   
         "47": [
