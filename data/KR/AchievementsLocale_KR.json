@@ -94,6 +94,11 @@
       "Description": "게임 중에 여동생을 무릎 위에 앉힐 수 있게 되었다!",
       "Pop Up Desc": "여동생만 있으면 되잖아?"
     },
+    "CanYouSendMe50K": {
+      "Name": "5만엔만 보내주실래요?",
+      "Description": "여동생에게 한 번에 5만엔 이상의 용돈을 주었다!",
+      "Pop Up Desc": "5만엔만 보내주실래요?"
+    },
     "PeopleDieIfTheyAreKilled": {
       "Name": "사람은 살해당하면 죽는...가?",
       "Description": "아비스에서 체력이 0이 된다...",
@@ -102,10 +107,17 @@
       ]
     },
     "HoardingHabit": {
-      "Name": "수집 버릇",
+      "Name": "수집가",
       "Description": "별의 문에 대량의 아이템을 넣었다",
       "Pop Up Desc": [
         "모으지 않으면 죽는 병에 걸렸다"
+      ]
+    },
+    "GachaIsBadCivilization": {
+      "Name": "가챠는 나쁜 문명!",
+      "Description": "가챠의 늪에 빠져버렸다...",
+      "Pop Up Desc": [
+        "가챠는 나쁜 문명이다!"
       ]
     },
     "TransportedToIsekai": {
