@@ -36,7 +36,7 @@
       "Name": "是我的妹妹啊！",
       "Description": "心爱的少女就在眼前",
       "Pop Up Desc": "是妹妹啊！"
-    },          
+    },             
     "JoyStation V": {
       "Name": "游戏机Get!",
       "Description": "可以和妹妹一起玩游戏了！",
@@ -59,7 +59,12 @@
       "Name": "扭蛋是坏文明！",
       "Description": "在扭蛋上浪费太多钱被妹妹训了……",
       "Pop Up Desc": "扭蛋是坏文明！"
-    },                    
+    },         
+    "CanYouSendMe50K": {
+      "Name": "请给我50000元~！",
+      "Description": "给妹妹发了5万以上的红包！",
+      "Pop Up Desc": "请给我50000元~！"
+    },                
     "PeopleDieIfTheyAreKilled": {
       "Name": "人被杀就会死？",
       "Description": "在深渊里体力归零……",
@@ -116,7 +121,12 @@
       "Name": "无限剑冢",
       "Description": "用坏了超过100把武器",
       "Pop Up Desc": "——武器的储备还够吗？"
-    }, 
+    },
+    "DonotYouEverStop": {
+      "Name": "不要停下来啊！",
+      "Description": "用超高速持续奔跑",
+      "Pop Up Desc": "不要停下来啊！"
+    },       
     "YouTooCanBecomeLight": {
       "Name": "你也可以变成光！",
       "Description": "aki的诅咒发作了",
