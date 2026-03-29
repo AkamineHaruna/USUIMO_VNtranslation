@@ -70,6 +70,11 @@
             "Description": "Spent too much money on gacha and got scolded by Imouto...",
             "Pop Up Desc": "\\fs[21]Gacha Is a Bad Civilization!"
         },
+        "CanYouSendMe50K": {
+            "Name": "Can You Send Me 50K~?",
+            "Description": "Gave Imouto over 50,000 in allowance at once!",
+            "Pop Up Desc": "Can You Send Me 50K~?"
+        },
         "PeopleDieIfTheyAreKilled": {
             "Name": "Người ta sẽ chết nếu bị giết?",
             "Description": "HP của bạn giảm về 0 trong Vực Sâu...",
@@ -135,6 +140,11 @@
                 "\\fs[24]\"Ngươi có đủ vũ khí ",
                 "dự trữ để dùng không?\""
             ]
+        },
+        "DonotYouEverStop": {
+            "Name": "Don't you ever stop!",
+            "Description": "Keep running at super high speed",
+            "Pop Up Desc": "Don't you ever stop!"
         },
         "YouTooCanBecomeLight": {
             "Name": "Bạn cũng có thể trở thành ánh sáng!",
