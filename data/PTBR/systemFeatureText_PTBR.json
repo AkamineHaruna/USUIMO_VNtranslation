@@ -192,5 +192,8 @@
   },
   "Nibelungen": {
     "mapName": " – Nibelungen – "
-  }
+  },
+  "numberDays": [
+    "Dia"
+  ]  
 }

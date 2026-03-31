@@ -142,5 +142,11 @@
   ],
   "underwaterTreasuresCount": [
     "Trésors sous-marins détectés"
-  ]
+  ],
+  "numberDays": [
+    "Jour"
+  ],
+  "memberMenu": {
+    "shortHint": " Activer la sauvegarde en cloud et les mise a jour majeures"
+  }
 }

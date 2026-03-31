@@ -2,6 +2,15 @@
 	"gameTitle": [
 		"Cuộc Sống Giản Dị Bên Em Gái Dịu Dàng Của Tôi "
 	],
+	"translationNotes":  [
+		"Phiên bản tiếng Việt đã được hoàn thành!",
+		"Tuy nhiên, do một số đoạn hội thoại trong trò chơi vẫn chưa được trích xuất đầy đủ bởi nhà phát triển,",
+		"nên trong quá trình chơi có thể tạm thời xuất hiện văn bản tiếng Anh.",
+		"Vui lòng kiên nhẫn chờ các bản cập nhật tiếp theo để được tối ưu hóa hoàn chỉnh hơn!",
+		"Cảm ơn những người đã dịch: ",
+		"Akamine Haruna",
+		"Nian Sprout"
+  ],	
 	"goldHeld": [
 		"Yen"
 	],

@@ -67,6 +67,11 @@
         "무기의 저장량은 충분한가?"
       ]
     },
+    "DonotYouEverStop": {
+      "Name": "너네가 멈추지않는한 그 앞에는 내가있어!",
+      "Description": "초고속으로 계속해서 달리기",
+      "Pop Up Desc": "멈추지 말라고..."
+    },
     "YouTooCanBecomeLight": {
       "Name": "빛이 될 수 있어!",
       "Description": "아키의 저주가 다시금 불타올랐다.",
