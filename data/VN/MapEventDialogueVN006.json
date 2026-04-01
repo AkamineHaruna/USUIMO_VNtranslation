@@ -1748,7 +1748,7 @@
         "26": [
             "\\nl< >\"Được rồi, em bắt đầu nhé—!  \\w[90]",
 			"-âyy—âyy—!           \\w[120]",
-			"-âyy—âyy—!           \\w[120]\""
+			"-âyy—âyy—!\"         \\w[120]"
         ],
         "27": [
             "\\str[120] hăng hái kỳ lưng cho tôi bằng chiếc khăn tắm.",
