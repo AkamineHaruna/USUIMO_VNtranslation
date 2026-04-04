@@ -122,11 +122,21 @@
       "Description": "用坏了超过100把武器",
       "Pop Up Desc": "——武器的储备还够吗？"
     },
+    "TheSwordSaintOfTheSticks": {
+      "Name": "十里坡剑神",
+      "Description": "坚持每日挥剑的成果",
+      "Pop Up Desc": "十里坡剑神"
+    }, 
+    "ItWasToMeasureMyCapacity": {
+      "Name": "为了检测我的器量",
+      "Description": "掌握了忍者的技艺",
+      "Pop Up Desc": "「为了检测我的器量。」"
+    },     
     "DonotYouEverStop": {
       "Name": "不要停下来啊！",
       "Description": "用超高速持续奔跑",
       "Pop Up Desc": "不要停下来啊！"
-    },       
+    },            
     "YouTooCanBecomeLight": {
       "Name": "你也可以变成光！",
       "Description": "aki的诅咒发作了",

@@ -131,6 +131,19 @@
         "weapons in stock?\""
       ]
     },
+     "TheSwordSaintOfTheSticks": {
+      "Name": "The Sword Saint of the Sticks",
+      "Description": "The results of persistent daily sword training",
+      "Pop Up Desc": "\\fs[18]The Sword Saint of the Sticks"
+    },
+    "ItWasToMeasureMyCapacity": {
+      "Name": "It Was to Measure My Capacity",
+      "Description": "Acquired the skills of the ninja",
+      "Pop Up Desc": [
+        "\\fs[22]\"IT WAS TO MEASURE MY ",
+        "CAPACITY.\""
+      ]
+    },     
     "DonotYouEverStop": {
       "Name": "Don't you ever stop!",
       "Description": "Keep running at super high speed",

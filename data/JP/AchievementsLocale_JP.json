@@ -116,6 +116,16 @@
       "Description": "100本以上の武器を壊した",
       "Pop Up Desc": "――武器の貯蔵は充分か？"
     },
+    "TheSwordSaintOfTheSticks": {
+      "Name": "片田舎の剣聖",
+      "Description": "日々の素振りの成果",
+      "Pop Up Desc": "片田舎の剣聖"
+    },
+    "ItWasToMeasureMyCapacity": {
+      "Name": "己の器を量るためだ",
+      "Description": "忍術を習得しました",
+      "Pop Up Desc": "「己の『器』を量るためだ。」"
+    },          
     "DonotYouEverStop": {
       "Name": "止まるんじゃねぇぞ！",
       "Description": "超高速で走り続ける",
