@@ -52,10 +52,9 @@
         "MyImoutoIsJustThatCute": {
             "Name": "Em gái tôi đáng yêu đến thế đấy!",
             "Description": "Tình cảm của em gái đã đạt đến đỉnh điểm!",
-            "Pop Up Desc": [
-                "\\fs[22]Em gái của tôi ",
-                "cực kỳ đáng yêu!"
-            ]
+            "Pop Up Desc": "\\fs[21]Em gái mình dễ thương quá!"
+                
+            
         },        
         "ImoutoBodyPillow": {
             "Name": "Gối ôm em gái",
@@ -138,6 +137,16 @@
                 "\\fs[24]\"Ngươi có đủ vũ khí ",
                 "dự trữ để dùng không?\""
             ]
+        },
+        "TheSwordSaintOfTheSticks": {
+            "Name": "Kiếm Thần Của Những Cây Gậy",
+            "Description": "Kết quả của việc luyện kiếm chăm chỉ mỗi ngày",
+            "Pop Up Desc": "\\fs[19]Kiếm Thần Của Những Cây Gậy"
+        },
+        "ItWasToMeasureMyCapacity": {
+            "Name": "Để xem bản lĩnh của tôi tới đâu",
+            "Description": "Đã thành thạo kỹ năng của ninja",
+            "Pop Up Desc": "\\fs[18]Để xem bản lĩnh của tôi tới đâu"
         },
         "DonotYouEverStop": {
             "Name": "Đừng bao giờ dừng lại!",
