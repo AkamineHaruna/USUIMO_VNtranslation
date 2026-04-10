@@ -1,0 +1,244 @@
+{
+  "gameTitle": [
+    "和存在感薄弱少女一起的簡單生活"
+  ],
+  "goldHeld": [
+    "持有金"
+  ],
+  "quantityHeld": [
+    "\\fs[18]•持有數量:\\c[17] ${} \\c[0]\\py[-8]"
+  ],
+  "autoUpdate": [
+    "檢測到可同步的${}版本遊戲數據，是否立即下載並更新？"
+  ],
+  "fullScreen": [
+    "全屏顯示"
+  ],
+  "masterVolume": [
+    "主音量"
+  ],
+  "voiceVolume": [
+    "角色 音量"
+  ],
+  "BgmVolume": [
+    "背景音樂 音量"
+  ],
+  "BgsVolume": [
+    "背景音效 音量"
+  ],
+  "SeVolume": [
+    "效果音 音量"
+  ],
+  "MaxPlayerMsgs": [
+    "玩家訊息最大顯示數量"
+  ],
+  "GameFAQ": [
+    "遊戲攻略"
+  ],
+  "ShowWeaponDurability": [
+    "武器耐久度常時顯示"
+  ],
+  "DisableAutoUpdate": [
+    "禁止自動更新"
+  ],
+  "LockedFPS": [
+    "鎖定60幀"
+  ],
+  "Language": [
+    "遊戲語言"
+  ],
+  "SwitchLanguage": [
+    "檢測到遊戲語言設置發生了改變！",
+    "將立即重啟遊戲以適配新的語言環境！"
+  ],
+  "ErrorReport": [
+    "遊戲發生錯誤，是否前往逆流茶會的Discord服務器進行Bug反饋？",
+    "(點擊“確定”將打開Discord邀請鏈接)",
+    "(請附帶遊戲報錯畫面的截屏)"
+  ],
+  "UpdateComplete1": [
+    "遊戲自動更新完成！",
+    "關閉該彈窗後將自動重啟遊戲以適配更新內容！",
+    "重啟後可以讀取自動存檔回到當前進度！"
+  ],
+  "UpdateComplete2": [
+    "遊戲自動更新完成！",
+    "遊戲即將自動重啟以適配更新內容！"
+  ],
+  "RemindToUpdate": [
+    "檢測到遊戲出現錯誤並已凍結！",
+    "目前遊戲已經有更高版本的補丁發佈，",
+    "請通過自動更新應用補丁修復問題！"
+  ],
+  "cloudSaveServiceWarning": [
+    "由於雲存檔數據庫仍在建設中，",
+    "該功能將暫時通過請求訪問您的 Google Drive，",
+    "以便將遊戲存檔存儲至 NLCH/save 文件夾中。",
+    "上傳的存檔文件僅用於後續同步與下載迴游戲，不會用於其他用途。",
+    "是否同意授予遊戲訪問 Google Drive 的權限？"
+  ],
+  "uploadSaveFile": [
+    "從Google Drive下載存檔將會覆蓋您當前的本地存檔文件！",
+    "是否繼續操作？"
+  ],
+  "bagFull": [
+    "超出揹包上限！！"
+  ],
+  "noStatusEffects": [
+    "什麼狀態也沒有！"
+  ],
+  "unimplementedDoor": [
+    "這扇門無法從這一側打開"
+  ],
+  "zipUpdateComplete": [
+    "補丁安裝成功，",
+    "即將重啟遊戲以應用更新！"
+  ],
+  "zipUpdateFail": [
+    "補丁解壓安裝失敗！",
+    "請重新嘗試自動更新或",
+    "手動解壓補丁文件進行安裝！"
+  ],
+  "fileDownloadedSuccessfully": [
+    "${}文件下載成功！"
+  ],
+  "fileDownloadFailed": [
+    "${}文件下載失敗！正在重新嘗試下載！"
+  ],
+  "installPatch": [
+    "檢測到需要解壓縮安裝的補丁，正在解壓縮安裝——這個過程可能遊戲畫面會卡頓，請耐心等候！"
+  ],
+  "totalFilesToUpdate": [
+    "檢測到${}個文件需要更新——開始下載流程！"
+  ],
+  "silentUpdateSuccess": [
+    "成功安裝了${}的新增補丁內容，將在下次重啟遊戲時生效！"
+  ],
+  "outdatedVersionWarning": [
+    "當前遊戲版本已過期，最新版本為${}。",
+    "大版本更新不支持自動更新，請從官方渠道重新下載遊戲。"
+  ],
+  "renameCharacter": [
+    "我想起來了——",
+    "她就是——"
+  ],
+  "heroName": [
+    "哥哥"
+  ],
+  "heroineName": [
+    "妹妹"
+  ],
+  "nonHardwareAccelerated": [
+    "檢測到遊戲當前未使用獨立顯卡進行渲染！",
+    "如果您的電腦配備了獨立顯卡，為了獲得更流暢的遊戲體驗，",
+    "請在顯卡控制面板中為 Game.exe 重新設置首選圖形處理器。"
+  ],
+  "isAmdCPU": [
+    "檢測到本機 CPU 為 AMD 品牌。",
+    "部分 AMD 芯片在 Chromium 環境下播放 VP9（WebM）視頻時",
+    "可能會出現掉幀現象。遇到此類問題時，您可以嘗試",
+    "強制切換使用 GPU 渲染遊戲，或更新驅動程序以緩解該問題。"
+  ],
+  "failedToLoad": [
+    "此類問題可能由以下情況導致：",
+    "①遊戲在解壓安裝過程中因為編碼問題出現亂碼文件名或已經損壞",
+    "②開發者忘記添加此文件，請等待補丁更新修復"
+  ],
+  "LowResMode": [
+    "低畫質模式"
+  ],
+  "lowResModeWarning": [
+    "此功能主要用於安卓設備的性能優化，對 PC 版本可能不會有明顯效果。",
+    "開啟後，遊戲會以較低分辨率渲染地圖和圖片，再進行放大顯示，",
+    "從而減輕手機 GPU 負擔，降低發熱與耗電。",
+    "請注意：這是實驗性功能，效果可能因設備而異。",
+    "你可以隨時關閉此功能，立即恢復畫面的清晰度。"
+  ],
+  "nearbyMonstersCount": [
+    "偵查到附近的魔物"
+  ],
+  "nearbyTreasuresCount": [
+    "偵查到附近的遺物"
+  ],
+  "underwaterTreasuresCount": [
+    "偵查到水下的遺物"
+  ],
+  "guideHint": [
+    "按Ctrl+F可打開搜索欄、點擊文檔下方的按鈕可切換文檔內容。"
+  ],
+  "steamWishlist": [
+    "我們的 Steam 商店頁面已經上線啦！",
+    "歡迎添加到心願單支持我們！  (*´∀`)~♥",
+    "⬇點擊即可跳轉到Steam頁面"
+  ],
+  "memberMenu": {
+    "firstTimeNotice": [
+      "這是目前仍在實驗中的正版驗證功能。",
+      "你可以在此登錄 Patreon 賬號，",
+      "或額外綁定 Itch 賬號進行正版身份驗證。",
+      "若賬號擁有有效訂閱，或已在Itch擁有遊戲入庫記錄，",
+      "即可獲得大版本自動更新等功能權限。",
+      "請注意：",
+      "目前僅支持驗證通過 Itch 或 Patreon 購買過遊戲，",
+      "或在 Patreon 進行付費訂閱的玩家！"
+    ],
+    "shortHint": "可啟用雲存檔與大版本自動更新功能",
+    "waitingLogin": "等待登錄驗證流程完成……",
+    "notLoggedIn": "還未進行登錄驗證…",
+    "RequestingLogin": "正在發起登錄請求……",
+    "openingWindow": "正在打開Patreon登錄窗口……",
+    "cloudSave": "啟用雲存檔",
+    "logInFirst": "請先點擊此按鈕進行登錄",
+    "CheckUpdates": "更新至最新版本",
+    "Subscribed": "已確認為贊助者！",
+    "subscribedAndItchUser": "已確認為贊助者！(Itch入庫驗證)",
+    "NotSubscribed": "未確認到贊助記錄，無法使用部分功能！",
+    "lastCheck": "最近登錄時間： ",
+    "checkLatestVersion": "正在檢查最新的版本號，請稍等……",
+    "isLatestVersion": "已經是最新版本啦！",
+    "notSponsor": "非驗證用戶請先進行贊助！",
+    "ImoutoFavorite": "妹妹的最愛！",
+    "itchUser": "已確認為Itch版本玩家！",
+    "nonItchUser": "在Itch中未檢測到你擁有本遊戲！",
+    "itchVerifyNotice": "可進行Itch版本遊戲入庫驗證",
+    "itchVerifyAlert": "請先登錄再進行Itch版本檢測！",
+    "majorUpdateFailed": [
+      "大版本更新失敗！",
+      "錯誤代碼： ${}",
+      "請重新嘗試登錄驗證併發起更新，",
+      "或者將此截圖發送至我們的 Discord 服務器以獲取幫助！"
+    ]
+  },
+  "AdventurersPathway": {
+    "mapName": " -冒險者小道- "
+  },
+  "ShallowRuinsLabyrinth": {
+    "mapName": " -淺層遺跡迷宮- ",
+    "mapDescription": " 孕育眾多謎団的巨大迷宮 "
+  },
+  "ForgottenCatacombe": {
+    "mapName": " -忘卻的墓穴- "
+  },
+  "ForestofRuins": {
+    "mapName": " -遺跡之森- "
+  },
+  "AbandonedForest": {
+    "mapName": " -迷失之森- "
+  },
+  "ExcavationSite": {
+    "mapName": " -開拓中地區- "
+  },
+  "TheFallenChurch": {
+    "mapName": " -墮落的聖堂- "
+  },
+  "DoorofStar": {
+    "mapName": " -星之門- "
+  },
+  "ScorchingLavaZone": {
+    "mapName": " -大焦熱溶岩帶- ",
+    "mapDescription": " 熔火奔湧之地，唯有堅毅者能踏足其境 "
+  },
+  "Nibelungen": {
+    "mapName": " -尼伯龍根- "
+  }
+}
