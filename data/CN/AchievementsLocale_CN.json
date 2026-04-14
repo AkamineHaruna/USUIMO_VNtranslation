@@ -162,6 +162,21 @@
         "\\fs[24]「已经、",
         "一滴都不剩了……」"
       ]
-    }
+    },
+    "StairwayToAdulthoodI": {
+      "Name": "通往大人的阶梯♥",
+      "Description": "让妹妹看色色的同人本",
+      "Pop Up Desc": "通往大人的阶梯♥"
+    },
+    "StairwayToAdulthoodII": {
+      "Name": "通往大人的阶梯♥♥",
+      "Description": "让妹妹使用色色的玩具",
+      "Pop Up Desc": "通往大人的阶梯♥♥"
+    },
+    "StairwayToAdulthoodIII": {
+      "Name": "通往大人的阶梯♥♥♥",
+      "Description": "让妹妹体验性的快乐",
+      "Pop Up Desc": "通往大人的阶梯♥♥♥"
+    }    
   }
 }

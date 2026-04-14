@@ -153,6 +153,21 @@
         "\\fs[24]「もう……",
         "一滴も、残ってない……」"
       ]
-    }    
+    },
+    "StairwayToAdulthoodI": {
+      "Name": "大人への階段♥",
+      "Description": "妹にえっちな同人誌を見せる",
+      "Pop Up Desc": "大人への階段♥"
+    },
+    "StairwayToAdulthoodII": {
+      "Name": "通往大人的阶梯♥♥",
+      "Description": "妹にえっちなオモチャを使わせる",
+      "Pop Up Desc": "大人への階段♥♥"
+    },
+    "StairwayToAdulthoodIII": {
+      "Name": "大人への階段♥♥♥",
+      "Description": "妹に性の快楽を教える",
+      "Pop Up Desc": "大人への階段♥♥♥"
+    }     
   }
 }
