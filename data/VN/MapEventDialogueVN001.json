@@ -1733,18 +1733,18 @@
 	},
 	"121": {
 		"objectName": [
-			"\\c[10]Pillar of Seals"
+			"\\c[10]Trụ Phong Ấn"
 		],
 		"sentouryoku": [
 			"6666"
 		],
 		"description": [
-			"This is a \"trial\".",
-			"A trial rising from the Abyss.",
-			"The growth of a monster... ",
-			"is to defeat the frailty of its own past...",
-			"Right? You are the same, are you not?",
-			"O adventurer, you who seek the truth—"
+			"Đây là một \"thử thách\".",
+			"Một thử thách trỗi dậy từ Vực Sâu.",
+			"Sự trưởng thành của một con quái vật... ",
+			"là để đánh bại sự yếu đuối trong quá khứ của chính nó...",
+			"Đúng chứ? Ngươi cũng như vậy… phải không?",
+			"Hỡi kẻ phiêu lưu, người đang truy tìm chân lý—"
 		]
 	}
 }
