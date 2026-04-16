@@ -1729,5 +1729,22 @@
 			"cho tất cả những gì nó thấy,",
 			"bao gồm cả người triệu hồi nó. "
 		]
-    }	
+		
+	},
+	"121": {
+		"objectName": [
+			"\\c[10]Pillar of Seals"
+		],
+		"sentouryoku": [
+			"6666"
+		],
+		"description": [
+			"This is a \"trial\".",
+			"A trial rising from the Abyss.",
+			"The growth of a monster... ",
+			"is to defeat the frailty of its own past...",
+			"Right? You are the same, are you not?",
+			"O adventurer, you who seek the truth—"
+		]
+	}
 }

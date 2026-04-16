@@ -420,6 +420,22 @@
             "Lắc mạnh có thể gây ra phun trào"
         ]
     },
+    "41": {
+        "name": [
+            "Fehu"
+        ],
+        "subtitle": [
+            "\"Power of Midas\""
+        ],
+        "description": [
+            "A stone engraved with magic runes, designed so even novices with ",
+            "no knowledge of magic can easily activate its effect"
+        ],
+        "ability": [
+            "When thrown, Temporarily turns any target it touches into gold",
+            "Shattering a target in this gold state will generate a vast amount of currency"
+        ]
+    },
     "42": {
         "name": [
             "Phù văn Kenaz"
@@ -432,7 +448,7 @@
             "không có kiến thức về ma pháp cũng có thể dễ dàng kích hoạt nó."
         ],
         "ability": [
-            "Ném và biến mục tiêu mà nó chạm vào thành một quả bom",
+            "Khi ném, biến mọi mục tiêu mà nó chạm vào thành một quả bom",
             "Phát nổ sau 5 giây, mục tiêu càng lớn thì vụ nổ càng to"
         ]
     },
