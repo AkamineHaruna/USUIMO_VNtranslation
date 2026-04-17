@@ -1,16 +1,19 @@
 {
   "gameTitle": [
-    "Uma Vida Simples com a Minha Discreta Irmãzinha "
+    "Uma Vida Simples com Minha Imouto Discreta "
   ],
   "goldHeld": [
-    "Gold"
+    "Ouro"
+  ],
+  "numberDays": [
+    "DIA"
   ],
   "quantityHeld": [
     "\\fs[16]•Quantidade Possuída:\\c[17] ${} \\c[0]\\py[-8]"
   ],
   "autoUpdate": [
     "Atualização disponível: Dados do jogo da versão ${} detectados. ",
-    "Deseja baixar e atualizar agora?"
+    "Gostaria de baixar e atualizar agora?"
   ],
   "fullScreen": [
     "Tela Cheia"
@@ -54,7 +57,7 @@
   ],
   "ErrorReport": [
     "Um erro ocorreu. Pedimos que relate o bug no servidor do Discord do NLCH.",
-    "(Clique em 'OK' para abrir o link de convite)",
+    "(Clique em \"OK\" para abrir o link de convite)",
     "(Anexe uma captura de tela do erro)"
   ],
   "UpdateComplete1": [
@@ -101,6 +104,14 @@
   "totalFilesToUpdate": [
     "Foram detectados ${} arquivo(s) para atualizar — começando a baixar os arquivos!"
   ],
+  "silentUpdateSuccess": [
+    "Novo patch de conteúdo para ${} foi instalado com sucesso e entrará em vigor na próxima reinicialização."
+  ],
+  "outdatedVersionWarning": [
+    "Sua atual versão do jogo está desatualizada. A versão mais recente é ${}.",
+    "Atualizações de versão principal não suportam atualizações automáticas. ",
+    "Por favor, baixe o jogo novamente de uma fonte oficial."
+  ],
   "renameCharacter": [
     "Lembrei agora—",
     "ela é..."
@@ -114,11 +125,11 @@
   "nonHardwareAccelerated": [
     "O jogo está sendo executado na placa gráfica integrada!",
     "Se o seu PC tiver uma GPU dedicada, recomendamos configurar o Game.exe ",
-    "para usá-la no painel de controle gráfico, para uma experiência de jogo mais fluida."
+    "para usá-la no painel de controle gráfico para uma experiência de jogo mais fluida."
   ],
   "isAmdCPU": [
     "Seu CPU foi identificado como um processador AMD.",
-    "Alguns processadores AMD podem ter queda de quadros ao rodar vídeos VP9 (WebM) ",
+    "Alguns processadores AMD podem ter queda de quadros ao reproduzir vídeos VP9 (WebM) ",
     "em um ambiente Chromium. Se você encontrar esse problema, tente forçar o jogo",
     "a usar renderização via GPU ou atualize seus drivers para ajudar a amenizar a situação."
   ],
@@ -128,7 +139,7 @@
     "② O desenvolvedor esqueceu de incluir o arquivo — aguarde uma atualização/patch para corrigir o problema."
   ],
   "LowResMode": [
-    "Modo Com Gráficos Reduzidos"
+    "Modo Gráfico Baixo"
   ],
   "lowResModeWarning": [
     "Essa função melhora o desempenho em dispositivos Android, essa função deve ter pouco ou nenhum efeito na versão de PC.",
@@ -138,9 +149,11 @@
     "Você pode desabilitar essa função a qualquer momento para restaurar imediatamente a resolução da imagem."
   ],
   "cloudSaveServiceWarning": [
-    "Este recurso solicitará acesso ao seu Google Drive",
+    "Como o banco de dados de save da nuvem ainda está em construção,",
+    "este recurso temporariamente solicitará acesso ao seu Google Drive",
     "para poder armazenar os arquivos de salvamento do jogo na pasta NLCH/save.",
-    "Os arquivos de salvamento enviados serão utilizados posteriormente para sincronização e para serem baixados novamente para o jogo.",
+    "Arquivos de save enviados serão usados somente para futura sincronização e ",
+    "restaurá-los de volta ao jogo e não serão usados para quaisquer outros fins.",
     "Você concorda em conceder ao jogo acesso ao Google Drive?"
   ],
   "uploadSaveFile": [
@@ -161,6 +174,47 @@
     "Por favor, adicione-nos a sua lista de desejos e apoie-nos! (*´∀`)~♥",
     "⬇Clique abaixo para abrir a página da Steam."
   ],
+  "memberMenu": {
+    "firstTimeNotice": [
+      "Esta funcionalidade de verificação de propriedade está atualmente em fase experimental.",
+      "Você pode entrar com o Patreon aqui, ",
+      "ou vincular sua conta do Itch para verificação de propriedade.",
+      "Se você tiver uma assinatura ativa",
+      "ou já possuir o jogo no Itch,",
+      "poderá usar recursos como atualização automática de grandes atualizações.",
+      "",
+      "Observação:",
+      "No momento, a verificação está disponível apenas para jogadores ",
+      "que compraram o jogo no Itch ou no Patreon, ",
+      "ou para jogadores com uma assinatura paga no Patreon."
+    ],
+    "shortHint": " Agora é possível ativar salvamentos na nuvem e grandes atualizações",
+    "waitingLogin": "Aguardando a conclusão do login...",
+    "notLoggedIn": "Não está logado",
+    "RequestingLogin": "Solicitando link de login...",
+    "openingWindow": "Abrindo janela de login no Patreon...",
+    "cloudSave": "Usar Salvamento na Nuvem",
+    "logInFirst": "Por favor, clique neste botão para entrar primeiro",
+    "CheckUpdates": "Atualize para a versão mais recente",
+    "Subscribed": "Assinatura confirmada!",
+    "subscribedAndItchUser": "Assinatura confirmada! (Propriedade no Itch verificada)",
+    "NotSubscribed": "Nenhuma assinatura ativa detectada. Alguns recursos estão indisponíveis.",
+    "lastCheck": "Última verificação: ",
+    "checkLatestVersion": "Procurando versão mais recente, por favor aguarde...",
+    "isLatestVersion": "Você já está na versão mais recente!",
+    "notSponsor": "Usuários não verificados devem se inscrever primeiro!",
+    "ImoutoFavorite": "O(A) Favorito(a) da Imouto",
+    "itchUser": "Usuário do Itch confirmado!",
+    "nonItchUser": "Este jogo não foi encontrado na sua biblioteca do Itch!",
+    "itchVerifyNotice": "Você pode verificar a propriedade da versão do Itch aqui",
+    "itchVerifyAlert": "Por favor, faça login antes de verificar a versão do Itch!",
+    "majorUpdateFailed": [
+      "Falha na atualização da versão principal!",
+      "Código de erro: ${}",
+      "Tente fazer o login para verificação e iniciar a atualização novamente,",
+      "ou envie esta print em nosso servidor do Discord para assistência!"
+    ]
+  },
   "AdventurersPathway": {
     "mapName": "  – Caminho do Aventureiro – "
   },
@@ -169,7 +223,7 @@
     "mapDescription": "Um vasto labirinto repleto de inúmeros mistérios "
   },
   "ForgottenCatacombe": {
-    "mapName": " – Catacumba Esquecida – \n"
+    "mapName": " – Catacumba Esquecida – "
   },
   "ForestofRuins": {
     "mapName": " – Floresta das Ruínas – "
@@ -192,8 +246,5 @@
   },
   "Nibelungen": {
     "mapName": " – Nibelungen – "
-  },
-  "numberDays": [
-    "Dia"
-  ]  
+  }
 }
