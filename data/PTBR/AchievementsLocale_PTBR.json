@@ -1,0 +1,191 @@
+{
+  "categories": {
+    "SLG": {
+      "Category Name": "Memórias com a \\str[120]",
+      "New Scene Name": "  ",
+      "Trophy Description": "\\str[120] sempre será a pessoa mais importante"
+    },
+    "RPG": {
+      "Category Name": "Memórias de Lutas no Abismo",
+      "New Scene Name": "  ",
+      "Trophy Description": "Lute... continue lutando!"
+    },
+    "Gacha": {
+      "Category Name": "Memórias de Várias Coleções",
+      "New Scene Name": "  ",
+      "Trophy Description": "Dizem que se você coletar tudo, pode invocar—"
+    },
+    "Ryouri": {
+      "Category Name": "Memórias de Cozinhar",
+      "New Scene Name": " ",
+      "Trophy Description": "Cozinhar é algo que traz felicidade às pessoas"
+    },
+    "Hentai": {
+      "Category Name": "Memórias de Hentai",
+      "New Scene Name": " ",
+      "Trophy Description": "Açúcar e tempero~E tudo que há de bom~"
+    }
+  },
+  "achievements": {
+    "WhereIsImouto": {
+      "Name": "Onde Está a Imouto",
+      "Description": "Preciso encontrar a garota amada—",
+      "Pop Up Desc": "\\fs[20]Onde está minha querida Imouto…?"
+    },
+    "ItsMyImouto": {
+      "Name": "É a minha querida Imouto!",
+      "Description": "A garota amada está bem diante de mim",
+      "Pop Up Desc": "É a minha querida Imouto!"
+    },
+    "JoyStation V": {
+      "Name": "Conseguiu um Console!",
+      "Description": "Agora você pode jogar com a \\str[120]!",
+      "Pop Up Desc": [
+        "\\fs[18]Isso pode ser um jogo,",
+        "mas não é algo para se jogar"
+      ]
+    },
+    "MyImoutoIsJustThatCute": {
+      "Name": "Minha Irmãzinha É Tão Fofa Assim!",
+      "Description": "O afeto da Imouto atingiu o máximo!",
+      "Pop Up Desc": [
+        "\\fs[22]Minha Irmãzinha",
+        "É Tão Fofa Assim!"
+      ]
+    },
+    "ImoutoBodyPillow": {
+      "Name": "Travesseiro de Corpo da Imouto",
+      "Description": "Agora dá para ter a Imouto sentada no colo enquanto joga!",
+      "Pop Up Desc": "\\fs[20]Não basta só ter a Imouto?"
+    },
+    "GachaIsBadCivilization": {
+      "Name": "Gacha É Uma Má Civilização!",
+      "Description": "Gastou dinheiro demais em gacha e levou bronca da Imouto...",
+      "Pop Up Desc": "\\fs[21]Gacha É Uma Má Civilização!"
+    },
+    "CanYouSendMe50K": {
+      "Name": "Pode Me Mandar 50K~?",
+      "Description": "Deu mais de 50.000 de mesada para a Imouto de uma vez!",
+      "Pop Up Desc": "Pode Me Mandar 50K~?"
+    },
+    "PeopleDieIfTheyAreKilled": {
+      "Name": "Pessoas Morrem Se Forem Mortas?",
+      "Description": "Seu HP chega a zero no Abismo...",
+      "Pop Up Desc": [
+        "\\fs[22]Pessoas Morrem Se",
+        "Forem Mortas?"
+      ]
+    },
+    "HoardingHabit": {
+      "Name": "Hábito de Acumular",
+      "Description": "Colocou uma grande quantidade de itens na Porta Estelar",
+      "Pop Up Desc": [
+        "\\fs[22]Tenho uma doença onde",
+        "vou morrer se não acumular"
+      ]
+    },
+    "TransportedToIsekai": {
+      "Name": "Transportado Para um Isekai?",
+      "Description": "Atropelado sem piedade por um caminhão de loja...",
+      "Pop Up Desc": "\\fs[20]Magia de Reencarnação em Isekai!?"
+    },
+    "YouAreAlreadyDead": {
+      "Name": "Réquiem",
+      "Description": "Declarado morto pela Morte",
+      "Pop Up Desc": "Você Já Está Morto"
+    },
+    "AirKing": {
+      "Name": "Rei do Ar",
+      "Description": "Você já caiu tantas vezes…",
+      "Pop Up Desc": [
+        "\\fs[22]\"Você não quer ser",
+        "amigo do céu!?\""
+      ]
+    },
+    "Shichosei": {
+      "Name": "A Estrela do Presságio da Morte",
+      "Description": "Derrotado por ASABA com um golpe especial",
+      "Pop Up Desc": [
+        "\\fs[22]\"Você pode vê-la…",
+        "a Estrela do Presságio da Morte!!\""
+      ]
+    },
+    "ServantAndMaster": {
+      "Name": "Servos e Mestre",
+      "Description": "Comandar cinco Servos ao mesmo tempo",
+      "Pop Up Desc": [
+        "\\fs[22]\"Eu lhe pergunto.",
+        "Você é nosso Mestre?\""
+      ]
+    },
+    "BossFirstAppearance": {
+      "Name": "Celebre o nascimento do rei!",
+      "Description": "Enfrentar um chefe pela primeira vez",
+      "Pop Up Desc": "\\fs[18]Celebre o nascimento do rei!"
+    },
+    "UnlimitedBladeWaste": {
+      "Name": "Desperdício Infinito de Lâminas",
+      "Description": "Quebrou mais de 100 armas",
+      "Pop Up Desc": [
+        "\\fs[22]\"Você tem armas",
+        "suficientes em estoque?\""
+      ]
+    },
+    "TheSwordSaintOfTheSticks": {
+      "Name": "O Santo da Espada dos Gravetos",
+      "Description": "O resultado de um treinamento diário persistente com espada",
+      "Pop Up Desc": "\\fs[18]O Santo da Espada dos Gravetos"
+    },
+    "ItWasToMeasureMyCapacity": {
+      "Name": "Era Para Medir Minha Capacidade",
+      "Description": "Adquiriu as habilidades de um ninja",
+      "Pop Up Desc": [
+        "\\fs[22]\"ERA PARA MEDIR MINHA",
+        "CAPACIDADE.\""
+      ]
+    },
+    "DonotYouEverStop": {
+      "Name": "Você Nunca Para!",
+      "Description": "Continue correndo em altíssima velocidade",
+      "Pop Up Desc": "Você Nunca Para!"
+    },
+    "YouTooCanBecomeLight": {
+      "Name": "Você Também Pode Virar Luz!",
+      "Description": "A maldição da Aki se intensificou",
+      "Pop Up Desc": "\\fs[20]Você Também Pode Virar Luz!"
+    },
+    "ObtainWornPanties": {
+      "Name": "Calcinha Não Usada Não Tem Valor!",
+      "Description": "Recebeu uma calcinha da Imouto~!",
+      "Pop Up Desc": "\\fs[18]Calcinha Não Usada Não Tem Valor!"
+    },
+    "ErogameWithImouto": {
+      "Name": "Siscon Sem Esperança",
+      "Description": "No quarto da Imouto, usando o computador dela para fazer coisas indecentes com ela",
+      "Pop Up Desc": "Jogar com a Imouto?"
+    },
+    "Milkeddry": {
+      "Name": "Seco Até a Última Gota...",
+      "Description": "Não sobrou... nem uma única gota...",
+      "Pop Up Desc": [
+        "\\fs[22]\"Não sobrou...",
+        "nem uma única gota...\""
+      ]
+    },
+    "StairwayToAdulthoodI": {
+      "Name": "Escada para a Vida Adulta♥",
+      "Description": "Faça a Imouto ler doujinshi safados",
+      "Pop Up Desc": "Escada Para a Vida Adulta ♥"
+    },
+    "StairwayToAdulthoodII": {
+      "Name": "Escada Para a Vida Adulta ♥♥",
+      "Description": "Faça a Imouto usar brinquedos sexuais",
+      "Pop Up Desc": "\\fs[22]Escada Para a Vida Adulta ♥♥"
+    },
+    "StairwayToAdulthoodIII": {
+      "Name": "Escada Para a Vida Adulta ♥♥♥",
+      "Description": "Ensine à Imouto as alegrias do sexo",
+      "Pop Up Desc": "\\fs[20]Escada Para a Vida Adulta ♥♥♥"
+    }
+  }
+}

@@ -1,0 +1,770 @@
+{
+  "Note": [
+    "(Esta nota é apenas para o tradutor e não precisa ser traduzida.)",
+    "Se você notar espaços estranhos aparecendo em cada linha de texto, são placeholders.",
+    "O jogo já está configurado para que cada caixa de diálogo possa exibir no máximo quatro linhas de texto,",
+    "e qualquer texto que exceda quatro linhas continuará automaticamente na próxima caixa de diálogo.",
+    "Para evitar quebras de linha estranhas na exibição real, eu manualmente corto as passagens longas sempre que necessário para que,",
+    "na medida do possível, uma frase completa apareça dentro de uma única caixa de diálogo.",
+    "A inserção intencional de espaços serve para dividir o texto em conteúdo para diferentes caixas de diálogo.",
+    "Portanto, ao traduzir para outros idiomas, você pode seguir esta regra e adicionar placeholders em branco você mesmo para dividir o texto."
+  ],
+  "1": {
+    "0": [
+      "Eu prendo a respiração, me movendo até a cabeceira da cama da \\str[120] ",
+      "tão silenciosamente quanto um fantasma na noite.",
+      "...Heh, até eu fico impressionado com habilidades de furtividade como essas."
+    ],
+    "1": [
+      "Eu cuidadosamente deslizo os pés para o lado da cama,",
+      "com medo de que o leve rangido das tábuas do piso possa acordar a \\str[120]."
+    ],
+    "2": [
+      "O que eu devo fazer...?"
+    ],
+    "10": [
+      "Primeiro, eu devo dar uma olhada cuidadosa na condição da \\str[120].",
+      "\\w[60]\\^"
+    ],
+    "11": [
+      "A \\str[120] está dormindo tão profundamente, ",
+      "provavelmente não vai notar se eu der alguns toques leves nela, né...?",
+      "\\w[60]\\^"
+    ],
+    "12": [
+      "Gulp... Estou começando a ficar nervoso...",
+      "\\w[60]\\^"
+    ],
+    "13": [
+      "É mais seguro manter um pouco de distância por enquanto.",
+      "Vai ser um desastre se eu for pego...",
+      "\\w[60]\\^"
+    ],
+    "14": [
+      "Na verdade, vou chegar um pouco mais perto... ",
+      "Quero vê-la com mais clareza.",
+      "\\w[60]\\^"
+    ],
+    "15": [
+      "Será que eu devo parar por aqui...?",
+      "Já está tarde."
+    ],
+    "16": [
+      "Voltar a dormir",
+      "Ficar mais um pouco"
+    ],
+    "17": [
+      "É, eu também deveria voltar logo para dormir."
+    ],
+    "18": [
+      "Vou ficar só mais um pouquinho.",
+      "Nunca me canso de olhar para esse rosto indefeso enquanto ela dorme..."
+    ],
+    "19": [
+      "Droga, antes disso, ",
+      "eu tenho que arrumar as roupas da \\str[120] que eu baguncei.",
+      "Não posso deixar nenhum rastro—"
+    ],
+    "20": [
+      "Ufa, ficou exatamente como estava antes..."
+    ],
+    "21": [
+      "Não consigo resistir e dou uma última carícia na cabeça da \\str[120]",
+      "antes de, satisfeito, voltar sorrateiramente para o meu quarto e apagar."
+    ],
+    "22": [
+      "Ah não, já está tão tarde—        \\w[30]",
+      "Amanhã tenho que acordar cedo, ",
+      "preciso voltar a dormir agora..."
+    ],
+    "23": [
+      "Mau sinal, as pálpebras da \\str[120] estão tremendo.",
+      "Ela está prestes a acordar—! Não posso continuar!",
+      "Vamos encerrar por hoje..."
+    ],
+    "24": [
+      "Eu cuidadosamente viro o corpo da \\str[120].",
+      "Embora o som das roupas roçando nos lençóis seja penetrante",
+      "no silêncio mortal do quarto, a \\str[120] parece completamente ",
+      "mergulhada em um sonho profundo, sem nenhum sinal de acordar."
+    ]
+  },
+  "2": {
+    "0": [
+      "O que é isso... alguma espécie nova e fofa de réptil?",
+      "Eu sabia que a \\str[120] às vezes tinha maus hábitos de sono,",
+      "mas essa pose bizarra diante de mim me deixa ",
+      "em um estado momentâneo de confusão."
+    ],
+    "1": [
+      "Que tipo de sonho resulta em uma pose como essa..."
+    ],
+    "2": [
+      "Mesmo que a \\str[120] esteja dormindo profundamente ",
+      "e não pareça desconfortável,",
+      "eu decidi arrumar a postura dela para dormir.",
+      "É muito preocupante olhar para isso de outro jeito..."
+    ],
+    "3": [
+      "\"....................\""
+    ],
+    "4": [
+      "Graças aos meus esforços, ",
+      "eu consegui colocar a \\str[120] em uma posição diferente."
+    ],
+    "5": [
+      "\"...Ah, droga!",
+      "No final acabou virando uma pose estranha de dormir mesmo...!\""
+    ]
+  },
+  "6": {
+    "0": [
+      "O rosto da \\str[120] está corado com um vermelho carmesim anormalmente profundo, ",
+      "um calor que parece ter se espalhado das bochechas até as orelhas.",
+      "Seus suspiros úmidos e rápidos são claramente audíveis no quarto silencioso,",
+      "como se cada respiração contasse uma história de alguma emoção indizível."
+    ],
+    "1": [
+      "A bochecha rechonchuda e arredondada da \\str[120] se apoia levemente no travesseiro.",
+      "Esse rosto indefeso enquanto dorme irradia uma pureza inocente e infantil.",
+      "Só de observá-la já traz uma sensação de paz interior que cura a alma."
+    ],
+    "2": [
+      "No momento em que meus dedos tocam a bochecha da \\str[120], ",
+      "um calor incomum e ardente é transmitido através deles.",
+      "As finas gotas de suor que escapam do calor dão à pele dela ",
+      "uma textura delicada, escorregadia e úmida."
+    ],
+    "3": [
+      "Eu tento beliscar de leve a bochecha fofinha da \\str[120].",
+      "A textura macia, parecida com mochi e elástica é absolutamente viciante;",
+      "a espessa elasticidade sob meus dedos parece exatamente ",
+      "as bochechas de um esquilo."
+    ],
+    "4": [
+      "Vou tentar dar uns tapinhas na cabeça da \\str[120]. ",
+      "Talvez isso ajude ela a dormir mais profundamente."
+    ],
+    "5": [
+      "Eu estendo a mão, meus dedos afundando gentilmente no cabelo ",
+      "sedoso e liso da \\str[120], acariciando lentamente sua cabecinha.",
+      "A \\str[120] solta um murmúrio satisfeito e fraco, ",
+      "parecendo conseguir sentir meu toque mesmo dormindo."
+    ],
+    "6": [
+      "Eu pressiono a palma contra a testa ligeiramente suada da \\str[120],",
+      "amassando repetidamente através das raízes pegajosas do cabelo, ",
+      "absorvendo aquele cheiro denso que quase chega a ser enjoativo.",
+      " ",
+      "Mesmo que o corpo dela estremeça reflexivamente por causa do calor, ",
+      "a testa franzida antes vai relaxando aos poucos."
+    ],
+    "7": [
+      "Afastando os fios prateados da bochecha dela, ",
+      "as orelhas longas e pontudas da \\str[120] são reveladas.",
+      "Sob a luz fraca, essas orelhas têm uma qualidade quase transparente,",
+      "subindo e descendo levemente com sua respiração, parecendo ao mesmo tempo sagradas e serenas."
+    ],
+    "8": [
+      "Mesmo no quarto escuro, é óbvio à primeira vista que as pontas ",
+      "das orelhas da \\str[120] estão vermelhas o suficiente para pingar sangue.",
+      "Aquele calor iminente é uma acusação silenciosa da inquietação",
+      " indizível dentro dela..."
+    ],
+    "9": [
+      "Eu estendo a mão, meus dedos traçando levemente",
+      " a borda fria e delicada da orelha da \\str[120].",
+      "Enquanto eu a acaricio gentilmente, ela solta um",
+      "ronronar doce, parecido com o de um gatinho."
+    ],
+    "10": [
+      "No momento em que belisco aquelas pontas de orelha ardentes, ",
+      "um calor assustador se espalha pelos meus dedos.",
+      "Com apenas um leve amassar, o corpo da \\str[120] começa a tremer suavemente."
+    ]
+  },
+  "7": {
+    "0": [
+      "A mãozinha da \\str[120] repousa quietinha ao lado, ",
+      "seus dedos esguios e brancos como marfim."
+    ],
+    "1": [
+      "Eu seguro gentilmente a mão fria e macia da \\str[120] na minha,",
+      "meus dedos traçando o contorno dos nós frágeis dela, ",
+      "ocasionalmente provocando a palma com um toque travesso."
+    ],
+    "2": [
+      "A \\str[120] está com as pernas encolhidas, ",
+      "seus dedos claros dos pés se curvando naturalmente no sono profundo.",
+      "O arco delicado da planta do pé dela emite um brilho parecido com cetim ",
+      "sob a luz."
+    ],
+    "3": [
+      "As pontas dos dez dedinhos da \\str[120] estão instintivamente agarrando ",
+      "os lençóis por causa de algum calor estranho, e o suor fino ",
+      "nas solas reflete um brilho escorregadio na luz."
+    ],
+    "4": [
+      "Eu estendo a mão, ",
+      "meus dedos roçando levemente as solas dos pés da \\str[120].",
+      "Mesmo com esse nível de carícia, ela encolhe as pernas ",
+      "ainda mais como se estivesse com cócegas."
+    ],
+    "5": [
+      "Segurando aquelas solas coradas de rosa pela febre alta, ",
+      "um calor assustador se espalha instantaneamente para as pontas dos meus dedos.",
+      " ",
+      " ",
+      "Enquanto eu as amasso de forma brincalhona, ",
+      "os dez dedinhos dela se curvam com força por causa da hipersensibilidade,",
+      "esticando a planta branca do pé em uma curva tentadora."
+    ],
+    "6": [
+      "Na posição deitada de lado, ",
+      "a barriga da \\str[120] forma uma curva extremamente plana e macia.",
+      "Ela sobe e desce uniformemente com sua respiração estável, ",
+      "irradiando uma beleza vulnerável e inocente."
+    ],
+    "7": [
+      "Eu apoio gentilmente a mão na barriga plana e macia dela.",
+      "Normalmente, a \\str[120] reclamaria se eu acho que ela está engordando,",
+      "e só de pensar nisso já me dá mais vontade de esfregar."
+    ],
+    "8": [
+      "Na luz fraca, ",
+      "a pele de todo o corpo da \\str[120] tem um tom marfim translúcido.",
+      "O ar está cheio de um leve perfume feminino, ",
+      "como se cada centímetro da pele dela irradiasse uma aura tentadora."
+    ],
+    "9": [
+      "A pele originalmente branca da \\str[120] agora está corada com um ",
+      "tentador vermelho pêssego, especialmente nas juntas e no pescoço, ",
+      "onde o rubor é particularmente profundo e úmido.",
+      " ",
+      "Por causa da temperatura crescente, um cheiro feminino denso e ",
+      "enjoativo paira no ar,",
+      "tornando impossível não querer senti-la ainda mais de perto."
+    ],
+    "10": [
+      "Meus dedos deslizam sobre a pele da \\str[120]. ",
+      "Aquele toque sedoso e fresco, combinado com a elasticidade ",
+      "surpreendente de uma garota, torna difícil tirar a mão."
+    ],
+    "11": [
+      "No momento em que toco a pele da \\str[120], ",
+      "meus dedos são envolvidos por um calor assustador.",
+      "Cada centímetro de pele pressionado pelos meus dedos deixa uma marca vermelha temporária.",
+      "Mesmo dormindo, o corpo dela treme com meus movimentos."
+    ]
+  },
+  "9": {
+    "0": [
+      "Primeiro, ",
+      "vou tentar puxar esse baby-doll irritante um pouco para baixo..."
+    ],
+    "1": [
+      "Eu tenho que deslizar cuidadosamente a alça para o lado para ",
+      "deixar toda a peça cair do ombro dela.",
+      "Esse é o passo mais crítico... ",
+      "o movimento tem que ser lento, ainda mais lento..."
+    ],
+    "2": [
+      "O último obstáculo desapareceu.",
+      "Enquanto a \\str[120] ainda está dormindo, ",
+      "vamos tirá-lo completamente de uma vez!"
+    ],
+    "3": [
+      "Começar pela borda do short, ",
+      "puxando-o só um pouquinho..."
+    ],
+    "4": [
+      "Isso... assim mesmo.",
+      "Continue puxando devagar, e logo tudo será revelado—"
+    ],
+    "5": [
+      "Cheguei na base das coxas dela.",
+      "Com um único impulso de energia, ",
+      "vamos tirar esses shorts irritantes de uma vez!"
+    ],
+    "6": [
+      "Não dá, o short de fora está bloqueando tudo. ",
+      "Preciso tirar a camada externa primeiro."
+    ],
+    "7": [
+      "Já que eu já a despi até aqui, ",
+      "é melhor tirar a calcinha dela também!"
+    ],
+    "8": [
+      "Embora essa sensação de \"espiadinha\" envolta seja extremamente charmosa,",
+      "estou mais interessado no que realmente está sob o tecido agora...",
+      "Como esperado, vamos só tirar!"
+    ],
+    "9": [
+      "Aplicar um pouco mais de força e puxar mais para baixo...",
+      "Vou conseguir ver o lugar mais privado da \\str[120] ",
+      "em apenas um segundo..."
+    ],
+    "10": [
+      "Agora é a hora—",
+      "vamos descobrir completamente essa última linha de defesa!"
+    ]
+  },
+  "12": {
+    "1": [
+      "A \\str[120] não tem a melhor constituição, ",
+      "mas o jeito dela dormir é incrivelmente ousado."
+    ],
+    "2": [
+      "\"Quanto revirar na cama é preciso para acabar ",
+      "em uma pose estranha como essa...?\""
+    ],
+    "3": [
+      "Já que me deparei com uma visão tão fresca, ",
+      "será que devo aproveitar a chance para fazer alguma coisa...?"
+    ],
+    "4": [
+      "Levantar a bunda dela",
+      "Ajustar a postura de sono"
+    ],
+    "5": [
+      "Hmm... nessa posição, ",
+      "talvez eu realmente consiga..."
+    ],
+    "6": [
+      "\"....................\""
+    ],
+    "7": [
+      "Sob minha manipulação, ",
+      "a \\str[120] fica em uma pose que é ao mesmo tempo cômica e sedutora."
+    ],
+    "8": [
+      "Mesmo assim, ela continua dormindo profundamente sem sinal de acordar...",
+      "Sinto que posso fazer um pouco mais?"
+    ],
+    "9": [
+      "Não, não, cai na real!",
+      "Como eu poderia tratar a \\str[120] como um brinquedo...!?"
+    ],
+    "10": [
+      "\"...Se ela dormir assim, ",
+      "o corpo dela vai estar todo dolorido para se mexer amanhã.\""
+    ],
+    "11": [
+      "Tocar na buceta",
+      "Tocar na bunda",
+      "Tirar a calcinha",
+      "Tirar o short",
+      "Ajuste a pose de dormir"
+    ],
+    "12": [
+      "Quando a última cobertura é removida, ",
+      "a parte inferior do corpo da \\str[120] fica completamente exposta.",
+      "Aquela buceta rechonchuda de cor elegante agora está indefesa ",
+      "sob a luz e sombra."
+    ],
+    "13": [
+      "Eu estava preparado para isso,",
+      "mas ver a \\str[120] completamente pelada lá embaixo",
+      "faz um impulso estranho surgir no meu coração."
+    ],
+    "14": [
+      "Não consigo evitar estender o dedo em direção ",
+      "à parte mais profunda da fenda...",
+      "Mesmo sendo ainda uma florzinha tenra e em botão, ",
+      "parece possuir um poder mágico, agarrando firme a ponta do meu dedo."
+    ],
+    "15": [
+      "Eu prendo a respiração, separando hesitante aquelas pétalas fechadas... \\w[60]",
+      "Isso mesmo, essa terra sagrada da \\str[120] que ninguém ",
+      "ainda pisou está prestes a ser tomada por mim...!"
+    ],
+    "16": [
+      "Não posso ser culpado... ",
+      "é que a bunda arredondada da \\str[120] é tentadora demais...",
+      "Eu murmuro essas desculpas autoenganosas na cabeça ",
+      "enquanto estendo a mão."
+    ],
+    "17": [
+      "Mesmo através de uma fina camada de tecido, ",
+      "consigo sentir claramente o contorno da bunda da \\str[120].",
+      " ",
+      " ",
+      "Pressionando levemente para baixo, ",
+      "meus dedos afundam em uma massa de carne quente e macia.",
+      "A cada amassada gentil, ",
+      "o corpo sob o tecido dá um pulo completo."
+    ],
+    "18": [
+      "Comparado ao short de fora, ",
+      "essa calcinha de laços laterais oferece uma cobertura ridiculamente pequena.",
+      "Quando minha palma cobre completamente a bunda da \\str[120], meus dedos facilmente ",
+      "ultrapassam a borda do tecido, descansando direto na pele dela."
+    ],
+    "19": [
+      "Eu instintivamente deslizo os dedos entre a calcinha da \\str[120] ",
+      "e a bunda dela, esfregando repetidamente.",
+      "Eu gosto de ver os laços ficando frouxos e precários ",
+      "sob meus dedos invasores."
+    ],
+    "20": [
+      "\\nl< >\"Ugh... mmmgh...\""
+    ],
+    "21": [
+      "A \\str[120] parece sentir a anormalidade na parte inferior do corpo ",
+      "e solta um murmúrio de resistência.",
+      " ",
+      " ",
+      "Aquele gemido suave, aparentemente relutante, é como ",
+      "um balde de água gelada jogado diretamente no meu coração.",
+      "Eu retiro a mão desajeitadamente, sem ousar fazer barulho."
+    ],
+    "22": [
+      "Felizmente, ",
+      "o sono pesado puxa a \\str[120] de volta para os sonhos mais uma vez.",
+      "Eu expiro lentamente, com o vento frio soprando, ",
+      "meu cérebro aquecido finalmente esfria.",
+      "Eu definitivamente estava indo rápido demais agora há pouco. ",
+      "Vamos... parar por aqui por enquanto."
+    ]
+  },
+  "8": {
+    "0": [
+      "Me inclinando, cada respiração é preenchida com o leve cheiro de laranja da \\str[120].",
+      "Através do baby-doll fino, aqueles contornos empinados são claramente visíveis,",
+      "com os dois pontinhos no centro se destacando fortemente sob a sombra da lâmpada."
+    ],
+    "1": [
+      "Me inclinando, cada respiração é preenchida com o leve cheiro de laranja da \\str[120].",
+      "Através do baby-doll fino, aqueles contornos empinados são claramente visíveis,",
+      "subindo e descendo na minha visão com a respiração dela."
+    ],
+    "2": [
+      "Quando o baby-doll é puxado um pouco para baixo, ",
+      "a borda de uma auréola suave fica vagamente visível.",
+      "Sem a restrição da roupa, essa sensação tangível de volume ",
+      "é muitas vezes mais espetacular do que quando vista através do tecido."
+    ],
+    "3": [
+      "O baby-doll foi puxado para baixo mais da metade. ",
+      "Os seios da \\str[120] estão quase totalmente expostos.",
+      "Os mamilos e auréolas são de um rosa vivo e não desenvolvido, ",
+      "com formato arredondado e perfeito."
+    ],
+    "4": [
+      "Os seios da \\str[120] são apresentados diante de mim sem nenhuma ocultação.",
+      "Incomum para o corpo esguio dela, ",
+      "eles são como frutas pesadas penduradas em um galho fino;",
+      "só de olhar já dá vontade de dar uma mordida forte."
+    ],
+    "5": [
+      "Eu estendo a mão e agarro um através do baby-doll. ",
+      "Minha palma é instantaneamente preenchida com uma maciez extrema.",
+      " ",
+      " ",
+      "Meus dedos traçam aquele contorno empinado através do tecido. ",
+      "A \\str[120] parece gostar dessa carícia profunda,",
+      "pois a respiração dela fica ainda mais doce enquanto dorme."
+    ],
+    "6": [
+      "Eu estendo a mão e agarro um através do baby-doll. ",
+      "Minha palma é instantaneamente preenchida com uma maciez extrema.",
+      "Essa sensação — afundando como um marshmallow, mas cheia de vida —",
+      "é realmente impossível de largar."
+    ],
+    "8": [
+      "Agora que o baby-doll foi puxado até a metade, ",
+      "finalmente consigo tocá-la diretamente.",
+      "O calor assustador ao redor da auréola faz cada deslize dos ",
+      "meus dedos parecer andar sobre uma borda em chamas."
+    ],
+    "9": [
+      "Os mamilos nas pontas ficaram completamente eretos.",
+      "Quando eu os torço com os dedos, eles parecem incrivelmente quentes,",
+      "uma sensação completamente diferente de tocá-los através da roupa."
+    ],
+    "10": [
+      "Meus dedos afundam profundamente naquela massa de carne rechonchuda e macia. ",
+      "Essa sensação suprema faz eu estremecer de excitação."
+    ],
+    "11": [
+      "Conforme mais do baby-doll é puxado para baixo,",
+      "a área que consigo tocar fica cada vez maior."
+    ],
+    "12": [
+      "Eu pego o seio inteiro da \\str[120] na mão e o amasso sem pudor,",
+      "como uma bola de massa crua macia, ",
+      "mudando para várias formas indecentes sob minha força."
+    ],
+    "13": [
+      "Minha palma é ocasionalmente roçada por aquele pontinho duro.",
+      "Se eu sentir com atenção, consigo perceber claramente que ",
+      "a temperatura do corpo da \\str[120] está subindo."
+    ],
+    "14": [
+      "O batimento cardíaco da \\str[120] está passando por essa camada de gordura macia",
+      "e sendo transmitido claramente para a minha palma."
+    ],
+    "15": [
+      "Essas montanhas macias, quentes e rechonchudas da \\str[120] finalmente ",
+      "caíram completamente nas minhas mãos. ",
+      "Essa carne tangível e o calor do corpo fazem as tentativas anteriores ",
+      "através do baby-doll parecerem bem sem graça."
+    ],
+    "16": [
+      "Quando belisco e provoco o mamilo com um pouco mais de força,",
+      "consigo ouvir um suspiro fraco escapar dos lábios dela, e o corpinho dela estremece."
+    ],
+    "17": [
+      "Cada amassada resulta em um feedback completamente diferente e fresco;",
+      "minha palma parece estar firmemente grudada nela como se por alguma magia chamada desejo."
+    ],
+    "19": [
+      "Por causa da posição deitada de lado e encolhida, ",
+      "as pernas da \\str[120] estão bem cruzadas,",
+      "apertando a base das coxas em uma curva rechonchuda e macia. ",
+      "A pele dela é tão branca que parece brilhar."
+    ],
+    "20": [
+      "A pele do interior das coxas da \\str[120] está atualmente corada ",
+      "um rosa tentador, com finas gotas de suor escorrendo pela virilha.",
+      "Conforme a respiração dela fica inquieta, ",
+      "os pés cruzados ocasionalmente se esfregam um no outro."
+    ],
+    "21": [
+      "Eu estendo a mão e deslizo pela longa linha, ",
+      "meus dedos afundando na carne macia da base da coxa dela.",
+      " ",
+      " ",
+      "Mesmo com esse nível de carícia gentil, ",
+      "a \\str[120] instintivamente chuta levemente a perna enquanto dorme.",
+      "Acho esse feedback animalesco bem interessante."
+    ],
+    "22": [
+      "No momento em que deslizo hesitantemente os dedos naquela ",
+      "fenda bem fechada entre as coxas dela, ",
+      "a \\str[120] instintivamente aperta as pernas.",
+      " ",
+      "Meus dedos são imediatamente envolvidos e ",
+      "apertados por duas massas de carne quente e macia.",
+      "especialmente com o suor fino causado pela temperatura crescente, ",
+      "essa fricção pele com pele fica excepcionalmente escorregadia."
+    ],
+    "23": [
+      "Mesmo através daqueles shorts fofos,",
+      "os contornos arredondados da bunda da \\str[120] são claramente visíveis, ",
+      "esticando o tecido."
+    ],
+    "24": [
+      "\"Hehe... ela está usando \\sa[\\v[90]] agora.",
+      "Parece que essa vai ser a cor da sorte de amanhã~\""
+    ],
+    "25": [
+      "Quando o short é puxado um pouco para baixo, a borda daquela fenda branca e ",
+      "profunda da bunda fica visível.",
+      "Só de olhar para a carne espremida pela pressão, ",
+      "já consigo imaginar como a textura deve ser boa."
+    ],
+    "26": [
+      "A borda da calcinha minúscula afundou profundamente na curva da fenda,",
+      "realçando completamente a qualidade pesada da bunda da \\str[120].",
+      "Essa curva rechonchuda e apertada, junto com as leves ruguinhas,",
+      "só dá vontade de estender a mão e tocar."
+    ],
+    "27": [
+      "A bunda da \\str[120] é apresentada diante de mim sem nenhuma ocultação, ",
+      "emitindo um brilho escorregadio sob a luz.",
+      "Eu realmente quero dar um tapa forte só para ver ela balançar."
+    ],
+    "28": [
+      "Amassar a bunda da \\str[120] através do tecido fofinho ",
+      "parece brincar com um grande bicho de pelúcia.",
+      "Aquele pulo macio como mochi me dá vontade de apertar mais algumas vezes."
+    ],
+    "29": [
+      "............Espera, isso é estranho.",
+      "Não percebi quando, ",
+      "mas minha palma está começando a sentir uma umidade pegajosa.",
+      "Por que o tecido que antes estava seco está ficando grudento?"
+    ],
+    "30": [
+      "Quando o short é puxado um pouco mais para baixo, ",
+      "minha palma finalmente ultrapassa o obstáculo do tecido",
+      "e repousa tangivelmente contra a bunda da \\str[120].",
+      "A satisfação intensa me faz apertar com força algumas vezes."
+    ],
+    "31": [
+      "Sem o short para esconder, ",
+      "a bunda arredondada da \\str[120] está completamente apresentada diante de mim.",
+      " ",
+      " ",
+      "Além disso, aquela calcinha fina ainda está cortando fundo na fenda dela,",
+      "definindo completamente o contorno da bunda, ",
+      "até deixando as ruguinhas tentadoras claramente visíveis."
+    ],
+    "32": [
+      "Com um espírito um pouco travesso, eu estendo o dedo",
+      "e lentamente afundo em direção à depressão mais profunda—",
+      "Conforme o tecido é empurrado para dentro daquela fenda estreita pela ponta do meu dedo, o contorno já ",
+      "proeminente fica ainda mais profundo e definido pela pressão."
+    ],
+    "33": [
+      "O que me excita ainda mais é que o tecido ",
+      "empurrado para dentro é instantaneamente encharcado por uma onda de umidade.",
+      "Com apenas uma mexida do dedo, consigo sentir aquela ",
+      "umidade pegajosa se espalhando ao redor da ponta do meu dedo."
+    ],
+    "34": [
+      "A bunda da \\str[120] agora está exibida diante de mim completamente nua.",
+      "Eu tento pressionar a palma inteira firmemente contra ela,",
+      "depois a agarro e amasso travessamente à vontade."
+    ],
+    "35": [
+      "Depois de apenas algumas rodadas de amassadas, ",
+      "minha palma de repente fica manchada com um brilho claro e pegajoso.",
+      " ",
+      " ",
+      "É o suco de excitação úmido que vaza da parte mais profunda da fenda, ",
+      "sendo espalhado repetidamente pelos meus movimentos,",
+      "tornando cada aperto seguinte excepcionalmente escorregadio."
+    ],
+    "36": [
+      "Essa elasticidade macia e carnuda é cheia de cura.",
+      "Quase tenho vontade de usar como travesseiro e dormir assim."
+    ],
+    "37": [
+      "Os shorts irritantes ainda estão bloqueando o ponto mais crítico. ",
+      "essa sensação de \"falta tão pouco\" é realmente provocante.",
+      "Parece que não vou conseguir ver a paisagem real a menos que ",
+      "eu os puxe um pouco mais para baixo."
+    ],
+    "38": [
+      "Mesmo com os shorts na metade, ",
+      "a calcinha por dentro ainda está guardando a última passagem.",
+      "Essa aparência \"meio escondida\" é a mais agoniante. ",
+      "Só consigo ver um pedacinho da borda branca pura naquela fenda estreita."
+    ],
+    "39": [
+      "...Olhando de perto, consigo ver uma pequena mancha de cor escura ",
+      "de água se espalhando no meio daquela fenda estreita.",
+      "Aquele aspecto molhado e translúcido... mesmo sem tocar, ",
+      "consigo sentir um calor assustador."
+    ],
+    "40": [
+      "Sem o short para esconder, o contorno da fenda dela, ",
+      "bem definido pelo tecido branco puro, fica claramente visível.",
+      "Mesmo que a coisa real ainda esteja escondida, ",
+      "essa visão tantalizante e meio oculta é ainda mais excitante."
+    ],
+    "41": [
+      "Mesmo que a calcinha dela tenha sido puxada um pouco para baixo,",
+      "as camadas de tecido branco estão todas emboladas na base das coxas dela,",
+      "completamente obstruindo a visão mais crítica.",
+      " ",
+      "Essa sensação de estar tão perto, ",
+      "mas ainda incapaz de alcançar o jardim secreto dela, é realmente agoniante."
+    ],
+    "42": [
+      "Eu apoio a palma no corpo inferior da \\str[120] e ",
+      "acaricio para frente e para trás lentamente.",
+      "Através daquela camada grossa de tecido, ",
+      "só consigo sentir uma massa de calor e maciez assustadores.",
+      "A resistência da fricção do tecido só alimenta ",
+      "meu desejo de arrancá-lo completamente."
+    ],
+    "43": [
+      "...Minha palma logo fica cheia de uma umidade pegajosa.",
+      "Parece que o corpo da \\str[120] já virou uma bagunça por causa do calor.",
+      "Até um tecido dessa espessura está prestes a ",
+      "ficar encharcado de suco de excitação."
+    ],
+    "44": [
+      "Eu estendi a mão, ",
+      "esperando ser bloqueado pelo tecido da calcinha dela,",
+      "mas no momento em que meus dedos roçaram, ",
+      "fui envolvido por umidade.",
+      "Aqueles fluidos pegajosos já tinham transbordado, ",
+      "encharcando as dobras do tecido e ",
+      "cobrindo os espaços entre meus dedos."
+    ],
+    "45": [
+      "Eu tentei alcançar por cima, ",
+      "meus dedos afundando nas camadas de tecido branco embolado.",
+      "A sensação da trama grossa mascarava completamente ",
+      "a maciez por baixo.",
+      "além da sensação avassaladora de algodão, ",
+      "eu não conseguia sentir nada."
+    ],
+    "46": [
+      "Sem a barreira grossa do short dela, ",
+      "agora só uma fina camada de tecido branco ficava ",
+      "diante da virilha da \\str[120].",
+      " ",
+      "Eu apoiei a mão sobre ela, ",
+      "amassando as montanhas macias através da calcinha à vontade,",
+      "sentindo as ondas de calor corporal irradiando de baixo do pano."
+    ],
+    "47": [
+      "Depois eu fui um passo além, ",
+      "enfiando meus dedos entre as dobras da calcinha",
+      "e sondando cautelosamente aquela fenda estreita."
+    ],
+    "48": [
+      "Como os fluidos dela já tinham encharcado ",
+      "o tecido há muito tempo, meus dedos afundaram fundo na ",
+      "fenda quase sem esforço algum.",
+      " ",
+      "Uma série de sons molhados e ",
+      "grossos de \"squelch\" seguiu cada mexida dos meus dedos."
+    ],
+    "49": [
+      "Apesar de só alcançar uma profundidade rasa,",
+      "as almofadas dos meus dedos já estavam fazendo contato tangível ",
+      "com aquela carne interna e macia.",
+      " ",
+      "A sucção escorregadia e grudenta me deixou com vontade de ",
+      "provar ainda mais fundo..."
+    ],
+    "50": [
+      "Eu pensei que tirá-la só um pouco me daria liberdade total,",
+      "mas o tecido irritante todo embolado, ",
+      "completamente obstruindo a área mais crítica.",
+      " ",
+      "Tudo que eu conseguia sentir era a textura seca da trama. ",
+      "a frustração de errar o alvo fazia meu coração coçar."
+    ],
+    "51": [
+      "Com a última camada de tecido removida, ",
+      "a buceta da \\str[120] agora estava completamente nua diante dos meus olhos,",
+      "aquela visão rosada e delicada exigindo toda a minha atenção."
+    ],
+    "52": [
+      "Prendendo a respiração, eu estendi hesitantemente o dedo indicador, ",
+      "separando cuidadosamente aqueles lábios bem fechados",
+      "para que eu pudesse explorar ainda mais fundo nos momentos seguintes."
+    ],
+    "53": [
+      "Encharcados repetidamente pelos fluidos dela, ",
+      "os lábios dela agora estavam macios como pudim e tão escorregadios ",
+      "que meus dedos quase deslizavam.",
+      " ",
+      "Com um leve apertão, ",
+      "conseguia sentir uma inundação de fluido pegajoso sendo forçada para fora ",
+      "entre meus dedos."
+    ],
+    "54": [
+      "A sensação contra meus dedos era ",
+      "impossivelmente macia, escorregadia e delicada.",
+      " ",
+      " ",
+      "Eu tracei pacientemente todo o comprimento daquela ",
+      "fenda estreita de cima a baixo,",
+      "sentindo cada curva e dobra."
+    ],
+    "55": [
+      "Embora a calcinha não estivesse completamente fora, ",
+      "a buceta da \\str[120] havia perdido sua cobertura.",
+      "Aquela fenda rosa e bem fechada estava exposta, ",
+      "irradiando ondas de calor tentador."
+    ]
+  }
+}

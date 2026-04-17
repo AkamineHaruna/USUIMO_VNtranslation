@@ -1,390 +1,728 @@
 {
+  "2": {
+    "0": [
+      "—Não consigo mais continuar.",
+      "Não consigo parar de imaginar coisas.",
+      "Estou completamente sem inspiração..."
+    ],
+    "1": [
+      "Continuar a Delusão",
+      "Parar a Delusão"
+    ],
+    "2": [
+      "Enquanto estou sentado no vaso, pensamentos",
+      "que eu normalmente não notaria começam a passar pela minha mente."
+    ],
+    "3": [
+      "Pensando bem,",
+      "mesmo os Grandes Sábios começaram como humanos comuns.",
+      "Talvez eles também, enquanto estavam no banheiro assim,",
+      "atingiram um nível de foco sem precedentes—"
+    ],
+    "4": [
+      "\\{Em outras palavras, muitas das verdades do mundo",
+      "foram concebidas no banheiro!"
+    ],
+    "5": [
+      "Ufa, é tudo só uma ilusão.",
+      "Como um Grande Sábio poderia ser uma pessoa tão vulgar...?"
+    ],
+    "6": [
+      "Passei um tempo matando o tempo",
+      "com esses pensamentos aleatórios no banheiro..."
+    ],
+    "7": [
+      "O universo nasceu do nada no começo,",
+      "mas qual é o propósito da sua existência?"
+    ],
+    "8": [
+      "Qual é o significado da nossa existência como humanos?"
+    ],
+    "9": [
+      "Qual é o significado da vida?"
+    ],
+    "10": [
+      "——Sinto como se minha consciência estivesse sendo transcendida."
+    ],
+    "11": [
+      "Oh, universo, por favor me dê um sinal.",
+      "Qual é a resposta definitiva para a vida, o universo e tudo mais?"
+    ],
+    "12": [
+      "(Fecho os olhos e aceito as revelações do cosmos—)"
+    ],
+    "13": [
+      "Um pensamento de repente surge na minha mente.",
+      "Mas o que diabos isso significa...?"
+    ],
+    "14": [
+      "Deus disse: \"Que haja uma irmãzinha.\"",
+      "E assim, houve uma irmãzinha neste mundo."
+    ],
+    "15": [
+      "Em outras palavras...",
+      "Ela existe, portanto eu existo..."
+    ],
+    "16": [
+      "Fico emocionado até as lágrimas por ter",
+      "compreendido o significado definitivo da vida."
+    ],
+    "17": [
+      "Hmm... a vida com a \\str[120] ultimamente finalmente",
+      "me fez perceber algumas coisas que eu estava ignorando..."
+    ],
+    "18": [
+      "Foi uma jornada cheia de tensão,",
+      "mas felizmente ela cresceu em segurança,",
+      "e sua constituição finalmente se estabilizou..."
+    ],
+    "19": [
+      "Como família, realmente é bastante gratificante."
+    ],
+    "20": [
+      "\\{Mas...!        \\}\\w[40]",
+      "A \\str[120] é uma garota afinal,",
+      "e o corpo dela está se desenvolvendo aos poucos.",
+      "\\w[10]",
+      "Como o único homem da casa agora,",
+      "essas mudanças são... um pouco estimulantes demais."
+    ],
+    "21": [
+      "Além disso, ela anda pela casa todo dia com aqueles pijamas largos e folgados,",
+      "completamente indefesa.",
+      "Mesmo não tendo estranhos,",
+      "não é que ela está testando meu autocontrole um pouco demais—"
+    ],
+    "22": [
+      "Sim, é exatamente isso!",
+      "Fico feliz que ela confie tanto em mim, claro...",
+      "Mas como família, tenho que me manter firme e protegê-la direito!"
+    ]
+  },
   "3": {
-        "0": [
-            "\"Ufa… isso está bem melhor...\""
-        ],
-        "1": [
-            "...Então, o que devo fazer agora?"
-        ],
-        "2": [
-            "Olhar ao Redor",
-            "Sonhar Acordado",
-            "Matar Tempo",
-            "Sair"
-        ],
-        "3": [
-            "Esse espaço apertado — o que poderia estar escondido aqui...?    \\w[45]",
-            "Mesmo enquanto eu dizia isso, não pude evitar começar a vasculhar."
-        ],
-        "4": [
-            "\"Ooooh!! Isso é…!\""
-        ],
-        "5": [
-            "——Papel higiênico."
-        ],
-        "6": [
-            "————Um lixo."
-        ],
-        "7": [
-            "\"Bem, eu estou no banheiro afinal.\""
-        ],
-        "8": [
-            "Parece que perdi meu tempo."
-        ],
-        "9": [
-            "\"Hm? Que som foi esse?\""
-        ],
-        "10": [
-            "É uma B."
-        ],
-        "11": [
-            "Uma B entrou de sabe-se lá de onde e passou correndo pelos meus pés."
-        ],
-        "12": [
-            "Seu desgraçado, se mostrando tão ousadamente na minha frente!    \\{",
-            "Receba essa!"
-        ],
-        "13": [
-            "Na mosca. A B caiu morta no local."
-        ],
-        "14": [
-            "\"Hmph, como esperado de mim...\""
-        ],
-        "15": [
-            "Errei! ",
-            "Assustada, a B desapareceu rapidamente sem deixar rastro."
-        ],
-        "16": [
-            "\"Droga, essa coisa é rápida!\""
-        ],
-        "17": [
-            "……Isso não vai funcionar para sempre.",
-            "Talvez seja hora de pegar um inseticida..."
-        ],
-        "18": [
-            "\"Hm? Que som foi esse?\""
-        ],
-        "19": [
-            "…O som sumiu. Foi só imaginação minha?"
-        ],
-        "20": [
-            "Não posso ficar sentado aqui para sempre.",
-            "Provavelmente devo sair—"
-        ]
+    "0": [
+      "\"Ufa… isso está bem melhor...\""
+    ],
+    "1": [
+      "...Então, o que devo fazer agora?"
+    ],
+    "2": [
+      "Olhar ao Redor",
+      "Sonhar Acordado",
+      "Matar Tempo",
+      "Sair"
+    ],
+    "3": [
+      "Nesse espaço apertado — o que poderia estar escondido aqui...?    \\w[45]",
+      "Mesmo dizendo isso, não consegui evitar começar a vasculhar."
+    ],
+    "4": [
+      "\"Ooooh!! Isso é…!\""
+    ],
+    "5": [
+      "——Papel higiênico."
+    ],
+    "6": [
+      "————Um lixo."
+    ],
+    "7": [
+      "\"Bem, eu estou no banheiro afinal.\""
+    ],
+    "8": [
+      "Parece que perdi meu tempo."
+    ],
+    "9": [
+      "\"Hm? Que barulho foi esse?\""
+    ],
+    "10": [
+      "É uma B."
+    ],
+    "11": [
+      "Uma B entrou de sabe-se lá onde e passou correndo pelos meus pés."
+    ],
+    "12": [
+      "Seu desgraçado, se mostrando tão ousadamente na minha frente!    \\{",
+      "Toma essa!"
+    ],
+    "13": [
+      "Na mosca. A B caiu morta no local."
+    ],
+    "14": [
+      "\"Hmph, como esperado de mim...\""
+    ],
+    "15": [
+      "Errei! ",
+      "Assustada, a B desapareceu rapidamente sem deixar rastro."
+    ],
+    "16": [
+      "\"Droga, essa coisa é rápida!\""
+    ],
+    "17": [
+      "……Isso não vai funcionar para sempre.",
+      "Talvez seja hora de pegar um inseticida..."
+    ],
+    "18": [
+      "\"Hm? Que barulho foi esse?\""
+    ],
+    "19": [
+      "…O barulho sumiu. Foi só imaginação minha?"
+    ],
+    "20": [
+      "Não posso ficar sentado aqui para sempre.",
+      "Provavelmente devo sair—"
+    ],
+    "21": [
+      "\"Ah, acabou o papel higiênico—”"
+    ],
+    "22": [
+      "Agora realmente não tenho mais o que fazer—"
+    ],
+    "23": [
+      "Rasguei um pouco de papel higiênico e tentei",
+      "fazer uma trança, mas fracassei miseravelmente."
+    ],
+    "24": [
+      "\"Que estranho...",
+      "nunca é tão difícil quando estou amarrando o cabelo da \\str[120]...\""
+    ],
+    "25": [
+      "...Sinto que estou desperdiçando minha vida."
+    ],
+    "26": [
+      "Vamos fazer um aviãozinho de papel—",
+      "Pensando nisso, rasguei mais um pouco de papel higiênico."
+    ],
+    "27": [
+      "Como o papel era muito mole, precisei de várias",
+      "tentativas falhas até finalmente conseguir dobrar um aviãozinho."
+    ],
+    "28": [
+      "\\{\"Lá vai ele!\""
+    ],
+    "29": [
+      "Mas o aviãozinho de papel caiu direto para baixo",
+      "antes mesmo de voar muito longe..."
+    ],
+    "30": [
+      "Talvez eu deva tentar fazer um tsuru de papel—    \\w[40]",
+      "Rasguei mais papel,",
+      "mas não consegui fazer a forma ficar certa..."
+    ]
+  },
+  "6": {
+    "0": [
+      "\\nl< >\"————————！？\""
+    ],
+    "1": [
+      "Esse foi o grito da \\str[120]...! Não me diga que!?"
+    ],
+    "2": [
+      "\\{\"O que aconteceu!?\""
+    ],
+    "3": [
+      "\\nl< >\"Waaaaaahhhhhh—!?\""
+    ],
+    "4": [
+      "\\{Tão rápido!?     \\w[25]",
+      "Eh...! O que diabos está acontecendo!?"
+    ],
+    "5": [
+      "\"Não tem nada aqui...\""
+    ],
+    "6": [
+      "\\nl< >\"Sob, sob... \\str[121]...\""
+    ],
+    "7": [
+      "O som está vindo de dentro do banheiro...!",
+      "Sem tempo para hesitar — abri a porta com tudo."
+    ],
+    "8": [
+      "A \\str[120] está tremendo em cima do vaso. ",
+      "Naturalmente, ela não está vestindo nada da cintura para baixo...",
+      "Nem sei onde olhar..."
+    ],
+    "9": [
+      "Hm... então a \\str[120] ainda nem começou ",
+      "a crescer pelos pubianos aí embaixo..  \\w[25]\\^"
+    ],
+    "10": [
+      "Não, não, agora não é hora para essas ilusões!"
+    ],
+    "11": [
+      "\"...O que aconteceu aqui?\""
+    ],
+    "12": [
+      "\\nl< >\"Tem uma B no banheiro...\""
+    ],
+    "13": [
+      "B...!?",
+      "Aquela coisa de novo! ",
+      "Como ela ousa fazer minha preciosa \\str[120] chorar!"
+    ],
+    "14": [
+      "Depois procurei o banheiro inteiro,",
+      "mas no final não encontrei nenhum rastro da B."
+    ],
+    "15": [
+      "Depois que a \\str[120] entrou no banheiro,",
+      "eu me aproximei silenciosamente da porta."
+    ],
+    "16": [
+      "Abrindo a porta bem devagar... ",
+      "não posso deixar a \\str[120] me notar.."
+    ],
+    "17": [
+      "\\nl< >\"Mnya—”"
+    ],
+    "18": [
+      "Oho, consigo ver tudo perfeitamente...!",
+      "Então a \\str[120] fica com aquela cara sonolenta até no banheiro."
+    ],
+    "19": [
+      "\\nl< >\"..................?\"",
+      "\\w[60]\\^"
+    ],
+    "20": [
+      "\\nl< >\"...Tem algo aí?\""
+    ],
+    "21": [
+      "\\nl< >\"..........................\"",
+      "\\w[60]\\^"
+    ],
+    "22": [
+      "————Ah não!!",
+      "Eu estava tão focado na \\str[120] que esqueci o importante...!",
+      "O que acabou de aparecer aí é—      \\w[70]\\^"
+    ],
+    "23": [
+      "\\nl< >\"Waaaaaahhhhhh—!?\""
+    ],
+    "24": [
+      "\\{Como eu imaginava, a B apareceu—!"
+    ],
+    "25": [
+      "Dessa vez invadi o banheiro sem pensar duas vezes,",
+      "meus olhos travando imediatamente na B que se mexia."
+    ],
+    "26": [
+      "\\{\"Foi você que fez minha \\str[120] chorar!?\""
+    ],
+    "27": [
+      "A chinelada acertou bem entre os olhos.",
+      "A B caiu morta na hora."
+    ],
+    "28": [
+      "\"Ufa... finalmente acabei com essa coisa...\""
+    ],
+    "29": [
+      "\\nl< >\"Sob, sob... \\str[121]...\""
+    ],
+    "30": [
+      "\"Está tudo bem agora. ",
+      "O \\str[121] cuidou do bandido.\""
+    ],
+    "31": [
+      "\\nl< >\"Ugh... \\str[121], não vai embora,",
+      "ainda estou com medo...\""
+    ],
+    "32": [
+      "\".......Então vou ficar aqui de costas viradas.\""
+    ],
+    "33": [
+      "\"....Hm? Uh... ",
+      "então vou ficar de guarda na porta.\""
+    ],
+    "34": [
+      "Para deixar a \\str[120] mais tranquila,",
+      "fiquei de guarda na porta do banheiro com",
+      "uma cara séria, como um sentinela."
+    ],
+    "35": [
+      "Esperar a \\str[120] terminar pareceu surpreendentemente longo. ",
+      "Assim que me acalmei, imagens da bucetinha dela que acabei de ",
+      "ver começaram a piscar na minha mente."
+    ],
+    "36": [
+      "Lá... ainda não tinha nenhum pelo. ",
+      "De repente, fiquei curioso para ver como a \\str[120] ",
+      "está usando o banheiro agora—",
+      "\\w[30]\\^"
+    ],
+    "37": [
+      "Não, não! Não posso ter esses pensamentos",
+      "num momento como esse...!"
+    ],
+    "38": [
+      "............Talvez só uma olhadinha rápida?"
+    ],
+    "39": [
+      "Dar uma Espiada",
+      "Deixar pra Lá"
+    ],
+    "40": [
+      "É... seria ruim se tivesse outra B por perto!",
+      "Isso é estritamente pela segurança da \\str[120]—"
+    ],
+    "41": [
+      "Acho que ainda não é uma boa ideia...",
+      "Preciso respeitar a privacidade da \\str[120]..."
+    ],
+    "42": [
+      "\\nl< >\"................!?\""
+    ],
+    "43": [
+      "Ah, fui descoberto."
+    ],
+    "44": [
+      "\\nl< >\"\\str[121], o que você está fazendo?\""
+    ],
+    "45": [
+      "\"Uh, achei que tinha ouvido outra B, então————\""
+    ],
+    "46": [
+      "\\nl< >\"Não estou mais com medo! ",
+      "\\str[121], sai daí!\""
+    ],
+    "47": [
+      "E eu fui expulso do banheiro..."
+    ],
+    "48": [
+      "A \\str[120] ainda estava tremendo do susto,",
+      "e por causa disso, ela não pareceu notar",
+      "que eu estava inclinando a cabeça para roubar uma olhada..."
+    ],
+    "49": [
+      "Oooohhhh... Então é assim que a \\str[120] faz xixi...",
+      "\\w[45]\\^"
+    ],
+    "50": [
+      "\\>Espera, eu não via isso o tempo todo",
+      "quando éramos crianças!?     \\w[30]"
+    ],
+    "51": [
+      "Com a imagem da bucetinha gordinha e lisinha da \\str[120]",
+      "queimada na minha mente, virei a cabeça silenciosamente."
+    ],
+    "52": [
+      "\\nl< >\"Ufa... finalmente terminei...\""
+    ],
+    "53": [
+      "\\nl< >\"...\\str[121], você pode sair agora.\""
+    ]
   },
   "9": {
-        "0": [
-            "\\nl< >\"\\str[121]! Você ainda está no banheiro?\""
-        ],
-        "1": [
-            "\"...Eu saio em um segundo!\""
-        ],
-        "2": [
-            "Provavelmente perdi tempo demais — melhor ir embora..."
-        ]
+    "0": [
+      "\\nl< >\"\\str[121]! Você ainda está no banheiro?\""
+    ],
+    "1": [
+      "\"...Eu saio em um segundo!\""
+    ],
+    "2": [
+      "Provavelmente perdi tempo demais — melhor ir embora..."
+    ]
   },
   "21": {
-        "0": [
-            "Bem nessa hora, um som familiar ecoou."
-        ],
-        "1": [
-            "\\{Espera...\\w[45] esse som, é uma B!"
-        ],
-        "2": [
-            "\\nl< >\\{\"…………Huh?\""
-        ],
-        "3": [
-            "\\nl< >\\{\"Aaaaahhhh—!!\""
-        ],
-        "4": [
-            "\\str[120] também notou a B!",
-            "Isso é ruim! Se uma B atacar em uma situação como essa, ",
-            "ela pode desmaiar do choque!"
-        ],
-        "5": [
-            "\\{\"……！\""
-        ],
-        "6": [
-            "Antes que eu pudesse pensar, meu corpo se moveu sozinho,",
-            "e eu entrei correndo no banheiro na velocidade da luz."
-        ],
-        "7": [
-            "\\{\"Você é o que fez minha \\str[120] chorar!?\""
-        ],
-        "8": [
-            "Na mosca. A B morreu na hora."
-        ],
-        "9": [
-            "\\nl< >\"Éééé... \\str[121]...\""
-        ],
-        "10": [
-            "\"Está tudo bem agora. ",
-            "A coisa ruim se foi — \\str[121] cuidou dela.\""
-        ],
-        "11": [
-            "\\nl< >\"Huh...?",
-            "\\str[121]... suas calças...\""
-        ],
-        "12": [
-            "\"——————————Ah.\""
-        ],
-        "13": [
-            "Já que eu já estava nervoso antes de ir ao ",
-            "banheiro. Meu pau já tava durasso—",
-            "e muito perto do rosto da \\str[120]…"
-        ],
-        "14": [
-            "Assim como eu temia, ",
-            "eu notei algo estranho nos olhos da \\str[120],",
-            "ela também estava inquieta.    \\w[60]",
-            "Será que aquele doce estranho ainda está fazendo efeito?"
-        ],
-        "15": [
-            "A expressão da \\str[120] parecia atordoada, e do nada ",
-            "Ela se inclinou pra frente e botou meu pau na sua.",
-            "ela se inclinou e colocou meu pau na boca."
-        ],
-        "16": [
-            "Essa ousadia totalmente destruiu meu auto controle.",
-            "Eu botei minhas mãos na cabeça da \\str[120],",
-            "eu comecei a guiar sua cabeça para botar meu pau ainda mais fundo."
-        ],
-        "17": [
-            "Mesmo sendo meio desajeitada, ",
-            "o calor e maciez da sua boca ",
-            "ainda era um sentimento maravilhoso."
-        ],
-        "18": [
-            "Desse ângulo",
-            "Eu conseguia ver a buceta molhada e trêmula da \\str[120]",
-            "Como se fosse algo vindo direto de um sonho."
-        ],
-        "19": [
-            "Em pouco tempo",
-            "A vontade de gozar começou a borbulhar dentro de mim—"
-        ],
-        "20": [
-            "Não querendo que \\str[120] se engasgasse, ",
-            "eu tirei meu pau da sua boca."
-        ],
-        "21": [
-            "Nesse exato momento, jorrou um imenso jato de porra, ",
-            "cobrindo e respingando todo o seu rosto."
-        ],
-        "22": [
-            "\\nl< >\"Ugh… que gosto horrível…\""
-        ],
-        "23": [
-            "\\str[120] botou a língua pra fora de brincadeira, ",
-            "mas eu ainda conseguia ver que ela estava bem tímida.",
-            "Ela nunca faria algo tão ousado se estivesse normal—",
-            "deve ser o efeito daquele doce."
-        ],
-        "24": [
-            "Mas honestamente, se não fosse por esse doce,",
-            "eu não faço ideia de como isso teria acabado."
-        ],
-        "25": [
-            "Depois, limpamos o banheiro juntos e",
-            "voltamos silenciosamente para o quarto",
-            "fingindo que nada tinha acontecido."
-        ]
+    "0": [
+      "Bem nessa hora, um som familiar tocou."
+    ],
+    "1": [
+      "\\{Espera...\\w[45] esse som — é uma B!"
+    ],
+    "2": [
+      "\\nl< >\\{\"…………Huh?\""
+    ],
+    "3": [
+      "\\nl< >\\{\"Aaaaahhhh—!!\""
+    ],
+    "4": [
+      "A \\str[120] também notou a B!",
+      "Isso é ruim! Se uma B atacar numa situação como essa,",
+      "ela pode desmaiar do susto!!"
+    ],
+    "5": [
+      "\\{\"……！\""
+    ],
+    "6": [
+      "Antes que eu pudesse pensar, meu corpo se moveu sozinho,",
+      "e eu entrei correndo no banheiro na velocidade da luz."
+    ],
+    "7": [
+      "\\{\"Foi você que fez minha \\str[120] chorar!?\""
+    ],
+    "8": [
+      "Acerto direto. A B caiu morta na hora."
+    ],
+    "9": [
+      "\\nl< >\"Uuh... \\str[121]...\""
+    ],
+    "10": [
+      "\"Está tudo bem agora. ",
+      "A coisa ruim se foi — o \\str[121] cuidou dela.\""
+    ],
+    "11": [
+      "\\nl< >\"Huh...?",
+      "\\str[121]... suas calças...\""
+    ],
+    "12": [
+      "\"——————————Ah.\""
+    ],
+    "13": [
+      "Como eu já estava excitado antes de invadir",
+      "o banheiro, meu pau estava duro pra caralho —",
+      "muito perto do rosto da \\str[120]…"
+    ],
+    "14": [
+      "Assim como eu temia,",
+      "notei algo estranho nos olhos da \\str[120],",
+      "ela também estava inquieta.    \\w[60]",
+      "Será que aquele doce estranho ainda está fazendo efeito?"
+    ],
+    "15": [
+      "A expressão da \\str[120] começou a ficar atordoada,",
+      "e então, do nada,",
+      "ela se inclinou e colocou meu pau na boca."
+    ],
+    "16": [
+      "Esse movimento ousado destruiu completamente meu autocontrole. ",
+      "Coloquei a mão na cabeça da minha \\str[120]",
+      "e comecei a guiá-la para levar meu pau ainda mais fundo."
+    ],
+    "17": [
+      "Mesmo sendo meio desajeitada,",
+      "o calor e a maciez da boca dela",
+      "ainda eram incríveis."
+    ],
+    "18": [
+      "Desse ângulo,",
+      "eu conseguia ver a bucetinha molhada da \\str[120] tremendo levemente,",
+      "como se tivesse saído de um sonho."
+    ],
+    "19": [
+      "Em pouco tempo,",
+      "aquela vontade de gozar começou a se acumular em ondas—"
+    ],
+    "20": [
+      "Não querendo que minha \\str[120] engasgasse,",
+      "tirei meu pau da boca dela."
+    ],
+    "21": [
+      "Bem nesse momento, uma enorme quantidade de porra jorrou,",
+      "espirrando por todo o rosto dela."
+    ],
+    "22": [
+      "\\nl< >\"Ugh… o gosto é horrível…”"
+    ],
+    "23": [
+      "A \\str[120] mostrou a língua de forma brincalhona,",
+      "mas dava pra ver que ela ainda estava bem tímida.",
+      "Ela nunca faria algo tão ousado normalmente —",
+      "deve ser o efeito daquele doce."
+    ],
+    "24": [
+      "Mas honestamente, se não fosse por aquele doce,",
+      "não faço ideia de como as coisas teriam terminado."
+    ],
+    "25": [
+      "Depois, limpamos o banheiro juntos",
+      "e quando voltamos para o quarto,",
+      "nós dois fingimos que nada tinha acontecido."
+    ]
   },
   "22": {
-        "0": [
-            "De mansinho, de mansinho..."
-        ],
-        "1": [
-            "Hmm... Fico preocupado se tem algo",
-            "errado com a \\str[120]...",
-            "Eu vou dar uma olhadinha e sair..."
-        ],
-        "2": [
-            "Pera... o que é isso!?"
-        ],
-        "3": [
-            "Peguei a \\str[120] se masturbando.    \\w[60]",
-            "O que tá acontecendo… ",
-            "Será que ainda é o efeito do doce que eu dei ",
-            "pra ela antes!?"
-        ],
-        "4": [
-            "Mesmo vendo que sua técnica pareça um pouco desajeitada",
-            "vendo o quão úmida ela está.",
-            "Parece estár perdidamente aproveitando o momento."
-        ],
-        "5": [
-            "Vendo a vontade e dedicação da \\str[120] em se aliviar, ",
-            "Eu não consegui segurar a vontade de invadir e ajudar ela…"
-        ],
-        "6": [
-            "Peguei a \\str[120] se esfregando por cima da calcinha.    \\w[60]",
-            "O que tá acontecendo… ",
-            "Isso poderia ser o efeito do ",
-            "doce que eu dei pra ela antes!?"
-        ],
-        "7": [
-            "Talvez pela falta de experiência, ",
-            "\\str[120] está desajeitadamente esfregando sua ",
-            "calcinha com a ponta dos seus dedos,  ",
-            "meio que não pegando o jeito da coisa."
-        ],
-        "8": [
-            "Vendo a vontade e dedicação da \\str[120] em se aliviar, ",
-            "Eu não consegui segurar a vontade de invadir e ajudar ela…"
-        ],
-        "9": [
-            "Mas aparecer do nada, certamente assustaria a \\str[120], hmm…",
-            "É, provavelmente é melhor me afastar silenciosamente."
-        ],
-        "10": [
-            "Continuar!",
-            "Se Afastar"
-        ],
-        "11": [
-            "Incapaz de resistir o desejo crescente,",
-            "Eu me inclinei pra chegar mais perto da ",
-            "fresta da porta, observando cuidadosamente."
-        ],
-        "12": [
-            "Bater uma",
-            "Invadir!",
-            "Desistir"
-        ],
-        "13": [
-            "Eu também estou ficando um pouco excitado... ",
-            "Devo me juntar a \\str[120]...?"
-        ],
-        "14": [
-            "Isso parece arriscado… melhor não.",
-            "Se eu continuar assistindo, vai ser estranho.",
-            "Eu devo cair fora antes que a \\str[120] perceba."
-        ],
-        "15": [
-            "Como não foi a primeira vez que eu vejo ",
-            "algo assim, Eu só deixei rolar ",
-            "e aproveitei o momento."
-        ],
-        "16": [
-            "Enquanto \\str[120] estava perdida no seu próprio mundo, ",
-            "eu silenciosamente fechei a porta atrás de mim."
-        ],
-        "17": [
-            "\"Parece que a \\str[120] está finalmente naquela idade ",
-            "que se começa a criar interesse nessas coisas…\"",
-            " ",
-            " ",
-            "Com um sentimento estranho de tristeza, ",
-            "eu decidi fingir que não ví nada…"
-        ],
-        "18": [
-            "No momento que nós dois chegamos no clímax, ",
-            "eu relaxei e gozei a porra toda."
-        ],
-        "19": [
-            "Com um calafrio correndo pelo seu corpo, ",
-            "\\str[120] lentamente parou o que estava fazendo ",
-            "e voltou a respirar suavemente."
-        ],
-        "20": [
-            "Mas se eu continuar assistindo, isso vai acabar bem mal.",
-            "Melhor eu sumir antes que a \\str[120] perceba."
-        ],
-        "21": [
-            "Fazer esse tipo de coisa a \\str[120] parece tão estranho…",
-            "Antes que eu percebesse, minha mão sincronizou com o ritmo dela ",
-            "e nesse momento, eu pude sentir que nossos sentidos",
-            "estavam de alguma forma conectados."
-        ],
-        "22": [
-            "Observando os dedos da \\str[120], eu só conseguia imaginar—",
-            "E se não fosse os dedos dela a tocando, ",
-            "mas sim meu pau…?"
-        ],
-        "23": [
-            "Enquanto eu me perdia nesse pensamento,",
-            "eu quase conseguia sentir o quão macia ",
-            "seria a buceta da \\str[120]…",
-            "A imaginação certamente é algo assustador."
-        ],
-        "24": [
-            "Eu me pergunto como seria a sensação de ",
-            "estar tão perto quanto os dedos da \\str[120],",
-            "esfregando meu pau contra a sua buceta…"
-        ],
-        "25": [
-            "Eu comecei a imaginar a cabeça do meu pau pressionando contra ",
-            "a buceta apertada da \\str[120], lentamente abrindo espaço e revelando",
-            "seu interior quente e úmido. Meu pau coberto com seu líquido ",
-            "criaria um fio fluido nos conectando…"
-        ],
-        "26": [
-            "A exitação que eu sinto com ela, não chega nem perto de",
-            "quando estou sozinho. Enquanto eu me perco nessas fantasias, ",
-            "a culpa no meu coração se tornava combustível,",
-            "me trazendo ondas e ondas de prazer."
-        ],
-        "27": [
-            "Parece a \\str[120] está quase gozando, ",
-            "e eu não pude deixar de acelerar meus movimentos também."
-        ],
-        "28": [
-            "\\{Ugh, eu não consigo mais segurar…!"
-        ]
+    "0": [
+      "De fininho, de fininho..."
+    ],
+    "1": [
+      "Hmm... Estou só preocupado",
+      "se algo está errado com a \\str[120]...",
+      "Vou só dar uma olhadinha rápida e sair..."
+    ],
+    "2": [
+      "Espera... o que é isso!?"
+    ],
+    "3": [
+      "Peguei a \\str[120] se masturbando.    \\w[60]",
+      "O que está acontecendo...",
+      "Será que é o efeito do",
+      "doce que dei pra ela antes!?"
+    ],
+    "4": [
+      "Embora a técnica dela ainda pareça um pouco desajeitada,",
+      "o néctar que aparece de vez em quando mostra",
+      "que ela está completamente perdida no prazer."
+    ],
+    "5": [
+      "Vendo a \\str[120] se esforçando tanto pra se sentir bem,",
+      "não pude evitar querer entrar e ajudar ela…"
+    ],
+    "6": [
+      "Peguei a \\str[120] se tocando por cima da calcinha.    \\w[60]",
+      "O que está acontecendo...",
+      "Será que é o efeito do",
+      "doce que dei pra ela antes!?"
+    ],
+    "7": [
+      "Talvez por falta de experiência,",
+      "a \\str[120] está esfregando a calcinha ",
+      "desajeitadamente com as pontas dos dedos,",
+      "ainda não pegando muito o jeito."
+    ],
+    "8": [
+      "Vendo a \\str[120] se esforçando tanto pra se sentir bem,",
+      "não pude evitar querer entrar e ajudar ela…"
+    ],
+    "9": [
+      "Mas aparecer agora com certeza assustaria a \\str[120],",
+      "hmm… é, provavelmente é melhor sair quietinho."
+    ],
+    "10": [
+      "Espiar de Novo!",
+      "Ir Embora"
+    ],
+    "11": [
+      "Incapaz de resistir ao desejo crescente,",
+      "me inclinei mais perto da fresta da porta,",
+      "observando com cuidado."
+    ],
+    "12": [
+      "Bater Uma",
+      "Invadir!",
+      "Desistir"
+    ],
+    "13": [
+      "Estou começando a me sentir um pouco excitado também...",
+      "Devo me juntar à \\str[120]...?"
+    ],
+    "14": [
+      "Isso parece um pouco arriscado… melhor não.",
+      "Se eu continuar assistindo, vai ficar estranho.",
+      "Melhor sair antes que minha \\str[120] note."
+    ],
+    "15": [
+      "Como não é a primeira vez que vejo",
+      "algo assim, só segui o fluxo e tentei",
+      "aproveitar o momento."
+    ],
+    "16": [
+      "Enquanto minha \\str[120] ainda estava perdida no próprio mundo,",
+      "fechei a porta silenciosamente atrás de mim."
+    ],
+    "17": [
+      "\"Parece que a \\str[120] finalmente chegou naquela idade",
+      "em que começa a se interessar por esse tipo de coisa…\"",
+      " ",
+      " ",
+      "Sentindo uma estranha tristeza,",
+      "decidi fingir que não tinha visto nada…"
+    ],
+    "18": [
+      "No momento em que nós dois chegamos ao clímax,",
+      "me soltei completamente e gozei por todo lado."
+    ],
+    "19": [
+      "Com um tremor percorrendo o corpo dela,",
+      "a \\str[120] lentamente parou o que estava fazendo e",
+      "começou a respirar suavemente."
+    ],
+    "20": [
+      "Se eu continuar assistindo, isso vai ficar bem ruim.",
+      "Melhor fugir antes que a \\str[120] note."
+    ],
+    "21": [
+      "Fazer esse tipo de coisa com a \\str[120] parece tão estranho…",
+      "Antes que eu percebesse, minha mão começou a acompanhar o ritmo dela,",
+      "e nesse momento,",
+      "parecia que nossos sentidos estavam de alguma forma conectados."
+    ],
+    "22": [
+      "Assistindo aos dedos da \\str[120], não pude evitar imaginar—",
+      "e se não fossem os dedos dela se tocando,",
+      "mas meu pau no lugar…?"
+    ],
+    "23": [
+      "Enquanto me perdia nesse pensamento,",
+      "quase parecia que eu podia realmente sentir o quão macia",
+      "a bucetinha da \\str[120] seria…",
+      "A imaginação realmente é algo assustador."
+    ],
+    "24": [
+      "Eu me pergunto como seria chegar",
+      "tão perto quanto os dedos da minha \\str[120],",
+      "me masturbando bem encostado na bucetinha dela…"
+    ],
+    "25": [
+      "Começo a imaginar a cabeça do meu pau pressionando",
+      "contra a bucetinha bem fechadinha da minha \\str[120],",
+      "lentamente abrindo ela enquanto eu empurro, revelando o interior molhado.",
+      "Meu pau também fica melado, e um fio safado de tesão se estica entre nós…"
+    ],
+    "26": [
+      "A excitação que sinto com ela não é nada como",
+      "quando estou sozinho. Enquanto me perco nessas fantasias,",
+      "a culpa no meu coração só vira combustível,",
+      "trazendo onda após onda de prazer."
+    ],
+    "27": [
+      "A \\str[120] parece que está prestes a gozar,",
+      "e não consigo evitar acelerar meus próprios movimentos também."
+    ],
+    "28": [
+      "\\{Ugh, não aguento mais…!"
+    ]
   },
   "23": {
-        "0": [
-            "Com o que aconteceu na última vez, ",
-            "eu decidi ousadamente só invadir o banheiro."
-        ],
-        "1": [
-            "\\nl< >\\{\"…O-\\str[121]!?\""
-        ],
-        "2": [
-            "\\nl< >\"…\\str[121],",
-            "por que você entrou aqui também…?\""
-        ],
-        "3": [
-            "Seu tom pareceu um pouco repreensivo, mas julgando pela sua ",
-            "expressão atordoada e pelo fato que ela não estava nem tentando ",
-            "me expulsar, parece que eu estava liberado."
-        ],
-        "4": [
-            "Eu silenciosamente me movi para ficar próximo a \\str[120],",
-            "meu pau, só alguns centímetros de distância. Ela começou com ",
-            "suas próprias mãos, se inclinou um pouco mais perto de mim ",
-            "e começou a me lamber com sua língua."
-        ],
-        "5": [
-            "A delicada língua da \\str[120] deslizava pela cabeça do ",
-            "meu pau, como se fosse uma pequena serpente, o calor, ",
-            "e a delicadeza me fez tremer incontrolavelmente."
-        ],
-        "6": [
-            "Nós ficamos assim em silêncio por um tempo, ",
-            "e eu conseguia me sentir chegando cada vez mais perto do limite…",
-            "\\str[120] deve ter notado como meu pau estava se contraindo, ",
-            "porque ela começou a mover sua mão ainda mais rápido."
-        ],
-        "7": [
-            "Finalmente, com essa onda incontrolável atingindo seu limite, ",
-            "minha porra começou a jorrar.  \\w[60]",
-            "No momento que o primeiro jato pousou no rosto da \\str[120]’, ",
-            "ela de repente botou meu pau em sua boca."
-        ],
-        "8": [
-            "Enquanto ela me chupava, \\str[120] continuou provocando a ",
-            "cabeça do meu pau com sua língua, bem onde a porra estava jorrando.",
-            " ",
-            " ",
-            "Essa gentileza inesperada, o calor e maciez totalmente quebrou ",
-            "o meu autocontrole, e meu pau simplesmente jorrou o resto ",
-            "da minha porra direto na sua boca."
-        ],
-        "9": [
-            "Depois, limpamos o banheiro juntos e",
-            "voltamos para o quarto... ",
-            "Nós dois fingimos que nunca havia acontecido nada."
-        ]
+    "0": [
+      "Com o que aconteceu da última vez,",
+      "decidi simplesmente invadir o banheiro com ousadia."
+    ],
+    "1": [
+      "\\nl< >\\{\"…O-\\str[121]!?\""
+    ],
+    "2": [
+      "\\nl< >\"…\\str[121],",
+      "por que você entrou aqui também…?\""
+    ],
+    "3": [
+      "O tom dela soou um pouco de repreensão, mas julgando pela",
+      "expressão atordoada e pelo fato de que ela não estava tentando",
+      "me expulsar, parecia que eu estava liberado."
+    ],
+    "4": [
+      "Fui quietinho para o lado da minha \\str[120], meu pau",
+      "a apenas alguns centímetros dela. Ela continuou com",
+      "suas próprias mãos, se inclinou um pouco mais perto de mim",
+      "e começou a me lamber com a língua."
+    ],
+    "5": [
+      "A língua fina da \\str[120] se contorcia ao redor da ponta do",
+      "meu pau como uma cobrinha, a sensação quente e",
+      "cócegas me fazendo tremer incontrolavelmente."
+    ],
+    "6": [
+      "Ficamos assim em silêncio por um tempo,",
+      "e eu podia sentir que estava chegando perto do limite…",
+      "A \\str[120] deve ter notado o jeito que meu pau estava pulsando,",
+      "porque ela começou a mover a mão ainda mais rápido."
+    ],
+    "7": [
+      "Finalmente, enquanto aquela onda irresistível de liberação se acumulava,",
+      "minha porra começou a jorrar.  \\w[60]",
+      "No momento em que o primeiro jato acertou o rosto da \\str[120],",
+      "ela de repente colocou meu pau na boca."
+    ],
+    "8": [
+      "Enquanto chupava, minha \\str[120] continuou provocando",
+      "a ponta com a língua bem onde a porra estava saindo.",
+      " ",
+      " ",
+      "Aquela gentileza inesperada e o calor macio destruíram completamente",
+      "meu autocontrole, e meu pau simplesmente descarregou",
+      "o resto da porra direto na boca dela."
+    ],
+    "9": [
+      "Depois, limpamos o banheiro juntos,",
+      "e quando voltamos para o quarto,",
+      "nós dois fingimos que nada tinha acontecido."
+    ]
   }
 }
