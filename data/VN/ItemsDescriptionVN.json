@@ -292,6 +292,9 @@
             "<<Danh Sách Mã Gian Lận>>",
             ""
         ],
+        "notUnlocked": [
+            "Bạn vẫn chưa mở khoá mã gian lận, có lẽ tên hiệp sĩ kì lạ kia có thể cho bạn manh mối!"  
+        ],
         "hard2k1ll": [
             "< hard2k1ll >",
             "Nhận trang bị gian lận 'Đôi Cánh Pha Lê Của Nữ Hoàng Tiên'.",
@@ -413,7 +416,7 @@
             "Tỏa ra mùi đào khiến chỉ cần ngửi thôi cũng cảm thấy chóng mặt..."
         ],
         "ability": [
-            "Khi ăn sẽ khiến toàn thân bạn rạo rực!"
+            "Ban trạng thái Nứng khi cho \\str[120] ăn"
         ]
     },
     "31": {
@@ -428,7 +431,7 @@
             "Tỏa ra mùi việt quất khiến chỉ cần ngửi thôi cũng cảm thấy bình tĩnh..."
         ],
         "ability": [
-            "Mang lại cảm giác bình tĩnh sau khi ăn..."
+            "Ban trạng thái Mơ Màng khi cho \\str[120] ăn"
         ]
     },
     "32": {
@@ -443,7 +446,7 @@
             "Tỏa ra mùi dưa lưới khiến chỉ cần ngửi thôi cũng cảm thấy phấn chấn..."
         ],
         "ability": [
-            "Hiệu ứng chưa được thêm vào"
+            "Ban trạng thái Hân Hoan khi cho \\str[120] ăn"
         ]
     },
     "33": {
