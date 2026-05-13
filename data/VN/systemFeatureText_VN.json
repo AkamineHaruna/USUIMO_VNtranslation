@@ -72,6 +72,10 @@
 		"(Nhấn 'OK' để mở liên kết mời Discord)",
 		"(Đính kèm ảnh chụp màn hình của lỗi)"
 	],
+	"EnterCheatCode": [
+		"ZAKO~♥ ZAKO~♥",
+		"Nhập mã gian lận ở đây..."
+	],
 	"AnnouncementMenu": [
 		"Thông báo",
 		"Nhật ký thay đổi"
@@ -232,35 +236,36 @@
 		]
   	},
 	"AdventurersPathway": {
-    	"mapName": " -Lối Mòn Mạo Hiểm Giả- "
+    	"mapName": "Lối Mòn Mạo Hiểm Giả"
   	},
   	"ShallowRuinsLabyrinth": {
-    	"mapName": " -Mê Cung Tàn Tích Tầng Nông- ",
-		"mapDescription": " Một mê cung rộng lớn chứa đầy những bí ẩn vô tận "
+    	"mapName": "Mê Cung Tàn Tích Tầng Nông",
+		"mapDescription": "Một mê cung rộng lớn chứa đầy những bí ẩn vô tận"
  	},
   	"ForgottenCatacombe": {
-    	"mapName": " -Hầm Mộ Bị Lãng Quên- "
+    	"mapName": "Hầm Mộ Bị Lãng Quên"
   	},
   	"ForestofRuins": {
-    	"mapName": " -Khu Rừng Tàn Tích- "
+    	"mapName": "Khu Rừng Tàn Tích"
   	},
   	"AbandonedForest": {
-    	"mapName": " -Khu Rừng Lạc Lối- "
+    	"mapName": "Khu Rừng Lạc Lối"
   	},
   	"ExcavationSite": {
-    	"mapName": " -Khu Vực Khai Thác- "
+    	"mapName": "Khu Vực Khai Thác"
   	},
   	"TheFallenChurch": {
-    	"mapName": " -Thánh Đường Sa Ngã- "
+    	"mapName": "Thánh Đường Sa Ngã",
+		"mapDescription": "my lovely lamb! Why hast thou forsaken me?"
   	},
   	"DoorofStar": {
-    	"mapName": " -Cửa Thiên Tinh- "
+    	"mapName": "Cửa Thiên Tinh"
   	},
   	"ScorchingLavaZone": {
-    	"mapName": " -Vành Đai Hoả Ngục- ",
-		"mapDescription": " Một vùng đất bừng cháy được dệt nên từ lửa, nơi những thử thách thiêu đốt vĩnh hằng "
+    	"mapName": "Vành Đai Hoả Ngục",
+		"mapDescription": "Một vùng đất bừng cháy được dệt nên từ lửa, nơi những thử thách thiêu đốt vĩnh hằng"
   	},
   	"Nibelungen": {
-    	"mapName": " -Vùng Đất Nibelungen- "
+    	"mapName": "Vùng Đất Nibelungen"
   	}
 }

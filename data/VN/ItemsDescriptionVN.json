@@ -270,6 +270,65 @@
         ],
         "ability": ""
     },
+    "21": {
+        "name": [
+            "Mã Bí Ẩn"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "\"Nhấn giữ khung avatar để kích hoạt ô nhập\""
+        ],
+        "ability": "",
+        "howToUse": [
+            "<<Hướng Dẫn Mã Gian Lận>>",
+            "",
+            "Nhấn giữ khung avatar nhân vật (khu vực thanh HP) để mở ô nhập.",
+            "Nhập mã và nhấn Enter để kích hoạt.",
+            "Sau khi sử dụng mã gian lận, bạn sẽ nhận danh hiệu 'ZAKO'.",
+            "Bạn có thể bật/tắt hiệu ứng easter egg của danh hiệu này trong menu Cài đặt.",
+            "Việc này sẽ không ảnh hưởng tiêu cực đến chỉ số, tiến trình cốt truyện hoặc kết game.",
+            "", 
+            "<<Danh Sách Mã Gian Lận>>",
+            ""
+        ],
+        "notUnlocked": [
+            "Bạn vẫn chưa mở khoá mã gian lận, có lẽ tên hiệp sĩ kì lạ kia có thể cho bạn manh mối!"  
+        ],
+        "hard2k1ll": [
+            "< hard2k1ll >",
+            "Nhận trang bị gian lận 'Đôi Cánh Pha Lê Của Nữ Hoàng Tiên'.",
+            "Miễn nhiễm sát thương rơi và giảm sát thương cực lớn."
+        ],
+        "get40rfree": [
+            "< get40rfree >",
+            "Nhận tất cả vật phẩm tiêu hao, nguyên liệu và vật liệu. Chỉ dùng được một lần."
+        ],
+        "6a1n60ld": [
+            "< 6a1n60ld >",
+            "Nhận 100.000 Yên và trang bị gian lận 'Búa May Mắn của Ruika'. Tiêu diệt quái sẽ nhận thêm vàng."
+        ],
+        "healmeplz": [
+            "< healmeplz >",
+            "Nhận trang bị gian lận 'Bộ Sơ Cứu của Mio'. Khi trang bị, cung cấp hiệu ứng tự động hồi phục vĩnh viễn."
+        ],
+        "unshatter": [
+            "< unshatter >",
+            "Nhận trang bị gian lận 'Kim Thủ Chỉ của Shiroin'. Khi trang bị, tấn công mục tiêu sẽ không tiêu hao độ bền vũ khí."
+        ],
+        "60dpat": [
+            "< 60dpat >",
+            "Nhận trang bị gian lận 'Ái Thần Dâng Trào'. Khi xoa đầu em gái ở nhà sẽ tăng mạnh độ hảo cảm."
+        ],
+        "muestacz": [
+            "< muestacz >",
+            "Nhận trang bị gian lận 'Lãnh Địa Tuyệt Đối'. Khi trang bị, tăng rất nhiều dung lượng túi đồ."
+        ],
+        "1f0g0ty0u": [
+            "< 1f0g0ty0u >",
+            "Đổi tên của em gái."
+        ]
+    },
     "23": {
         "name": [
             "Sữa Ngon Cực Kỳ"
@@ -357,7 +416,7 @@
             "Tỏa ra mùi đào khiến chỉ cần ngửi thôi cũng cảm thấy chóng mặt..."
         ],
         "ability": [
-            "Khi ăn sẽ khiến toàn thân bạn rạo rực!"
+            "Ban trạng thái Nứng khi cho \\str[120] ăn"
         ]
     },
     "31": {
@@ -372,7 +431,7 @@
             "Tỏa ra mùi việt quất khiến chỉ cần ngửi thôi cũng cảm thấy bình tĩnh..."
         ],
         "ability": [
-            "Mang lại cảm giác bình tĩnh sau khi ăn..."
+            "Ban trạng thái Mơ Màng khi cho \\str[120] ăn"
         ]
     },
     "32": {
@@ -387,7 +446,7 @@
             "Tỏa ra mùi dưa lưới khiến chỉ cần ngửi thôi cũng cảm thấy phấn chấn..."
         ],
         "ability": [
-            "Hiệu ứng chưa được thêm vào"
+            "Ban trạng thái Hân Hoan khi cho \\str[120] ăn"
         ]
     },
     "33": {
@@ -2847,6 +2906,21 @@
             "Một loại quặng đặc biệt chỉ được tìm thấy ở những tầng sâu của Vực Sâu.",
             "Nó chứa nguồn ma lực bỏng rát, nhưng lại cứng một cách khác thường, ",
             "và chỉ có thể được khai thác cũng như gia công bằng những phương pháp nhất định."
+        ],
+        "ability": ""
+    },
+    "410": {
+        "name": [
+            "Đề nghị của Hiệp sĩ"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"Ta hiểu rồi... cậu nói trò chơi quá khó sao?\"",
+            "\"Nếu cậu không phiền, ta có thể cho cậu biết một phương pháp đặc biệt...\""
+        ],
+        "description": [
+            "Một mã bí ẩn được Hiệp sĩ cung cấp.",
+            "Nó ngay lập tức cải thiện trải nghiệm chơi game, nhưng cái giá phải trả là gì?"
         ],
         "ability": ""
     }

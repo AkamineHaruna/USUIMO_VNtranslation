@@ -11,6 +11,12 @@
 			"\\w[120]"
         ]
     },
+    "cheatCodeTutorial": {
+        "0": [
+            "⬆ Nhấn giữ khung avatar để mở cửa sổ nhập mã gian lận.",
+            "Nhập đúng mã gian lận để mở khóa các tính năng tương ứng!"
+        ]
+    },
     "usingItem": {
         "0": [
             "Đã lấy ra \\ii[\\v[90]]  ",
