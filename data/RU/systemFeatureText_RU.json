@@ -172,36 +172,37 @@
     "Нажмите ниже, чтобы открыть страницу в Steam."
   ],
   "AdventurersPathway": {
-    "mapName": " - Тропа авантюристов - "
+    "mapName": "Тропа авантюристов"
   },
   "ShallowRuinsLabyrinth": {
-    "mapName": " - Поверхность лабиринта - ",
-    "mapDescription": " Огромный лабиринт, наполненный бесчисленными тайнами "
+    "mapName": "Поверхность лабиринта",
+    "mapDescription": "Огромный лабиринт, наполненный бесчисленными тайнами"
   },
   "ForgottenCatacombe": {
-    "mapName": " - Забытые катакомбы - "
+    "mapName": "Забытые катакомбы"
   },
   "ForestofRuins": {
-    "mapName": " - Лес у руин - "
+    "mapName": "Лес у руин"
   },
   "AbandonedForest": {
-    "mapName": " - Затерянный лес - "
+    "mapName": "Затерянный лес"
   },
   "ExcavationSite": {
-    "mapName": " - Место раскопок - "
+    "mapName": "Место раскопок"
   },
   "TheFallenChurch": {
-    "mapName": " - Падшая церковь - "
+    "mapName": "Падшая церковь",
+    "mapDescription": "Мой милый ягнёночек! Почему ты оставил меня?"
   },
   "DoorofStar": {
-    "mapName": " - Звёздная дверь - "
+    "mapName": "Звёздная дверь"
   },
   "ScorchingLavaZone": {
-    "mapName": " - Место у лавы - ",
+    "mapName": "Место у лавы",
     "mapDescription": " Земля, пылающая огнём, где испытания длятся вечность "
   },
   "Nibelungen": {
-    "mapName": " - Нибелунген - "
+    "mapName": "Нибелунген"
   },
   "cloudSaveServiceWarning": [
     "Эта функция запросит доступ к вашему Google диску (\"Google Drive\"),",
@@ -265,5 +266,9 @@
   },
   "numberDays": [
     "DAY "
+  ],
+  "EnterCheatCode": [
+    "ZAKO~♥ ZAKO~♥",
+    "Введите чит-код здесь..."
   ]
 }
