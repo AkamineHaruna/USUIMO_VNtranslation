@@ -1,0 +1,262 @@
+{
+  "gameTitle": [
+    "Obyčejný život s mojí Skromnou Holkou "
+  ],
+  "goldHeld": [
+    "Zlato"
+  ],
+  "numberDays": [
+    "DEN"
+  ],  
+  "quantityHeld": [
+    "\\fs[16]•Držené množství:\\c[17] ${} \\c[0]\\py[-8]"
+  ],
+  "autoUpdate": [
+    "Dostupná aktualizace: Verze ${} herní data nalezena. ",
+    "Chtěli byste stáhnout a aktualizovat nyní?"
+  ],
+  "fullScreen": [
+    "Celá obrazovka"
+  ],
+  "masterVolume": [
+    "Hlavní hlasitost"
+  ],
+  "voiceVolume": [
+    "Hlasitost hlasů"
+  ],
+  "BgmVolume": [
+    "Hlaitost hudby"
+  ],
+  "BgsVolume": [
+    "Hlasitost zvuků"
+  ],
+  "SeVolume": [
+    "Hlasitost zvukových efektů"
+  ],
+  "MaxPlayerMsgs": [
+    "Maximum hráčských zpráv"
+  ],
+  "GameFAQ": [
+    "Herní průvodce"
+  ],
+  "ShowWeaponDurability": [
+    "Ukazovat výdrž zbraní"
+  ],
+  "DisableAutoUpdate": [
+    "Zakázat automatické aktualizace"
+  ],
+  "LockedFPS": [
+    "Zamčít na 60 FPS"
+  ],
+  "ZakoMode": [
+    "ZAKO mód"
+  ],  
+  "Language": [
+    "Jazyk hry"
+  ],
+  "SwitchLanguage": [
+    "Změna jazyka hry zjištěna!",
+    "Restartování hry pro uplatnění změny jazyka!"
+  ],
+  "ErrorReport": [
+    "Došlo k chybě. Prosím nahlaš chybu on NLCH Discord serveru.",
+    "(Klikni 'OK' pro otevření odkazu s pozvánkou)",
+    "(Připni snímek obrazovky s chybou)"
+  ],
+  "EnterCheatCode": [
+    "ZAKO~♥ ZAKO~♥",
+    "Zadej cheat kód zde…"
+  ],     
+  "AnnouncementMenu": [
+    "Oznámení",
+    "Seznam změn"
+  ],    
+  "UpdateComplete1": [
+    "Aktalizace dokončena!",
+    "Hra se automaticky restartuje po zavření tohoto okna.",
+    "Mužeš načíst hru z automatického-ukládání pro obnovení pokroku!"
+  ],
+  "UpdateComplete2": [
+    "Aktualizace hry dokončena!",
+    "Hra se krátce restartuje pro uplatnění aktualizace!"
+  ],
+  "RemindToUpdate": [
+    "Došlo k chybě a hra zamrzla.",
+    "Novější patch je dostupný—",
+    "Prosím použijte automatickou-aktualizaci k opravě problému!"
+  ],
+  "bagFull": [
+    "Limit inventáře překročen!!"
+  ],
+  "noStatusEffects": [
+    "Žádný stavový efekt!"
+  ],
+  "unimplementedDoor": [
+    "Tyto dveře nejdou otevřít z této strany"
+  ],
+  "zipUpdateComplete": [
+    "Aktualizace úspěšně nainstalována. ",
+    "Restartování hry pro uplatnění aktualizace!"
+  ],
+  "zipUpdateFail": [
+    "Neúspěšná vyjmutí a instalace aktualizace!",
+    "Prosím zkus automatickou-aktualizaci znova nebo",
+    "manuálně vyjmi patch soubory k instalaci!"
+  ],
+  "fileDownloadedSuccessfully": [
+    "${} stažen úspěšně!"
+  ],
+  "fileDownloadFailed": [
+    "${} se nepodařil stáhnout! Opakování nyní!"
+  ],
+  "installPatch": [
+    "Patch vyžaduje vyjmutí-instalaci nyní. Akce možná způsobí sekání hry, prosím buďte trpělivý!"
+  ],
+  "totalFilesToUpdate": [
+    "Detekovány ${} soubor(y) k aktualizaci, stahování začíná!"
+  ],
+  "silentUpdateSuccess": [
+    "Nový patch s obsahem pro ${} byl úspěšně nainstalován a bude uplatněn po dalším restartování."
+  ],
+  "outdatedVersionWarning": [
+    "Tvoje současná verze hry je zastaralá. Nejnovější verze je ${}.",
+    "Aktualizace hlavní verze hry nepodporuje automatickou aktualizaci. ",
+    "Prosím stáhni hru znova z oficiálních zdrojů."
+  ],
+  "renameCharacter": [
+    "Už si pamatuju—",
+    "ona je…"
+  ],
+  "heroName": [
+    "Onii-chan"
+  ],
+  "heroineName": [
+    "Imouto"
+  ],
+  "nonHardwareAccelerated": [
+    "Tato hra právě běží na integrované grafické kartě!",
+    "Pokud má tvůj počítač dedikovanou grafickou kartu, doporučujeme nastavit Game.exe ",
+    "na používání dedikované grafické karty pro plynulejší herní zážitek."
+  ],
+  "isAmdCPU": [
+    "Tvůj procesor je detekován jako AMD procesor.",
+    "Některé AMD procesory mohou zažít ztráty snímků při přehrávání VP9 (WebM) videí ",
+    "v Chromium prostředí. Pokud narazíš na daný problém, vyzkoušej donutit hru",
+    "používat renderování grafickou kartou nebo si aktualizuj drivery pro odstranění problémů."
+  ],
+  "failedToLoad": [
+    "Tento typ chyby může být způsoben:",
+    "① Korupcí souborů hry nebo změně názvů souborů, kvůli chybnému zakódování během extrahování/instalace.",
+    "② Vývojáři zapomínající zahrnout soubor-prosím počkej na aktualizaci, která to opraví."
+  ],
+  "LowResMode": [
+    "Mód nízké grafiky"
+  ],
+  "lowResModeWarning": [
+    "Tato funkce je hlavně pro optimalizace výkonu na Android zařízeních a možná bude mít malý dopad na počítačové verzi.",
+    "Když je funkce povolená, hra rendruje mapy a obrázky v nižším rozlišení a následně je vyškáluje nahoru, ",
+    "snižuje nápor na grafickou kartu na mobilních zařízeních a snižuje zahřívání a spotřeba baterie.",
+    "Poznámka: Tato funkce je experimentální a její efektivita se může lišit zařízení od zařízení.",
+    "Tuto funkci můžeš kdykoliv zakázat pro okamžité obnovení veškeré kvality obrazu."
+  ],
+  "cloudSaveServiceWarning": [
+    "S tím, že cloudové ukládání je stále ve vývoji,",
+    "si tato funkce dočasně vyžádá přístup k vašemu Google Disku",
+    "za účelem ukládání herních uložených dat ve složce NLCH/save.",
+    "Nahrávání uložených dat bude používáno pouze pro budoucí synchronizaci a ",
+    "stahování zpět do hry a nebude používáno na žádné další účely.",
+    "Souhlasíš s udělením přístupu k vašemu Google Disku?"
+  ],
+  "uploadSaveFile": [
+    "Stahování uložené hry z Google Disku přepíše váše současná lokální uložená data!",
+    "Chete pokračovat?"
+  ],
+  "nearbyMonstersCount": [
+    "Detekováno nedalekých příšer"
+  ],
+  "nearbyTreasuresCount": [
+    "Detekovány nedaleké poklady"
+  ],
+  "underwaterTreasuresCount": [
+    "Detekovány povodní poklady"
+  ],
+  "steamWishlist": [
+    "Naše Steam stránka je konečně živě!",
+    "Prosím přidejte si naši hru do seznamu přání a tím nás popořte! (*´∀`)~♥",
+    "⬇Klikněte níže pro otevření naší Steam stránky."
+  ],
+  "memberMenu": {
+    "firstTimeNotice": [
+      "Tato funkce ověření vlatnictví je v současné době experimentální.",
+      "Můžete se přihlásit skrze Patreon zde, ",
+      "nebo propojit s vaším Itch účtem pro ověření vlastnictví.",
+      "Pokud máte aktivní předplatné, ",
+      "nebo již vlastníš hru na Itch.io,",
+      "můžeš používat funkce jako automatická aktualizace hlavních aktualizací.",
+      "",
+      "Prosím vem v potaz:",
+      "V tento čas, je ověření pouze možné pro hráče, ",
+      "kteří si hru koupili na Patreonu nebo na Itch.io ",
+      "nebe pro hráče se zaplaceným Patreon předplacením."
+    ],
+    "shortHint": " Nyní lze povolit cloudové ukládání a hlavní aktualizace",
+    "waitingLogin": "Čekání na dokončení přihlášení…",
+    "notLoggedIn": "Nepřihlášen",
+    "RequestingLogin": "Requesting login link…",
+    "openingWindow": "Opening Patreon login window…",
+    "cloudSave": "Použít Cloudové ukládání",
+    "logInFirst": "Prosím prvně klikněte sem pro přihlášení",
+    "CheckUpdates": "Aktualizujte na nejnovější verzi",
+    "Subscribed": "Předplatné potvrzeno!",
+    "subscribedAndItchUser": "Předplatné potvrzeno! (Itch.io vlastnictví ověřeno)",
+    "NotSubscribed": "Žádné aktivní předplatné nenalezeno. Některé vlastnosti jsou nedostupné.",
+    "lastCheck": "Poslední kontrola: ",
+    "checkLatestVersion": "Kontrola nejnovější verze, počkejte prosím…",
+    "isLatestVersion": "Již jste na nejnovější verzi!",
+    "notSponsor": "Neověření uživatelé musí prvně odebírat!",
+    "ImoutoFavorite": "Imoutin nejoblíbenější",
+    "itchUser": "Itch uživatel potvrzen!",
+    "nonItchUser": "Tato hra nebyla nalezena ve vaší Itch knihovně!",
+    "itchVerifyNotice": "Můžete ověřit vlastnictví Itch verze tady",
+    "itchVerifyAlert": "Prosím přihlašte se před kontrolováním Itch verze!",    
+    "majorUpdateFailed": [
+      "Aktualizace halvní verze neúspěšná!",
+      "Kód chyby: ${}",
+      "Prosím, pokuste se přihlásit pro ověření a aktualizace zkuste znovu,",
+      "nebo pošlete snímek obrazovky na náš Discord server pro podporu!"
+    ]
+  },
+  "AdventurersPathway": {
+    "mapName": "Cesta dobrodruha"
+  },
+  "ShallowRuinsLabyrinth": {
+    "mapName": "Plytké ruiny katakomb",
+    "mapDescription": "Rozsáhlý labyrint naplněn nezpočet tajemstvími"
+  },
+  "ForgottenCatacombe": {
+    "mapName": "Zapomenuté katakomby"
+  },
+  "ForestofRuins": {
+    "mapName": "Les rozvalin"
+  },
+  "AbandonedForest": {
+    "mapName": "Opuštěný les"
+  },
+  "ExcavationSite": {
+    "mapName": "Výkopiště"
+  },
+  "TheFallenChurch": {
+    "mapName": "Padlý kostel",
+    "mapDescription": "můj milý beránku! Proč jsi mne opustil?"
+  },
+  "DoorofStar": {
+    "mapName": "Hvězdné dveře"
+  },
+  "ScorchingLavaZone": {
+    "mapName": "Žhnoucí lávová oblast",
+    "mapDescription": "Žhnoucí země tkaná v plamenech, kde zkoušky hoří věčně"
+  },
+  "Nibelungen": {
+    "mapName": "Nibelunzi"
+  }
+}

@@ -1,0 +1,793 @@
+{
+  "2": {
+    "0": [
+      "\"It’s about time to head out…\""
+    ],
+    "1": [
+      "\"Alright, I’m off.\""
+    ],
+    "2": [
+      "\"Okay, all ready!\""
+    ],
+    "3": [
+      "\\nl< >\"Take care on the road, \\str[121]!\""
+    ],
+    "4": [
+      "\\nl< >\"The weather doesn’t look too good today,",
+      "so be careful, okay…\""
+    ],
+    "5": [
+      "\\nl< >\"If you feel like you can’t hold on, ",
+      "make sure to come back right away!\""
+    ],
+    "6": [
+      "Seeing \\str[120] looking so full of energy in the morning,",
+      "such a rare sight instantly filled me with deep emotion."
+    ],
+    "7": [
+      "Suppressing the urge to tightly hug \\str[120], ",
+      "I simply smiled back at her."
+    ],
+    "8": [
+      "\\{\"I’ll be back soon!\""
+    ],
+    "9": [
+      "\"Alright… Be good and look after the house, okay?\""
+    ],
+    "10": [
+      "I waved to \\str[120] as I left home,",
+      "reminding myself I must work hard again today—for her sake!"
+    ],
+    "11": [
+      "\\nl< >\"I’m sorry, \\str[121]…    \\w[60]",
+      "I’m making you go to such a dangerous place again—\""
+    ],
+    "12": [
+      "\"There you go again. Don’t worry, it’ll be fine.\""
+    ],
+    "13": [
+      "\\nl< >\"But—\""
+    ],
+    "14": [
+      "\"I’ve already explored it many times,",
+      "and for years that labyrinth has remained completely stable, ",
+      "so it’s fine.\""
+    ],
+    "15": [
+      "\"Alright… Be good and look after the house, okay?\""
+    ],
+    "16": [
+      "\\nl< >\"Okay… but be careful…\""
+    ],
+    "17": [
+      "Yeah. \\str[120]… she suffers from a strange illness."
+    ],
+    "18": [
+      "She cannot go outside, nor can she be exposed to sunlight. ",
+      "And if she doesn’t periodically take a specially crafted alchemic medicine, ",
+      "her condition supposedly becomes even more unstable…"
+    ],
+    "19": [
+      "The ingredients for this medicine aren’t something ",
+      "you can simply buy on the market. ",
+      "The only place left where I can possibly gather them all is there—"
+    ],
+    "20": [
+      "So as her family, no matter how many times it takes, ",
+      "I must venture into that place to find a way to ",
+      "cure \\str[120] once and for all."
+    ]
+  },
+  "3": {
+    "0": [
+      "\"I’m back.\""
+    ],
+    "1": [
+      "\\nl< >\"\\str[121]? You’re back early today.\""
+    ],
+    "2": [
+      "\"Yeah, I felt a bit tired today,",
+      "so I didn’t push myself to go exploring…\""
+    ],
+    "3": [
+      "\\nl< >\"This is that thing… called May Sickness, right?\""
+    ],
+    "4": [
+      "May…? But it’s the middle of summer now."
+    ],
+    "5": [
+      "\\nl< >\"I often feel the same way…",
+      "I thought it was still noon, but when I woke up, ",
+      "\\str[121] had already made dinner…\""
+    ],
+    "6": [
+      "...Isn’t that just plain oversleeping?"
+    ],
+    "7": [
+      "\\nl< >\"It’s nice to take it easy sometimes, \\str[121]. ",
+      "Come play with me!\""
+    ],
+    "8": [
+      "\\nl< >\"Getting proper rest is important too, ",
+      "so be mindful next time.\""
+    ],
+    "9": [
+      "\\nl< >\"I see,",
+      "then let me give you a massage, \\str[121]!\""
+    ],
+    "10": [
+      "Yeah, there’s plenty of time—let’s just relax and rest today."
+    ],
+    "11": [
+      "You’re right, there’s plenty of time—let’s just relax and rest today."
+    ],
+    "12": [
+      "\\nl< >\"Then why don’t you try napping too, \\str[121]…",
+      "it feels really good, you know?\""
+    ],
+    "13": [
+      "In the end, I napped with \\str[120] until the sun went down."
+    ],
+    "14": [
+      "I spent the whole day playing games with \\str[120]."
+    ],
+    "15": [
+      "I spent a relaxing day with \\str[120]."
+    ],
+    "16": [
+      "\\str[120] enthusiastically gave me a massage for a long time,",
+      "and because it felt so nice, I drifted off to sleep…"
+    ],
+    "17": [
+      "\\nl< >\"\\str[121]? You’re home really early today.\""
+    ],
+    "18": [
+      "\\nl< >\"Welcome back, \\str[121].\""
+    ],
+    "19": [
+      "\"Hehehe, hey \\str[120]—",
+      "guess what I brought home today—!\""
+    ],
+    "20": [
+      "\\nl< >\"That’s a pretty big package—     \\w[90]\\^"
+    ],
+    "21": [
+      "\\nl< >\"Could it be… something delicious!?\""
+    ],
+    "22": [
+      "Yeah… looks like \\str[120] really has no interest ",
+      "in anything other than food…"
+    ],
+    "23": [
+      "\\nl< >\"Welcome home,       \\w[45]\\^"
+    ],
+    "24": [
+      "\\nl< >\"\\{Ugh, gross!         \\}\\w[20]",
+      "\\str[121], you stink!\""
+    ],
+    "25": [
+      "\"Ehh!?\""
+    ],
+    "26": [
+      "\\nl< >\"\\str[121], you reek!   \\w[90]",
+      "Don’t come near me…               \\w[90]",
+      "Go take a bath already!           \\w[150]\\^"
+    ],
+    "27": [
+      "\"Whaaaaat—!?\""
+    ],
+    "28": [
+      "\\str[120] ran away.     \\w[60]",
+      "…Do I really smell that bad? ",
+      "Did I pick up something nasty while exploring?"
+    ],
+    "29": [
+      "Anyway, I should hurry and take a shower first…"
+    ]
+  },
+  "4": {
+    "0": [
+      "\\nl< >\"..............................",
+      "..............................\""
+    ],
+    "1": [
+      "I expected things to be like usual, ",
+      "with \\str[120] running to greet me with a healing smile.",
+      "But as soon as I return, I see her standing in the entryway ",
+      "with her hands on her hips.",
+      "Her delicate little face is masked in undisguised resentment, ",
+      "like a judge waiting for a criminal to be brought to justice."
+    ],
+    "2": [
+      "Judging by her motionless stance,",
+      "she has clearly been maintaining this pose ",
+      "and waiting here for me for a long time."
+    ],
+    "3": [
+      "That's strange. Have I done anything lately ",
+      "to make \\str[120] angry...?",
+      "I quickly mentally review my recent actions, ",
+      "but I can't find any clues."
+    ],
+    "4": [
+      "\\nl< >\"Welcome back... \\str[121].\""
+    ],
+    "5": [
+      "Oh no! Even \\str[120]'s voice is ice-cold! \\{",
+      "She is definitely pissed off!?"
+    ],
+    "6": [
+      "Instant Surrender",
+      "Play innocent",
+      "Tentatively probe"
+    ],
+    "7": [
+      "Countless 'crime scenes' flash through my mind in an instant.",
+      "Was it because I stole and drank her milk the other day?",
+      "Or was it because I pinched her cheeks while she was napping?",
+      "Or maybe she's holding a grudge about me peeking at her in the bathroom!?"
+    ],
+    "8": [
+      "The more I think about it, the more I feel like I'm in deep trouble.",
+      "I quickly make the judgment and execute the most appropriate reaction—"
+    ],
+    "9": [
+      "\"I'm sorry! I confess everything!\""
+    ],
+    "10": [
+      "I lunged forward and performed a textbook Dogeza before my \\str[120].",
+      "In a situation like this, showing sincere remorse by prostrating myself ",
+      "is the easiest way to win her forgiveness..."
+    ],
+    "11": [
+      "\"Whether it's the milk or those  pranks...",
+      "Please, just show some mercy with the punishment!!\""
+    ],
+    "12": [
+      "\\nl< >\"Eh!? W-wait a minute...",
+      "\\str[121]... what on earth are you talking about?\""
+    ],
+    "13": [
+      "My majestic \\str[120] was startled back half ",
+      "a step by my exaggerated posture.",
+      "Even the resentment on her face dissipated by half due ",
+      "to sheer shock."
+    ],
+    "14": [
+      "\"—Wait, so you're not angry about those things...?\""
+    ],
+    "15": [
+      "\\nl< >\"Of course not—!",
+      "I mean, I am angry, but not because of that!\""
+    ],
+    "16": [
+      "\\nl< >\"It's about this...!",
+      "I found these under your bed while ",
+      "I was cleaning the room today!!\""
+    ],
+    "16.5": [
+      "\\nl< >\"I noticed before that ",
+      "you were secretly collecting these things...",
+      "But the pile just keeps growing!",
+      "You have some explaining to do!\""
+    ],
+    "17": [
+      "\\str[120] stepped aside to reveal a large cardboard box ",
+      "filled with various items.",
+      "Because I was so focused on her, I hadn't noticed ",
+      "the box's existence at all until now."
+    ],
+    "18": [
+      "\"Ah, it's just the stuff I got from the Gacha machines...\""
+    ],
+    "19": [
+      "\\nl< >\"That's exactly it! The collection just keeps growing!",
+      "\\str[121], have you been spending a bit too much money lately?\""
+    ],
+    "20": [
+      "Being questioned like that by \\str[120] made me feel guilty.",
+      "I could only keep my head down while remaining in the Dogeza position."
+    ],
+    "21": [
+      "\\nl< >\"Even though it's money you earned yourself,",
+      "you still need to be careful about how you spend it...!",
+      "The money you earn from fighting so hard should be used properly!\""
+    ],
+    "22": [
+      "\"Guh...\""
+    ],
+    "23": [
+      "Listening to my \\str[120]'s caring lecture,",
+      "I could only bow my head and agree, ",
+      "not daring to offer a single word of rebuttal.",
+      " ",
+      "In this narrow entryway, ",
+      "her small figure seemed incredibly tall and reliable at this moment."
+    ],
+    "24": [
+      "\"But... when it comes to Gacha... I can't stop my hands...!\""
+    ],
+    "25": [
+      "It's the truth. ",
+      "Every time I start a Gacha machine, ",
+      "the sensation in my fingertips feels like magic.",
+      " ",
+      "That spell called 'The next pull is the one' ",
+      "always makes me lose total control.",
+      "By the time I snap out of it, my wallet is already empty."
+    ],
+    "26": [
+      "\\nl< >\"...Phew. I figured you'd say that...",
+      "Since you can't control your own hands, ",
+      "you should just let me keep the money for you!\""
+    ],
+    "27": [
+      "\\nl< >\"It's not like I can use this money anyway...",
+      "If there's something you really want to buy, ",
+      "you can just ask me for it!\""
+    ],
+    "28": [
+      "Hearing this proposal, I was stunned for a moment, ",
+      "but then a strange warmth welled up in my heart.",
+      "Thinking about it, because of her physical condition, ",
+      "she can never go out, so she's never received an allowance."
+    ],
+    "29": [
+      "Maybe doing this doesn't strictly have a practical meaning,",
+      "but that's no reason not to let her feel special."
+    ],
+    "30": [
+      "\"Yeah... that would actually be a huge help.\""
+    ],
+    "31": [
+      "\\nl< >\"Hehe...",
+      "Since you trust me that much, ",
+      "I'll be sure to keep track of every single cent!\""
+    ],
+    "32": [
+      "\\nl< >\"Lastly... ",
+      "you're going to explain exactly what happened with ",
+      "my milk later...\""
+    ],
+    "33": [
+      "\"................................\""
+    ],
+    "34": [
+      "\\{\\c[2]",
+      "You can now give \\str[120] an allowance!"
+    ]
+  },
+  "5": {
+    "0": [
+      "\"N-no more…   \\w[30]",
+      "I almost died out there…\""
+    ],
+    "1": [
+      "It was lucky I managed to escape at the last moment…",
+      "As I thought, with my current strength it’s still way too reckless ",
+      "to challenge that place…"
+    ],
+    "2": [
+      "I should train more, fully prepare myself,",
+      "and only then think about conquering it…"
+    ],
+    "3": [
+      "\\nl< >\"Welcome home,    \\w[60]\\^"
+    ],
+    "4": [
+      "\\nl< >\"\\str[121]!?\""
+    ],
+    "5": [
+      "\\nl< >\"\\str[121], are you alright!?    \\w[60]",
+      "You’re covered in wounds…!\""
+    ],
+    "6": [
+      "\"Ahaha… I pushed myself a little too hard,",
+      "and ended up failing…\""
+    ],
+    "7": [
+      "\\nl< >\"\\str[121], honestly…",
+      "you really need to take better care of yourself!\""
+    ],
+    "8": [
+      "\\nl< >\"Since you’re hurt, we need to bandage you up quickly!\""
+    ],
+    "9": [
+      "\\str[120] skillfully tended to my wounds, ",
+      "and I felt a great deal of strength return."
+    ],
+    "10": [
+      "\\str[120] carefully bandaged me with clumsy hands, ",
+      "and I felt somewhat recovered."
+    ],
+    "11": [
+      "\\str[120] clumsily wrapped me head to toe in bandages, ",
+      "and I felt just a little bit better."
+    ],
+    "12": [
+      "\\nl< >\"Now, \\str[121], you just rest up!",
+      "Leave dinner to me!\""
+    ],
+    "13": [
+      "\"Ah… yeah…\""
+    ],
+    "14": [
+      "That said, my whole body’s wrapped like a mummy, ",
+      "and I can’t move at all…"
+    ],
+    "15": [
+      "\\nl< >\"Mhm, \\str[121], you’re a good boy.\""
+    ],
+    "16": [
+      "Was it just my imagination, ",
+      "or did \\str[120] seem more motivated than usual…?"
+    ],
+    "17": [
+      "\\nl< >\"\\str[121], you pushed yourself too far again!\""
+    ],
+    "18": [
+      "\\nl< >\"We have to stop the bleeding quickly!\""
+    ],
+    "19": [
+      "\\nl< >\"From now on, ",
+      "let me take care of you, \\str[121]!\""
+    ],
+    "20": [
+      "Was it just my imagination, ",
+      "or did \\str[120] look even more excited than usual…?"
+    ]
+  },
+  "9": {
+    "0": [
+      "The warmth in my arms reminded me that ",
+      "I had finally obtained the medicine I longed for. ",
+      "Yet the surreal nature of this experience still left me unsettled."
+    ],
+    "1": [
+      "The Star tarot card at the entrance connected.",
+      "It was one of the belongings left behind by my father.",
+      "Although he had spent his life researching a way to cure \\str[120],",
+      "why did it react so easily now…?"
+    ],
+    "2": [
+      "No matter how I thought about it, I couldn’t reach a conclusion.",
+      "Overthinking was meaningless. ",
+      "The important thing is—I now have the Elixir Rubrum.",
+      "I should find a chance to let \\str[120] try it."
+    ],
+    "3": [
+      "Its color even looks like strawberry juice,",
+      "maybe it even tastes like her favorite strawberry milk…"
+    ],
+    "4": [
+      "\\nl< >\"Welcome home, \\str[121].\""
+    ],
+    "5": [
+      "\\nl< >\"My stomach’s already empty…\""
+    ],
+    "6": [
+      "\"Alright, alright, I’ll get dinner ready right away.\""
+    ],
+    "7": [
+      "I gently patted \\str[120]’s head and comforted her a little. ",
+      "Alright—what should I do next?"
+    ],
+    "8": [
+      "Prepare dinner",
+      "Go to the toilet"
+    ],
+    "9": [
+      "Yeah, it’s getting late, I’d better go prepare dinner."
+    ],
+    "10": [
+      "\"What would you like to eat tonight?\""
+    ],
+    "11": [
+      "\\nl< >\\{\"Meat dishes are fine!\""
+    ],
+    "12": [
+      "Hmm… just as expected…",
+      "Looks like I really need to find a chance to explain to ",
+      "\\str[120] how important a balanced diet is."
+    ],
+    "13": [
+      "Ugh, I kind of feel like going to the toilet…"
+    ],
+    "14": [
+      "\"Sorry, just wait a bit, I’ll prepare dinner afterward.\""
+    ],
+    "15": [
+      "\\nl< >\"Got it.\""
+    ]
+  },
+  "13": {
+    "0": [
+      "\\nl< >\"\\str[121], you didn’t come back all beaten up today ",
+      "just like we promised, great job! ",
+      "You deserve some praise for working so hard!\""
+    ],
+    "1": [
+      "\\nl< >\"\\str[121], you kept our promise again today. ",
+      "Here’s today’s reward!\""
+    ],
+    "2": [
+      "\\nl< >\"\\str[121], you’ve been working hard lately. ",
+      "Here’s today’s reward—\""
+    ],
+    "3": [
+      "\\nl< >\"It’s almost been a month now. You’ve done so well,",
+      "\\str[121]. Come on, here’s today’s reward—\""
+    ],
+    "4": [
+      "\\nl< >\"\\str[121]! Wonderful, it’s already been a month! ",
+      "You’re amazing, \\str[121]!\""
+    ],
+    "5": [
+      "\\nl< >\"Anyway, this is the final reward!\""
+    ],
+    "6": [
+      "\\nl< >\"Alright! Done drawing!",
+      "This is proof that you’ve been such a good kid, \\str[121]! ",
+      "You’re not allowed to wash it off today!\""
+    ],
+    "7": [
+      "I looked at my right hand, where \\str[120] had drawn ",
+      "a cute little picture on the back with her brush."
+    ],
+    "8": [
+      "What an incredible kind of reward… but still…"
+    ],
+    "9": [
+      "\\nl< >\"Eh? ",
+      "‘Will there be some special reward if I keep collecting them?’",
+      "…\\str[121], do you want even more praise?\""
+    ],
+    "10": [
+      "\\nl< >\"Hmm… well, if you keep this up for another month,",
+      "I’ll give you an even more special reward…\""
+    ],
+    "11": [
+      "\\nl< >\"But… it’s too embarrassing, ",
+      "so I can’t tell you what it is just yet…\""
+    ],
+    "12": [
+      "I was only joking, but \\str[120] seemed to be ",
+      "seriously thinking about some kind of special reward. ",
+      "It actually made me feel motivated!"
+    ],
+    "13": [
+      "\\nl< >\"The special reward is still a secret. ",
+      "I can’t tell you now, \\str[121]…!\""
+    ],
+    "14": [
+      "\\nl< >\"Here you go, \\str[121]! ",
+      "Just as promised, this is your special reward!\""
+    ],
+    "15": [
+      "\\nl< >\"Hehe… it’s a ‘Do Anything’ coupon I made.\""
+    ],
+    "16": [
+      "\\nl< >\"\\str[121], you’re always thinking about me, but…",
+      "I also want you to be able to put down those burdens and take it easy…\""
+    ],
+    "17": [
+      "\\nl< >\"So, you can use this to pamper yourself ",
+      "with me as much as you like!\"",
+      "Any request is fine—just focus on relaxing yourself!\""
+    ],
+    "18": [
+      "\\nl< >\"Eh!?     \\w[30]",
+      "‘Even… lewd things would be okay…?’",
+      "Um, um…\""
+    ],
+    "19": [
+      "\\nl< >\"It’s fine… if that’s what you really want,",
+      "I won’t refuse…\""
+    ],
+    "20": [
+      "\\nl< >\"After all, \\str[121], ",
+      "you’re always teasing me anyway…\""
+    ],
+    "21": [
+      "\\>Received \\ii[199] from \\str[120]!                   \\w[60]",
+      "\\>You can now make a spoiled request to \\str[120]!     \\w[60]"
+    ]
+  },
+  "14": {
+    "0": [
+      "\\nl< >\"Oh? \\str[121], what’s that you’re holding?\""
+    ],
+    "1": [
+      "\"Ah… today I just received this outfit from a knight,",
+      "he said it was a game bonus—\"          \\w[30]\\^"
+    ],
+    "2": [
+      "\\nl< >\"The knight from 'Shadow Soul'!? ",
+      "Quick, let me see—\""
+    ],
+    "3": [
+      "\\str[120] darted in front of me at lightning speed ",
+      "and snatched the clothes—",
+      "Huh… looks like she really likes this gift."
+    ],
+    "4": [
+      "\\nl< >\"Ooooh—! There’s even the knight’s autograph on it!\""
+    ],
+    "5": [
+      "\\nl< >\"I’ll try it on right now—\""
+    ],
+    "6": [
+      "\\{\"Ah, wait—!? ",
+      "We’re still at the entrance!\""
+    ],
+    "7": [
+      "I hurriedly turned away and quickly shut the front door. ",
+      "\\str[120]’s skin can’t withstand long exposure to the sun. ",
+      "Was she so excited that she forgot her own weakness!?"
+    ],
+    "8": [
+      "\\nl< >\"All done changing—!\""
+    ],
+    "9": [
+      "\"Heh… it actually fits pretty well.\""
+    ],
+    "10": [
+      "That knight insisted on always wearing heavy armor, ",
+      "so I assumed he must have been tall and broad. ",
+      "I worried \\str[120] wouldn’t be able to wear it properly, ",
+      "but to my surprise, the size fit her perfectly…"
+    ],
+    "11": [
+      "\\nl< >\"Ehehe… I’ll just use this as pajamas from now on~\""
+    ],
+    "12": [
+      "\"That’ll wrinkle it… ",
+      "isn’t it supposed to be a collector’s item…\""
+    ],
+    "13": [
+      "\"Also, it’s almost time to eat. ",
+      "Hurry and change out of it first.\""
+    ],
+    "14": [
+      "\\nl< >\"Okay~\""
+    ]
+  },
+  "15": {
+    "0": [
+      "\"…I’m back.\""
+    ],
+    "1": [
+      "I greeted weakly,",
+      "and as soon as I stepped inside, ",
+      "the burning heat all over my body instantly faded away.",
+      "Damn weather… to think it could get this hot…"
+    ],
+    "2": [
+      "\"—Hm? That's strange.\""
+    ],
+    "3": [
+      "I realized \\str[120] didn’t come to greet me like usual. ",
+      "Is she still asleep?"
+    ],
+    "4": [
+      "\\nl< >\"\\str[121], welcome home…\""
+    ],
+    "5": [
+      "Wearing just a T-shirt, ",
+      "\\str[120] walked out sluggishly to greet me,",
+      "it was obvious the heat had worn her down too…"
+    ],
+    "6": [
+      "\\nl< >\\{\"So hot…!\"",
+      "\\w[40]\\^"
+    ],
+    "7": [
+      "\\nl< >\"\\str[121], your body’s burning hot…!\""
+    ],
+    "8": [
+      "Looking down at my body still steaming with heat,",
+      "for a moment it even felt like I might explode…"
+    ],
+    "9": [
+      "\\nl< >\"\\str[121], welcome home…    \\w[60]",
+      "It must’ve been really hot outside, huh?\""
+    ],
+    "10": [
+      "\"Yeah, it felt like being inside an oven…   \\w[60]",
+      "What the heck is with this weather…\""
+    ],
+    "11": [
+      "\"But it’s all fine now!!    \\w[40]",
+      "Ta-da! I got us a fan!\""
+    ],
+    "12": [
+      "\\nl< >\"That’s great! Hurry, hurry!   \\w[60]",
+      "Set it up right now!\""
+    ],
+    "13": [
+      "\\nl< >\"I’ve got the fan and popsicles ready, come on!\""
+    ],
+    "14": [
+      "\"Ohhh—!\""
+    ],
+    "15": [
+      "Coming home to a cool place with popsicles to eat,",
+      "this feeling isn’t so bad at all…"
+    ],
+    "16": [
+      "After waiting a while, \\str[120] still didn’t come out.",
+      "Strange… could she still be napping?"
+    ],
+    "17": [
+      "What should I do…"
+    ],
+    "18": [
+      "Sneak Over",
+      "Call \\str[120]"
+    ],
+    "19": [
+      "Alright! I’ll just quietly sneak to her room,",
+      "it’d be a shame if I woke her up while she’s napping."
+    ],
+    "20": [
+      "\\{\"I’m homeー！\""
+    ],
+    "21": [
+      "I called out casually,",
+      "and before long I could hear ",
+      "hurried footsteps coming downstairs."
+    ],
+    "22": [
+      "…Wow, that fast?"
+    ],
+    "23": [
+      "\\nl< >\"\\str[121]!?",
+      "You’re back really early today—\""
+    ],
+    "24": [
+      "Probably because she came running,",
+      "\\str[120]’s cheeks were flushed and her ",
+      "breathing was unusually quick and uneven."
+    ],
+    "25": [
+      "\"………Huh?    \\w[45]",
+      "\\str[120], could it be that you—\""
+    ],
+    "26": [
+      "\\nl< >\"Eek!?\""
+    ],
+    "27": [
+      "\"You were secretly eating chips just now, weren’t you!?",
+      "Look, there are crumbs at the corner of your mouth!\""
+    ],
+    "28": [
+      "\\nl< >\"Eh… ah… \\w[45] umm… yeah, that’s right,    \\w[45]",
+      "ehehe… I was snacking a little…\"                 \\w[45]"
+    ],
+    "29": [
+      "\\str[120] fumbled awkwardly with her excuse, ",
+      "and it just looked more suspicious…"
+    ],
+    "30": [
+      "\\nl< >\"Alright, alright, I’ve got a portion for you too,",
+      "Let’s eat together…!\""
+    ],
+    "31": [
+      "Not giving me a chance to question her further, ",
+      "\\str[120] slipped away."
+    ],
+    "32": [
+      "Back at the entrance, my mind kept ",
+      "replaying the image of Imouto’s careless, revealing figure.     \\w[60]",
+      "…Well, it is summer after all."
+    ],
+    "33": [
+      "\"Ahem ahem…         \\w[60]\\{",
+      "I’m homeー！\""
+    ],
+    "34": [
+      "I pretended like I hadn’t noticed anything ",
+      "as I called out to \\str[120] inside."
+    ]
+  }
+}

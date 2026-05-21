@@ -1,0 +1,1396 @@
+{
+  "1": {
+    "name": [
+      "Kovadlina"
+    ],
+    "subtitle": "",
+    "description": [
+      "Těžká kovadlina z kovářovi dílny, nějakým způsobem přenášena ",
+      "jako vybavení. Její pevnost a hmotnost ji dělají perfektní pro",
+      "ostření zbraní, ačkoli to muže být pro nezkušené naročné..."
+    ],
+    "ability": [
+      "Tisíc kroků se změní na vytažení kovadliny k opravě zbraní",
+      "Nelze opravit kouzelné zbraně nebo zbraně zlaté kvality"
+    ]
+  },
+  "2": {
+    "name": [
+      "Zdobená zbroj"
+    ],
+    "subtitle": "",
+    "description": [
+      "Mineráli spící v podzemí jsou dobré alchemické médium",
+      "Toto magitech zařízení ve tvaru dýky vzužívá sílu drahokamů, ",
+      "ale její nákladné použití vedlo většinu alchemistů k upuštění dané technologie…"
+    ],
+    "ability": [
+      "Náhodně při útoku zkonzumuje drahokam pro zvětšení poškození",
+      "Čím více vzácný drahokom, tím větší magické poškození"
+    ]
+  },
+  "3": {
+    "name": [
+      "Zvláštní doplněk do vlasů"
+    ],
+    "subtitle": "",
+    "description": [
+      "Doplněk do vlasů doplněn neobvyklím ornamentem",
+      "Je to králík… nebo buchta…?"
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "4": {
+    "name": [
+      "Myslivecké Boty"
+    ],
+    "subtitle": "",
+    "description": [
+        "Boty vyrobené z tvrdé kůže a dřevěné podrážky, ",
+        "lemované hebkou vrstvou srsti pro ztišení každého kroku",
+        "Tichý pohyb je myslivcův první krok"
+    ],
+    "ability": [
+      "Zvýší rychlost pohybu během natahování luku",
+      "Při vybavení uděluje \\ss[10] efekt schopnosti"
+    ]
+  },  
+  "5": {
+    "name": [
+      "Ochranné Rukavice"
+    ],
+    "subtitle": "",
+    "description": [
+      "Ochranné rukavice vyrobené z izolačního materiálu, ",
+      "původně používané pracovníky jako každodení ochranné vybavení. Překvapivě, ",
+      "také poskytují ochranu proti magickým útokům…"
+    ],
+    "ability": [
+      "Při vybavení velmi snižuje efekt blesků"
+    ]
+  },
+  "6": {
+    "name": [
+      "Zrození Pohromy/Kalamity"
+    ],
+    "subtitle": "",
+    "description": [
+      "Parazitován Kamenem Mudrců, salbé stvoření bylo nasílu",
+      "napuštěn nekonečnou životní sílou, nekonečně cyklící mezi životem a",
+      "smrtí dokud nepřevezme šílenství. I když odstraněn,  power remains"
+    ],
+    "ability": [
+      "Zvyšuje HP. Vylepšuje efekt regenerace HP o 20%",
+      "Při vybavení uděluje autoamtickou regeneraci"
+    ]
+  },
+  "7": {
+    "name": [
+      "Prokletý Zárodek"
+    ],
+    "subtitle": "",
+    "description": [
+      "Nevivynutý prokletý zárodek, který i přes všechno,",
+      "zůstává naživu.Jeho intezivní vůle přežít a přetékající",
+      "životní síla může ovlivnit i jeho nositele"
+    ],
+    "ability": [
+      "Zvyšuje HP. Vylepšuje efekt regenerace HP o 20%"
+    ]
+  },
+  "8": {
+    "name": [
+      "Mana Crystal Cluster"
+    ],
+    "subtitle": "",
+    "description": [
+      "A mineral shaped by the Great Labyrinth, containing trace mana",
+      "Carrying it enhances magical understanding"
+    ],
+    "ability": [
+      "Equipping it boosts casting speed and magic power",
+      "Magical weapons' attacks deal an extra 5% magic damage"
+    ]
+  },
+  "9": {
+    "name": [
+      "Abyssal Mana Cluster"
+    ],
+    "subtitle": "",
+    "description": [
+      "A rare cluster infused with dense mana,",
+      "radiating palpable magical waves. Highly sought after by alchemists"
+    ],
+    "ability": [
+      "Equipping it boosts casting speed and magic power",
+      "Magical weapons' attacks deal an extra 10% magic damage"
+    ]
+  },
+  "10": {
+    "name": [
+      "Focus Circlet"
+    ],
+    "subtitle": "",
+    "description": [
+      "A circlet worn by the great sage during their youth as an",
+      "adventurer. It helps focus the mind and blocks external distractions"
+    ],
+    "ability": [
+      "Immune to Stun",
+      "Enhances magic power and casting scale"
+    ]
+  },
+  "11": {
+    "name": [
+      "Manu Čerpající Rukavice"
+    ],
+    "subtitle": "",
+    "description": [
+      "Gloves worn by the great sage during their youth as",
+      "an adventurer. They gather mana naturally,",
+      "imbuing weapons with magical properties"
+    ],
+    "ability": [
+      "When equipped, the held weapon transforms into a magical weapon",
+      "Magical weapons' attacks deal an extra 30% magic damage"
+    ]
+  },
+  "12": {
+    "name": [
+      "Vypůjčené kočičí drápky"
+    ],
+    "subtitle": [
+      " \"...Mňau~?\""
+    ],
+    "description": [
+      "Kočičí drápky schované uvnitř Kočičího Slizu, zdánlivě spojený",
+      "s kočičí duší. Vybavení se těmito drápkami zvýší tvoji hbitost!"
+    ],
+    "ability": [
+      "Increases attack power and attack speed",
+      "Reduces fall damage by 30%"
+    ]
+  },
+  "13": {
+    "name": [
+      "Vypůjčené kočičí tlapky"
+    ],
+    "subtitle": [
+      " \"...Mňau~?\""
+    ],
+    "description": [
+      "Kočičí tlapky schované uvnitř Kočičího Slizu, zdánlivě spojený",
+      "s kočičí duší. Vybavení se těmito botami zvýší tvoji hbitost!"
+    ],
+    "ability": [
+      "Zvýší poškození a rychlost pohybu, sníží cooldown Tisíce kroků",
+      "Sníží poškození pádem o 30%"
+    ]
+  },
+  "14": {
+    "name": [
+      "Aromatický Travnatý Prsten"
+    ],
+    "subtitle": "",
+    "description": [
+      "A ring woven from leaves and rhizomes, emitting a herbal scent",
+      "Once a charm for travelers, it symbolizes vitality and energy"
+    ],
+    "ability": [
+      "Max HP +\\c[29]${QJ.MPMZ.tl.ex_fragrantGrassRingEffectResolve()}\\c[0]",
+      "Equip multiple copies to enhance the effect and gain additional bonuses"
+    ]
+  },
+  "15": {
+    "name": [
+      "Kočičí Plyšový Oblek"
+    ],
+    "subtitle": "",
+    "description": [
+      "A soft and cuddly cat plush costume — fluffy and oversized",
+      "Its roomy design wraps you up and even hides extra goodies~"
+    ],
+    "ability": [
+      "Extra carry capacity for weapons +10",
+      "Extra carry capacity for gears +20"
+    ]
+  },
+  "16": {
+    "name": [
+      "Piercing Spike Helma"
+    ],
+    "subtitle": "",
+    "description": [
+      "A spiked metal armor exuding danger from every angle,",
+      "offering solid defense and automatically damaging nearby enemies"
+    ],
+    "ability": [
+      "Automatically damages nearby enemies"
+    ]
+  },
+  "17": {
+    "name": [
+      "Piercing Spike brnění"
+    ],
+    "subtitle": "",
+    "description": [
+      "A spiked metal armor exuding danger from every angle,",
+      "offering solid defense and automatically damaging nearby enemies"
+    ],
+    "ability": [
+      "Automatically damages nearby enemies"
+    ]
+  },
+  "18": {
+    "name": [
+      "Piercing Spike Ruakvice"
+    ],
+    "subtitle": "",
+    "description": [
+      "A spiked metal armor exuding danger from every angle,",
+      "offering solid defense and automatically damaging nearby enemies"
+    ],
+    "ability": [
+      "Automatically damages nearby enemies when attacking"
+    ]
+  },
+  "19": {
+    "name": [
+      "Piercing Spike Boty"
+    ],
+    "subtitle": "",
+    "description": [
+      "A spiked metal armor exuding danger from every angle,",
+      "offering solid defense and automatically damaging nearby enemies"
+    ],
+    "ability": [
+      "Automatically damages nearby enemies when moving"
+    ]
+  },
+  "20": {
+    "name": [
+      "Rytířova Helma"
+    ],
+    "subtitle": "",
+    "description": [
+      "The standard armor of court knights. Its ornate and sturdy design",
+      "symbolizes their adherence to the chivalric code"
+    ],
+    "ability": [
+      "Increases defense when HP is below \\c[10]30%\\c[0]"
+    ]
+  },
+  "21": {
+    "name": [
+      "Rytířovo Brnění"
+    ],
+    "subtitle": "",
+    "description": [
+      "The standard armor of court knights. Its ornate and sturdy design",
+      "symbolizes their adherence to the chivalric code"
+    ],
+    "ability": [
+      "Increases defense when HP is below \\c[10]30%\\c[0]"
+    ]
+  },
+  "22": {
+    "name": [
+      "Rytířovi Rukavice"
+    ],
+    "subtitle": "",
+    "description": [
+      "The standard armor of court knights. Its ornate and sturdy design",
+      "symbolizes their adherence to the chivalric code"
+    ],
+    "ability": [
+      "Increases attack and defense when HP is below \\c[10]30%\\c[0]"
+    ]
+  },
+  "23": {
+    "name": [
+      "Rytířovi Holenice"
+    ],
+    "subtitle": "",
+    "description": [
+      "The standard armor of court knights. Its ornate and sturdy design",
+      "symbolizes their adherence to the chivalric code"
+    ],
+    "ability": [
+      "Increases movement speed when HP is below \\c[10]30%\\c[0]"
+    ]
+  },
+  "24": {
+    "name": [
+      "Myslivcův Háv"
+    ],
+    "subtitle": "",
+    "description": [
+      "Stitched from thick hide and tough linen, it was once the everyday ",
+      "gear of forest hunters. Though defense is limited, it's light and ",
+      "flexible, letting the wearer move quickly through the woods"
+    ],
+    "ability": [
+      "Slowly regenerates HP when standing on grassy terrain"
+    ]
+  },
+  "25": {
+    "name": [
+      "Myslivcův Pásek"
+    ],
+    "subtitle": "",
+    "description": [
+      "Crafted from sturdy leather and adorned with durable buckles",
+      "and pouches. Once essential for forest hunters on their journeys, ",
+      "it remains light and unburdensome even during long treks"
+    ],
+    "ability": [
+      "Max HP +20, movement speed increased",
+      "Extra carry capacity for weapons +5, for gear +5"
+    ]
+  },
+  "26": {
+    "name": [
+      "Pero Fénixe"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "A Firebird feather.",
+      "symbolizing eternal life, still burning with a warm flame.",
+      "Even a single feather holds the power to revive the dead."
+    ],
+    "ability": [
+      "Activates when HP drops to zero, fully restores HP",
+      "The item is destroyed after activation"
+    ]
+  },
+  "27": {
+    "name": [
+      "Toaleťák"
+    ],
+    "subtitle": "",
+    "description": [
+      "A Toilet Paper take from Home",
+      "A handy item for adventurers who suddenly need",
+      "a toilet break in a dangerous dungeon"
+    ],
+    "ability": [
+      "Reduces Bleed damage taken by \\c[10]30%\\c[0]"
+    ]
+  },
+  "28": {
+    "name": [
+      "Ruka Démona"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "A massive arm brimming with the brute strength of the Oni clan",
+      "It symbolizes a power so fierce it can easily crush solid rock",
+      "For humans, it is a force far too difficult to control"
+    ],
+    "ability": [
+      "Physical attack power +100%. Attack speed decreases",
+      "Weapons are more likely to break during attacks"
+    ]
+  },
+  "29": {
+    "name": [
+      "Saucy Jacky"
+    ],
+    "subtitle": [
+      "\"This one craves screams...\""
+    ],
+    "description": [
+      "One of the deadly weapons of a notorious killer,",
+      "still twitching with anticipation"
+    ],
+    "ability": [
+      "Deals more damage to lower HP foes, up to \\c[10]30%\\c[0]"
+    ]
+  },
+  "30": {
+    "name": [
+      "Hunter's Dagger"
+    ],
+    "subtitle": [
+      "\"Death from the muzzle, fortune from the blade\""
+    ],
+    "description": [
+      "A small, sharp dagger that fits easily in a boot",
+      "To a hunter, it always draws out the prey's final offering"
+    ],
+    "ability": [
+      "Increases chances of meat drops"
+    ]
+  },
+  "31": {
+    "name": [
+      "Misty Night Phantom"
+    ],
+    "subtitle": [
+      "\"This one longs to vanish...\""
+    ],
+    "description": [
+      "One of the deadly tools of a notorious murderer,",
+      "crafted to conceal its presence"
+    ],
+    "ability": [
+      "Periodically enters an invisible state",
+      "Assassinations while invisible deal double damage"
+    ]
+  },
+  "32": {
+    "name": [
+      "Neko Punch"
+    ],
+    "subtitle": "",
+    "description": [
+      "\"Hyaa—!! Don't mess with me nya!\"",
+      "Soft-padded cat paw gloves, the prized weapon of a certain catgirl",
+      "Wearing them grants feline agility—and a craving for fish…"
+    ],
+    "ability": [
+      "Attack speed increased. Extra attack hits +1",
+      "Chance of extra attack hits triggering special effects is halved"
+    ]
+  },
+  "33": {
+    "name": [
+      "Jablečná Pokrývka Hlavy"
+    ],
+    "subtitle": "",
+    "description": [
+      "A headgear made from apples, so you can't",
+      "really expect any defense. But the apples are so delicious"
+    ],
+    "ability": [
+      "There's a chance to activate healing when injured"
+    ]
+  },
+  "34": {
+    "name": [
+      "Sharpblade Ring"
+    ],
+    "subtitle": "",
+    "description": [
+      "Legend says an adventurer, too afraid of fighting barehanded, ",
+      "embedded a sword into a ring. It's far too small to use, ",
+      "but it sure boosts one's presence"
+    ],
+    "ability": [
+      "Physical attack power +15%"
+    ]
+  },
+  "35": {
+    "name": [
+      "Wakizashi"
+    ],
+    "subtitle": "",
+    "description": [
+      "A finely crafted short blade, often carried by foreign samurai ",
+      "as a sidearm. Though short, its edge can tear flesh wide open,",
+      "leaving wounds that won't easily stop bleeding"
+    ],
+    "ability": [
+      "Normal attack count with melee weapons +1",
+      "Extra attack has a chance to inflict Bleed"
+    ]
+  },
+  "36": {
+    "name": [
+      "Maneki Neko"
+    ],
+    "subtitle": "",
+    "description": [
+      "A greedy little Servant with a perpetually unsatisfied look",
+      "It eagerly gathers all dropped items, regardless of their value"
+    ],
+    "ability": [
+      "Maneki Neko automatically collects all types of drops for you",
+      "Equipping multiple will only increase the collection range"
+    ]
+  },
+  "37": {
+    "name": [
+      " Prasátko"
+    ],
+    "subtitle": "",
+    "description": [
+      "A cute Servant that stores collected money",
+      "Something might happen when full, but for now, it's just fragile"
+    ],
+    "ability": [
+      "Happily collects money. Current savings: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0]yen!",
+      "Easily breaks when attacked, losing all stored money"
+    ]
+  },
+  "38": {
+    "name": [
+      " Chamtivé Prasátko"
+    ],
+    "subtitle": "",
+    "description": [
+      "A piggy bank overflowing with wealth, a dream come true",
+      "Yet, even with a belly full of gold, its greed knows no bounds"
+    ],
+    "ability": [
+      "Emits Mamon's Demand aura. Current savings: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0]yen!",
+      "Collects money endlessly, spitting out interest every 10 seconds"
+    ]
+  },
+  "39": {
+    "name": [
+      "Zelený Krunýř"
+    ],
+    "subtitle": "",
+    "description": [
+      "A tough and heavy turtle shell",
+      "Carrying it on land makes it impossible to lift your feet…!"
+    ],
+    "ability": [
+      "Slows movement speed, but increases swimming speed"
+    ]
+  },
+  "40": {
+    "name": [
+      "Uniforma Služebné"
+    ],
+    "subtitle": "",
+    "description": [
+      "A trophy obtained after teaching a lesson to the mischievous",
+      "rabbit-eared girl. It still carries the scent of dirt and carrots"
+    ],
+    "ability": [
+      "When equipped, disguises as a monster but cannot attack",
+      "Equipping it makes you best friends with Maid Bunny"
+    ]
+  },
+  "41": {
+    "name": [
+      "Moe Bunny Ears"
+    ],
+    "subtitle": "",
+    "description": [
+      "A detachable bunny ear accessory",
+      "No matter who wears it, they'll look absolutely adorable!"
+    ],
+    "ability": [
+      "Blessed with luck! Items are more likely to drop!"
+    ]
+  },
+  "42": {
+    "name": [
+      "Bomb Fiend's Soul"
+    ],
+    "subtitle": [
+      "\"Explo————sion!!\""
+    ],
+    "description": [
+      "A will that sacrificed everything for explosions",
+      "Now that you bear it, won't you strive for even bigger blasts?"
+    ],
+    "ability": [
+      "Small chance to trigger an explosion when attacking or hit",
+      "Reduce self-taken explosion damage by 50%"
+    ]
+  },
+  "43": {
+    "name": [
+      "Bladekeepers' Badge"
+    ],
+    "subtitle": [
+      "\"You adventurers make me sick!",
+      "Swinging your blades only to kill, never caring about their pain!\""
+    ],
+    "description": [
+      "A badge worn only by comrades who believe in weapon preservation"
+    ],
+    "ability": [
+      "Attack power -20%, max attack capped at 200",
+      "Reduces all weapon durability loss by 20%"
+    ]
+  },
+  "44": {
+    "name": [
+      "◉▽◉"
+    ],
+    "subtitle": [
+      "\"The Sacabambaspis has seen it all before.\""
+    ],
+    "description": [
+      "A legendary ancient Servant—though it's a fish, it can't swim",
+      "It has tough skin, and its special move is a Cyclone Jet Cannon!"
+    ],
+    "ability": [
+      "Can lift up the Saccabankame turtle and throw it as an attack",
+      "Once it falls into the water, it can't get back out..."
+    ]
+  },
+  "45": {
+    "name": [
+      "Venomous Embrace"
+    ],
+    "subtitle": [
+      "\"This dagger's loaded with deadly poison, y'know— (lick\""
+    ],
+    "description": [
+      "A poisonous magical shortsword—keep your distance"
+    ],
+    "ability": [
+      "Samo-Orbitující sluha",
+      "High chance to inflict Poison on contact"
+    ]
+  },
+  "46": {
+    "name": [
+      "Fist of Fury"
+    ],
+    "subtitle": [
+      "\"Left hand hits hard, right hand hits harder.\""
+    ],
+    "description": [
+      "A powerful magical fist",
+      "Seething with unknown rage, it remains tightly clenched…"
+    ],
+    "ability": [
+      "Samo-Orbitující sluha",
+      "Knocks back any enemy it touches"
+    ]
+  },
+  "47": {
+    "name": [
+      "Xeriho Prokletá Ruka"
+    ],
+    "subtitle": "",
+    "description": [
+      "A severed hand imbued with undead power",
+      "Even without a body, it remains lively and aggressive"
+    ],
+    "ability": [
+      "Samo-Orbitující sluha",
+      "Prokleje jakýkoli cíl, na který ukáže prostředníček"
+    ]
+  },
+  "48": {
+    "name": [
+      "Fascinující Řetězový Kontrakt"
+    ],
+    "subtitle": [
+      "\"When the one you love dies, you must take your own life.",
+      "When the one you love dies, there is no other way.\""
+    ],
+    "description": [
+      "To save his familiar, a certain alchemist forged this contract…"
+    ],
+    "ability": [
+      "Link with your servant—any damage they take will be yours",
+      "Each linked servant grants you a healing effect"
+    ]
+  },
+  "49": {
+    "name": [
+      "Rudý Roh"
+    ],
+    "subtitle": [
+      "\"Don't you ever stop！\""
+    ],
+    "description": [
+      "A crimson horn filled with the Jackalope's magic",
+      "If magic could be supplied endlessly, it might keep accelerating ",
+      "until it became a comet streaking across the sky!"
+    ],
+    "ability": [
+      "When fully charged, Senpo has no cooldown and moves faster",
+      "Once the charge is depleted, it will auto-recharge"
+    ]
+  },
+  "50": {
+    "name": [
+      "Brambůrky"
+    ],
+    "subtitle": "",
+    "description": [
+      "Freshly fried with a warm,",
+      "savory aroma. Watch out for seagulls!"
+    ],
+    "ability": [
+      "Attracts seagulls that steal your chips"
+    ]
+  },
+  "51": {
+    "name": [
+      "Myslivecké Rukavice"
+    ],
+    "subtitle": "",
+    "description": [
+      "Gloves crafted from tanned hide, ",
+      "with reinforced fingertips designed for extended use of the bow",
+      "Old hunters believe that a good pair of gloves gives arrows eyes of their own"
+    ],
+    "ability": [
+      "Arrows fired gain 2 additional Penetration hits",
+      "Shots have a small chance to fire multiple arrows simultaneously"
+    ]
+  },
+  "52": {
+    "name": [
+      "Shadowcrawler Dárek"
+    ],
+    "subtitle": "",
+    "description": [
+      "Said to be a symbol from the depths where shadows creep",
+      "holding it makes you feel as if something is ",
+      "quietly writhing behind you—"
+    ],
+    "ability": [
+      "Movement speed increases",
+      "Gain the attention of ▓▓▓▓▓▓▓"
+    ]
+  },
+  "53": {
+    "name": [
+      "Kostěný Prsten Oběšence"
+    ],
+    "subtitle": "",
+    "description": [
+      "A ring made from the bones of the deceased Hanged Man",
+      "Though most of its power is lost,",
+      "it still grants the wearer a bit of freedom from gravity"
+    ],
+    "ability": [
+      "Reduces fall damage by 80%",
+      "AoE damage from falling increased by 100%"
+    ]
+  },
+  "54": {
+    "name": [
+      "Nekompletní Zlatý Grál"
+    ],
+    "subtitle": "",
+    "description": [
+      "A saint's relic yet to be filled, it blesses the holder with",
+      "immense luck. The source of this blessing remains unknown,",
+      "as it quietly awaits the day it will be complete"
+    ],
+    "ability": [
+      "Greatly increases luck. Doubles money earned"
+    ]
+  },
+  "55": {
+    "name": [
+      "Arsonist's Gloves"
+    ],
+    "subtitle": [
+      "\"Hah, Such filthy fireworks.\""
+    ],
+    "description": [
+      "Thick, heatproof gloves reeking of gunpowder"
+    ],
+    "ability": [
+      "+30% explosion radius for self-triggered bombs",
+      "Bombs have a chance to trigger chain explosions"
+    ]
+  },
+  "56": {
+    "name": [
+      "Dívčí Milost"
+    ],
+    "subtitle": [
+      "\"Good child, good child...\""
+    ],
+    "description": [
+      "One of the nun's attires, silky smooth to the touch, unforgettable",
+      "Holy radiance flows through its fibers, offering comfort"
+    ],
+    "ability": [
+      "Forcibly enters Sage Mode",
+      "Gain more affinity when patting \\str[120]'s head"
+    ]
+  },
+  "57": {
+    "name": [
+      "Ichigo Wo Torimodose!!"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "ASABA, consumed by grief over the lost strawberry, ",
+      "unleashes his ultimate art. Once targeted, you're swallowed",
+      "by an unavoidable storm of combos… But sorrow lingers—",
+      "burned by fate's emotions, you too inherit this forbidden technique! "
+    ],
+    "ability": [
+      "Unlock and allow the use of Skill \\c[27]Musou Burst Stream"
+    ]
+  },
+  "59": {
+    "name": [
+      "Rubrumový Přivěšek"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "The Fallen Magician's Precious Relic. ",
+      "A pendant crafted from a small amount of Philosopher's Fragment ",
+      "imbued with a faint yet everlasting alchemical power"
+    ],
+    "ability": [
+      "Boosts magic attack based on held Philosopher's Fragment count",
+      "Reduces weapon durability use when casting magic by \\c[6]24%\\c[0]"
+    ]
+  },
+  "60": {
+    "name": [
+      "Koruna Padlého Mága"
+    ],
+    "subtitle": "",
+    "description": [
+      "A cursed circlet tainted by dark magic,",
+      "haunted by a stubborn grudge that gnaws at the flesh"
+    ],
+    "ability": [
+      "Magic attack power +100%",
+      "Max HP -50%"
+    ]
+  },
+  "61": {
+    "name": [
+      "Plášť Padlého Mága"
+    ],
+    "subtitle": "",
+    "description": [
+      "A cursed cloak tainted by dark magic,",
+      "haunted by a vengeful spirit craving retribution"
+    ],
+    "ability": [
+      "Afterimages created by Senpo linger longer",
+      "Objects touched by them are frozen in place"
+    ]
+  },
+  "62": {
+    "name": [
+      "Rukavice Padlého Mága"
+    ],
+    "subtitle": "",
+    "description": [
+      "Cursed gloves tainted by dark magic,",
+      "infused with a vengeful spirit eager to attack"
+    ],
+    "ability": [
+      "Projectiles track nearby enemies"
+    ]
+  },
+  "63": {
+    "name": [
+      "Boty Padlého Mága"
+    ],
+    "subtitle": "",
+    "description": [
+      "Cursed shoes tainted by dark magic,",
+      "infused with a vengeful spirit that grants ghost-like agility"
+    ],
+    "ability": [
+      "Boosts movement speed, grants void state when using Senpo"
+    ]
+  },
+  "65": {
+    "name": [
+      "Čelenka Odhodlání"
+    ],
+    "subtitle": [
+      "\"Who the hell do you think I am!?\""
+    ],
+    "description": [
+      "A headband that stirs passion when worn",
+      "No real effect, but its unyielding spirit is unmatched"
+    ],
+    "ability": [
+      "reduces abnormal status chance",
+      "Has a small chance to resist fatal damage"
+    ]
+  },
+  "67": {
+    "name": [
+      "Chrániče Bojovníka"
+    ],
+    "subtitle": "",
+    "description": [
+      "Bandaged bracers worn by martial artists during sparring",
+      "They protect joints while improving movement precision"
+    ],
+    "ability": [
+      "-12% weapon durability consumption",
+      "Increased attack speed & boosted unarmed combo damage"
+    ]
+  },
+  "68": {
+    "name": [
+      "Boty Bojovníka"
+    ],
+    "subtitle": "",
+    "description": [
+      "Shoes commonly worn by martial artists who have",
+      "mastered their craft, radiating a powerful aura"
+    ],
+    "ability": [
+      "Movement speed increased. Senpo enhanced"
+    ]
+  },
+  "69": {
+    "name": [
+      "Ničitel Obličejů"
+    ],
+    "subtitle": [
+      "\"Damn it... I just wanna punch someone in the face...!\""
+    ],
+    "description": [
+      "Punching gloves left behind by a legendary boxer.",
+      "You can still feel the overwhelming force lingering on them."
+    ],
+    "ability": [
+      "Cannot use weapons while equipped",
+      "Punch attacks may deal bonus damage based on target HP"
+    ]
+  },
+  "70": {
+    "name": [
+      "Srdce Strašáka"
+    ],
+    "subtitle": "",
+    "description": [
+      "Duté tělo strašáka",
+      "Žádné teplo, žádný tep, i přes to může žít na tvém místě"
+    ],
+    "ability": [
+      "Prevents all forms of HP recovery while equipped",
+      "At 0 HP, you remain active a bit longer before falling"
+    ]
+  },
+
+  "71": {
+    "name": [
+      "Permafrost Krystal"
+    ],
+    "subtitle": [
+      "\"Moje srdce se stalo chladným... Hádám, že radost nebo smutek už nidky znova nepocítím…\""
+    ],
+    "description": [
+      "A magical crystal that emits a bone-chilling frost",
+      "Even in the sweltering heat, one can still feel its freezing breath"
+    ],
+    "ability": [
+      "Immune to Burning and Heatstroke states",
+      "Increases shatter damage dealt when breaking an enemy's Frozen state"
+    ]
+  }, 
+  "72": {
+    "name": [
+      "Přízračné Křyšťálové Křídla"
+    ],
+    "subtitle": "",
+    "description": [
+      "Spirit wings condensed from pure mana",
+      "Known to spontaneously trigger physical phenomena,",
+      "they are highly valued as high-level alchemical catalysts"
+    ],
+    "ability": [
+      "Reduces fall damage by 40%",
+      "Equipping it boosts casting speed and magic power"
+    ]
+  },    
+  "73": {
+    "name": [
+      "Lávový Prsten"
+    ],
+    "subtitle": "",
+    "description": [
+      "A ring forged from rock flowing with scorching magma",
+      "Wearing it eases the pain from both frost and flame"
+    ],
+    "ability": [
+      "Greatly reduces the chance of being frozen",
+      "Reduces the chance of being burned"
+    ]
+  },
+  "74": {
+    "name": [
+      "Objem Mloků"
+    ],
+    "subtitle": [
+      "\"Ano, mají rádi čili papričky…\""
+    ],
+    "description": [
+      "A grimoire bound with salamander scales. Though it resembles",
+      "an encyclopedia, its records of volcano-dwelling salamanders ",
+      "grant deeper insight into fire when studied."
+    ],
+    "ability": [
+      "Strengthens the damage and form of fire-element magic"
+    ]
+  },
+  "75": {
+    "name": [
+      "Oko Démona"
+    ],
+    "subtitle": "",
+    "description": [
+      "An eyeball taken from a demon. It's still watching.  ",
+      "Demons skilled at manipulating minds often possess the ability ",
+      "to see through things. Perhaps it allows you to notice details ",
+      "that would otherwise be overlooked..."
+    ],
+    "ability": [
+      "Reveals hidden objects and paths while equipped"
+    ]
+  },
+  "77": {
+    "name": [
+      "Dívčí modlitba"
+    ],
+    "subtitle": [
+      "\"Ryby… tolik ryb… kupy lososů…\""
+    ],
+    "description": [
+      "A prayer offered by an archdemon obsessed with eating salmon",
+      "Saying it can warp reality might be a bit of an exaggeration…",
+      "but she is genuinely, earnestly waiting for offerings to arrive"
+    ],
+    "ability": [
+      "More likely to obtain \\ii[142] and \\ii[143]"
+    ]
+  },
+  "80": {
+    "name": [
+      "Královský Dekret"
+    ],
+    "subtitle": "",
+    "description": [
+      "A ring symbolizing the supreme glory of a true king",
+      "Greatly boosts follower morale!"
+    ],
+    "ability": [
+      "Slightly increases all stats",
+      "Enlarges all servants and enhances their special attributes"
+    ]
+  },
+  "100": {
+    "name": [
+      "Jendotka I Nexus"
+    ],
+    "subtitle": "",
+    "description": [
+      "A core far more advanced than modern tech, its surface glowing ",
+      "with mysterious energy circuits. Even with most parts missing, ",
+      "it still shows incredible computational and sensing power"
+    ],
+    "ability": [
+      "Grants area detection when equipped",
+      "Detected object types increase as the core's level rises"
+    ]
+  },
+  "125": {
+    "name": [
+      "Horký Horký Mnich"
+    ],
+    "subtitle": "",
+    "description": [
+      "A cloth doll made with someone's heartfelt prayers. It carries",
+      "wishes, bringing slight changes to regular weather patterns",
+      "However, The doll quietly disappears afterward"
+    ],
+    "ability": [
+      "Ensures scorching hot weather the next day when equipped"
+    ]
+  },
+  "126": {
+    "name": [
+      "Záře Záře Mnich"
+    ],
+    "subtitle": "",
+    "description": [
+      "A cloth doll made with someone's heartfelt prayers. It carries",
+      "wishes, bringing slight changes to regular weather patterns",
+      "However, The doll quietly disappears afterward"
+    ],
+    "ability": [
+      "Ensures sunny weather the next day when equipped"
+    ]
+  },
+  "127": {
+    "name": [
+      "Mrak Mrak Mnich"
+    ],
+    "subtitle": "",
+    "description": [
+      "A cloth doll made with someone's heartfelt prayers. It carries",
+      "wishes, bringing slight changes to regular weather patterns",
+      "However, The doll quietly disappears afterward"
+    ],
+    "ability": [
+      "Ensures cloudy weather the next day when equipped"
+    ]
+  },
+  "128": {
+    "name": [
+      "Déšť Déšť Mnich"
+    ],
+    "subtitle": "",
+    "description": [
+      "A cloth doll made with someone's heartfelt prayers. It carries",
+      "wishes, bringing slight changes to regular weather patterns",
+      "However, The doll quietly disappears afterward"
+    ],
+    "ability": [
+      "Ensures rainy weather the next day when equipped"
+    ]
+  },
+  "129": {
+    "name": [
+      "Dívčí úsměv"
+    ],
+    "subtitle": [
+      "\"\\str[121], you kept your promise well!\""
+    ],
+    "description": [
+      "The perfect smile finally shown by \\str[120] ",
+      "who has always admired and worried about \\str[121]—",
+      "a smile that becomes his motivation to keep moving forward"
+    ],
+    "ability": [
+      "Desire up, all stats increased"
+    ]
+  },
+  "130": {
+    "name": [
+      "\\str[120]iny odstraněné kalhotky"
+    ],
+    "subtitle": [
+      "\"Stále na sobě má \\str[120]inu vůni...\""
+    ],
+    "description": [
+      "kalhotky received from \\str[120] due to a misunderstanding",
+      "Although no suitable chance to return it has ever come up,",
+      "deep down inside, a faint sense of joy quietly lingers..."
+    ],
+    "ability": [
+      "Automatically regenerates HP when below 50%"
+    ]
+  },
+  "131": {
+    "name": [
+      "Králičí Plyšak"
+    ],
+    "subtitle": [
+      "\"Aaaaa—! Nerobij to~~!\""
+    ],
+    "description": [
+      "A stuffed bunny plush that \\str[120] always carries in ",
+      "her arms, filled with her scent",
+      "Come to think of it… why is this in my hands?"
+    ],
+    "ability": [
+      ""
+    ]
+  },
+  "147": {
+    "name": [
+      "Náplast"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": []
+  },
+  "150": {
+    "name": [
+      "Bonusové Tričko"
+    ],
+    "subtitle": "",
+    "description": [
+      "A custom-made outfit from the knight,",
+      "supposedly for promoting the game",
+      "But I don't really want to wear it"
+    ],
+    "ability": []
+  },
+  "152": {
+    "name": [
+      "\\str[120]ino Pyžamo"
+    ],
+    "subtitle": "",
+    "description": [
+      "A camisole pajama that \\str[120] usually wears, ",
+      "decorated with the bows she loves.",
+      "Come to think of it… why is this in my hands?"
+    ],
+    "ability": []
+  },
+  "153": {
+    "name": [
+      "\\str[120]iny Kraťase"
+    ],
+    "subtitle": "",
+    "description": [
+      "Soft and fluffy shorts that \\str[120] usually wears, ",
+      "decorated with the bows she loves.",
+      "Come to think of it… why is this in my hands?"
+    ],
+    "ability": []
+  },
+  "154": {
+    "name": [
+      "Modrobílé kalhotky"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": []
+  },
+  "155": {
+    "name": [
+      "Růžovobílé kalhotky"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": []
+  },
+  "156": {
+    "name": [
+      "Bílé kalhotky"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": []
+  },
+  "157": {
+    "name": [
+      "Náplast"
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": []
+  },
+  "159": {
+    "name": [
+      "Žádné kalhotky..."
+    ],
+    "subtitle": "",
+    "description": [
+      ""
+    ],
+    "ability": []
+  },
+  "295": {
+    "name": [
+      "Křyšťálová Křídla Vílý Královny"
+    ],
+    "subtitle": [
+      "\"Deep below, the delver Kyurame beheld the Královna's iridescent rise—\""
+    ],
+    "description": [
+      "Prismatic crystal wings overflowing with an iridescent glow.",
+      "A rare catalyst that only the \"Královna,\" standing at the pinnacle of spirits, may possess"
+    ],
+    "ability": [
+      "Imuní na poškození pádem",
+      "Final damage taken reduced by 60%"
+    ]
+  },    
+  "296": {
+    "name": [
+      "Ruiky Šťastná Palička"
+    ],
+    "subtitle": [
+      "\"Head Maid Ruika always uses it to bonk the disobedient bunnies.\""
+    ],
+    "description": [
+      "A hidden treasure of Maid Bunnies, said to be why they took over the ",
+      "market so fast. With a light swing, it grants the wielder's wishes—",
+      "Adventurers often see it fixing machines broken by troublemakers"
+    ],
+    "ability": [
+      "Increases money and item drop rates"
+    ]
+  },
+  "297": {
+    "name": [
+      "Mio Lékárnička"
+    ],
+    "subtitle": [
+      "\"Oh my god! I fell into the hole again!?\""
+    ],
+    "description": [
+      "Originally a tool the admin used to test the healing system",
+      "but he forgot to delete it later. Still, it's useless ",
+      "against instant-death mechanics"
+    ],
+    "ability": [
+      "Restores 100% HP per second when equipped"
+    ]
+  },
+  "298": {
+    "name": [
+      "Shiroinin Zlatý Prst"
+    ],
+    "subtitle": [
+      "\"You know this thing will ruin the game, right?\"",
+      "\"I know.\"",
+      "\"And you still want to equip it?\"",
+      "\"Of course.\""
+    ],
+    "description": [
+      "A relic that turns touch to gold — the Bladekeepers' ultimate dream"
+    ],
+    "ability": [
+      "Weapons no longer break from attacks"
+    ]
+  },
+  "299": {
+    "name": [
+      "Absolutní Teritorium"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      "The sacred space between a girl's miniskirt and thigh-high socks",
+      "Not only does it grant high magic resistance, but also the absurd ",
+      "ability to pull out all sorts of items from under the skirt at will"
+    ],
+    "ability": [
+      "Extra carry capacity for weapons +99",
+      "Extra carry capacity for gears +99"
+    ]
+  },
+  "300": {
+    "name": [
+      "Katalyst Milování"
+    ],
+    "subtitle": [
+      "\"Dej mi tvoji lásku—! Pokud ne, tak pojďme spolu umřít~~~!\""
+    ],
+    "description": [
+      "A forbidden artifact forged by a certain yandere archdemon",
+      "It forcibly makes anyone it touches fall in love with the wearer",
+      "ignoring their will"
+    ],
+    "ability": [
+      "Greatly boosts the stats gained when patting \\str[120]"
+    ]
+  }
+}

@@ -1,0 +1,2457 @@
+{
+  "Note": [
+    "(This note is for the translator only and does not need to be translated.)",
+    "If you notice strange gaps appearing in each line of text, those are placeholders.",
+    "The game is already set up so that each dialogue box can display a maximum of four lines of text, ",
+    "and any text exceeding four lines will automatically continue in the next dialogue box. ",
+    "To avoid awkward line breaks in the actual display, I will manually trim long passages whenever necessary so that, ",
+    "as much as possible, a complete sentence appears within a single dialogue box.",
+    "The intentional insertion of spaces is meant to split the text into content for different dialogue boxes.",
+    "So when translating into other languages, you may follow this rule and add blank placeholders yourself to split the text."
+  ],
+  "1": {
+    "0": [
+      "Even though we agreed to take a bath together, ",
+      "we were both still a little shy,",
+      "so even though we were about to see each other naked, ",
+      "we both wrapped ourselves in towels and walked into the bathroom."
+    ],
+    "1": [
+      "\\nl< >\"Rock, paper, scissors, shoot!    \\w[120]",
+      "Ehehe~ I won today!\""
+    ],
+    "2": [
+      "\"Rock, paper, scissors, shoot!    \\w[120]",
+      "Yes! I won!\""
+    ],
+    "3": [
+      "Since I lost the game,",
+      "I had no choice but to quietly wait in the tub ",
+      "while \\str[120] finished washing."
+    ],
+    "4": [
+      "Since I won the game,",
+      "I got to take a shower first today.",
+      "Meanwhile, \\str[120] sat in the tub, looking a bit bored."
+    ],
+    "5": [
+      "After taking a quick shower,",
+      "I sat down in the tub and quietly waited for \\str[120] to finish."
+    ],
+    "6": [
+      "Watching \\str[120] washing her hair a bit nervously,",
+      "I couldn’t help but feel the urge to go help her…"
+    ],
+    "7": [
+      "Watching \\str[120] wiping her body a bit nervously,",
+      "I couldn’t help but feel the urge to go help her…"
+    ],
+    "8": [
+      "Help her",
+      "Forget it"
+    ],
+    "9": [
+      "I tried asking \\str[120] if she wanted me to help wash her hair—"
+    ],
+    "10": [
+      "I tried asking \\str[120] if she wanted me to help wash her back—"
+    ],
+    "11": [
+      "\\nl< >\"Eh—?",
+      "It’s fine, I can do it myself! ",
+      "\\str[121], you’re so clumsy,",
+      "you’d totally mess it up!\""
+    ],
+    "12": [
+      "Ugh… \\str[120] turned me down.",
+      "Maybe I’ll have to wait until we’re a bit closer before trying again."
+    ],
+    "13": [
+      "\\str[120] is growing up, ",
+      "and I guess she doesn’t like being treated like a kid anymore.",
+      "Better not push it…"
+    ],
+    "14": [
+      "After \\str[120] carefully finished her bath,",
+      "it was my turn to take a shower."
+    ],
+    "15": [
+      " ",
+      " "
+    ],
+    "16": [
+      "\\nl< >\"...\\str[121], move over a little...\""
+    ],
+    "17": [
+      "\\nl< >\"Then I’m coming in too...\""
+    ],
+    "18": [
+      "\\nl< >\"I’m getting in now... ",
+      "\\str[121], don’t look this way just yet...\""
+    ],
+    "19": [
+      "\\str[120] sat across from me, hugging her legs a bit shyly.",
+      "As expected, this bathtub really is a little too small for two people..."
+    ],
+    "20": [
+      "\"...Oh right, I picked that thing up earlier.\""
+    ],
+    "21": [
+      "\"...What’s wrong, \\str[121]?\""
+    ],
+    "22": [
+      "I carefully washed the rubber duck clean and gently placed it in the tub.",
+      "It floated quietly on the water—peaceful and adorable."
+    ],
+    "23": [
+      "\"Mhm... the atmosphere feels so much nicer now.\""
+    ],
+    "24": [
+      "\\nl< >\"Waa~ what a cute ducky!",
+      "Did you bring it back, \\str[121]?\""
+    ],
+    "25": [
+      "\"Yeah, it looked like it was washed down the river just like me.",
+      "It seemed a little pitiful, so I took it home.\""
+    ],
+    "26": [
+      "\\nl< >\"Eh? The river...? Washed down?",
+      "...You didn’t do something dangerous again, did you?\""
+    ],
+    "27": [
+      "\"Yeah, it was just sitting alone by the riverside,",
+      "looked kinda sad, so I brought it back.\""
+    ],
+    "28": [
+      "\\nl< >\"Looks like our family’s got one more member now~\""
+    ],
+    "29": [
+      "Sit Together",
+      "Squeeze Ducky",
+      "Chat Idly"
+    ],
+    "30": [
+      "It’ll still take a while before our whole bodies are warmed up...",
+      "Maybe I should do something with \\str[120] in the meantime?"
+    ],
+    "31": [
+      "I wish I could get a little closer to her...",
+      "Thinking that, I carefully asked if I could move a bit closer."
+    ],
+    "32": [
+      "I just wanted to get a bit closer to her...!",
+      "Thinking that, I asked with a smile if I could scoot a little nearer."
+    ],
+    "33": [
+      "Still wanting to get closer...!",
+      "Thinking that, I shamelessly asked again if I could move closer."
+    ],
+    "34": [
+      "\\nl< >\"Eh...!?",
+      "\\str[121], you’re getting carried away!\""
+    ],
+    "35": [
+      "\\nl< >\"...No way!",
+      "\\str[121], your face is totally saying you’re about ",
+      "to do something naughty...\""
+    ],
+    "36": [
+      " ",
+      " "
+    ],
+    "37": [
+      "\\nl< >\"\\str[121], stop it!",
+      "The ducky looks so pitiful!\""
+    ],
+    "38": [
+      "\\nl< >\"\\str[121]? Why are you bullying the ducky like that?\""
+    ],
+    "39": [
+      "Ugh... I got scolded by \\str[120] for squeezing the ducky too much."
+    ],
+    "40": [
+      "Feeling a bit bored, I gave the ducky floating on the water a squeeze.",
+      "It let out a slightly annoyed “pfffft—.”"
+    ],
+    "41": [
+      "What should I talk about with \\str[120]...?"
+    ],
+    "42": [
+      "Lewd Topics",
+      "Casual Topics"
+    ],
+    "43": [
+      "\\nl< >\"I can’t wait to have some strawberry milk after the bath~\""
+    ],
+    "44": [
+      "\\nl< >\"\\str[121], have your muscles gotten more toned?\""
+    ],
+    "45": [
+      "\\nl< >\"It feels like the water’s even hotter when we bathe together~\""
+    ],
+    "46": [
+      "I chatted idly with \\str[120] for a while, ",
+      "and our bodies gradually warmed up..."
+    ],
+    "47": [
+      "Yeah... times like this are perfect for spicing things up with a lewd topic!     \\w[45]",
+      "Thinking that, I excitedly asked \\str[120] if she could ",
+      "take off her towel."
+    ],
+    "48": [
+      "Yeah... times like this are perfect for spicing things up with a lewd topic!     \\w[45]",
+      "Thinking that, I excitedly suggested to \\str[120] that ",
+      "we talk about something naughty."
+    ],
+    "49": [
+      "\\nl< >\"...Lewd? I don’t really get it...",
+      "So, what did \\str[121] want to say...?\""
+    ],
+    "50": [
+      "\\nl< >\"...Again? \\str[121], you’re such a tease—  \\w[120]",
+      "So, what is it this time?\""
+    ],
+    "51": [
+      "Nude Life Style",
+      "Sensitive Spots"
+    ],
+    "52": [
+      "\\nl< >\"Geez, \\str[121]’s always picking on me!",
+      "I’m leaving!\""
+    ],
+    "53": [
+      "Ugh... Guess I took the joke a little too far—\\str[120] ran off, ",
+      "blushing bright red..."
+    ],
+    "54": [
+      "Phew... My body’s burning up; guess it’s about time to get out."
+    ],
+    "55": [
+      "\\nl< >\"Geez... you’re not even trying to look away.",
+      "\\str[121], you can totally see everything...\""
+    ],
+    "56": [
+      "\\nl< >\"Eh...? Why would you do that...?\""
+    ],
+    "57": [
+      "Just wanna see",
+      "Look kinda weird",
+      "You look hot"
+    ],
+    "58": [
+      "\\nl< >\"...Well, I guess that’s fine.\""
+    ],
+    "59": [
+      "\\nl< >\"\\str[121]... you’re always thinking about that kind of stuff.",
+      "It’s really troubling, you know...\""
+    ],
+    "60": [
+      "After a brief rinse, like a soulless puppet,",
+      "I let \\str[120] lead me by the hand into the warm bathtub.",
+      "The heat enveloped me instantly, but I felt no stirring of emotion,",
+      "as if my very body were dissolving into the warm water."
+    ],
+    "61": [
+      "I just stared vacantly at the faint ripples on the surface.",
+      "Even with \\str[120]'s lovely figure shimmering across from me,",
+      "not a single wave of desire stirred in my heart."
+    ]
+  },
+  "2": {
+    "0": [
+      "\\nl< >\"Let’s start by washing your arm first…\""
+    ],
+    "1": [
+      "\\str[120] gently lifted my arm and placed it between her soft thighs.",
+      "Both of our bodies were covered in body soap, ",
+      "making our skin slick and smooth to the touch.",
+      "\\w[60]  ",
+      "She lightly pressed her legs together, and that soft, ",
+      "rounded sensation transmitted vividly through my arm."
+    ],
+    "2": [
+      "Before I could say anything, ",
+      "her thighs began to move—slowly, gently, back and forth,",
+      "the touch of our skin rubbing together ",
+      "growing clearer with every motion,",
+      "and I could feel the subtle rhythm and warmth of her ",
+      "body squeezing and releasing around my arm."
+    ],
+    "3": [
+      "Her sudden, daring action left me momentarily flustered, ",
+      "unable to react right away. But the warm, ",
+      "dreamlike softness around my arm drained any strength ",
+      "I had to pull away.",
+      "In the end, I gave up resisting and ",
+      "let her continue her peculiar 'washing service.'"
+    ],
+    "4": [
+      "\\nl< >\"How is it... \\str[121]...♥",
+      "Doesn’t it feel... cleaner than washing with your hand?\""
+    ],
+    "5": [
+      "It feels nice",
+      "It feels strange"
+    ],
+    "6": [
+      "\\nl< >\"It feels strange...?",
+      "Then... \\str[121], ",
+      "will you teach me how I should do it~?\""
+    ],
+    "7": [
+      "\\nl< >\"...Strange? What’s strange about it?",
+      "Your arm is all clean now, isn’t it, \\str[121]?\""
+    ],
+    "8": [
+      "\\nl< >\"What’s wrong, \\str[121]?",
+      "Weren’t you the one who wanted me to help wash you?\""
+    ],
+    "9": [
+      "\\nl< >\"\\str[121], you don’t look very happy...",
+      "Do you not like me helping you wash? ",
+      "I’m being super serious~",
+      "about helping you right now, you know~?\""
+    ],
+    "10": [
+      "\\nl< >\"Feeling good? But this is just washing your body~",
+      "And yet you’re saying it feels nice... \\str[121],",
+      "you actually... like this kind of thing, don’t you♥\""
+    ],
+    "11": [
+      "\\nl< >\"Ehehe♥ \\str[121], you’re such an honest boy~",
+      "That just makes me want to reward you even more♥\""
+    ],
+    "12": [
+      "\\nl< >\"\\str[121]... did you just make a cute sound?",
+      "You’re always the one teasing me... so this time,",
+      "I’ll make you feel the same way♥\""
+    ],
+    "13": [
+      "\\nl< >\"Hehe... \\str[121], you look kinda troubled...",
+      "Maybe I should stop here~?\""
+    ],
+    "14": [
+      "\\nl< >\"Your arm’s all clean now... so next is the front~",
+      "\\str[121], you’ll have to turn around for me—\""
+    ],
+    "15": [
+      "\"W–wait—eh!? What are you—\"",
+      "\\w[30]\\^"
+    ],
+    "16": [
+      "\\nl< >\"The arms have been cleaned thoroughly...",
+      "The rest, \\str[121], you can handle yourself~\""
+    ],
+    "17": [
+      "Like a mischievous little devil, \\str[120] stuck out her tongue at me,",
+      "then slipped away lightly and dove into the bathtub."
+    ],
+    "18": [
+      "I forced myself to suppress the burning desire her ",
+      "sweet gestures had stirred up, and could only continue ",
+      "washing my body with a hint of frustration."
+    ],
+    "19": [
+      "\\str[120] loosened her legs, then suddenly straddled my waist,",
+      "placing her hands on my shoulders as she gently let ",
+      "her weight rest on me."
+    ],
+    "20": [
+      "At some point, both of our towels had fallen aside,",
+      "her soft, tender place pressed directly against my already ",
+      "throbbing shaft with nothing in between. The guilty thrill from ",
+      "this new position felt completely different from before!"
+    ],
+    "21": [
+      "She didn’t seem to realize just how dangerous this position was,",
+      "and once she settled down, ",
+      "she started to gently twist her hips on top of me."
+    ],
+    "22": [
+      "What drove me even crazier was how her delicate folds ",
+      "stayed pressed tightly against me,",
+      "each subtle movement making them slide wetly along my length, ",
+      "swallowing and releasing it bit by bit."
+    ],
+    "23": [
+      "\\nl< >\"How’s this~?",
+      "I’m doing it just for you, \\str[121]〜♪      \\w[180]",
+      "So, how do you want me to wash you next〜？\""
+    ],
+    "24": [
+      "Ahh... so she really just wanted to help wash my body, huh...",
+      "Well, there’s no helping it! ",
+      "Since it’s \\str[120]’s kindness, I’ll accept it properly!",
+      "Even if something... unexpected happens, I’m sure she’ll forgive me~"
+    ],
+    "25": [
+      "Trust \\str[120]",
+      "Faster...",
+      "Slower..."
+    ],
+    "26": [
+      "\\str[120] continues to diligently twist her waist,",
+      "waves of slick, tingling pleasure surge through my body like electricity, ",
+      "mingled with a forbidden sweet thrill—",
+      "So, how should I have \\str[120] continue from here?"
+    ],
+    "27": [
+      "\\str[120] is still diligently twisting her waist,",
+      "that moist secret place has started to seep with nectar, ",
+      "each rub producing a faint 'squish' sound—",
+      "How should I have her put in more effort?"
+    ],
+    "28": [
+      "\\str[120] is still diligently twisting her waist,",
+      "I feel like I can't hold back much longer...!",
+      "Finally, how should I have her finish it off!?"
+    ],
+    "29": [
+      "\\nl< >\"If I can do whatever I like—um, o-okay...              \\w[120]",
+      "That means \\str[121] can leave it all to me now, right♥♥\"     \\w[180]"
+    ],
+    "30": [
+      "\\nl< >\"I-It feels so slippery... ",
+      "\\str[121]'s down there... is moving along with it♥",
+      "You're being so naughty~? If you can't hold back and moves a bit more...",
+      "You'll make a mistake, won't you?♥\"     \\w[210]"
+    ],
+    "31": [
+      "\\nl< >\"Hah♥ Hah♥",
+      "\\str[121]♥ is shaking so much♥♥",
+      "Is the cleaning effect too good?\"     \\w[210]"
+    ],
+    "32": [
+      "\\nl< >\"Are you about to lose it?♥",
+      "\\str[121]♥ are you about to not hold back?♥",
+      "Should I try a little harder?♥♥\"     \\w[210]"
+    ],
+    "33": [
+      "\\nl< >\"F-Faster?",
+      "O-Okay... I'll try...\"       \\w[210]"
+    ],
+    "34": [
+      "\\nl< >\"I-I'll do my best...!",
+      "Heave... ho...                   \\w[120]",
+      "Does this feel good for you?\"     \\w[120]"
+    ],
+    "35": [
+      "\\nl< >\"Hah♥ Hah♥",
+      "Hehe~ \\str[121]'s down there is throbbing~    \\w[120]",
+      "Is it too stimulating?\"                        \\w[120]"
+    ],
+    "36": [
+      "\\nl< >\"Faster♥ Faster♥",
+      "\\str[121]'s there has gotten all sticky♥    \\w[120]",
+      "J-Just hold on a bit more...♥\"               \\w[120]"
+    ],
+    "37": [
+      "\\nl< >\"S-Slower?",
+      "O-Okay... I'll try...\"       \\w[210]"
+    ],
+    "38": [
+      "\\nl< >\"S-Slowly wiping...",
+      "Ah, it feels like something poked me just now♥\"   \\w[210]"
+    ],
+    "39": [
+      "\\nl< >\"Hah♥ Hah♥",
+      "Down there feels hot♥                                 \\w[120]",
+      "I-I'll be gentle... to let it slowly... feel good♥\"   \\w[120]"
+    ],
+    "40": [
+      "\\nl< >\"\\str[121]♥\\str[121]♥               \\w[120]",
+      "I like you♥I want to make you feel good too♥\"    \\w[120]"
+    ],
+    "41": [
+      "\\{Already... at the limit...!!"
+    ],
+    "42": [
+      "\\{\\nl< >\"Aah~~♥♥\"",
+      "\\w[60]\\^"
+    ],
+    "43": [
+      "Under \\str[120]'s repeated meticulous cleaning service,",
+      "I finally succumbed to that surging pleasure, ",
+      "unable to hold back any longer,",
+      "as waves of hot fluid gushed out like a dam breaking."
+    ],
+    "44": [
+      "\\str[120] let out a soft startled cry, ",
+      "but still carefully didn't stop her movements,",
+      "as if afraid to leave it halfway done, ",
+      "continuing to gently twist her body."
+    ],
+    "45": [
+      "\\nl< >\"\\str[121]...? Are you okay?",
+      "D-Do you still feel good? ",
+      "I'll... h-help clean you up more, okay?\""
+    ],
+    "46": [
+      "\\nl< >\"\\str[121]...? Are you okay?",
+      "D-Did I rub too... too hard?\""
+    ],
+    "47": [
+      "\"It's fine, it got 'cleaned' really well, and it felt amazing~",
+      "You did a great job~\""
+    ],
+    "48": [
+      "\\nl< >\"Ehehe♥",
+      "\\str[121]'s here... is still hot, and throbbing...♥",
+      "Should I clean it some more for you?♥\""
+    ],
+    "49": [
+      "Do it again",
+      "That's enough"
+    ],
+    "50": [
+      "Although \\str[120] is rarely showing such an eager side, ",
+      "wanting to get intimate with me like this, ",
+      "we've already spent too much time tangled up in the bathroom, ",
+      "and if \\str[120] catches a cold from the chill, that would be bad...!",
+      "In the end, I reluctantly held \\str[120] close and quickly rinsed off ",
+      "the traces on our bodies to wrap everything up."
+    ]
+  },
+  "3": {
+    "0": [
+      "\\nl< >\"...But won’t it be a little cramped?\""
+    ],
+    "1": [
+      "\\nl< >\"Mm... well... if \\str[121] wants to...\""
+    ],
+    "2": [
+      "\\nl< >\"Okay! Come on in, \\str[121]!\""
+    ],
+    "3": [
+      "Even so, \\str[120] didn’t actually refuse—",
+      "she just gave a small nod of quiet consent.",
+      "I immediately moved to the other side of the tub ",
+      "and gently pulled her into my arms."
+    ],
+    "4": [
+      "\\str[120] leaned in gently, pressing her small body against me.",
+      "Even in the cramped bathtub, her frame nestled into my arms",
+      "without the slightest trouble."
+    ],
+    "5": [
+      "Droplets clung to her damp hair, her cheeks were faintly flushed,",
+      "At that moment, everything about her felt so fresh,",
+      "I didn’t even know how to react."
+    ],
+    "6": [
+      "Noticing my intense gaze, I could feel her body suddenly tense up."
+    ],
+    "7": [
+      "\"Does it feel too cramped after all?\""
+    ],
+    "8": [
+      "\"No... \\str[121]’s arms are warm. And...",
+      "you’re being really gentle, so it doesn’t feel uncomfortable at all.\""
+    ],
+    "9": [
+      "Ahh... \\str[120] always says the sweetest things—",
+      "she’s just too cute to handle...!"
+    ],
+    "10": [
+      "Unable to resist, I wrapped my arms around her tightly.",
+      "A strange, swelling emotion began to rise and spread within my chest."
+    ],
+    "11": [
+      "Having gotten \\str[120]’s consent, I immediately moved to the other side",
+      "of the tub and gently pulled her into my arms."
+    ],
+    "12": [
+      "\\nl< >\"\\str[121]? Are you feeling cold?\""
+    ],
+    "13": [
+      "\"Yeah… You’re warm and cute,",
+      "makes me want to hold you like this forever…\""
+    ],
+    "14": [
+      "\\nl< >\"Oh come on—! \\str[121], ",
+      "you’re treating me like a little kid again...!\""
+    ],
+    "15": [
+      "\\nl< >\"I’m a proper lady now, you know. ",
+      "You really need to start treating me like one, \\str[121]!\""
+    ],
+    "16": [
+      "Like she was sulking, ",
+      "\\str[120] kept raising her forehead up to bump against my chin—",
+      "almost as if to show she’d grown taller."
+    ],
+    "17": [
+      "Especially when I looked down, my eyes were immediately drawn to ",
+      "the soft, full curves of \\str[120]’s breast.",
+      "Yeah… at this point, I guess we really could call that ",
+      "a symbol of being a lady."
+    ],
+    "18": [
+      "\\str[120] unintentional movement instantly ",
+      "ignited the desire within me.",
+      "An urge to feel that soft shape with my hands ",
+      "began to surge uncontrollably—"
+    ],
+    "19": [
+      "Just Touch",
+      "Ask First"
+    ],
+    "20": [
+      "It seemed she’d already gotten used to this kind of moment—",
+      "\\str[120] leaned against me on her own,",
+      "and we just quietly held each other like that."
+    ],
+    "21": [
+      "Last time, I let my impulses get the better of me ",
+      "and she ended up fainting in the bathroom—",
+      "—there’s no way I can let that happen again!",
+      "\\w[30]",
+      "I warned myself in my heart to treasure her properly this time.",
+      "So I just gently took her soft little hand and wrapped it in mine."
+    ],
+    "22": [
+      "\\nl< >\"\\str[121]...? What’s wrong? ",
+      "You’ve been frowning this whole time.\""
+    ],
+    "23": [
+      "\"It’s nothing—just thinking about how cute you always are.\""
+    ],
+    "24": [
+      "\\nl< >\"Uuueeh... What’s that supposed to mean...?\""
+    ],
+    "25": [
+      "I reached out with my other hand and casually ruffled her hair.",
+      "She looked a bit unhappy about being brushed off like that."
+    ],
+    "26": [
+      "Without thinking any further, I instinctively reached out and ",
+      "grabbed the softness that was right in front of me.    \\w[30]",
+      "—Why?                   \\w[60]\\^"
+    ],
+    "27": [
+      "\\>Without thinking any further, I instinctively reached out and ",
+      "\\>grabbed the softness that was right in front of me. ",
+      "\\>—Why?                 \\<\\{",
+      "Because it was there!    \\w[120]"
+    ],
+    "28": [
+      "\\nl< >\"...Yah! \\str[121], not again...!?\""
+    ],
+    "29": [
+      "\\nl< >\"Yah!? \\str[121]… what are you doing…!?\""
+    ],
+    "30": [
+      "My sudden action clearly left \\str[120] confused.",
+      "How should I even explain this...?"
+    ],
+    "31": [
+      "Wanna Squeeze It!",
+      "Hand Slipped..."
+    ],
+    "32": [
+      "Instead of answering, I let my actions speak.",
+      "My left hand continued to roam across \\str[120]’s breast, ",
+      "taking in the softness with my palm."
+    ],
+    "33": [
+      "\\nl< >\"even if that's the case, ",
+      "don’t just suddenly reach out and scare me like that...\""
+    ],
+    "34": [
+      "Huh? So as long as it’s not sudden, it’s okay...?"
+    ],
+    "35": [
+      "\\nl< >\"Well, if your hand slipped, ",
+      "I guess there’s nothing you can do...\""
+    ],
+    "36": [
+      "Even though I hadn’t moved my hand at all,",
+      "\\str[120] was somehow fooled by that simple excuse...!"
+    ],
+    "37": [
+      "I forced down the urge to reach out and touch her, ",
+      "and seriously asked for permission instead."
+    ],
+    "38": [
+      "\\nl< >\"Eh!? That’s so sudden...\""
+    ],
+    "39": [
+      "\"Of course! It’s to confirm whether or not ",
+      "you’ve got the grace of a proper lady!\""
+    ],
+    "40": [
+      "\\nl< >\"Mmm... You just want an excuse to touch, don’t you?\""
+    ],
+    "41": [
+      "\\nl< >\"You always do this... ",
+      "Your weird technique always makes me feel all tingly...\""
+    ],
+    "42": [
+      "\"D-Do you hate it when I do that?\""
+    ],
+    "43": [
+      "Getting told \\str[120] hates me...",
+      "That’s the one thing I never want to hear...!"
+    ],
+    "44": [
+      "\\nl< >\"Hate it? Not really... I guess it’s fine...",
+      "As long as you’re gentle, \\str[121]...\""
+    ],
+    "45": [
+      "OHHHHHHH—!!!"
+    ],
+    "46": [
+      "I held back the urge to knead them recklessly,",
+      "and simply rested my hand gently on \\str[120]’s breast, slowly caressing it."
+    ],
+    "47": [
+      "\\nl< >\"\\str[121], your face looks kinda scary right now...\""
+    ],
+    "48": [
+      "\\nl< >\"Hehe... it kinda tickles...\""
+    ],
+    "49": [
+      "\\nl< >\"Mmm... mmn...\""
+    ],
+    "50": [
+      "Even though the towel was in the way, ",
+      "the way it wrapped around her body made her curves even more pronounced.",
+      "The way it shaped and contained that fullness only made the soft, ",
+      "firm weight feel more real in my hand."
+    ],
+    "51": [
+      "With the towel gone, my hand slid freely over \\str[120]’s bare skin.",
+      "When my fingertips brushed lightly over the nipple, ",
+      "I could feel her body tremble."
+    ],
+    "52": [
+      "It’ll take a bit more time before our whole bodies warm up...",
+      "I gently played with \\str[120]’s little hand ",
+      "while thinking about what we should do next—"
+    ],
+    "53": [
+      "It’ll take a bit more time before our whole bodies warm up...",
+      "I was freely touching \\str[120]’s breasts ",
+      "while thinking about what we should do next—"
+    ],
+    "54": [
+      "Touch breasts",
+      "Take off towel",
+      "Whisper to \\str[120]",
+      "Squeeze ducky"
+    ],
+    "55": [
+      "\\nl< >\"Ha... haa...             \\[60]",
+      "I... I can’t... anymore...       \\[60]",
+      "\\str[121], take it off yourself...\""
+    ],
+    "56": [
+      "\\str[120] leaned softly against my chest, ",
+      "her whole body weak and pliant, completely at my mercy.",
+      "Without hesitation, I loosened the towel wrapped around her."
+    ],
+    "57": [
+      "Maybe I shouldn’t mess with it any more..."
+    ],
+    "58": [
+      "Hmm... this ducky’s kinda in the way... ",
+      "guess I’ll move it aside first."
+    ],
+    "59": [
+      "—Was it just my imagination?",
+      "Why does it feel like it’s staring right at me... so intensely?"
+    ],
+    "60": [
+      "\\nl< > \"N-no! You can’t touch me anymore!",
+      "It’s all your fault, \\str[121]... ",
+      "now my whole body feels weird!\""
+    ],
+    "61": [
+      "Uh... looks like I went a bit too far with the teasing—",
+      "her face turned bright red as she ran away..."
+    ],
+    "62": [
+      "\\nl< >\"a…\\str[121]……      \\w[160]\\^"
+    ],
+    "63": [
+      "\\^\\nl< >\"Ugh...!\"        \\w[40]\\^"
+    ],
+    "64": [
+      "\\{Oh no!",
+      "We stayed in too long—",
+      "\\str[120]’s passed out from the heat…!!"
+    ],
+    "65": [
+      "I hurriedly carried \\str[120] out of the bathroom—",
+      "her whole body was burning hot and flushed red,",
+      "I couldn’t tell if it was from the heat or… from excitement.",
+      "\\w[30]",
+      "Thankfully, after some careful tending, ",
+      "she slowly came back to her senses.",
+      "I really need to be more careful next time…!"
+    ],
+    "66": [
+      "Whew... my body’s getting all hot now.",
+      "Guess it’s about time to get out."
+    ],
+    "67": [
+      "\\nl< > \"W-wait, \\str[121]…    \\w[60]",
+      "It’s starting to feel weird…\""
+    ],
+    "68": [
+      "\"It’s okay, I’ll be gentle.",
+      "Just relax your body, alright?\""
+    ],
+    "69": [
+      "\\nl< > \"Hngh… ahh…   \\w[60]",
+      "Really…? It feels like… \\str[121]’s just…    \\w[120]",
+      "teasing me the whole time…\""
+    ],
+    "70": [
+      "\"Well, you’re not wrong~ ",
+      "I mean, you’re just way too cute right now~!\""
+    ],
+    "71": [
+      "\\nl< > \"Mmm… ngh…    \\w[90]",
+      "I… I don’t even know what’s happening anymore…\""
+    ],
+    "72": [
+      "Seeing \\str[120] in such a state of infatuation, ",
+      "the string of reason in my mind suddenly snapped.      \\w[60]",
+      "Aah… maybe I should just go all the way…!           \\w[30]\\^"
+    ],
+    "73": [
+      "\\nl< > \"Um… this is a bit too much…\""
+    ],
+    "74": [
+      "\\str[120] muttered softly, looking confused—",
+      "she still wasn’t used to this kind of stimulation.",
+      "But the faint tremors running through her from the unfamiliar pleasure ",
+      "only made my heart race faster, and my hands moved even more on their own."
+    ],
+    "75": [
+      "\\nl< >\"Ahh… \\str[121]…   \\w[60]",
+      "are we… still going?\""
+    ],
+    "76": [
+      "\\nl< > \"Mmm… ngh…  \\w[30]\\{",
+      "Ah—!?\""
+    ],
+    "77": [
+      "\\nl< > \"Haah… haa…\""
+    ],
+    "78": [
+      "\\str[120] tried to suppress her voice restlessly… could it be—",
+      "she’s actually starting to feel pleasure?",
+      "That thought alone made my pulse quicken,",
+      "and pushed my movements to grow bolder."
+    ],
+    "79": [
+      "\\nl< > \"Mmm… ngh…\""
+    ],
+    "80": [
+      "\\nl< > \"Hehe… it kinda tickles…\""
+    ],
+    "81": [
+      "Even though I couldn’t resist touching her soft breasts again,",
+      "she only trembled lightly and silently let me continue."
+    ],
+    "82": [
+      "I continued my movements while cautiously asking \\str[120] how she felt."
+    ],
+    "83": [
+      "\\nl< >\"I-I don’t even understand what you’re saying anymore…\""
+    ],
+    "84": [
+      "\\nl< >\"I don’t really get what you mean by… feeling good…\""
+    ],
+    "85": [
+      "\\str[120]’s flushed, embarrassed face was amusing to watch."
+    ],
+    "87": [
+      "Under the buoyancy of the water, the already massive, ",
+      "full mounds on \\str[120]'s chest appeared even more prominent,",
+      "quivering slightly on the surface of the water along with her ",
+      "somewhat hurried breathing."
+    ],
+    "88": [
+      "The heavy flesh swaying constantly in my vision ",
+      "finally made me lose my restraint.",
+      "I reached out with both hands to cup those breasts from ",
+      "beneath the water and began to slowly knead them."
+    ],
+    "89": [
+      "\\nl< >\"Ueeegh...! D-don't be so sudden...!\""
+    ],
+    "90": [
+      "\\str[120] shrugged her shoulders, ",
+      "and though she let out a quiet, flushed grumble,",
+      "she didn't push my hands away, simply allowing me to continue ",
+      "playing with them."
+    ],
+    "91": [
+      "\\nl< >\"That look in your eyes...",
+      "I can tell just by looking that \\str[121] is ",
+      "thinking about lewd things again.",
+      "You big pervert...\""
+    ],
+    "92": [
+      "Sex with her!",
+      "Keep rubbing",
+      "Stop it"
+    ],
+    "93": [
+      "\"How rude...",
+      "I'm actually giving you a massage, you know? ",
+      "It helps the body relax~\""
+    ],
+    "94": [
+      "With a serious expression, ",
+      "I continued to knead \\str[120]'s breasts,",
+      "stimulating her sensitive spots with just the right ",
+      "amount of pressure."
+    ],
+    "95": [
+      "\\nl< >\"Hngh... hah...♥",
+      "This is clearly... an improper... massage...",
+      "Who gives a massage by constantly touching here...\""
+    ],
+    "96": [
+      "\"But it feels good, doesn't it? ",
+      "Your body is turning all soft...\""
+    ],
+    "97": [
+      "\\nl< >\"I-it's not... like that... hah...♥\""
+    ],
+    "98": [
+      "Though she was still feebly protesting, ",
+      "\\str[120]'s body involuntarily shrunk into my embrace,",
+      "and her legs crossed and rubbed together uneasily beneath the water."
+    ],
+    "99": [
+      "\"Lying deserves a punishment, you know.",
+      "If you don't behave and admit it, ",
+      "I will have to keep giving you this massage.\""
+    ],
+    "100": [
+      "\\nl< >\"Ugh... ueeegh...",
+      "Why are you like this... you're bullying me again...\""
+    ],
+    "100.1": [
+      "Well, the mischief should probably end here.",
+      "It wouldn't be good if she fainted like last time..."
+    ],
+    "100.2": [
+      "I'll save the rest for when \\str[120] is in better shape...",
+      "It's not like I'm going to run out of time."
+    ],
+    "101": [
+      "I continued to increase the intensity of the kneading, ",
+      "my fingertips intentionally grazing those already erect nipples.",
+      "\\str[120]'s body trembled continuously in the water."
+    ],
+    "102": [
+      "\\nl< >\"I-it does feel good...",
+      "Down there... it's already been made so hot by \\str[121]...",
+      "So... please...♥\""
+    ],
+    "103": [
+      "Looking at her dazed eyes and the adorable way ",
+      "she finally couldn't help but beg me,",
+      "the nameless, dark desire within me finally erupted completely."
+    ],
+    "103.1": [
+      "I stood up in silence, taking the opportunity to scoop up \\str[120] ",
+      "as she leaned against me and lifted her out of the tub.",
+      "Still unaware of what was about to happen, ",
+      "she let me carry her to the center of the bathroom.",
+      "Only when I stopped did I turn her body around, aiming those tempting, ",
+      "rounded butt cheeks directly at my cock."
+    ],
+    "104": [
+      "A cramped space like the bathtub isn't convenient for movement.",
+      "I lifted \\str[120] straight out of the water, ",
+      "then tilted my already erect cock up,",
+      "sliding the entire length into her along the slick trail of water—"
+    ],
+    "105": [
+      "\\nl< >\"Kyaaaa~~",
+      "It's in... mngh... so hot...♥\""
+    ],
+    "106": [
+      "Since it was an impatient ambush, ",
+      "my cock filled her tight pussy almost instantly.",
+      "I grabbed her arms and, without giving her any chance ",
+      "to catch her breath, began a frantic sprint."
+    ],
+    "107": [
+      "\\nl< >\"Mmmgh~~♥ S-slow down... ",
+      "you're going to break my tummy... ngh-hah♥",
+      "\\str[121]... like this... too... waaaah♥\""
+    ],
+    "108": [
+      "The sounds of violent physical impact echoed through the bathroom.",
+      "Thick love juice erupted with every thrust, ",
+      "and \\str[120]'s moans picked up speed along with the rhythm."
+    ],
+    "109": [
+      "Having completely entered the heat of the moment, ",
+      "I couldn't stop, mechanically repeating the motion.",
+      "Before long, the overwhelming sensation of ejaculation had ",
+      "reached the brink of explosion."
+    ],
+    "109.1": [
+      "In my vision, \\str[120]'s eyes had grown vacant, ",
+      "and broken moans leaked from between her parted lips.",
+      "Her body trembled violently from the unbearable pleasure."
+    ],
+    "109.2": [
+      "Turning my overflowing excitement into momentum, ",
+      "I forcefully lifted her waist,",
+      "launching into a final sprint with even greater speed."
+    ],
+    "109.3": [
+      "\"—I'm going! Let's feel good together~~!\""
+    ],
+    "110": [
+      "With one final thrust delivered with my entire body's strength, ",
+      "my cock pressed hard against the deepest part of her pussy.",
+      "I unleashed every drop of my scalding semen. ",
+      " ",
+      "the impact was so great that \\str[120]'s flat ",
+      "little stomach even bulged slightly."
+    ],
+    "111": [
+      "\\nl< >\"Eeee... mmmgh~~♥",
+      "T-too intense... \\str[121]♥",
+      "My head... it's getting all... dizzy...\""
+    ],
+    "112": [
+      "After washing away the sweat and stickiness, we returned to the warm tub.",
+      "But \\str[120] clearly didn't plan on letting me off so easily. ",
+      "she puffed out her cheeks angrily,",
+      "poking my thigh over and over again."
+    ],
+    "113": [
+      "\\nl< >\"Hmph~~! \\str[121] is truly, truly a hopeless pervert!",
+      "Even while taking a bath, you have such a lewd look on your face~~!\""
+    ],
+    "114": [
+      "I let \\str[120] vent her dissatisfaction, ",
+      "simply smiling as I enjoyed her adorable reaction.",
+      "But I'll make sure to proactively give her a bottle of milk later as a reward..."
+    ]
+  },
+  "4": {
+    "1": [
+      "\\str[120] lets out a final hum of complaint, ",
+      "but submissively crouches down anyway,",
+      "lathering her palms with body wash until they are slick and slippery.",
+      "\\w[30]",
+      "Then, she confidently grips my stirring cock,",
+      "her fingertips teasing with a light touch as ",
+      "she begins to meticulously clean it."
+    ],
+    "2": [
+      "\"Mnh... haah...\""
+    ],
+    "3": [
+      "The sound of bubbles popping between our skin is incredibly faint,",
+      "yet in this close proximity, it feels infinitely amplified in my ears."
+    ],
+    "4": [
+      "Even though her movements are gentle, ",
+      "the thought of \\str[120]'s hands personally cleaning my most ",
+      "private part makes a restless heat spread like wildfire."
+    ],
+    "5": [
+      "As if warmly welcoming its mistress, ",
+      "my cock rapidly becomes engorged, growing hard ",
+      "and erect within her palm."
+    ],
+    "6": [
+      "\\nl< >\"...\\str[121]♥ ",
+      "We've only just started, and you're already this excited~?\""
+    ],
+    "7": [
+      "Sensing the change in me, \\str[120] stops her simple wiping.",
+      "She firmly wraps her hand around the scorching-hot shaft ",
+      "and begins to stroke it up and down at her whim."
+    ],
+    "8": [
+      "\\nl< >\"...It's just a bath, and yet,   \\w[120]",
+      "this part of you has already become so energetic...\""
+    ],
+    "9": [
+      "\\nl< >\"Right now, you're definitely thinking of all sorts of ",
+      "naughty things, aren't you~?   \\w[120]",
+      "You really are a hopeless, naughty \\str[121]♥\""
+    ],
+    "10": [
+      "\\nl< >\"Since you want it so much, I guess I'll...     \\w[120]",
+      "help you get a little bit cleaner~♥\""
+    ],
+    "10.1": [
+      "Amidst the sound of splashing water, ",
+      "a warm, fine stream rinses the suds from my cock completely.",
+      "Then, \\str[120] leans forward of her own accord, ",
+      "softly pressing the warm area against her lips."
+    ],
+    "10.2": [
+      "\\nl< >\"Phew... that takes care of the foam. ",
+      "However, the most important part needs to be cleaned ",
+      "in a more special way...♥\""
+    ],
+    "10.3": [
+      "She parts her lips slightly, her sweet, hot breath ",
+      "sending tremors through the most sensitive edges.",
+      " ",
+      " ",
+      "Then, her nimble pink tongue quietly peeks out,",
+      "swirling and lapping around the rim of the glans ",
+      "with the gentle curiosity of a hungry kitten—"
+    ],
+    "10.4": [
+      "It's an exquisitely delicate and moist sensation, ",
+      "accompanied by the occasional soft, muffled moan from her throat.",
+      "That teasing, fleeting touch is a hundred times more intense ",
+      "than the stimulation from her hand earlier."
+    ],
+    "11": [
+      "\\nl< >\"\\str[121], your body is twitching♥     \\w[120]",
+      "What's wrong~? Does it feel that good?\""
+    ],
+    "11.1": [
+      "The tip has already uncontrollably leaked beads of shimmering precum, ",
+      "glistening with a viscous, cloudy luster under the lights.",
+      "",
+      "",
+      "Instead of being repulsed, \\str[120] doubles down, ",
+      "licking every drop of the leaking fluid into her mouth,",
+      "letting out soft, slurping sounds that make my heart race."
+    ],
+    "12": [
+      "\\nl< >\"Ah... there's more dirt flowing out from here...     \\w[120]",
+      "I'll have to clean this part next~\""
+    ],
+    "13": [
+      "Her tongue continues its journey, sliding down from ",
+      "the glans along the ridges of the bulging veins,",
+      "patiently licking its way from the tip all ",
+      "the way down to the very base."
+    ],
+    "13.1": [
+      "Even the most hidden folds, usually overlooked, ",
+      "are traced repeatedly by her tireless tongue.",
+      "That subtle, ticklish itch turns into jolts of electricity, ",
+      "surging from the root straight to my brain."
+    ],
+    "14": [
+      "\\nl< >\"Ehehe... it's much cleaner now♥\""
+    ],
+    "15": [
+      "Slick with her saliva, the entire shaft glistens with a thick, ",
+      "tempting wetness under the light.",
+      "Like she's admiring a masterpiece she finished herself, ",
+      "\\str[120] squints with pride, letting out a sweet, smug hum."
+    ],
+    "16": [
+      "However, this mild stimulation is far from enough to satisfy me.",
+      "Instead, it's like pouring oil on a fire, making me ",
+      "crave the intense sensation of being completely enveloped even more."
+    ],
+    "17": [
+      "\\nl< >\"It must be hard to hold it in right now, \\str[121]♥     \\w[120]",
+      "It's okay. I'll take care of you until you're satisfied,          \\w[120]",
+      "so... you have to shoot it all out for me, okay?♥\""
+    ],
+    "18": [
+      "Even though my cock remains stubbornly erect and unsatisfied,",
+      "\\str[120]'s lazy gaze is filled with weary reluctance.",
+      "It seems she's about to unilaterally call it a day...",
+      "This is bad—I have to think of something, and fast!!"
+    ],
+    "19": [
+      "Sex with her",
+      "Bribe her",
+      "Beg her"
+    ],
+    "19.1": [
+      "\"Please...! I was wrong!",
+      "If you stop now, it's going to hurt so much!",
+      "Please, just keep going!\""
+    ],
+    "19.2": [
+      "\"I surrender! I shouldn't have kept teasing you...!",
+      "My sweetest, cutest \\str[120]... ",
+      "please help your poor \\str[121] out, okay?\""
+    ],
+    "19.3": [
+      "I quickly put on the most sincere expression I can muster,",
+      "grabbing her hand as if it were my last lifeline."
+    ],
+    "19.4": [
+      "\\nl< >\"Hehe♥ No~ way~♥",
+      "I've already washed you all clean~ ",
+      "You'll have to figure out the rest on your own!\""
+    ],
+    "19.5": [
+      "\\{\"Wh-wh-whaaaaat?!!\""
+    ],
+    "19.6": [
+      "\\nl< >\"Humph~ Now you finally get a taste of how it feels ",
+      "when you tease me all the time, don't you~?\""
+    ],
+    "19.7": [
+      "She sticks out her tongue and slips into ",
+      "the bathtub in the blink of an eye.",
+      "With that triumphant, mischievous grin amidst the steam,",
+      "she really does look like a little succubus who just got her way."
+    ],
+    "19.8": [
+      "Faced with this calculated revenge, I find myself speechless.",
+      "It looks like I'll have to handle things on my own after all..."
+    ],
+    "19.9": [
+      "\\nl< >\"Ugh... ",
+      "saying something like that is so unfair...\""
+    ],
+    "19.91": [
+      "\\nl< >\"Fine, geez... ",
+      "I'll help you just a little bit more... \\w[120]",
+      "If you ever tease me again, ",
+      "I am absolutely leaving you hanging!\""
+    ],
+    "19.92": [
+      "Despite the scolding, ",
+      "she has already stopped trying to get up.",
+      "Seeing the resistance fade from her eyes, ",
+      "I finally breathe a sigh of relief."
+    ],
+    "20": [
+      "\"I'll give you one bottle of \\ii[\\v[90]]!!\""
+    ],
+    "21": [
+      "To win her over quickly, ",
+      "offering her favorite drink is definitely the best move!"
+    ],
+    "22": [
+      "\\nl< >\".............................",
+      ".............................\""
+    ],
+    "22.1": [
+      "\\nl< >\"..................Make it two.\""
+    ],
+    "22.2": [
+      "\\{ She's raising the price on the spot——!!"
+    ],
+    "22.3": [
+      "\"Urgh——————    \\w[60]\\{",
+      "Deal!!\""
+    ],
+    "22.4": [
+      "\\nl< >\"Hehe~ Since it's for the milk,    \\w[120]",
+      "I guess I'll help you finish after all~!\""
+    ],
+    "22.5": [
+      "The moment she's promised a reward, ",
+      "her lazy eyes light up instantly.",
+      "Smiling, she leans back in, ",
+      "her movements even more enthusiastic than before."
+    ],
+    "22.6": [
+      "\\nl< >\"..................No way! ",
+      "I don't like this flavor!\""
+    ],
+    "22.7": [
+      "\\{ I totally picked the wrong one————!!"
+    ],
+    "22.8": [
+      "\"W-Wait, let me try another one——\" \\w[25]\\^"
+    ],
+    "22.9": [
+      "\\nl< >\"............What is this?      \\w[90]",
+      "It looks so weird... I don't want it...\""
+    ],
+    "23": [
+      "\"Fine! I'm using it! ",
+      "I'm cashing in my Free Pass, right now!\""
+    ],
+    "23.1": [
+      "It's that 'Free Pass' she made for me by hand.",
+      "She told me back then that as long as I showed it to her, ",
+      "she'd go along with any request I had, no matter how",
+      "selfish or spoiled I was being."
+    ],
+    "23.2": [
+      "\\nl< >\"A-Are you serious?!     \\w[90]",
+      "\\str[121], you're really using your Free Pass for this?\""
+    ],
+    "23.3": [
+      "\"Urgh...! B-Because...",
+      "Right now is when I need \\str[120]'s comfort the most!\""
+    ],
+    "23.4": [
+      "I felt a bit pathetic using such a trump card ",
+      "just to spoil myself like this...",
+      "But the aching desperation for release in my lower body ",
+      "had made it impossible to think straight."
+    ],
+    "23.5": [
+      "\\nl< >\"What a silly \\str[121]...               \\w[60]",
+      "getting so worked up over something like this.     \\w[60]",
+      "Alright, alright~ I'll help you finish!            \\w[60]",
+      "Keep that Free Pass and save it for a more important favor!\""
+    ],
+    "23.6": [
+      "\"Ooooohhhhh...! I knew it... ",
+      "you really are the best to me after all...!\""
+    ],
+    "23.7": [
+      "\\str[120] let out a soft sigh and resumed her duties.",
+      "As if to keep me from getting any more wild ideas, ",
+      "she began licking even more vigorously than before."
+    ],
+    "24": [
+      "\\nl< >\"Your \\str[120] is working so hard to help you...    \\w[120]",
+      "You'd better have a nice reward ready for me later...♥\""
+    ],
+    "25": [
+      "She winks at me playfully,",
+      "while her pink tongue mischievously swirls around ",
+      "the most sensitive rim."
+    ],
+    "25.1": [
+      "This repeated teasing has pushed my desire to its absolute limit.",
+      "Staring at my completely defenseless \\str[120], I even feel",
+      "an impulse to just pin her down and take her right here."
+    ],
+    "26": [
+      "\\nl< >\"……Chu♥    \\w[120]",
+      "Good boy, \\str[121]~ ",
+      "I'll take care of you until the very end,",
+      "so there's no need to rush. Just relax and let go...\""
+    ],
+    "27": [
+      "Sensing my agitation, she presses a wet kiss ",
+      "onto the tip as if soothing a cranky child.",
+      "Then, she shifts to a closer angle and patiently toys ",
+      "with it using her moist tongue."
+    ],
+    "28": [
+      "But this gentle touch only makes me feel more restless.",
+      "The heat in my gut hasn't subsided at all. ",
+      "Is it just not enough stimulation?"
+    ],
+    "29": [
+      "\"Since... since we've come this far, ",
+      "make me feel even better...\""
+    ],
+    "30": [
+      "\\nl< >\"You can't... hold it in... ",
+      "anymore... \\str[121]...?                      \\w[120]",
+      "It's okay... I'll... do the rest of the...     \\w[120]",
+      "cleaning... properly... too...♥\""
+    ],
+    "31": [
+      "Though her voice is a bit muffled, ",
+      "I can tell she isn't refusing.",
+      "Immediately after, she parts her small lips and ",
+      "takes in the tip, despite the overwhelming pressure."
+    ],
+    "32": [
+      "Accompanied by rhythmic, viscous slurping sounds,",
+      "the warm walls of her mouth wrap tightly around every bulging vein.",
+      "The pleasure of being completely captured by that ",
+      "heat and wetness surges to my brain."
+    ],
+    "33": [
+      "Let \\str[120]",
+      "Go deeper",
+      "Just hold it",
+      "Cum in mouth"
+    ],
+    "35.1": [
+      "\\nl< >\"Geez... I can't believe you, \\str[121]...",
+      "making such an... unreasonable request...\""
+    ],
+    "35.2": [
+      "\\nl< >\"...I'll... do my absolute best...♥\""
+    ],
+    "35.3": [
+      "\\nl< >\"Since \\str[121]... is asking so much of me...",
+      "then I guess I'll... give it my all♥\""
+    ],
+    "35.4": [
+      "\\nl< >\"Ugh... honestly, \\str[121]...",
+      "always making such embarrassing requests...♥\""
+    ],
+    "35.5": [
+      "\\nl< >\"You're so mean, \\str[121]...",
+      "do you really love seeing me look so flustered that much?♥\""
+    ],
+    "40": [
+      "\\str[120] closes her eyes in a pained wince from the fullness,",
+      "yet she stubbornly gulps down the hot surges one by one.",
+      "That tearful whimpering in the narrow bathroom sounds",
+      "both pitiful and undeniably cute."
+    ],
+    "41": [
+      "As the final surge vanishes down her throat, she slumps over,",
+      "her pale face flushed a deep crimson from the exertion.",
+      "A trace of white still clings to the corner of her mouth",
+      "as she stares at me blankly, panting heavily for air."
+    ],
+    "42": [
+      "\\nl< >\"Cough, hack... ugh... my throat is so sore...",
+      "Even though you... you already did that, ",
+      "why is it still so lively down here...?\""
+    ],
+    "43": [
+      "\\nl< >\"Whew... haah... ",
+      "You haven't spit it all out yet, have you?",
+      "It's not over yet♥ Since I promised to finish the job, ",
+      "I can't leave a single drop behind...\""
+    ],
+    "44": [
+      "\\nl< >\"Rub, rub...",
+      "Now, hand over the rest to me...",
+      "I'll catch every last bit...♥\""
+    ],
+    "45": [
+      "\"Ugh...! You're... you're being too eager...! ",
+      "At this rate, it's gonna—\""
+    ],
+    "46": [
+      "Since the afterglow of the first burst hasn't faded, ",
+      "my body is in its most sensitive state.",
+      "Under the full-force stroking of \\str[120]'s warm, soft hands,",
+      "a second surge of heat quickly wells up again."
+    ],
+    "47": [
+      "\\nl< >\"Whoa—! It's coming out again!",
+      "Ehehe~ I knew you still had some juice left in you, ",
+      "\\str[121]...♥\""
+    ],
+    "48": [
+      "\\nl< >\"Phew... we're not done yet, \\str[121]~",
+      "Even if the amount is getting smaller, ",
+      "it's still... rock hard right here♥\""
+    ],
+    "49": [
+      "\"W-Wait! You're going to keep going?! ",
+      "Isn't that enough already!?\""
+    ],
+    "50": [
+      "\\nl< >\"No~ way~ The '\\str[121]' down here ",
+      "hasn't admitted defeat yet!",
+      "Just endure it a little longer, it'll be over soon...♥\""
+    ],
+    "51": [
+      "At this point, my legs have already started to turn to jelly.",
+      "But \\str[120] still maintains her high fighting spirit, ",
+      "her fingers gripping my cock as if she's trying to milk",
+      "every last drop of moisture out, rubbing meticulously."
+    ],
+    "52": [
+      "\"————————Guh... aaaaaagh!!\"",
+      "\\w[25]\\^"
+    ],
+    "53": [
+      "Under her coercive yet tender milking, the final",
+      "stray droplets of thin liquid were finally squeezed out.",
+      "That proud spear of mine finally surrendered",
+      "within \\str[120]'s palm and began to slowly go soft."
+    ],
+    "54": [
+      "\\nl< >\"Haah... Finally, it's completely cleaned out♥\""
+    ],
+    "55": [
+      "\"There's... there's really not a single drop left...\""
+    ],
+    "56": [
+      "\\nl< >\"Now you're clean from head to toe, \\str[121]~",
+      "This way, you won't be constantly having those ",
+      "perverted delusions like you usually do♥\""
+    ],
+    "57": [
+      "\\str[120] seems to have a misunderstanding that ",
+      "draining the body means draining the mind.",
+      "But after being milked like that repeatedly, ",
+      "my brain has indeed gone completely blank.",
+      "It feels like... ",
+      "nothing in this world matters anymore..."
+    ],
+    "58": [
+      "\\nl< >\"*Cough, hack*...                 \\w[90]",
+      "haah... That last bit really hurt...      \\w[90]",
+      "I feel like my throat is completely filled with",
+      "\\str[121]'s taste...\""
+    ],
+    "59": [
+      "\\nl< >\"Huh...? Why do you look so drained all of a sudden?     \\w[120]",
+      "Usually, \\str[121] should be able to last a little longer...\""
+    ],
+    "60": [
+      "Even though she hadn't recovered from the suffocation just now, ",
+      "\\str[120] seemed unwilling to give up,",
+      "stroking the limp cock as it started to hang its head, ",
+      "as if trying to restore its vigor."
+    ],
+    "61": [
+      "\"D-don't bother... there's... nothing left to shoot...\""
+    ],
+    "62": [
+      "Although it was embarrassing to admit to \\str[120] that I was spent,",
+      "that unreserved release just now had indeed completely ",
+      "exhausted my stamina."
+    ],
+    "63": [
+      "\\nl< >\"I see... since \\str[121] is satisfied,       \\w[120]",
+      "then let's call it a day for today's big cleaning♥\""
+    ],
+    "64": [
+      "\"I'm... I'm burning out...\""
+    ],
+    "65": [
+      "\\nl< >\"Rub, rub~                    \\w[90]",
+      "Looks like nothing else is coming out... ",
+      "it really is a thorough cleaning this time♥\""
+    ],
+    "66": [
+      "Gallery Mode",
+      "Story Mode"
+    ],
+    "67": [
+      "\\nl< >\"...Money?",
+      "It’s not like I have any use for it... I don't want it.\""
+    ],
+    "68": [
+      "\\nl< >\"...You're giving me this much money?",
+      "Honestly, \\str[121], your habit of wasting money is acting up again...",
+      "If I don't say yes, you'll probably just turn around and ",
+      "spend it all on more random junk, won't you?\""
+    ]
+  },
+  "5": {
+    "0": [
+      "\"Hair this long must be a pain to wash, right...?",
+      "Let me help you!\""
+    ],
+    "1": [
+      "\\nl< >\"Mmm... ",
+      "then I'll leave the ends of my hair to you, \\str[121].\""
+    ],
+    "2": [
+      "Still rinsing off the bubbles, ",
+      "\\str[120] didn't resist my enthusiastic request this time.",
+      "Excitedly, I crouched behind her and squeezed out ",
+      "a large glob of conditioner.",
+      "Pressing my palms together to envelop those slender strands,",
+      "I patiently rubbed and smoothed them back and forth."
+    ],
+    "3": [
+      "A cloying, sweet fragrance diffused throughout the narrow bathroom,",
+      "and the gaps between my fingers were filled with a slick, soft sensation.",
+      "\\str[120] seemed to enjoy being looked after like this,",
+      "her body swaying slightly with the rhythm of my rubbing."
+    ],
+    "4": [
+      "The maintenance work girls do is really complicated...",
+      "Looking at this silver hair, ",
+      "now as smooth as silk, I couldn't help but wonder,",
+      "should I try learning how to tie her hair up next time?"
+    ],
+    "5": [
+      "\"Alright, the ends are pretty much done~",
+      "You can just rinse it off yourself now.\""
+    ],
+    "6": [
+      "\\nl< >\"Mmh~ Thanks for the hard work, \\str[121]~!\""
+    ],
+    "7": [
+      "After finishing with her long hair, ",
+      "I intended to get up and go back to soaking in the tub,",
+      "but the moment I rose, the erotic sight before me felt like it had ",
+      "its own gravity, locking my attention in a death grip."
+    ],
+    "8": [
+      "Since \\str[120] was currently facing away from me, ",
+      "focused on scrubbing her arms,",
+      "from this angle, those perky, rounded buttocks were ",
+      "laid bare right in front of me."
+    ],
+    "9": [
+      "The dense steam mixed with glistening water droplets, ",
+      "flowing freely over those two mounds of fair, tender flesh,",
+      "making her already delicate skin look even more crystalline ",
+      "and tempting."
+    ],
+    "10": [
+      "Especially as she scrubbed her arms with such focus,",
+      "those two mounds of soft flesh swayed and jiggled slightly.",
+      "That heavy sense of weight bouncing in my vision was ",
+      "nothing short of a blatant provocation...!"
+    ],
+    "11": [
+      "I stared at that deep butt crack and the cheeks ",
+      "that rose and fell with her movements, my throat tightening,",
+      "as the cock in my lower body rapidly engorged and ",
+      "swelled beyond control—"
+    ],
+    "12": [
+      "SEX!",
+      "Jerk off!",
+      "Endure it!"
+    ],
+    "12.1": [
+      "Endure it, my other half...! ",
+      "If I can't even handle this much stimulation, ",
+      "my dignity as \\str[121] will be completely ruined!"
+    ],
+    "12.2": [
+      "I gave my pathetic cock a sharp slap, ",
+      "trying to use the pain to drive away the heat in my mind.",
+      "I'm in the middle of a bath with \\str[120] right now—",
+      "how can I let my head be so full of lewd thoughts!?"
+    ],
+    "13": [
+      "Looking at \\str[120]'s defenseless back, ",
+      "surging desire finally overthrew my reason.",
+      "With a trembling hand, I gripped that already monstrously ",
+      "erect cock and began to jerk it rapidly—"
+    ],
+    "14": [
+      "\\nl< >\"Hm...? \\str[121]? Are you doing something?",
+      "It sounds a little loud over there...\""
+    ],
+    "15": [
+      "\"Ah, it's—it's nothing...!",
+      "I'm just preparing a special body wash!",
+      "If you rub it on your skin later, ",
+      "it'll make you feel all smooth and slippery...!\""
+    ],
+    "16": [
+      "I spat out a nonsensical excuse while keeping my eyes glued to \\str[120]'s butt.",
+      "The speed of my hand grew faster and faster with excitement,",
+      "not even caring that the wet, friction-filled sounds were ",
+      "echoing clearly in the bathroom."
+    ],
+    "17": [
+      "\\nl< >\"A special one? Ehehe... that sounds impressive.",
+      "Then hurry up, \\str[121], ",
+      "I'm almost finished washing on my end too~\""
+    ],
+    "18": [
+      "Believing me completely, \\str[120] didn't turn around, ",
+      "simply continuing to scrub her arms.",
+      "This thrill of going unnoticed made my blood boil, as I couldn't ",
+      "help but start fantasizing about how she'd react to that 'body wash.'"
+    ],
+    "19": [
+      "\\nl< >\"...Is it not ready yet?",
+      "\\str[121], you're being so slow~!\""
+    ],
+    "20": [
+      "Cum on her!",
+      "Endure it!"
+    ],
+    "21": [
+      "\"...O-okay! Here it comes...!\""
+    ],
+    "22": [
+      "At \\str[120]'s urging, ",
+      "a wave of pleasure instantly swept through my entire body.",
+      "With a few final, violent strokes, ",
+      "the long-accumulated white liquid finally erupted."
+    ],
+    "23": [
+      "\\nl< >\"Kya...! It's hot...!?",
+      "Is... is this the 'special body wash' you mentioned, ",
+      "\\str[121]?\""
+    ],
+    "24": [
+      "\"Ahahaha... Yep~!",
+      "It's a bit hot, right? ",
+      "That's because it's a special blend!\""
+    ],
+    "25": [
+      "Feeling guilty, ",
+      "I used my palm to smear the sticky liquid over her,",
+      "then quickly used the water to wash away all the evidence."
+    ],
+    "26": [
+      "\\nl< >\"I feel like other than being warm, ",
+      "it doesn't really do anything special...",
+      "And why does it have such a weird smell...?\""
+    ],
+    "27": [
+      "\\str[120] finally couldn't help but turn around, ",
+      "staring at me suspiciously.",
+      " ",
+      " ",
+      "However, since the patch of skin splashed by ",
+      "the semen did indeed feel unusually slippery,",
+      "she ultimately didn't notice a thing—"
+    ],
+    "28": [
+      "\\{I-I can't give in that easily!?",
+      "It's too pathetic to cum this fast!"
+    ],
+    "29": [
+      "Stirred into a strange competitive spirit by \\str[120]'s urging,",
+      "I grit my teeth and desperately suppressed the pleasure ",
+      "that was about to burst through the floodgates.",
+      " ",
+      "But my heavy breathing and the splashing sounds were too obvious.",
+      "\\str[120] finally realized something was wrong—"
+    ],
+    "30": [
+      "\\nl< >\"\\str[121], you're acting really weird...!       \\w[60]",
+      "You've been making strange noises for a while now, ",
+      "just what are you—\"",
+      "\\w[90]\\^"
+    ],
+    "31": [
+      "\\nl< >\"Eeek————!!",
+      "\\str[121]!? What are you doing!!\""
+    ],
+    "32": [
+      "\\nl< >\"D-don't tell me... ",
+      "the 'special body wash' you were talking about ",
+      "was actually this!?\""
+    ],
+    "33": [
+      "\"It's like this... ",
+      "it's also quite slippery... right?",
+      "Just kidding... sorry... ",
+      "I just suddenly felt like doing it...\""
+    ],
+    "34": [
+      "Since I'd been caught red-handed, ",
+      "I had no choice but to stop and come clean.",
+      "However, instead of wilting from being discovered, ",
+      "my cock throbbed even harder under \\str[120]'s gaze."
+    ],
+    "35": [
+      "\\nl< >\"Honestly, \\str[121], ",
+      "you really can't control yourself at times like this...\""
+    ],
+    "35.1": [
+      "Guh... I guess that really is the case...",
+      "I wonder why... Every time this happens, ",
+      "I just can't seem to control myself."
+    ],  
+    "36": [
+      "\\nl< >\"—It must be painful to hold it in, right?",
+      "Even with me watching you like this, it's still so energetic...",
+      "So? Do you want me to help you let it out?\""
+    ],
+    "37": [
+      "Though \\str[120] still wore a look of 'I can't deal with you,'",
+      "she reached out her hand to grip my cock, sending an invitation—"
+    ],
+    "38": [
+      "Just watch",
+      "Use your mouth"
+    ],
+    "39": [
+      "Perhaps because the excitement of doing it ",
+      "behind her back hadn't faded,",
+      "a more stimulating idea suddenly sprouted in my mind."
+    ],
+    "40": [
+      "\"No... I don't need help.",
+      "Just stay like that... and watch me do it.\""
+    ],
+    "41": [
+      "\\nl< >\"Eh...!?",
+      "Y-you just want me to watch...?",
+      "\\str[121]... you're always coming up with such weird requests...\""
+    ],
+    "42": [
+      "Even I felt that the request I blurted out sounded strange.",
+      "\\str[120]'s face turned bright red, but she obediently crouched down, ",
+      "leaning in close right in front of me."
+    ],
+    "43": [
+      "\\nl< >\"Is it... like this?",
+      "Actually, I was a little curious too...",
+      "How you... go about doing it.\""
+    ],
+    "44": [
+      "Seeing \\str[120] crouching between my legs like a curious kitten, ",
+      "eyes fixed on my cock, I felt a powerful surge of excitement.",
+      "I even had to wonder if I'd awakened some strange fetish because of this."
+    ],
+    "45": [
+      "But there was no time for that now!",
+      "It's time! Right now! Right here!"
+    ],
+    "46": [
+      "Under \\str[120]'s gaze, ",
+      "I gripped my cock again and began to stroke it violently."
+    ],
+    "47": [
+      "\\nl< >\"Ugh... such intense movements...",
+      "So \\str[121]... is actually this aggressive...\""
+    ],
+    "48": [
+      "\\nl< >\"Do you... ",
+      "usually take care of it all by yourself like this?",
+      "I feel like... it must be hard for you too, ",
+      "\\str[121]...\""
+    ],
+    "49": [
+      "With her face flushed, ",
+      "\\str[120] opened her eyes wide to observe every detail,",
+      "even subconsciously leaning in closer to catch the scent."
+    ],
+    "50": [
+      "I was also incredibly excited by this strange interaction.",
+      "My breathing became heavier, ",
+      "and the premonition of a climax hit me hard."
+    ],
+    "51": [
+      "\\nl< >\"Is it... is it coming out...?",
+      "Good luck, \\str[121]! You're almost there~!\""
+    ],
+    "52": [
+      "Make \\str[120] open up",
+      "Cum on her"
+    ],
+    "53": [
+      "\\nl< >\"Eh!? You want me to open my m-mouth now?",
+      "Don't tell me... at a time like this... ",
+      "you want to do that too...!?\""
+    ],
+    "54": [
+      "Caught completely off guard by the extra demand, ",
+      "\\str[120] instantly panicked.",
+      "She could only clumsily reach out and open her small mouth,",
+      "trembling as she poked out her moist, red tongue."
+    ],
+    "55": [
+      "I stared intensely at \\str[120]'s mouth.",
+      "The climax, reaching a breaking point, finally found its outlet,",
+      "and surge after surge of hot fluid erupted, ",
+      "heading straight for her small mouth."
+    ],
+    "56": [
+      "\\nl< >\"Ah... mngh~♥",
+      "Ah-wuu... oh-wuu...♥\""
+    ],
+    "57": [
+      "Because the impact of the spray was so strong,",
+      "a large amount of white liquid flew past her lips,",
+      "splattering wildly across her hair and cheeks."
+    ],
+    "58": [
+      "However, ",
+      "the portion that successfully flew into her mouth ",
+      "already filled it to the brim.",
+      " ",
+      "She could only tilt her head back, trying her best not ",
+      "to let any of the precious liquid leak out,",
+      "as her breathing gradually grew ragged."
+    ],
+    "59": [
+      "\\nl< >\"Mngh... hmph-wuu...♥\""
+    ],
+    "60": [
+      "As if to show off the results, ",
+      "\\str[120] proactively leaned closer to me.",
+      "Keeping her mouth wide open, she showed me ",
+      "the pool of white liquid still bubbling slightly inside.",
+      "Because there was so much of it, ",
+      "thick strands began to drip from the corners of her mouth."
+    ],
+    "61": [
+      "\"Good girl, good girl~ You did great...",
+      "Now, everything in your mouth... swallow it all.\""
+    ],
+    "62": [
+      "\\nl< >\"Mngh!? Wuu-wuu...\""
+    ],
+    "63": [
+      "\\str[120] knit her brows slightly, ",
+      "appearing troubled by the request.",
+      "But under my expectant gaze, she obediently closed her mouth, ",
+      "her throat sliding up and down with effort.",
+      "With a series of faint 'glug' sounds, ",
+      "she swallowed every bit of the thick liquid."
+    ],
+    "64": [
+      "\\nl< >\"Ueeegh...",
+      "\\str[121] is such a bully, ",
+      "this stuff doesn't taste good at all!",
+      "It's fishy, and a little bitter...!\""
+    ],
+    "65": [
+      "\\nl< >\"And look! ",
+      "Because you sprayed so messily just now,",
+      "my hair and face are all dirty...\""
+    ],
+    "66": [
+      "\\nl< >\"Honestly... didn't I just wash up for nothing?",
+      "I have to wash all over again... This time, ",
+      "you have to listen to me and help me get clean!\""
+    ],
+    "67": [
+      "\"Sorry, sorry, ",
+      "I'll help you get clean right away.",
+      "Just leave everything to me—!\""
+    ],
+    "68": [
+      "Since \\str[120] had satisfied so many of my strange requests,",
+      "I desperately tried to make it up to her, ",
+      "enthusiastically helping her wash her body all over again."
+    ]
+  },
+  "7": {
+    "0": [
+      "Looking at \\str[120]'s smug face as she gloats over ",
+      "her revenge while preparing to escape back into the water,",
+      "and then looking at my own cock—purple, swollen, ",
+      "and aching from the edging she just put me through—",
+      "the thread of my sanity finally snaps."
+    ],
+    "1": [
+      "I stand up in silence and scoop up \\str[120], ",
+      "who was still crouching in front of me.",
+      "Unaware of what's coming, she’s spun around on the spot,",
+      "until I stop, aiming those tempting, rounded little cheeks directly at my cock."
+    ],
+    "1.1": [
+      "\\nl< >\"...\\str[121]? Are we done washing already?     \\w[180]",
+      "Why so sudden—\"                                         \\w[45]\\^"
+    ],
+    "2": [
+      "Then, while she’s still a half-step behind reality,",
+      "I firmly pin \\str[120]'s wrists behind her back,",
+      "forcing her to arch her waist and stick her ass out in a shameful pose,",
+      "letting my cock press smoothly against her warm cleft."
+    ],
+    "3": [
+      "\\nl< >\"Kyaa—!? \\str[121]!?         \\w[60]",
+      "W-wait a second—!                     \\w[120]",
+      "This position is weird... we can't do this~!\""
+    ],
+    "4": [
+      "\"It's a bit late for 'we can't,' don't you think?~",
+      "Since you worked so hard to clean me earlier,",
+      "it's only fair that your \\str[121] gives you ",
+      "a proper washing now, right?~\""
+    ],
+    "5": [
+      "\\nl< >\"Uuuu... this is too embarrassing...         \\w[90]",
+      "I was wrong, okay?                                   \\w[90]",
+      "I shouldn't have teased you like that...             \\w[90]",
+      "So please, just let me go already~~\""
+    ],
+    "6": [
+      "\"Too late for that!~",
+      "Now I have to give this naughty little ass ",
+      "a thorough scrubbing!!\""
+    ],
+    "7": [
+      "Despite her spoiled pleas for mercy, \\str[120]'s ass ",
+      "keeps grinding and squirming restlessly against my crotch.",
+      "To me, it looks like a blatant invitation. Blood rushes to my groin,",
+      "and my cock plunges straight into that wet, hot friction."
+    ],
+    "8": [
+      "\\nl< >\"Mngh~~♥     \\{\\w[30]",
+      "Eee-yah—!?\""
+    ],
+    "9": [
+      "With a lewd cry from the sudden violation, ",
+      "my entire cock buries itself to the hilt.",
+      "The sensation of being tightly clamped by those warm, ",
+      "wet walls is so intense it makes my scalp tingle.",
+      "I can clearly feel her little pussy convulsing violently ",
+      "from the brute force of the intrusion."
+    ],
+    "10": [
+      "A massive amount of love juice floods out from the ",
+      "intense stimulation, turning our union into a muddy mess.",
+      " ",
+      " ",
+      "Seeing how easily \\str[120]'s body accepted me—",
+      "feeling this seamless fit— I feel a deep sense of ",
+      "satisfaction that all my hard work wasn't for nothing."
+    ],
+    "11": [
+      "I begin to hammer my hips rapidly, every full-force ",
+      "thrust resulting in a loud 'slap-slap' of colliding flesh.",
+      "Watching her fair, tender ass ripple like waves under my impact,",
+      "I have no intention of stopping; instead, I only grow more excited."
+    ],
+    "12": [
+      "\\nl< >\"I-it's moving!? \\str[121]~~!!                  \\w[90]",
+      "I'll be good, I'll do whatever lewd things you want...   \\w[90]",
+      "so just let me go, ueeeh♥~~!\""
+    ],
+    "13": [
+      "\\nl< >\"This position is no good... ",
+      "\\str[121], you're so mean~~!!\""
+    ],
+    "14": [
+      "Her previous smugness has vanished without a trace.",
+      "now she’s just flushed red,",
+      "acting like a defenseless doll at my mercy, ",
+      "her voice filled with tearful, lewd whimpers."
+    ],
+    "15": [
+      "Even though I'm pinning her firmly from behind, ",
+      "\\str[120] isn't putting up any real resistance.",
+      "Her soft struggles and pleas sound more like 'push-and-pull' teasing.",
+      "Maybe she's actually enjoying this situation?"
+    ],
+    "16": [
+      "Realizing this, my urge to tease her further is ignited.",
+      "Since she's enjoying herself so much, ",
+      "I'll have to prepare an even more interesting punishment program."
+    ],
+    "17": [
+      "Watch Mirror"
+    ],
+    "18": [
+      "Inspiration strikes immediately.",
+      "I look at the nearby mirror, fogged with steam, ",
+      "and break into a wicked grin."
+    ],
+    "19": [
+      "\\nl< >\"—Eh!? W-what are you doing now?\""
+    ],
+    "20": [
+      "Without giving her a moment to react, ",
+      "I keep our lower halves joined tightly,",
+      "pushing her by her arms over to the bathroom mirror.",
+      "From this distance, the mirror clearly reflects our current state—"
+    ],
+    "21": [
+      "\\str[120]'s long white hair falls in a mess.",
+      "Her porcelain-white back is flushed with a feverish red ",
+      "where my muscles press against her.",
+      " ",
+      "Because I'm pinning her arms back, ",
+      "her large, full breasts are thrust forward,",
+      "quivering wildly with every arrogant thrust and ",
+      "creating lewd ripples on the mirror's surface."
+    ],
+    "22": [
+      "\\nl< >\"T-the mirror!?                            \\w[90]",
+      "Like this... n-no... don't look at the mirror...   \\w[90]",
+      "Ugh... the person in the mirror... ",
+      "that's not me... mngh♥\""
+    ],
+    "23": [
+      "Forced to stare at the lewd sight of herself being repeatedly plowed ",
+      "in such a shameful pose, \\str[120] becomes even more frantic.",
+      " ",
+      " ",
+      "Looking at that cute, dazed face in the reflection, my excitement peaks,",
+      "and I deliberately pull her arms back further so her proud breasts ",
+      "can sway more clearly in the glass."
+    ],
+    "24": [
+      "\"It's okay, don't be scared... ",
+      "You're so cute right now, \\str[120],",
+      "you've already got such a blissful expression on your face.\""
+    ],
+    "25": [
+      "I lean into her ear, whispering comfort to her.",
+      "It would be too pitiful to keep bullying her at this point."
+    ],
+    "26": [
+      "\\nl< >\"Mngh... \\str[121], you're lying again...!   \\w[150]",
+      "The girl in the mirror isn't cute at all... uuuu...♥\""
+    ],
+    "27": [
+      "\"I'm not lying.",
+      "I really love it when you're like this.\""
+    ],
+    "28": [
+      "I continue to praise her gently, and as if responding to my approval,",
+      "her pussy cinches tight, sucking on my cock.",
+      "The already muddy junction begins to secrete even more ",
+      "thick, hot, fresh love juice."
+    ],
+    "29": [
+      "\"We're doing something that feels this good,",
+      "it's proof of how much we love each other.\""
+    ],
+    "30": [
+      "\\nl< >\"Mnh-ah♥ Love... each other...?          \\w[120]",
+      "\\str[121]... you won't hate me for being like this...?\""
+    ],
+    "31": [
+      "\"You are who you are, ",
+      "and you're always the cutest to me!\""
+    ],
+    "32": [
+      "I quicken the rhythm of my hips. ",
+      "It’s a strange way to express praise for my \\str[120]...",
+      "But judging by how she’s stopped suppressing those sweet moans, ",
+      "she’s clearly enjoying it."
+    ],
+    "33": [
+      "\\nl< >\"Haah... haah♥ You always say things like that...      \\w[120]",
+      "But... since you said so...♥                                   \\w[60]",
+      "Then... I'll... mngh...                                        \\w[60]",
+      "try a little harder... and believe you...♥\""
+    ],
+    "34": [
+      "Opening her heart, \\str[120] shows her usual innocent charm again.",
+      "She leans back into my embrace, ",
+      "even twisting her waist to match my rhythm,",
+      "her eyes filled with a thick, deep longing for me."
+    ],
+    "35": [
+      "\\nl< >\"Lewd things, teasing me...                        \\w[90]",
+      "As long as it's with you, \\str[121], I love it all...♥     \\w[90]",
+      "So... stay with me like this forever...                     \\w[90]",
+      "you can never leave me, okay?...♥\""
+    ],
+    "36": [
+      "This confession-like plea is the final straw for my lust.",
+      "Feeling us both reaching the breaking point, ",
+      "I ramp up the speed of my thrusts to the limit.",
+      " ",
+      "Two bodies shaking violently in front of the mirror, ",
+      "sweat flying and intertwining."
+    ],
+    "37": [
+      "\\nl< >\"\\str[121]... \\str[121]...♥\""
+    ],
+    "38": [
+      "Hard Creampie"
+    ],
+    "39": [
+      "\\nl< >\"Hngh~♥ Mmmgh~~♥ Uuuu... haaaaaah~~~♥\""
+    ],
+    "40": [
+      "Finally, ",
+      "with one last heavy thrust,",
+      "I pour my long-accumulated essence into the depths of ",
+      "her pussy without reservation.",
+      "The scalding hot stream washes over the deepest parts of her, ",
+      "staining her completely in my color."
+    ],
+    "41": [
+      "The intense shock leaves \\str[120] gasping for breath, ",
+      "her body spasming from the extreme climax.",
+      "Her previously flat belly bulges slightly, ",
+      "tracing a fierce outline.",
+      "A large amount of fluid drips from where we are joined, ",
+      "splashing onto the floor."
+    ],
+    "42": [
+      "\\nl< >\"Ueee... my tummy... feels so hot... \\w[60]",
+      "My arms and legs have no strength left...\""
+    ],
+    "43": [
+      "\"S-sorry... I guess I got a bit too excited...\""
+    ],
+    "44": [
+      "I guiltily caress \\str[120]'s slightly bulging belly ",
+      "as it gradually settles.",
+      "Those rough movements were too much for her. ",
+      "I really need to control myself!"
+    ],
+    "45": [
+      "\\nl< >\"That tickles...                           \\w[60]",
+      "Geez! It's your fault for acting so weird all of a sudden!",
+      "We should have been done and out of the bath by now!\""
+    ],
+    "46": [
+      "\\nl< >\"—Wait. In the first place...",
+      "Didn't you say you wanted me to help you wash?\""
+    ],
+    "47": [
+      "\".............!?\""
+    ],
+    "48": [
+      "I try to play innocent to get away with it, ",
+      "but \\str[120] raises her trembling fists,",
+      "the blush on her face quickly turning into ",
+      "an expression of indignant rage."
+    ],
+    "49": [
+      "\\nl< >\"In the end... ",
+      "in the end, this wasn't a bath at all!",
+      "You were just finding different ways to ",
+      "bully me the whole time...!\""
+    ],
+    "50": [
+      "\\nl< >\"And those things you said...! ",
+      "You were definitely just teasing me on purpose again...!",
+      "Uueee... you coaxed me into saying so many embarrassing things...!!\""
+    ],
+    "51": [
+      "\\nl< >\"\\str[121] is a dummy-dummy-dummy-dummy-dummy-dummy~~~!!\""
+    ],
+    "52": [
+      "Growing angrier as she speaks, ",
+      "she finally gives up and swings her weak little fists,",
+      "thumping my chest repeatedly to vent her shame and frustration."
+    ],
+    "53": [
+      "Knowing I'm in the wrong, ",
+      "I can only laugh and apologize while letting her fuss in my arms."
+    ],
+    "54": [
+      "\\nl< >\"——Wait. Even at the beginning...",
+      "\\str[121] suddenly started saying this was a massage...",
+      "And then... and then—!!\""
+    ]
+  },
+  "8": {
+    "0": [
+      "There’s already so much foam…!",
+      "Do I really need to add more?!"
+    ],
+    "1": [
+      "There’s quite a lot of foam already...",
+      "Should I add a little more shampoo?"
+    ],
+    "2": [
+      "Feels like the bubbles could be a bit fluffier...",
+      "Should I add a little more shampoo?"
+    ],
+    "3": [
+      "Ask \\str[120]",
+      "Add more",
+      "Enough"
+    ],
+    "4": [
+      "\\{...The shampoo’s all gone!"
+    ],
+    "5": [
+      "Guess I’ll just finish up like this ",
+      "and remember to restock later..."
+    ],
+    "6": [
+      "There’s more than enough foam already!?",
+      "Better not waste any more shampoo—"
+    ],
+    "7": [
+      "Huh? Do I really need this much shampoo?",
+      "My scalp’s starting to sting—"
+    ],
+    "8": [
+      "Whoa, there’s so much foam already—",
+      "this should be enough, right~?"
+    ],
+    "9": [
+      "Yeah, let’s make a bit more foam—"
+    ],
+    "10": [
+      "Mmm, more bubbles really make the mood better—"
+    ],
+    "11": [
+      "Had a nice, relaxing bath."
+    ],
+    "12": [
+      "\"...Oh right, I picked that thing up earlier.\""
+    ],
+    "13": [
+      "I carefully washed the rubber duck clean ",
+      "and gently placed it in the tub.",
+      "It floated quietly on the water—peaceful and adorable."
+    ],
+    "14": [
+      "\"Mhm... the atmosphere feels so much nicer now.\""
+    ],
+    "15": [
+      "\"Phew... guess it’s about time to get out.\""
+    ],
+    "16": [
+      "\"...Finally got rid of that weird smell on me.\""
+    ],
+    "17": [
+      "I scrubbed myself over and over with plenty of body wash,",
+      "and even my soul felt like it had been cleansed..."
+    ],
+    "18": [
+      "All clean—time to get out."
+    ],
+    "19": [
+      "\\nl< >\"\\str[121]!? ",
+      "Stop playing with the shampoo already!\""
+    ],
+    "20": [
+      "\\nl< >\"The shampoo’s been running out so fast lately—",
+      "so it really was your doing, \\str[121]!\""
+    ],
+    "21": [
+      "Ugh... got scolded by \\str[120]."
+    ],
+    "22": [
+      "I asked \\str[120] if she could help scrub my back—"
+    ],
+    "23": [
+      "\\nl< >\"Okay! Just a sec~!\""
+    ],
+    "24": [
+      "\\nl< >\"It’s fine if I scrub a little harder, ",
+      "right, \\str[121]?\""
+    ],
+    "25": [
+      "\"Ah... yeah, it’s fine.\""
+    ],
+    "26": [
+      "\\nl< >\"Alright, here I go—!  \\w[90]",
+      "Heave-ho—heave-ho—!             \\w[120]",
+      "Heave-ho—heave-ho—!\"           \\w[120]"
+    ],
+    "27": [
+      "\\str[120] energetically scrubbed my back with a towel.",
+      "Her strength wasn’t much, and it didn’t hurt, but somehow,",
+      "it felt a bit like I was being wiped down like a dirty floor..."
+    ],
+    "28": [
+      "\\nl< >\"Phew... I’m tired...    \\w[60]",
+      "\\str[121], does that feel good?\""
+    ],
+    "29": [
+      "Wash front…",
+      "Praise \\str[120]"
+    ],
+    "30": [
+      "\\nl< >\"The front… needs to be washed too?       \\w[60]",
+      "Geez, \\str[121]…          \\w[60]",
+      "You’re not a kid anymore, ",
+      "do you really need someone else to wash you…?\"",
+      "\\w[120]"
+    ],
+    "31": [
+      "Guess I got a little carried away…",
+      "\\str[120]’s face turned completely red with embarrassment.",
+      "Looks like I’ll have to wait until we’re a bit closer before ",
+      "trying that again."
+    ],
+    "32": [
+      "\\nl< >\"The front… needs to be washed too?       \\w[60]",
+      "Geez, \\str[121]…         \\w[60]",
+      "You’re not a kid anymore, yet you’re still so spoiled…\""
+    ],
+    "33": [
+      "\\nl< >\"So… since \\str[121] isn’t a kid anymore,               \\w[120]",
+      "I’ll have to wash you like an adult from here on… okay?\"       \\w[120]"
+    ],
+    "34": [
+      "\\nl< >\"Heh-heh-heh... Next time,                              \\w[60]",
+      "I’ll show you an even better back-scrubbing technique!\"        \\w[120]"
+    ],
+    "35": [
+      "\\nl< >\"Well, \\str[121]... ",
+      "where exactly do you want me to wash?\""
+    ],
+    "36": [
+      "Wash my cock",
+      "Wash my arms"
+    ],
+    "37": [
+      "\"Let's go with right here—",
+      "I'm sure it'll get way cleaner if \\str[120] does it...!\""
+    ],
+    "38": [
+      "I purposefully put on a deadpan, ",
+      "serious expression and pointed toward my crotch for \\str[120]."
+    ],
+    "39": [
+      "\\nl< >\"Eh...? You want me to wash... ",
+      "that kind of place...?\""
+    ],
+    "40": [
+      "\\nl< >\"—Goodness, I just knew \\str[121] ",
+      "would ask for something like that.",
+      "You never miss a chance to plot something naughty, ",
+      "do you...♥\""
+    ],
+    "41": [
+      "\\nl< >\"Eh—!? No way—!",
+      "\\str[121], you're plotting something naughty again, aren't you!",
+      "It looks all slimy down there... ",
+      "it's creepy, I don't want to touch it!\""
+    ],
+    "42": [
+      "I got a bit ahead of myself...",
+      "\\str[120] is staring warily at my already erect cock ",
+      "with a look of pure reluctance.",
+      "I guess I'll have to wait until we're closer before trying again."
+    ],
+    "43": [
+      "\\nl< >\"...Just your arms?",
+      "\\str[121], you're being surprisingly ",
+      "well-behaved at a time like this...?\""
+    ]
+  },
+  "12": {
+    "0": [
+      "\\str[120] shyly nodded, and her adorable reaction filled me with",
+      "an overwhelming urge to hold her close and cherish her.",
+      "Just as I was lost in that fluttering emotion,",
+      "a strange, unfamiliar sensation suddenly surged up from below..."
+    ],
+    "1": [
+      "\\nl< >\"Ah… \\str[121], your balls are glowing?\""
+    ],
+    "2": [
+      "\"Yeah, you know, ",
+      "boys’ balls always glow when they take a bath—",
+      "\\w[45]\\^"
+    ],
+    "3": [
+      "\\>\"Yeah, you know, ",
+      "\\>boys’ balls always glow when they take a bath—",
+      "N-\\<\\{no way!!\"",
+      "\\}\\w[60]"
+    ],
+    "4": [
+      "Staring at the sudden burst of light from my lower body, ",
+      "I was completely baffled."
+    ],
+    "5": [
+      "Could it be that a monster from the Abyss followed me here!?",
+      "The moment that dangerous thought crossed my mind,",
+      "I tossed the towel aside without another hesitation—"
+    ],
+    "6": [
+      "Ah— it really is my balls that are glowing—"
+    ],
+    "7": [
+      "\\nl< >\"Ahwa, ahwahwahwahwah!     \\w[30]",
+      "\\str[121]’s balls are getting even brighter!!?\"   \\w[30]"
+    ],
+    "8": [
+      "《Demonic Contract Ritual: ",
+      "Purehearted Human’s Absolute Curse =",
+      "From Today, Your Life Is Hell Mode》!!",
+      "You’ve been cursed— (Ciallo～(∠・ω< )⌒☆)"
+    ],
+    "9": [
+      "At that moment, ",
+      "the words of that cheeky little demon shopkeeper",
+      "flashed through my mind."
+    ],
+    "10": [
+      "So that’s what the curse meant!?",
+      "That damn bratty demon girl—!!!"
+    ],
+    "11": [
+      "\\c[2]As my emotions surged to their peak, I let out a silent roar.",
+      "The light erupting from below spread rapidly, ",
+      "swallowing the entire space in an instant—"
+    ],
+    "12": [
+      "\\nl< >\"\\str[121]’s turning into light!!?\""
+    ],
+    "13": [
+      "In the pure white void where nothing could be seen, ",
+      "I stopped thinking altogether."
+    ]
+  }
+}
