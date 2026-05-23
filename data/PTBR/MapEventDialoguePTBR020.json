@@ -117,7 +117,7 @@
       "Mesmo dizendo isso, não consegui evitar começar a vasculhar."
     ],
     "4": [
-      "\"Ooooh!! Isso é…!\""
+      "\"Ooooh! Isso é…!\""
     ],
     "5": [
       "——Papel higiênico."
@@ -172,7 +172,7 @@
       "Provavelmente devo sair—"
     ],
     "21": [
-      "\"Ah, acabou o papel higiênico—”"
+      "\"Ah, acabou o papel higiênico—\""
     ],
     "22": [
       "Agora realmente não tenho mais o que fazer—"
@@ -272,7 +272,7 @@
       "não posso deixar a \\str[120] me notar.."
     ],
     "17": [
-      "\\nl< >\"Mnya—”"
+      "\\nl< >\"Mnya—\""
     ],
     "18": [
       "Oho, consigo ver tudo perfeitamente...!",
@@ -290,7 +290,7 @@
       "\\w[60]\\^"
     ],
     "22": [
-      "————Ah não!!",
+      "————Ah não!",
       "Eu estava tão focado na \\str[120] que esqueci o importante...!",
       "O que acabou de aparecer aí é—      \\w[70]\\^"
     ],
@@ -357,7 +357,7 @@
     ],
     "39": [
       "Dar uma Espiada",
-      "Deixar pra Lá"
+      "Melhor Não"
     ],
     "40": [
       "É... seria ruim se tivesse outra B por perto!",
@@ -432,12 +432,12 @@
       "\\nl< >\\{\"…………Huh?\""
     ],
     "3": [
-      "\\nl< >\\{\"Aaaaahhhh—!!\""
+      "\\nl< >\\{\"Aaaaahhhh—!\""
     ],
     "4": [
       "A \\str[120] também notou a B!",
       "Isso é ruim! Se uma B atacar numa situação como essa,",
-      "ela pode desmaiar do susto!!"
+      "ela pode desmaiar do susto!"
     ],
     "5": [
       "\\{\"……！\""
@@ -510,7 +510,7 @@
       "espirrando por todo o rosto dela."
     ],
     "22": [
-      "\\nl< >\"Ugh… o gosto é horrível…”"
+      "\\nl< >\"Ugh… o gosto é horrível…\""
     ],
     "23": [
       "A \\str[120] mostrou a língua de forma brincalhona,",
@@ -587,7 +587,7 @@
     "12": [
       "Bater Uma",
       "Invadir!",
-      "Desistir"
+      "Melhor Não"
     ],
     "13": [
       "Estou começando a me sentir um pouco excitado também...",

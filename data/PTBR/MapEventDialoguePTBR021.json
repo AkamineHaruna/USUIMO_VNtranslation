@@ -55,17 +55,17 @@
       "Agora Não"
     ],
     "2": [
-      "...Já é de manhã? ",
+      "...Já está de manhã? ",
       "Sinto como se tivesse algum tipo de sonho sobre ",
       "\\str[120], ",
       "mas não consigo lembrar dele..."
     ],
     "3": [
-      "...Já é de manhã? ",
+      "...Já está de manhã? ",
       "Acho que não dormi muito bem..."
     ],
     "4": [
-      "Ah, já é manhã? Eu dormi tão bem."
+      "Ah, já está de manhã? Eu dormi tão bem."
     ],
     "5": [
       "Hoje está um dia lindo...\\w[45]não? ",
@@ -294,7 +294,7 @@
       "misturava susto e empolgação."
     ],
     "34": [
-      "\\nl< >“...Mas ele ainda não acordou~ \\w[120]”",
+      "\\nl< >\"...Mas ele ainda não acordou~ \\w[120]\"",
       "Que estranho... aquilo foi só um espirro?\""
     ],
     "35": [
@@ -307,7 +307,7 @@
       "seus dedos explorando inquietos as bordas dos meus lábios mais uma vez."
     ],
     "37": [
-      "\\{\"Gawuu~~~~!!\"     \\w[60]\\^"
+      "\\{\"Gawuu~~~~!\"     \\w[60]\\^"
     ],
     "38": [
       "No momento em que as pontas dos dedos dela se aproximaram da minha boca outra vez,",
@@ -374,7 +374,7 @@
   "4": {
     "0": [
       "\"...An!?\\w[60]...Espera, \\w[60]",
-      "já é de manhã...?"
+      "já está de manhã...?\""
     ],
     "1": [
       "Minha cabeça tá girando... ",

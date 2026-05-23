@@ -10,7 +10,7 @@
     "variants": {
       "0": {
         "subtitle": [
-          "“Sentindo-se inquieto...”"
+          "\"Sentindo-se inquieto...\""
         ],
         "description": [
           "Nível de Excitação:\\c[2]\\v[25]%\\c[0]"
@@ -18,7 +18,7 @@
       },
       "1": {
         "subtitle": [
-          "“O corpo anseia por emoção...”"
+          "\"O corpo anseia por emoção...\""
         ],
         "description": [
           "Nível de Excitação:\\c[10]\\v[25]%\\c[0]"
@@ -46,7 +46,7 @@
   "5": {
     "name": [],
     "subtitle": [
-      "“Veneno infectou seu corpo”"
+      "\"Veneno infectou seu corpo\""
     ],
     "description": [
       "Recebe mais dano ao longo do tempo!"
@@ -82,7 +82,7 @@
   "9": {
     "name": [],
     "subtitle": [
-      "“Transforme-se em um picolé!”"
+      "\"Transforme-se em um picolé!\""
     ],
     "description": [
       "Congelado por completo!"
@@ -91,7 +91,7 @@
   "11": {
     "name": [],
     "subtitle": [
-      "“Tonto e desorientado!”"
+      "\"Tonto e desorientado!\""
     ],
     "description": [
       "Incapaz de agir!"
@@ -100,7 +100,7 @@
   "13": {
     "name": [],
     "subtitle": [
-      "“Fufu, é isso que você ganha por me desafiar~♥”"
+      "\"Fufu, é isso que você ganha por me desafiar~♥\""
     ],
     "description": [
       "Amaldiçoado por aquele pequeno demônio..."
@@ -118,7 +118,7 @@
   "15": {
     "name": [],
     "subtitle": [
-      "“Aos olhos dos monstros, você não passa de um prematurozinho feio e patético...”"
+      "\"Aos olhos dos monstros, você não passa de um prematurozinho feio e patético...\""
     ],
     "description": [
       "Disfarçado como um monstro — os monstros não o atacarão ativamente!"
@@ -127,7 +127,7 @@
   "16": {
     "name": [],
     "subtitle": [
-      "“Você não consegue jogar um joguinho tão simples? Que FRACOTE~”"
+      "\"Você não consegue jogar um joguinho tão simples? Que FRACOTE~\""
     ],
     "description": [
       "Você foi certificado como um FRACOTE por trapacear!"
@@ -427,10 +427,18 @@
       }
     }
   },
+  "44": {
+    "name": [],
+    "subtitle": [],
+    "description": [
+      "✦Não é exatamente \"Alegria”...",
+      "Ela está completamente \"ALTERADA” agora!"
+    ]
+  },
   "45": {
     "name": [],
     "subtitle": [
-      "“Prometi à minha querida irmãzinha, então tenho que cumprir”wd"
+      "\"Prometi à minha querida irmãzinha, então tenho que cumprir\"wd"
     ],
     "description": [
       "Não volte para casa gravemente ferido…"
@@ -439,7 +447,7 @@
   "46": {
     "name": [],
     "subtitle": [
-      "“Prometi para a minha irmãzinha querida, então preciso cumprir”"
+      "\"Prometi para a minha irmãzinha querida, então preciso cumprir\""
     ],
     "description": [
       "Cozinhar um prato de carne"
@@ -457,7 +465,7 @@
   "55": {
     "name": [],
     "subtitle": [
-      "“Este é o meu domínio, travessuras não são permitidas~♥”"
+      "\"Este é o meu domínio, travessuras não são permitidas~♥\""
     ],
     "description": [
       "Ataque proibido! Monstros próximos estão tomados pelo medo!"
@@ -466,7 +474,7 @@
   "57": {
     "name": [],
     "subtitle": [
-      "“Sinto que posso fazer qualquer coisa agora”"
+      "\"Sinto que posso fazer qualquer coisa agora\""
     ],
     "description": [
       "Modo Kenja ativado, todos os atributos aumentados"
@@ -475,7 +483,7 @@
   "58": {
     "name": [],
     "subtitle": [
-      "“Comeu algo estragado...”"
+      "\"Comeu algo estragado...\""
     ],
     "description": [
       "A dor de estômago não para!"
@@ -514,7 +522,7 @@
   "63": {
     "name": [],
     "subtitle": [
-      "“Velocidade tripla do Verdadeiro Vermelho”"
+      "\"Velocidade tripla do Verdadeiro Vermelho\""
     ],
     "description": [
       "  "
@@ -560,7 +568,7 @@
   "72": {
     "name": [],
     "subtitle": [
-      "“O poder está... fluindo através de mim!”"
+      "\"O poder está... fluindo através de mim!\""
     ],
     "description": [
       "Poder de ataque\\c[10]+50%\\c[0]"
@@ -569,7 +577,7 @@
   "73": {
     "name": [],
     "subtitle": [
-      "“Estou começando a entender tudo”"
+      "\"Estou começando a entender tudo\""
     ],
     "description": [
       "Poder de ataque mágico \\c[10]+50%\\c[0]"
@@ -578,7 +586,7 @@
   "74": {
     "name": [],
     "subtitle": [
-      "“Consegue acompanhar... a minha VELOCIDADE?!”"
+      "\"Consegue acompanhar... a minha VELOCIDADE?!\""
     ],
     "description": [
       "Velocidade de movimento aumentada"
@@ -587,7 +595,7 @@
   "75": {
     "name": [],
     "subtitle": [
-      "“Descida da Arma Divina”"
+      "\"Descida da Arma Divina\""
     ],
     "description": [
       "Arma Gigantificada, Aumento de Dano!"
@@ -605,7 +613,7 @@
   "77": {
     "name": [],
     "subtitle": [
-      "“Chama da Ressurreição”"
+      "\"Chama da Ressurreição\""
     ],
     "description": [
       "Permite uma ressurreição enquanto o efeito estiver ativo"
@@ -614,7 +622,7 @@
   "78": {
     "name": [],
     "subtitle": [
-      "“Reviravolta do Destino...”"
+      "\"Reviravolta do Destino...\""
     ],
     "description": [
       "Abençoado pelo destino — coisas boas têm mais chance de acontecer!"
@@ -623,7 +631,7 @@
   "79": {
     "name": [],
     "subtitle": [
-      "“Reviravolta do Destino...”"
+      "\"Reviravolta do Destino...\""
     ],
     "description": [
       "Abençoado pelo destino — coisas tristes têm mais chance de acontecer!"
@@ -632,16 +640,25 @@
   "80": {
     "name": [],
     "subtitle": [
-      "“Velocidade tripla do Verdadeiro Vermelho”"
+      "\"Velocidade tripla do Verdadeiro Vermelho\""
     ],
     "description": [
       " "
     ]
   },
+  "83": {
+    "name": [],
+    "subtitle": [
+      "\"Aquele olhar nos olhos dele ficou afiado de repente...!”"
+    ],
+    "description": [
+      "Ataques físicos ganham Penetração, ignorando parte da defesa do alvo"
+    ]
+  },
   "85": {
     "name": [],
     "subtitle": [
-      "“Mas tem um gosto realmente horrível...”"
+      "\"Mas tem um gosto realmente horrível...\""
     ],
     "description": [
       "Transbordando de vitalidade — HP máximo aumentado!"
@@ -704,10 +721,10 @@
   "105": {
     "name": [],
     "subtitle": [
-      "“Compartilho esta bênção contigo”"
+      "\"Compartilho esta bênção contigo\""
     ],
     "description": [
-      "“Dinheiro ganho em dobro"
+      "\"Dinheiro ganho em dobro"
     ]
   },
   "106": {
@@ -731,7 +748,7 @@
   "108": {
     "name": [],
     "subtitle": [
-      "“Nós somos os guardiões!”"
+      "\"Nós somos os guardiões!\""
     ],
     "description": [
       "Ataque e defesa aumentados!"
@@ -740,7 +757,7 @@
   "109": {
     "name": [],
     "subtitle": [
-      "“Nós somos os guardiões!”"
+      "\"Nós somos os guardiões!\""
     ],
     "description": [
       "Defesa aumentada!"
@@ -749,7 +766,7 @@
   "110": {
     "name": [],
     "subtitle": [
-      "“Nós somos os guardiões!”"
+      "\"Nós somos os guardiões!\""
     ],
     "description": [
       "HP máximo e defesa aumentados!"
@@ -767,7 +784,7 @@
   "116": {
     "name": [],
     "subtitle": [
-      "“A ganância sem fim encontrou você—”"
+      "\"A ganância sem fim encontrou você—\""
     ],
     "description": [
       "Derruba o dinheiro guardado ao receber dano!"
@@ -789,6 +806,15 @@
     ],
     "description": [
       "Permanentemente restaura PV automaticamente"
+    ]
+  },
+  "123": {
+    "name": [],
+    "subtitle": [
+      "\"Quem caça deve estar pronto para ser caçado.\""
+    ],
+    "description": [
+      "Todos os equipamentos da série Hunter foram reforçados!"
     ]
   }
 }

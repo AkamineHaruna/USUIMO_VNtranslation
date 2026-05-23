@@ -222,7 +222,7 @@
       "Sondar Cautelosamente"
     ],
     "7": [
-      "Inúmeras “cenas de crime” passam pela minha mente em um instante.",
+      "Inúmeras \"cenas de crime” passam pela minha mente em um instante.",
       "Será que foi porque roubei e bebi o leite dela outro dia?",
       "Ou foi porque belisquei suas bochechas enquanto ela cochilava?",
       "Ou talvez ela esteja guardando rancor por eu ter espiado ela no banheiro!?"
@@ -312,7 +312,7 @@
       "Sempre que começo a usar uma máquina de gacha,",
       "a sensação na ponta dos dedos parece mágica.",
       "",
-      "Esse feitiço chamado “a próxima tentativa é a que vai vir”",
+      "Esse feitiço chamado \"a próxima tentativa é a que vai vir”",
       "sempre me faz perder totalmente o controle.",
       "Quando percebo, minha carteira já está vazia."
     ],
@@ -502,7 +502,7 @@
   },
   "13": {
     "0": [
-      "\\nl< >\"“\\str[121], você não voltou todo machucado hoje ",
+      "\\nl< >\"\"\\str[121], você não voltou todo machucado hoje ",
       "como prometemos, ótimo trabalho!",
       "Você merece alguns elogios por ter trabalhado tão arduamente!\""
     ],
@@ -539,7 +539,7 @@
     ],
     "9": [
       "\\nl< >\"Eh? ",
-      "\"Haverá alguma recompensa especial se eu continuar os coletando?\"",
+      "'Haverá alguma recompensa especial se eu continuar os coletando?'",
       "…\\str[121], você quer ainda mais elogios?\""
     ],
     "10": [
@@ -564,7 +564,7 @@
       "Como prometido, esta é sua recompensa especial!\""
     ],
     "15": [
-      "\\nl< >\"Hehe… eu fiz um cupom de ‘Faça qualquer coisa\".\""
+      "\\nl< >\"Hehe… eu fiz um cupom de 'Faça qualquer coisa'.\""
     ],
     "16": [
       "\\nl< >\"\\str[121], você está sempre pensando em mim, mas…",
@@ -577,7 +577,7 @@
     ],
     "18": [
       "\\nl< >\"O quê!?     \\w[30]",
-      "\"Até mesmo… coisas safadas seriam ok…?\"",
+      "'Até mesmo… coisas safadas seriam ok…?'",
       "Sim, sim…\""
     ],
     "19": [

@@ -162,7 +162,7 @@
       "quer beber…?”"
     ],
     "13": [
-      "\\nl< >\\{ \"Quero!!\""
+      "\\nl< >\\{ \"Quero!\""
     ],
     "14": [
       "A \\str[120] virou a \\ii[\\v[85]] de uma só vez…"
@@ -348,8 +348,8 @@
       "de fome. Já está na hora de fazer o jantar."
     ],
     "1": [
-      "\"Ei, já é noite. Hora de acordar, ",
-      "dorminhoca.”"
+      "\"Ei, já está de noite. ",
+      "Hora de acordar, dorminhoca.”"
     ],
     "2": [
       "\\nl< >\"Mmnn—\\w[60]me deixa dormir só mais uma horinha…”"
@@ -391,7 +391,7 @@
       "então acabei me sentando no sofá e olhando para a TV."
     ],
     "2": [
-      "\\{\\c[27]“Ruby, a Garota da Luz Estelar!”",
+      "\\{\\c[27]\"Ruby, a Garota da Luz Estelar!”",
       "Episódio 1!",
       "Uma Garota Comum e o Milagre das Estrelas!",
       "O Contrato Começa!"
@@ -399,14 +399,14 @@
     "3": [
       "\\c[27]Ruby é uma garota comum — notas medianas, péssima nos esportes e zero talento mágico —",
       "mas um dia, voltando da escola, ela é perseguida por um monstro e acaba num beco sem saída!",
-      "No momento de desespero, o misterioso espírito das estrelas “Noa” aparece,",
-      "despertado pela vontade dela de sobreviver! “Eu quero viver!” ela grita — e naquele instante,"
+      "No momento de desespero, o misterioso espírito das estrelas \"Noa” aparece,",
+      "despertado pela vontade dela de sobreviver! \"Eu quero viver!” ela grita — e naquele instante, "
     ],
     "4": [
       "\\c[27]uma explosão de luz estelar — o contrato do destino é selado!",
       "Sua primeira transformação! Levada pelo instinto, ela revida e repele o monstro!",
       "Olhando para as próprias mãos brilhando com a luz das estrelas,",
-      "Ruby fica sem palavras: “Isso… sou eu?”"
+      "Ruby fica sem palavras: \"Isso… sou eu?”"
     ],
     "5": [
       "\\nl< >\"Ela se transformou! Que incrível—!",
@@ -446,7 +446,7 @@
       "Pensando nisso, me sentei de novo no sofá e voltei a olhar para a TV."
     ],
     "13": [
-      "\\{\\c[27]“Ruby, a Garota da Luz Estelar!”",
+      "\\{\\c[27]\"Ruby, a Garota da Luz Estelar!”",
       "Episódio 2!",
       "O Treinamento Especial Começa!",
       "Caos Mágico Liberado!"
@@ -480,7 +480,7 @@
       "fiquei resmungando mentalmente em silêncio —"
     ],
     "19": [
-      "\\{\\c[27]“Ruby, a Garota da Luz Estelar!”",
+      "\\{\\c[27]\"Ruby, a Garota da Luz Estelar!”",
       "Episódio 3!",
       "O Primeiro Confronto Entre Chamas e Poeira Estelar!"
     ],
@@ -520,7 +520,7 @@
       "atraído pela tela sem nem perceber."
     ],
     "26": [
-      "\\{\\c[27]“Ruby, a Garota da Luz Estelar!”",
+      "\\{\\c[27]\"Ruby, a Garota da Luz Estelar!”",
       "Episódio 4!",
       "Sussurros das Trevas Sob as Luzes do Festival!"
     ],
@@ -542,7 +542,7 @@
       "Mas vamos ser sinceros, o relacionamento delas está desmoronando…”"
     ],
     "30": [
-      "\\{\\c[27]“Ruby, a Garota da Luz Estelar!”",
+      "\\{\\c[27]\"Ruby, a Garota da Luz Estelar!”",
       "Episódio 5!",
       "A Dura Verdade Por Trás do Passado Escaldante!"
     ],
@@ -552,7 +552,7 @@
       "capela abandonada, as marcas de garras de um demônio que corrompe ",
       "corações reabrem as memórias dela — a magia de fogo sai de controle! ",
       "\\c[27]Bonecas carbonizadas e molduras quebradas surgem no fogo!",
-      "“Minha cidade… foi assim que virou cinzas!” Reina grita a verdade, lágrimas escorrendo pelo rosto! ",
+      "\"Minha cidade… foi assim que virou cinzas!” Reina grita a verdade, lágrimas escorrendo pelo rosto! ",
       "E naquele momento — outro demônio que corrompe corações desperta embaixo da escola! ",
       "Feridas antigas ainda não curadas… estão prestes a ser abertas novamente?!"
     ],
@@ -688,7 +688,7 @@
       "roubada pelo vislumbre involuntário de fanservice."
     ],
     "25": [
-      "\\{Bem, é verão mesmo!!"
+      "\\{Bem, é verão mesmo!"
     ]
   },
   "9": {
@@ -748,7 +748,7 @@
     "13": [
       "A \\str[120], é claro, ",
       "levou um jato de refrigerante bem no rosto,",
-      "e depois me fez “pagar” forçando-me a tomar ",
+      "e depois me fez \"pagar” forçando-me a tomar ",
       "quase toda a garrafa também."
     ],
     "14": [
@@ -763,7 +763,7 @@
       "o céu já estava escurecendo."
     ],
     "16": [
-      "\\nl< >\"Uwaaahhh—mmmmmffff!!\""
+      "\\nl< >\"Uwaaahhh—mmmmmffff!\""
     ],
     "17": [
       "Talvez por causa da experiência passada, desta vez ela reagiu na hora,",
@@ -890,8 +890,8 @@
     ],
     "2": [
       "\\{\\c[27]Hã!? Isso foi rápido demais!",
-      "A Coelhinha Empregada já — terminou!!",
-      "Contemplem, o lendário — Hambúrguer de Carne Delicioso Instantâneo!!"
+      "A Coelhinha Empregada já — terminou!",
+      "Contemplem, o lendário — Hambúrguer de Carne Delicioso Instantâneo!"
     ],
     "3": [
       "\\{\\c[27]E é isso por hoje!",
@@ -1055,7 +1055,7 @@
     ],
     "1": [
       "E-essa garota! De onde ela tirou essa força monstruosa!?   \\w[30]",
-      "Não consigo… me soltar de jeito nenhum!!    \\w[30]",
+      "Não consigo… me soltar de jeito nenhum!    \\w[30]",
       "Isso é ruim…! Eu… não consigo… respirar…!?"
     ],
     "2": [
@@ -1382,7 +1382,7 @@
     ],
     "69": [
       "\\nl< >\"N-não!",
-      "Não quero uma melancia crescendo na minha barriga!!\""
+      "Não quero uma melancia crescendo na minha barriga!\""
     ],
     "70": [
       "\\nl< >\"Waaaaaah—",
@@ -1609,7 +1609,7 @@
     ],
     "26": [
       "\"É-é tão grande… Vou quebrar…!",
-      "A coisa do \\str[121]… está mexendo minhas entranhas até virar mingau…!!",
+      "A coisa do \\str[121]… está mexendo minhas entranhas até virar mingau…!",
       "Aaaaahhh! Haaah! Haaah! ♥”"
     ],
     "27": [
@@ -1657,7 +1657,7 @@
     "35": [
       "\\nl< >\"E-eu tô bem! Você sempre…                    \\w[120]",
       "fica brincando com meu corpo mesmo… Uma coisa dessas…   \\w[120]",
-      "E-eu já me preparei para isso há muito tempo!!”"
+      "E-eu já me preparei para isso há muito tempo!”"
     ],
     "36": [
       "\\nl< >\"É você, \\str[121]…!      \\w[120]",
@@ -1762,7 +1762,7 @@
     "41.5": [
       "\"Tá tudo bem, você não tá doente… ",
       "só quer dizer que seu corpo tá sendo honesto ",
-      "e já tá desejando por mim.”"
+      "e já tá desejando por mim."
     ],
     "41.6": [
       "\\nl< >\"D-desejando? Esse lugar…      \\w[120]",
@@ -2165,8 +2165,65 @@
     "18": [
       "Parece que tentar forçar esse tipo de desenvolvimento",
       "foi um pouco demais para a \\str[120] atual...",
-      "Se eu quiser tentar esse tipo de brincadeira,  ",
+      "Se eu quiser tentar esse tipo de brincadeira, ",
       "vou precisar fazer muito mais preparação antes..."
+    ],
+    "19": [
+      "\\nl< >\"Nossa... mmm-haah...",
+      "Q-que sensação tão estranha...",
+      "Não fica esfregando justo nesse lugar... mngh...♥\""
+    ],
+    "20": [
+      "Talvez devido ao efeito dos lanches estranhos que alimentei a \\str[120] antes,",
+      "seu corpo tinha ficado extremamente sensível. Qualquer toque mínimo",
+      "fazia ela curvar os dedinhos dos pés de tanta vergonha."
+    ],
+    "21": [
+      "Enquanto eu girava lentamente a ponta do meu dedo lá dentro,",
+      "a intensidade extraordinária da estimulação fez um arrepio percorrer o corpo da \\str[120].",
+      "",
+      "",
+      "A passagem quente, macia e estreita do cuzinho dela",
+      "imediatamente se contraiu com força ao redor do meu dedo.",
+      "Cada centímetro das paredes internas dela tremendo e se contraindo ",
+      "era transmitido vividamente pela ponta do meu dedo."
+    ],
+    "22": [
+      "\"Você está indo muito bem, \\str[120]~!",
+      "Relaxa só mais um pouquinho...",
+      "Isso, continua assim e aceita o segundo dedo~\""
+    ],
+    "23": [
+      "\\nl< >\"Ah... uu-wuu♥",
+      "Tá esticando tanto... Consigo sentir os dedos do \\str[121]",
+      "chegando bem fundo dentro de mim...♥\""
+    ],
+    "24": [
+      "Estimulada pelo remédio estranho,",
+      "mesmo que a sensação de expansão anal fosse algo estranho e avassalador para ela,",
+      "sua carne altamente sensível e excitada logo trocou aquela sensação dolorosa de plenitude por um prazer intenso e crescente.",
+      "Até sua buceta começou a vazar suco de excitação sem parar por causa da estimulação constante."
+    ],
+    "25": [
+      "Diferente das minhas tentativas fracassadas anteriores, desta vez, aproveitando o efeito do remédio,",
+      "eu consegui enfiar o segundo dedo completamente sem esforço.",
+      "Vendo que o momento era perfeito, retirei os dedos impacientemente e",
+      "pressionei meu pau contra a entrada no lugar deles."
+    ],
+    "26": [
+      "\\nl< >\"E-espera um minuto!",
+      "A coisa do \\str[121]... é grande demais...",
+      "Nunca vai caber... vai me quebrar de verdade~~!\""
+    ],
+    "27": [
+      "Embora a \\str[120] tenha entrado em pânico, aterrorizada com o tamanho intimidante,",
+      "suas paredes anais já desenvolvidas e estimuladas pareciam trair a vontade de sua mente,",
+      "contraindo-se e sugando a ponta do meu pau com uma alegre expectativa."
+    ],
+    "28": [
+      "Curvando os cantos da boca em um sorriso malicioso,",
+      "eu impulsionei os quadris para cima enquanto o corpo dela caía pela gravidade,",
+      "enfiando toda a minha anaconda até o fundo sem hesitar—"
     ],
     "30": [
       "Com habilidade, peguei uma boa quantidade do suco viscoso ",
@@ -2189,7 +2246,7 @@
       "empurrar toda a minha grossura para dentro—"
     ],
     "33": [
-      "\\nl< >\"Mngh—!! Mmm...♥",
+      "\\nl< >\"Mngh—! Mmm...♥",
       "Entrou...! Meu cuzinho realmente... engoliu tudo...!\""
     ],
     "34": [
@@ -2219,6 +2276,18 @@
       "como se estivesse voluntariamente e com vontade engolindo toda a grossura",
       "até as profundezas mais internas."
     ],
+    "38.1": [
+      "Mesmo com o auxílio do remédio e da lubrificação,",
+      "após ser invadida por um pau tão monstruoso,",
+      "as delicadas paredes internas do cuzinho dela foram inevitavelmente",
+      "esticadas ao máximo, quase no seu limite."
+    ],
+    "38.2": [
+      "Ao mesmo tempo, sua sensibilidade extrema provocava espasmos",
+      "violentos em cada dobra interna, como se levasse choques. ",
+      "Mesmo resistindo desesperadamente à dor e à sensação avassaladora de estar tão cheia,  ",
+      "seu corpo traía sua mente e seu cuzinho apertava meu pau com força, como se nunca mais quisesse soltar."
+    ],
     "39": [
       "A cada vez que eu estocava para cima e deixava o corpo dela cair ",
       "com toda a força da gravidade, a sensação do impacto ",
@@ -2226,73 +2295,73 @@
       "gemidos ofegantes e atordoados."
     ],
     "40": [
-      "And it seems \\str[120] has discovered the secret to fighting back.",
-      "Every time her body drops, she reflexively clinches her buttocks,",
-      "tightly suctioning onto my cock to resist the impact."
+      "E parece que \\str[120] descobriu o segredo para contra-atacar.",
+      "Toda vez que seu corpo desce, ela contrai as nádegas por reflexo,",
+      "sugando meu pau com força para resistir ao impacto."
     ],
     "41": [
-      "In this strange interaction, it feels as if my cock is ",
-      "being frantically sucked by countless tiny suckers.",
-      "This tightness, which feels like it could drain my very soul, gives me ",
-      "the illusion that I'll be sucked in and rendered completely unable to move."
+      "Nessa interação estranha, é como se meu pau estivesse sendo ",
+      "sugado freneticamente por inúmeras pequenas ventosas.",
+      "Essa apertada que parece capaz de drenar minha alma me dá ",
+      "a ilusão de que serei completamente sugado e incapaz de me mover."
     ],
     "42": [
-      "\\nl< >\"Mngh... ah...♥ ",
-      "Even though it's such a shameful place...",
-      "\\str[121] is making a complete mess of it right now...♥\""
+      "\\nl< >\"Mngh... ah...♥",
+      "Mesmo sendo um lugar tão vergonhoso...",
+      "\\str[121] está bagunçando ele todinho agora...♥\""
     ],
     "43": [
-      "\\nl< >\"My butt clearly wasn't meant for things like this...",
-      "But this feeling of being stuffed so full... ",
-      "it feels so satisfying...♥\""
+      "\\nl< >\"Meu cuzinho claramente não foi feito pra isso...",
+      "Mas essa sensação de estar tão cheia...",
+      "é tão satisfatória...♥\""
     ],
     "44": [
-      "\"That just shows how honest your body is, \\str[120].",
-      "Look, this place is desperately biting down on me and won't let go.",
-      "You actually want me to stay inside forever, don't you?\""
+      "\"Isso só mostra o quão honesto seu corpo é, \\str[120].",
+      "Olha, esse lugar está me mordendo desesperadamente e não quer me soltar.",
+      "Na verdade você quer que eu fique dentro de você para sempre, não é?\""
     ],
     "45": [
-      "Looking at \\str[120]'s dazed expression and flushed face,",
-      "I teased her while further picking up the pace of my thrusts."
+      "Olhando a expressão atordoada e o rosto corado da \\str[120],",
+      "eu continuei a provocar ela enquanto metia cada vez mais rápido e forte."
     ],
     "46": [
-      "To be honest, I was nearing my limit as well.",
-      "The unreasonable, rhythmic contractions of her anal walls ",
-      "were making my scalp tingle. If I didn't keep moving, ",
-      "her butt would literally suck me in and pin me in place!"
+      "Para ser honesto, eu também estava chegando ao meu limite.",
+      "As contrações rítmicas e absurdas das paredes anais dela estavam ",
+      "fazendo meu couro cabeludo formigar. Se eu parasse de me mover, ",
+      "sua bunda literalmente iria me sugar e me prender no lugar!"
     ],
     "47": [
-      "\\nl< >\"It's... it's all \\str[121]'s fault...♥",
-      "Turning me into a bad girl... ",
-      "and then saying things like that...♥",
-      "This is... my revenge on you♥\""
+      "\\nl< >\"É... é tudo culpa do \\str[121]...♥",
+      "Me transformando numa garota má...",
+      "e ainda falando coisas assim...♥",
+      "Isso é... minha vingança contra você♥\""
     ],
     "48": [
-      "\"O-ohhh...!? W-wait...!\""
+      "\"O-ohhh...!? E-espera...!\""
     ],
     "49": [
-      "\\str[120] suddenly and proactively clenched her buttocks.",
-      "An overwhelming suction force erupted from her backdoor instantly.",
-      "Not only did it nearly trap me mid-stroke, but the sudden ",
-      "stimulation pushed me to the very brink of climax!"
+      "\\str[120] de repente contraiu as nádegas de forma ativa e proposital.",
+      "Uma força de sucção avassaladora irrompeu instantaneamente de seu cuzinho.",
+      "Não só quase me prendeu no meio da estocada, como a estimulação repentina ",
+      "me levou até o limite do clímax!"
     ],
     "50": [
-      "\\nl< >\"Ehehe...♥",
-      "\\str[121], your face looks so funny... ",
-      "you're already about to lose it, aren't you?♥\""
+      "\\nl< >\"Ehehe...",
+      "\\str[121], sua cara tá tão engraçada...",
+      "você já está quase gozando, né?♥\""
     ],
     "51": [
-      "\\{This little brat...",
-      "She actually dares to try and tease me now...!",
-      "She's begging for a thorough correction...!"
+      "\\{Essa safadinha...",
+      "Ela realmente se atreveu a me provocar agora...!",
+      "Está implorando pra levar uma correção bem dura...!"
     ],
     "52": [
-      "I took a deep breath, ",
-      "forcibly suppressing the pleasure about to erupt.",
-      "Gripping her thighs with all my strength, ",
-      "I began to drive into her butt at full speed.",
-      "The violent impacts caused the flesh of her buttocks to ",
-      "ripple in lewd waves."
+      "Respirei fundo,",
+      "segurando com tudo a vontade de gozar que estava prestes a explodir.",
+      "Agarrei suas coxas com toda a minha força e comecei a ",
+      "arrombar seu cuzinho em velocidade máxima.",
+      "Cada estocada violenta fazia a bundinha dela tremer e ",
+      "ondular em ondas bem safadas e obscenas."
     ],
     "53": [
       "\\nl< >\"Kyaa♥ Ahn...♥",
@@ -2370,44 +2439,44 @@
       "Parece que seu corpo na verdade me ama bastante, hein? Hehe~\""
     ],
     "67": [
-      "\\nl< >\"U-ueeegh... I-I don't remember any of that!",
-      "Next time... I absolutely won't let you be so reckless again!\""
+      "\\nl< >\"U-ueeegh... E-eu não me lembro de nada disso!",
+      "Da próxima vez... eu definitivamente não vou deixar você ser tão imprudente de novo!\""
     ],
     "68": [
-      "\\str[120] offered a weak protest, ",
-      "but her body had gone so soft from exhaustion",
-      "that even raising a hand to push me away was a difficult task."
+      "\\str[120] soltou um protesto fraquinho,",
+      "mas seu corpo havia ficado tão mole de exaustão",
+      "que até levantar a mão para me empurrar era uma tarefa difícil."
     ],
     "69": [
-      "The television on the wall continued playing on its own, ",
-      "the figures on the screen switching between various exaggerated positions.",
-      "We stayed like that, tightly connected, ",
-      "quietly enjoying this moment of tranquility."
+      "A televisão na parede continuava ligada sozinha,",
+      "com as figuras na tela alternando entre várias posições exageradas.",
+      "Nós permanecemos assim, firmemente conectados,",
+      "desfrutando em silêncio esse momento de tranquilidade."
     ],
     "70": [
-      "I’m not sure how much time passed, but the figures on the screen ",
-      "finally reached their finale amidst those intense sounds.",
-      "As the credits began to roll, ",
-      "\\str[120]'s breathing had already become steady and even."
+      "Não faço ideia de quanto tempo havia passado, mas as figuras na tela finalmente ",
+      "gozaram em meio àqueles gemidos e sons intensos.",
+      "Quando os créditos começaram a rolar,",
+      "a respiração de \\str[120] já estava calma e regular, como se ela tivesse adormecido."
     ],
     "71": [
-      "\"Hmm... the plot of that tape was pretty trashy,",
-      "but there were quite a few interesting positions...",
-      "worth learning from.\""
+      "\"Hmm... o enredo dessa fita era bem ruim,",
+      "mas tinha várias posições bem safadas e interessantes...",
+      "definitivamente valeu a pena aprender com elas.\""
     ],
     "72": [
-      "\\nl< >\"...Idiot. I'm... completely done for today.",
-      "Just let me... sleep for a little bit... then...\""
+      "\\nl< >\"...Idiota. Eu... tô completamente acabada por hoje.",
+      "Só me deixa... dormir um pouquinho... então...\""
     ],
     "73": [
-      "The clock had already pointed toward the middle of the night.",
-      "Exhausted from the intense exercise, ",
-      "\\str[120] finally couldn't resist the heavy drowsiness",
-      "and fell fast asleep right there in my arms."
+      "O relógio já marcava o meio da noite.",
+      "Exausta do exercício intenso,",
+      "\\str[120] finalmente não conseguiu resistir ao forte sono",
+      "e acabou dormindo profundamente bem ali, em meus braços."
     ],
     "74": [
-      "\"Yeah... goodnight.",
-      "There are plenty more tomorrows waiting for us—\""
+      "\"Yeah... boa noite.",
+      "Ainda temos muitos amanhãs nos esperando—\""
     ]
   }
 }

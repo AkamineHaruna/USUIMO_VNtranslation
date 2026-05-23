@@ -211,7 +211,7 @@
     ],
     "25": [
       "Bem, então—",
-      "Hora de treinar mais com a minha espada!!"
+      "Hora de treinar mais com a minha espada!"
     ]
   },
   "11": {
@@ -370,7 +370,7 @@
       " "
     ],
     "42": [
-      "“Cuide-se em sua jornada,",
+      "\"Cuide-se em sua jornada,",
       "meu companheiro."
     ],
     "43": [
@@ -384,6 +384,10 @@
     "45": [
       "Você precisa de \\ii[\\v[84]]?",
       "Para um semelhante, \\c[6]\\v[85]\\c[0] ienes serão suficientes."
+    ],
+    "45.1": [
+      "—Nossa! Você realmente pretende comprar uma quantidade tão grande assim?",
+      "Então, o total de tudo isso será \\c[6]\\v[85]\\c[0] ienes."
     ],
     "46": [
       "Comprar",
@@ -578,7 +582,7 @@
       "1"
     ],
     "description": [
-      "Parece ser uma máquina operada e  ",
+      "Parece ser uma máquina operada e ",
       "administrada pela Coelhinha Empregada",
       "Não está totalmente claro por que monstros gostariam ",
       "de imitar humanos e administrar um negócio,",
@@ -628,7 +632,7 @@
       "1"
     ],
     "description": [
-      "Parece haver algo debaixo d'água"
+      "Parece haver algo debaixo d'água..."
     ]
   },
   "15": {
@@ -1463,7 +1467,7 @@
     ],
     "22": [
       "\\>\\c[10]《Ritual de Contrato Demoníaco: Maldição Absoluta do Humano de Coração Puro =",
-      "\\>A partir de hoje, sua vida é Modo Inferno》!!     \\w[90]"
+      "\\>A partir de hoje, sua vida é Modo Inferno》!     \\w[90]"
     ],
     "23": [
       "E com isso—",
@@ -1526,7 +1530,7 @@
       "Sem chance de se livrar da maldição~ Ahaha♥"
     ],
     "38": [
-      "Uau, você tá bem desesperado, hein? Que ZAKO (inútil)♥",
+      "Uau, você tá bem desesperado, hein? Que FRACOTE♥",
       "Mostre que está arrependido com mais sinceridade~♥"
     ],
     "39": [
@@ -1567,10 +1571,10 @@
     ],
     "48": [
       "Comprar!",
-      "Não..."
+      "Não…"
     ],
     "49": [
-      "Sério, ZAKO (inútil) onii-san, até seu cérebro virou ZAKO (inútil)~? ♥",
+      "Sério, onii-san seu FRACOTE, até seu cérebro virou um FRACOTE~? ♥",
       "Nem consegue arranjar uns peixinhos… que inútil♥"
     ],
     "50": [
@@ -1623,7 +1627,7 @@
     ],
     "62": [
       "Ora ora♥ Quer mais? Que guloso~!",
-      "Comprando tudo isso... tá planejando algo safadinho~?♥"
+      "Comprando tudo isso... tá planejando algo safadinho~?"
     ],
     "63": [
       "Uaaau—♥ Que salmão de alta qualidade—!",
@@ -1654,12 +1658,12 @@
       "Quero algo de maior qualidade ♥"
     ],
     "70": [
-      "Queee~? onii-san, você é um ZAKO (inútil)~",
+      "Queee~? onii-san, você é um FRACOTE~",
       "Sério, nem sequer consegue obter um salmão premium?"
     ],
     "71": [
-      "ZAKO (inútil)~",
-      "Que ZAKO (inútil)~"
+      "FRACOTE~",
+      "Que FRACOTE~"
     ],
     "72": [
       "Mas tudo bem, ",

@@ -42,6 +42,21 @@
       "  "
     ]
   },
+  "4": {
+    "name": [
+      "Botas do Caçador"
+    ],
+    "subtitle": " ",
+    "description": [
+      "Botas confeccionadas com couro espesso e solas de madeira,",
+      "revestidas com uma camada macia de pele para abafar cada passo",
+      "Movimento silencioso é o primeiro passo de um caçador"
+    ],
+    "ability": [
+      "Aumenta a velocidade de movimento ao empunhar o arco",
+      "Concede o efeito de habilidade \\ss[10] enquanto equipado"
+    ]
+  },
   "5": {
     "name": [
       "Luvas de Proteção"
@@ -49,7 +64,7 @@
     "subtitle": "  ",
     "description": [
       "Luvas de proteção feitas de materiais isolantes, originalmente ",
-      "usadas por trabalhadores como EPI, Surpreendentemente, ",
+      "usadas por trabalhadores como EPI. Surpreendentemente, ",
       "elas também oferecem forte resistência contra ataques mágicos..."
     ],
     "ability": [
@@ -147,15 +162,15 @@
       "Garras de Neko Emprestadas"
     ],
     "subtitle": [
-      " “...Miau~?”"
+      " \"...Miau~?\""
     ],
     "description": [
       "Garras de Neko escondidas dentro de um Slime Neko, aparentemente imbuídas",
       "com o espírito de um gato. Ao equipá-las, aumentam sua agilidade!"
     ],
     "ability": [
-      "Aumenta o poder de ataque e a velocidade de ataque.",
-      "Reduz o dano de queda em 30%."
+      "Aumenta o poder de ataque e a velocidade de ataqu",
+      "Reduz o dano de queda em 30%"
     ]
   },
   "13": {
@@ -163,15 +178,15 @@
       "Garras de Neko Emprestadas"
     ],
     "subtitle": [
-      " “...Miau~?”"
+      " \"...Miau~?\""
     ],
     "description": [
       "Patinhas de Neko escondidas dentro de um Slime Neko, aparentemente imbuídas",
       "com o espírito de um gato. Ao equipá-las, aumentam sua agilidade!"
     ],
     "ability": [
-      "Aumenta o ataque e a velocidade de movimento, reduz o tempo de recarga do Senpo.",
-      "Reduz o dano de queda em 30%."
+      "Aumenta o ataque e a velocidade de movimento, reduz o tempo de recarga do Senpo",
+      "Reduz o dano de queda em 30%"
     ]
   },
   "14": {
@@ -185,7 +200,7 @@
     ],
     "ability": [
       "PV Máx. +\\c[29]${QJ.MPMZ.tl.ex_fragrantGrassRingEffectResolve()}\\c[0]",
-      "Equipe várias cópias para aprimorar o efeito e obter bônus adicionais."
+      "Equipe várias cópias para aprimorar o efeito e obter bônus adicionais"
     ]
   },
   "15": {
@@ -271,7 +286,7 @@
     "name": [
       "Armadura do Cavaleiro"
     ],
-    "subtitle": "  ",
+    "subtitle": " ",
     "description": [
       "A armadura padrão dos cavaleiros da corte. Seu design ornamentado e robusto",
       "simboliza a adesão deles ao código da cavalaria"
@@ -388,7 +403,7 @@
       "Jack Atrevido"
     ],
     "subtitle": [
-      "“Este anseia por gritos...”"
+      "\"Este anseia por gritos...\""
     ],
     "description": [
       "Uma das armas letais de um infame assassino,",
@@ -403,7 +418,7 @@
       "Adaga do Caçador"
     ],
     "subtitle": [
-      "“Morte pelo cano, fortuna pela lâmina”"
+      "\"Morte pelo cano, fortuna pela lâmina\""
     ],
     "description": [
       "Uma pequena e afiada adaga que cabe facilmente em uma bota",
@@ -418,7 +433,7 @@
       "Fantasma da Noite Nebulosa"
     ],
     "subtitle": [
-      "“Este anseia por desaparecer...”"
+      "\"Este anseia por desaparecer...\""
     ],
     "description": [
       "Uma das ferramentas letais de um infame assassino,",
@@ -707,6 +722,21 @@
       "Atrai gaivotas que roubam suas batatas fritas"
     ]
   },
+  "51": {
+    "name": [
+      "Luvas do Caçador"
+    ],
+    "subtitle": " ",
+    "description": [
+      "Luvas confeccionadas com couro curtido,",
+      "com pontas reforçadas nos dedos, projetadas para o uso prolongado do arco",
+      "Caçadores veteranos acreditam que um bom par de luvas dá olhos próprios às flechas"
+    ],
+    "ability": [
+      "As flechas disparadas ganham 2 acertos adicionais de Penetração",
+      "Os disparos têm uma pequena chance de lançar várias flechas simultaneamente"
+    ]
+  },
   "52": {
     "name": [
       "Presente de Shadowcrawler"
@@ -719,7 +749,7 @@
     ],
     "ability": [
       "Velocidade de movimento aumenta",
-      "Conquiste a atenção de ├├├├├├-de."
+      "Conquiste a atenção de ▓▓▓▓▓▓▓"
     ]
   },
   "53": {
@@ -733,8 +763,8 @@
       "ainda concede ao portador um pouco de liberdade da gravidade"
     ],
     "ability": [
-      "Reduz o dano de queda em 80%.",
-      "O dano em área (AoE) causado pela queda é aumentado em 100%."
+      "Reduz o dano de queda em 80%",
+      "O dano em área (AoE) causado pela queda é aumentado em 100%"
     ]
   },
   "54": {
@@ -945,10 +975,10 @@
   },
   "71": {
     "name": [
-      "  "
+      "Cristal do Gelo Permanente"
     ],
     "subtitle": [
-      "“Meu coração ficou frio... Acho que nunca mais sentirei alegria ou tristeza...”"
+      "\"Meu coração ficou frio... Acho que nunca mais sentirei alegria ou tristeza...\""
     ],
     "description": [
       "Um cristal mágico que emite um frio de gelar os ossos.",
@@ -1024,7 +1054,7 @@
       "A Oração de uma Donzela"
     ],
     "subtitle": [
-      "Peixes... tantos peixes... pilhas de salmão...”"
+      "Peixes... tantos peixes... pilhas de salmão...\""
     ],
     "description": [
       "Uma oração oferecida por uma arquidemônia obcecada por comer salmão",
@@ -1125,7 +1155,7 @@
       "O Sorriso de Uma Garota"
     ],
     "subtitle": [
-      "\"\\str[121], Você cumpriu bem a sua promessa!\""
+      "\"\\str[121], você cumpriu bem a sua promessa!\""
     ],
     "description": [
       "A imouto-chan que sempre admirou e se preocupou com seu ",
@@ -1323,7 +1353,7 @@
       "\"Claro que sim.\""
     ],
     "description": [
-      "Uma relíquia que turna tudo que toca em ouro — o sonho de quem se apaixonou por uma arma."
+      "Uma relíquia que turna tudo que toca em ouro — o sonho de quem se apaixonou por uma arma"
     ],
     "ability": [
       "Armas não quebram mais ao atacar"

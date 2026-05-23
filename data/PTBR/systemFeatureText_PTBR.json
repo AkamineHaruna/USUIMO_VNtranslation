@@ -63,9 +63,13 @@
     "(Clique em \"OK\" para abrir o link de convite)",
     "(Anexe uma captura de tela do erro)"
   ],
+  "EnterCheatCode": [
+    "FRACOTE~♥ FRACOTE~♥",
+    "Insira o código de trapaça aqui..."
+  ],
   "AnnouncementMenu": [
-    "Announcements",
-    "Changelogs"
+    "Anúncios",
+    "Registro de Alterações"
   ],
   "UpdateComplete1": [
     "Atualização do jogo concluída!",
@@ -223,35 +227,36 @@
     ]
   },
   "AdventurersPathway": {
-    "mapName": "  – Caminho do Aventureiro – "
+    "mapName": "Caminho do Aventureiro"
   },
   "ShallowRuinsLabyrinth": {
-    "mapName": "– Labirinto das Ruínas Rasas –",
-    "mapDescription": "Um vasto labirinto repleto de inúmeros mistérios "
+    "mapName": "Labirinto das Ruínas Rasas",
+    "mapDescription": "Um vasto labirinto repleto de inúmeros mistérios"
   },
   "ForgottenCatacombe": {
-    "mapName": " – Catacumba Esquecida – "
+    "mapName": "Catacumba Esquecida"
   },
   "ForestofRuins": {
-    "mapName": " – Floresta das Ruínas – "
+    "mapName": "Floresta das Ruínas"
   },
   "AbandonedForest": {
-    "mapName": " – Floresta Abandonada – "
+    "mapName": "Floresta Abandonada"
   },
   "ExcavationSite": {
-    "mapName": " – Sítio de Escavação – "
+    "mapName": "Sítio de Escavação"
   },
   "TheFallenChurch": {
-    "mapName": " – A Igreja Caída – "
+    "mapName": "A Igreja Caída",
+    "mapDescription": "meu adorável cordeiro! Por que me abandonaste?"
   },
   "DoorofStar": {
-    "mapName": " – Porta da Estrela – "
+    "mapName": "Porta da Estrela"
   },
   "ScorchingLavaZone": {
-    "mapName": "– Zona de Lava Escaldante –",
-    "mapDescription": " Uma terra ardente entrelaçada pelo fogo, onde as provações queimam eternamente "
+    "mapName": "Zona de Lava Escaldante",
+    "mapDescription": "Uma terra ardente entrelaçada pelo fogo, onde as provações queimam eternamente"
   },
   "Nibelungen": {
-    "mapName": " – Nibelungen – "
+    "mapName": "Nibelungen"
   }
 }

@@ -2,7 +2,7 @@
   "autoUpdateReminder": {
     "0": [
       "O processo de atualização começará automaticamente quando você acordar no dia seguinte.",
-      "Certifique-se de que sua conexão com a ‘internet\" esteja estável durante todo o processo!",
+      "Certifique-se de que sua conexão com a \"internet\" esteja estável durante todo o processo!",
       "\\w[120]"
     ],
     "1": [
@@ -11,6 +11,13 @@
       "\\w[120]"
     ]
   },
+  "cheatCodeTutorial": {
+    "0": [
+      "⬆ Mantenha pressionada a moldura do avatar para abrir a janela de inserção de códigos de trapaça.",
+      "Desbloqueie os recursos correspondentes inserindo o código de trapaça correto!"
+    ]
+  },
+  "bulkSelectButton": "Clique para ativar/desativar a seleção em massa",
   "usingItem": {
     "0": [
       "Retirou \\ii[\\v[90]]  ",
@@ -243,7 +250,7 @@
     ],
     "21": [
       "A luz solar é o calor de \"fora.\"",
-      "Uma fogueira… é o calor da “viagem”."
+      "Uma fogueira… é o calor da \"viagem\"."
     ],
     "22": [
       "…Humm?",
@@ -266,7 +273,7 @@
       "É leve — mais leve do que uma pena de cisne~"
     ],
     "27": [
-      "Sua cor parece um ‘lago adormecido\" congelado dentro dela,",
+      "Sua cor parece um \"lago adormecido\" congelado dentro dela,",
       "E se você olhar contra a luz, pode ver a poeira estelar fluindo dentro de~"
     ],
     "28": [
@@ -354,7 +361,7 @@
       "Você fez alguma coisa, \\str[121]?\""
     ],
     "6": [
-      "“E-eu não fiz nada… Juro mesmo!”"
+      "\"E-eu não fiz nada… Juro mesmo!”"
     ]
   },
   "cookingSystem": {
@@ -366,7 +373,7 @@
       "Remover isso"
     ],
     "2": [
-      "Ainda coletando ingredientes!!"
+      "Ainda coletando ingredientes!"
     ]
   },
   "inventoryExpansion": {
@@ -397,12 +404,12 @@
     ],
     "3": [
       "\\nl< >\"Mas pimentas-verdes são o verdadeiro inimigo.   \\w[120]",
-      "\\str[121], Você tem que comer tudo…       \\w[120]",
+      "\\str[121], você tem que comer tudo…       \\w[120]",
       "Vá e derrote o inimigo verde~!\"               \\w[120]\\^"
     ],
     "4": [
       "\\nl< >\"Ah? você acordou…     \\w[60]",
-      "\\str[121], Você dormiu bem?\""
+      "\\str[121], você dormiu bem?\""
     ],
     "5": [
       "\"Não muito… A propósito, ",
@@ -410,7 +417,7 @@
       "já faz um tempinho…\""
     ],
     "6": [
-      "\\nl< >\"Eh hehe, foi por causa    \\w[60]",
+      "\\nl< >\"Eh hehe, foi por causa da minha    \\w[60]",
       "ajuda especial para dormir, só para você, \\str[121]!\""
     ],
     "7": [
@@ -533,10 +540,10 @@
       "Esse cheiro… É comida?"
     ],
     "11": [
-      "O cheiro de comida!!"
+      "O cheiro de comida!"
     ],
     "12": [
-      "\\{Maravilha, vou devorar!!"
+      "\\{Maravilha, vou devorar!"
     ],
     "13": [
       "Você… ora, sua…",
@@ -647,7 +654,7 @@
     ],
     "40": [
       "…Quê!?",
-      "Fique longe de mim!!"
+      "Fique longe de mim!"
     ],
     "41": [
       "Você realmente tem talento para este lance de ninja…!",
