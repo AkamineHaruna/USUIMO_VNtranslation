@@ -833,6 +833,21 @@
     ],
     "ability": ""
   },
+  "74": {
+    "name": [
+      "Bear Trap"
+    ],
+    "subtitle": "",
+    "description": [
+      "A spiked metal trap with a powerful spring. Its bite when triggered is terrifying!",
+      "No matter what kind of beast it was originally designed to catch, ",
+      "its target now has clearly shifted to the unlucky souls in the Abyss"
+    ],
+    "ability": [
+      "Places a bear trap beneath your feet",
+      "Triggered whenever any non-flying creature passes over it"
+    ]
+  },  
   "75": {
     "name": [
       "Sealed Timepiece"

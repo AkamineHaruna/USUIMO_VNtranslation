@@ -767,13 +767,28 @@
     ],
     "description": [
       "A Lust Demon freed from the tower, ",
-	  "its true power still suppressed.",
-	  "Surprisingly gentlemanly and talkative for ",
-	  "a demon of its kind. However, once piqued, ",
-	  "its thick ritual implement will leave",
-	  "its opponent with deep psychological scars."
+      "its true power still suppressed.",
+      "Surprisingly gentlemanly and talkative for ",
+      "a demon of its kind. However, once piqued, ",
+      "its thick ritual implement will leave",
+      "its opponent with deep psychological scars."
     ]
   },  
+  "30": {
+    "objectName": [
+      "\\c[115]Pyromancer"
+    ],
+    "sentouryoku": [
+      "820"
+    ],
+    "description": [
+      "A fanatic mage who dedicates their entire life ",
+      "to mastering a single spell: 'Explosion Magic.'",
+      "Years of training allow them to unleash devastating ",
+      "blasts at will. To them, the moment of detonation ",
+      "itself is the ultimate art—"
+    ]
+  },   
   "32": {
     "objectName": [
       "Mysterious Gacha"
