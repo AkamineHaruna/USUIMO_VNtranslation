@@ -783,6 +783,22 @@
 			"của nó sẽ để lại vết sẹo tâm lý sâu sắc cho đối thủ."
 		]
   	},
+	    "30": {
+        "objectName": [
+            "\\c[115]Pháp Sư Bộc Viêm"
+        ],
+        "sentouryoku": [
+            "820"
+        ],
+        "description": [
+            "Một pháp sư cuồng tín đã dành trọn cả đời để ",
+            "tinh thông duy nhất một ma thuật: 'Bạo Liệt Ma Pháp'.",
+            "Nhờ nhiều năm khổ luyện, họ có thể tùy ý giải phóng ",
+            "những vụ nổ mang sức tàn phá kinh hoàng. ",
+            "Đối với họ, chính những khoảnh khắc vụ nổ bùng phát ",
+			"mới là nghệ thuật tối thượng—"
+        ]
+    },   
   	"32": {
 		"objectName": [
 		    "Máy Gacha Kỳ Lạ"
