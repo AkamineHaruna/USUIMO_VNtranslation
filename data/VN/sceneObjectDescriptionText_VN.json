@@ -72,9 +72,8 @@
 		"Nó được gấp lại gọn gàng."
 	],
 	"13": [
-		"✦Một chiếc máy chơi game huyền thoại, giờ đây ",
-		"cực kỳ hiếm. Sở hữu nó sẽ biến bạn trở thành ",
-		"huyền thoại trong giới game thủ."
+		"✦Một chiếc máy chơi game huyền thoại, giờ đây cực kỳ hiếm.",
+		"Sở hữu nó sẽ biến bạn thành huyền thoại trong giới game thủ."
 	],
 	"14": [
 		"✦Một con búp bê được tặng cho \\str[120] bởi cha ",
@@ -96,15 +95,14 @@
 	],
 	"16": [
 		"\\fr\\fs[28]\\c[114]Đại Mê Cung",
-        "\\fr\\fs[22]\\i[16]400",
-        "✦Tương truyền rằng hành lang bị các vị thần bỏ ",
-        "quên này kéo dài đến vô tận. Dưới mái vòm đổ nát ",
-        "và những dây leo cổ đại uốn lượn, ánh huy hoàng ",
-        "của một nền văn minh đã mất vẫn còn vương vấn.",
-        "Vô số nhà thám hiểm đã bước chân vào nơi đây ",
-        "và không bao giờ trở lại— ",
-        "Mê Cung không từ chối bất kỳ ai.",
-		"Nó chỉ quyết định ai là người được phép rời đi."
+		"\\fr\\fs[22]\\i[16]???",
+		"✦Tương truyền nơi đây những hành lang bị thần linh ruồng bỏ, ",
+    	"kéo dài vô tận đến tận cùng hư không.",
+    	"Bên dưới những mái vòm đổ nát và dây leo cổ xưa chằng chịt, ",
+   		"dư quang của một nền văn minh đã mất vẫn còn lưu lại.",
+    	"Vô số mạo hiểm giả đã đặt chân vào đó mà không bao giờ quay trở lại—",
+    	"Mê Cung không khước từ bất kỳ kẻ lữ hành nào, ",
+    	"nó chỉ quyết định ai được phép rời đi."
 	],
   	"17": [
 		"✦Một chiếc TV 85 inch với những công nghệ mới nhất.",

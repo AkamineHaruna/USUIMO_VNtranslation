@@ -1352,6 +1352,19 @@
     ],
     "ability": ""
   },
+  "150": {
+    "name": [
+      "Reaper Chili"
+    ],
+    "subtitle": "",
+    "description": [
+      "An ultra-spicy chili from the deep, radiating visible waves of heat",
+      "Eat it raw, and it will feel like your tongue is burning off!"
+    ],
+    "ability": [
+      "A spiciness intense enough to set anyone on fire!"
+    ]
+  },
   "151": {
     "name": [
       "Beast Meat"
