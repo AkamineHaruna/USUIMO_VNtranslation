@@ -7,7 +7,21 @@
   ],
   "numberDays": [
     "DAY"
-  ],  
+  ],
+  "tipSave": [
+    "Do you want to transfer save data from an older version?",
+    "The current game is compatible with save files from version 0.22A and above."
+  ],
+  "tipSave2": [
+    "Please select the old version’s “save” folder (or the game’s root directory), then click “Select Folder”."
+  ],
+  "tipSaveMobile": [
+    "The Android version doesn’t support quick access to the save directory for now",
+    "due to sensitive permission issues.",
+    "Please go to the '/storage/emulated/0/Documents/sister_save' path yourself",
+    "to check the save files! You’re free to transfer save data from other devices or",
+    "the PC version to inherit your progress."
+  ],
   "quantityHeld": [
     "\\fs[16]•Quantity Held:\\c[17] ${} \\c[0]\\py[-8]"
   ],
@@ -50,7 +64,7 @@
   ],
   "ZakoMode": [
     "ZAKO Mode"
-  ],  
+  ],
   "Language": [
     "Game Language"
   ],
@@ -66,11 +80,11 @@
   "EnterCheatCode": [
     "ZAKO~♥ ZAKO~♥",
     "Enter cheat code here..."
-  ],     
+  ],
   "AnnouncementMenu": [
     "Announcements",
     "Changelogs"
-  ],    
+  ],
   "UpdateComplete1": [
     "Game update completed!",
     "The game will restart automatically after closing this window.",
@@ -218,7 +232,7 @@
     "itchUser": "Itch user confirmed!",
     "nonItchUser": "This game was not found in your Itch library!",
     "itchVerifyNotice": "You can verify ownership of the Itch version here",
-    "itchVerifyAlert": "Please log in before checking the Itch version!",    
+    "itchVerifyAlert": "Please log in before checking the Itch version!",
     "majorUpdateFailed": [
       "Major version update failed!",
       "Error code: ${}",

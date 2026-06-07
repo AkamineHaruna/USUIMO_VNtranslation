@@ -452,8 +452,8 @@
       "maybe you should stop…\"    \\w[210]\\^"
     ],
     "21": [
-      "\\nl< >\"Geez, don’t go poking me all over!\"  \\w[240]",
-      "\\nl< >\"I’m not your toy, you know!\"    \\w[120]\\^"
+      "\\nl< >\"Geez, don’t go poking me all over!  \\w[240]",
+      "I’m not your toy, you know!\"    \\w[120]\\^"
     ],
     "22": [
       "\\nl< >\"Uweh-eh-eh… \\str[121], \\w[150]",
@@ -1926,7 +1926,7 @@
       "\"I’ve heard about it before…\""
     ],
     "3": [
-      "Leave it to me!            \\w[30]",
+      "\"Leave it to me!\"           \\w[30]",
       "Brushy brushy—\\w[30]brushy brushy—\\w[30]brushy brushy—\\w[30]",
       "I carefully brushed \\str[120]’s hair."
     ],
@@ -2641,8 +2641,8 @@
     ],
     "37": [
       "\\nl< >\"That’s the medicine you’ve been looking for ",
-      "all this time, right?   \\w[90]\"",
-      "Are you worried about me, \\str[121]?"
+      "all this time, right?   \\w[90]",
+      "Are you worried about me, \\str[121]?\""
     ],
     "38": [
       "She suddenly held the hand ",
