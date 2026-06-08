@@ -1530,6 +1530,17 @@
       "Increases desire after reading!"
     ]
   },
+  "196": {
+    "name": [
+      "Memory Gallery [NLCH Polaroid]"
+    ],
+    "beIndependent": true,
+    "subtitle": "",
+    "description": [
+      "Enter the Memory Gallery to view all collected Polaroids from this series"
+    ],
+    "ability": ""
+  },
   "197": {
     "name": [
       "Elixir Rubrum"
@@ -1583,7 +1594,7 @@
   },
   "200": {
     "name": [
-      "Polaroid#1"
+      "NLCH Polaroid#1"
     ],
     "subtitle": [
       "\"What are you doing, staring over here like that…!\""
@@ -1596,7 +1607,7 @@
   },
   "201": {
     "name": [
-      "Polaroid#2"
+      "NLCH Polaroid#2"
     ],
     "subtitle": [
       "\"this is just how rabbits show affection~\""
@@ -1609,7 +1620,7 @@
   },
   "202": {
     "name": [
-      "Polaroid#3"
+      "NLCH Polaroid#3"
     ],
     "subtitle": [
       "\"…It's clean enough already, right?\""
@@ -1622,7 +1633,7 @@
   },
   "203": {
     "name": [
-      "Polaroid#4"
+      "NLCH Polaroid#4"
     ],
     "subtitle": [
       "\"N-No, this is bad... the medicine's too strong!\""
@@ -1635,7 +1646,7 @@
   },
   "204": {
     "name": [
-      "Polaroid#5"
+      "NLCH Polaroid#5"
     ],
     "subtitle": [
       "\"Oh, Lord, forgive me for being tempted by money...\""
@@ -1648,7 +1659,7 @@
   },
   "205": {
     "name": [
-      "Polaroid#6"
+      "NLCH Polaroid#6"
     ],
     "subtitle": [
       "\"Woof... Isn't that enough already...?\""
@@ -1661,7 +1672,7 @@
   },
   "206": {
     "name": [
-      "Polaroid#7"
+      "NLCH Polaroid#7"
     ],
     "subtitle": [
       "\"Hehe~♥ You didn't see anything, right?\""
@@ -1674,7 +1685,7 @@
   },
   "207": {
     "name": [
-      "Polaroid#8"
+      "NLCH Polaroid#8"
     ],
     "subtitle": [
       "\"Come on, this pose should be fine, right?\""
@@ -1687,7 +1698,7 @@
   },
   "208": {
     "name": [
-      "Polaroid#9"
+      "NLCH Polaroid#9"
     ],
     "subtitle": [
       "\"What’s with that amused look on your face...?\""
@@ -1700,7 +1711,7 @@
   },
   "209": {
     "name": [
-      "Polaroid#10"
+      "NLCH Polaroid#10"
     ],
     "subtitle": [
       "\"I can't... keep singing anymore...!\""
@@ -1713,7 +1724,7 @@
   },
   "210": {
     "name": [
-      "Polaroid#11"
+      "NLCH Polaroid#11"
     ],
     "subtitle": [
       "\"So, this is your New Year's wish?\""
@@ -1726,7 +1737,7 @@
   },
   "211": {
     "name": [
-      "Polaroid#12"
+      "NLCH Polaroid#12"
     ],
     "subtitle": [
       "\"Ah, even the tea is starting to taste sweeter!\""
@@ -1739,7 +1750,7 @@
   },
   "212": {
     "name": [
-      "Polaroid#13"
+      "NLCH Polaroid#13"
     ],
     "subtitle": [
       "\"Well, it’s a part-time job, so I can't help it...\""
@@ -1752,7 +1763,7 @@
   },
   "213": {
     "name": [
-      "Polaroid#14"
+      "NLCH Polaroid#14"
     ],
     "subtitle": [
       "\"Oh my, you came in without knocking~\""
@@ -1765,7 +1776,7 @@
   },
   "214": {
     "name": [
-      "Polaroid#15"
+      "NLCH Polaroid#15"
     ],
     "subtitle": [
       "\"Is that so...? A confession style I've never heard of...\""
@@ -1778,7 +1789,7 @@
   },
   "215": {
     "name": [
-      "Polaroid#16"
+      "NLCH Polaroid#16"
     ],
     "subtitle": [
       "\"Haa... Haa... My body can't take it anymore...!\""
@@ -1791,7 +1802,7 @@
   },
   "216": {
     "name": [
-      "Polaroid#17"
+      "NLCH Polaroid#17"
     ],
     "subtitle": [
       "\"Oh, Lord... please forgive me...\""
@@ -1804,7 +1815,7 @@
   },
   "217": {
     "name": [
-      "Polaroid#18"
+      "NLCH Polaroid#18"
     ],
     "subtitle": [
       "\"Woof... Isn't that enough already...?\""
@@ -1817,7 +1828,7 @@
   },
   "218": {
     "name": [
-      "Polaroid#19"
+      "NLCH Polaroid#19"
     ],
     "subtitle": [
       "\"...Meow?\""
@@ -1830,7 +1841,7 @@
   },
   "219": {
     "name": [
-      "Polaroid#20"
+      "NLCH Polaroid#20"
     ],
     "subtitle": [
       "\"...Huh? Still not cleaned up?\""
@@ -1843,7 +1854,7 @@
   },
   "220": {
     "name": [
-      "Polaroid#21"
+      "NLCH Polaroid#21"
     ],
     "subtitle": [
       "\"Haa... This is the 11th song... Isn't that enough?\""
@@ -1856,7 +1867,7 @@
   },
   "221": {
     "name": [
-      "Polaroid#22"
+      "NLCH Polaroid#22"
     ],
     "subtitle": [
       "\"Why does the gaze feel hotter...?\""
@@ -1869,7 +1880,7 @@
   },
   "222": {
     "name": [
-      "Polaroid#23"
+      "NLCH Polaroid#23"
     ],
     "subtitle": [
       "\"Your New Year's wish came true right away, happy?\""
@@ -1882,7 +1893,7 @@
   },
   "223": {
     "name": [
-      "Polaroid#24"
+      "NLCH Polaroid#24"
     ],
     "subtitle": [
       "\"Did you feel the bunny's love~♥\""
@@ -1895,7 +1906,7 @@
   },
   "224": {
     "name": [
-      "Polaroid#25"
+      "NLCH Polaroid#25"
     ],
     "subtitle": [
       "\"A strange bunny has been abandoned...\""
@@ -1908,7 +1919,7 @@
   },
   "225": {
     "name": [
-      "Polaroid#26"
+      "NLCH Polaroid#26"
     ],
     "subtitle": [
       "\"Almost got caught...\""
@@ -1921,7 +1932,7 @@
   },
   "226": {
     "name": [
-      "Polaroid#27"
+      "NLCH Polaroid#27"
     ],
     "subtitle": [
       "\"Coming in without knocking... what are you up to~♥\""
@@ -1934,7 +1945,7 @@
   },
   "227": {
     "name": [
-      "Polaroid#28"
+      "NLCH Polaroid#28"
     ],
     "subtitle": [
       "\"That's strange... I can't seem to fasten it...\""
@@ -1947,7 +1958,7 @@
   },
   "228": {
     "name": [
-      "Polaroid#29"
+      "NLCH Polaroid#29"
     ],
     "subtitle": [
       "\"...No one's watching over here, right?\""
@@ -1960,7 +1971,7 @@
   },
   "229": {
     "name": [
-      "Polaroid#30"
+      "NLCH Polaroid#30"
     ],
     "subtitle": [
       "\"Hehe~♥ Nothing happened, okay?\""
@@ -1973,7 +1984,7 @@
   },
   "230": {
     "name": [
-      "Polaroid#31"
+      "NLCH Polaroid#31"
     ],
     "subtitle": [
       "\"Mmm... The tea tastes even sweeter now...!\""
@@ -1986,7 +1997,7 @@
   },
   "231": {
     "name": [
-      "Polaroid#32"
+      "NLCH Polaroid#32"
     ],
     "subtitle": [
       "\"I know it's part of the job, but just this once, okay?\""
@@ -1999,7 +2010,7 @@
   },
   "232": {
     "name": [
-      "Polaroid#33"
+      "NLCH Polaroid#33"
     ],
     "subtitle": [
       "\"P-Please don't touch the merchandise carelessly!\""
@@ -2012,7 +2023,7 @@
   },
   "233": {
     "name": [
-      "Polaroid#34"
+      "NLCH Polaroid#34"
     ],
     "subtitle": [
       "\"Chew, chew... It's so-so, I guess...\""
@@ -2025,7 +2036,7 @@
   },
   "234": {
     "name": [
-      "Polaroid#35"
+      "NLCH Polaroid#35"
     ],
     "subtitle": [
       "\"Master? Please don't tease me at a time like this...\""
