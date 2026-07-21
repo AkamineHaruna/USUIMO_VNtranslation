@@ -69,6 +69,36 @@ test("typographic punctuation and line-wrap-only source edits are ignored", () =
   assert.deepEqual(changes, []);
 });
 
+test("separator punctuation and extra spaces beside punctuation are ignored", () => {
+  const changes = diffJson(
+    {
+      separator: ["HP+75、 Status recovery"],
+      quoteSpacing: ['"Don\'t you ever stop！ "'],
+    },
+    {
+      separator: ["HP+75. Status recovery"],
+      quoteSpacing: ['"Don\'t you ever stop!"'],
+    },
+    {
+      separator: ["Translated separator text"],
+      quoteSpacing: ["Translated quote text"],
+    },
+  );
+  assert.deepEqual(changes, []);
+});
+
+test("wording changes remain visible after separator normalization", () => {
+  const changes = diffJson(
+    { ability: ["HP+75、 Attack+50% for a while"] },
+    { ability: ["HP+75. Temporarily increases Physical Attack by 50%"] },
+    { ability: ["Translated ability"] },
+  );
+  assert.deepEqual(changes.map(({ status, pointer }) => ({ status, pointer })), [{
+    status: "changed",
+    pointer: "/ability",
+  }]);
+});
+
 test("meaningful punctuation and wording changes are still reported", () => {
   const changes = diffJson(
     { punctuation: "Are you ready.", wording: "Old wording" },

@@ -220,8 +220,14 @@ function normalizeComparableText(value) {
     .replace(/[“”„‟«»＂]/gu, '"')
     .replace(/[‐‑‒–—―−﹘﹣－]/gu, "-")
     .replaceAll("…", "...")
+    .replace(/[、,，﹐﹑､.。．｡]/gu, ".")
+    .replaceAll("！", "!")
+    .replaceAll("？", "?")
+    .replaceAll("：", ":")
+    .replaceAll("；", ";")
     .replace(/[\u00a0\u1680\u2000-\u200a\u202f\u205f\u3000]/gu, " ")
     .replace(/\s+/gu, " ")
+    .replace(/\s*([.!?;:'"()[\]{}-])\s*/gu, "$1")
     .trim();
 }
 
