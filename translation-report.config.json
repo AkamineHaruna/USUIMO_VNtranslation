@@ -7,6 +7,60 @@
       "nativeLabel": "한국어",
       "baseCommit": "cf6672cff5838df7f81558133d1762cda17ff3b2",
       "baseNote": "Last repository revision that updated Korean translation files"
+    },
+    "ES": {
+      "label": "Spanish",
+      "nativeLabel": "Español",
+      "baseCommit": "7c1de8ad21b5158c720f411da385017c9e5d17cf",
+      "baseNote": "Last repository revision that updated Spanish translation files"
+    },
+    "FR": {
+      "label": "French",
+      "nativeLabel": "Français",
+      "baseCommit": "e28b8063e21555c03ab6db6b55b10a9e0d46e5e3",
+      "baseNote": "Last repository revision that updated French translation files"
+    },
+    "ID": {
+      "label": "Indonesian",
+      "nativeLabel": "Bahasa Indonesia",
+      "baseCommit": "441bd7645de249772c05dba4592cc41b722bc32e",
+      "baseNote": "Last repository revision that updated Indonesian translation files"
+    },
+    "IT": {
+      "label": "Italian",
+      "nativeLabel": "Italiano",
+      "baseCommit": "e28b8063e21555c03ab6db6b55b10a9e0d46e5e3",
+      "baseNote": "Last repository revision that updated Italian translation files"
+    },
+    "PTBR": {
+      "label": "Brazilian Portuguese",
+      "nativeLabel": "Português (Brasil)",
+      "baseCommit": "ed702370c3052fa7fe977d7fe009af08ee2420fa",
+      "baseNote": "Last repository revision that updated Brazilian Portuguese translation files"
+    },
+    "RU": {
+      "label": "Russian",
+      "nativeLabel": "Русский",
+      "baseCommit": "f6beb24e0593a207a7823fbc2b3d4e778163efb7",
+      "baseNote": "Last repository revision that updated Russian translation files"
+    },
+    "TH": {
+      "label": "Thai",
+      "nativeLabel": "ไทย",
+      "baseCommit": "d591cb03a2207dffa0ce8c7192083aa9bba6ca66",
+      "baseNote": "Last repository revision that updated Thai translation files"
+    },
+    "UA": {
+      "label": "Ukrainian",
+      "nativeLabel": "Українська",
+      "baseCommit": "a49c135c1c7221ba1822785b5133c061eafe44d0",
+      "baseNote": "Last repository revision that updated Ukrainian translation files"
+    },
+    "VN": {
+      "label": "Vietnamese",
+      "nativeLabel": "Tiếng Việt",
+      "baseCommit": "b29afc4cd7db79a522c7f9fa22ad70efac6f6a6e",
+      "baseNote": "Last repository revision that updated Vietnamese translation files"
     }
   }
 }

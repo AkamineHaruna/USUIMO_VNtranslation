@@ -6,7 +6,16 @@ on:
       - main
     paths:
       - 'data/EN/**'
+      - 'data/ES/**'
+      - 'data/FR/**'
+      - 'data/ID/**'
+      - 'data/IT/**'
       - 'data/KR/**'
+      - 'data/PTBR/**'
+      - 'data/RU/**'
+      - 'data/TH/**'
+      - 'data/UA/**'
+      - 'data/VN/**'
       - 'tools/generate-translation-report.mjs'
       - 'tools/translation-report-lib.mjs'
       - 'translation-report-web/**'
