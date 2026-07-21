@@ -116,15 +116,10 @@ h1 {
   max-width: 850px;
   margin: 0;
   color: var(--ink-strong);
-  font-size: clamp(2.8rem, 6vw, 6.25rem);
-  line-height: 0.94;
-  letter-spacing: -0.06em;
+  font-size: clamp(2.8rem, 5vw, 5.25rem);
+  line-height: 1;
+  letter-spacing: -0.05em;
   font-weight: 780;
-}
-
-h1 span {
-  color: var(--pink);
-  text-shadow: 0 8px 24px rgba(243, 111, 165, 0.14);
 }
 
 .hero__lede {

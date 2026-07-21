@@ -11,6 +11,8 @@ python3 -m http.server 4173 --directory translation-report-dist
 
 Then open `http://localhost:4173/?lang=KR`.
 
+The published selector includes all community-maintained language folders. EN is the source language, while CN, TW, and JP are maintained as official languages and are intentionally excluded.
+
 ## Language checkpoints
 
 Each language in `translation-report.config.json` has a `baseCommit`. This is the English-source revision that the translation is known to have reviewed. Reports compare that revision with the current repository revision.
