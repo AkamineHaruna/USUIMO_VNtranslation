@@ -5,6 +5,16 @@ This repository contains the translation source files for **A Simple Life with M
 
 The text in this repository is updated alongside the latest in-game text, so translators can work with the current source material more easily.
 
+## Translation change report
+
+Before starting translation work, use the web report to quickly see which English entries were added, changed, removed, or are still missing from your language.
+
+[![Open Translation Change Report](https://img.shields.io/badge/Open-Translation%20Change%20Report-f36fa5?style=for-the-badge)](https://shiroin000.github.io/USUIMO_translation_source/)
+
+Choose your language from the selector to view its current task list. The report is read-only and never modifies translation files.
+
+See [Translation change report documentation](docs/translation-change-report.md) for checkpoint and local preview details.
+
 ## What is included
 
 This repository contains language files used for translation work, including folders such as:
@@ -64,12 +74,6 @@ Pull requests may be checked automatically for:
 
 If validation fails, please fix the errors and update your pull request.
 
-## Translation change report
-
-The repository includes an optional, read-only report that compares the current English source with the last reviewed source revision for each configured language. It highlights new, changed, deleted, missing, and structurally conflicting entries without modifying translation files.
-
-See [Translation change report](docs/translation-change-report.md) for local preview and checkpoint details.
-
 ## Notes
 
 This repository is for translation collaboration.
@@ -87,4 +91,3 @@ There may be mistranslations or incomplete parts.
 Please do not reuse these files for unrelated redistribution or repackaging of the game.
 
 All final merge decisions are made by the maintainer.
-
