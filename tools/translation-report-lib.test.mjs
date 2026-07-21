@@ -42,11 +42,57 @@ test("arrays are compared as atomic translation units", () => {
   }]);
 });
 
+test("strings and string arrays are compatible translation text", () => {
+  const changes = diffJson(
+    { first: "Source line", second: ["Source", "line"] },
+    { first: "Source line", second: ["Source", "line"] },
+    { first: ["Translated", "line"], second: "Translated line" },
+  );
+  assert.deepEqual(changes, []);
+});
+
+test("blank and null translations are missing instead of conflicting", () => {
+  const changes = diffJson(
+    { subtitle: ["Source", "line"], description: "Source description" },
+    { subtitle: ["Source", "line"], description: "Source description" },
+    { subtitle: "", description: null },
+  );
+  assert.deepEqual(changes.map(({ status, pointer }) => ({ status, pointer })), [
+    { status: "missing", pointer: "/description" },
+    { status: "missing", pointer: "/subtitle" },
+  ]);
+});
+
+test("new entries only report meaningful untranslated text", () => {
+  const changes = diffJson(
+    {},
+    {
+      ability: "",
+      beIndependent: true,
+      description: ["English description"],
+      name: ["English name"],
+      needsTranslation: "New English text",
+      subtitle: "",
+    },
+    {
+      ability: "",
+      beIndependent: true,
+      description: ["Translated description"],
+      name: ["Translated name"],
+      subtitle: "",
+    },
+  );
+  assert.deepEqual(changes.map(({ status, pointer }) => ({ status, pointer })), [{
+    status: "added",
+    pointer: "/needsTranslation",
+  }]);
+});
+
 test("added, deleted, missing, and conflicts are classified", () => {
   const changes = diffJson(
     { deleted: "old", unchangedMissing: "source", changed: "before", typed: ["line"] },
     { added: "new", unchangedMissing: "source", changed: "after", typed: ["line"] },
-    { deleted: "번역", changed: "현재 번역", typed: "wrong type" },
+    { deleted: "번역", changed: "현재 번역", typed: { unexpected: "shape" } },
   );
   assert.deepEqual(
     Object.fromEntries(changes.map((change) => [change.pointer, change.status])),

@@ -121,7 +121,12 @@ function walkDiff(base, current, target, segments, output) {
       }
       return;
     }
-    pushChange(output, "added", segments, base, current, target);
+    if (!hasTranslatableText(current)) return;
+    if (isBlankTranslation(target)) {
+      pushChange(output, "added", segments, base, current, target);
+    } else if (!compatibleTypes(current, target)) {
+      pushChange(output, "conflict", segments, base, current, target);
+    }
     return;
   }
 
@@ -132,6 +137,7 @@ function walkDiff(base, current, target, segments, output) {
       }
       return;
     }
+    if (!hasTranslatableText(base) || isBlankTranslation(target)) return;
     pushChange(output, "deleted", segments, base, current, target);
     return;
   }
@@ -154,8 +160,10 @@ function walkDiff(base, current, target, segments, output) {
     return;
   }
 
+  if (!hasTranslatableText(current)) return;
+
   const sourceChanged = !valuesEqual(base, current);
-  const targetMissing = target === MISSING;
+  const targetMissing = isBlankTranslation(target);
   const targetConflict = !targetMissing && !compatibleTypes(current, target);
 
   if (sourceChanged) {
@@ -188,10 +196,31 @@ function getChild(value, key) {
 }
 
 function compatibleTypes(source, target) {
+  const sourceIsText = isTextValue(source);
+  const targetIsText = isTextValue(target);
+  if (sourceIsText || targetIsText) return sourceIsText && targetIsText;
   if (Array.isArray(source)) return Array.isArray(target);
   if (isPlainObject(source)) return isPlainObject(target);
   if (source === null) return target === null;
   return typeof source === typeof target;
+}
+
+function isTextValue(value) {
+  return typeof value === "string" || (
+    Array.isArray(value) && value.every((item) => typeof item === "string")
+  );
+}
+
+function hasTranslatableText(value) {
+  if (typeof value === "string") return value.trim().length > 0;
+  if (Array.isArray(value) && value.every((item) => typeof item === "string")) {
+    return value.some((item) => item.trim().length > 0);
+  }
+  return false;
+}
+
+function isBlankTranslation(value) {
+  return value === MISSING || value === null || (isTextValue(value) && !hasTranslatableText(value));
 }
 
 function isPlainObject(value) {
