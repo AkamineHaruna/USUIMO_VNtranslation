@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light">
+    <title>USUIMO Translation Changes</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero__decor" aria-hidden="true">
+          <span>✦</span>
+          <span>♡</span>
+          <span>✧</span>
+        </div>
+        <div class="hero__copy">
+          <p class="eyebrow"><span aria-hidden="true">♡</span> USUIMO · COMMUNITY TRANSLATION</p>
+          <h1>Translation updates,<br><span>wrapped with love.</span></h1>
+          <p class="hero__lede">A sweet, simple view of every English source update waiting for your language.</p>
+        </div>
+        <div class="language-picker">
+          <label for="language">Translation language</label>
+          <select id="language" aria-label="Translation language"></select>
+          <div id="revision" class="revision"></div>
+        </div>
+      </header>
+
+      <main>
+        <section id="summary" class="summary" aria-label="Change summary"></section>
+
+        <section class="toolbar" aria-label="Report filters">
+          <label class="search">
+            <span aria-hidden="true">⌕</span>
+            <input id="search" type="search" placeholder="Search file, path, or text…">
+          </label>
+          <div id="filters" class="filters"></div>
+          <button id="download" class="download" type="button">Download JSON</button>
+        </section>
+
+        <section class="report-meta">
+          <div>
+            <p class="report-meta__label">SOURCE WINDOW</p>
+            <p id="source-window">Loading report…</p>
+          </div>
+          <p id="result-count" class="result-count"></p>
+        </section>
+
+        <section id="entries" class="entries" aria-live="polite"></section>
+        <button id="load-more" class="load-more" type="button" hidden>Show more changes</button>
+      </main>
+
+      <footer>
+        Generated from repository history. Translation files are never modified by this report.
+      </footer>
+    </div>
+
+    <template id="entry-template">
+      <article class="entry">
+        <div class="entry__topline">
+          <span class="status"></span>
+          <code class="pointer"></code>
+        </div>
+        <a class="file" target="_blank" rel="noreferrer"></a>
+        <div class="comparison"></div>
+      </article>
+    </template>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

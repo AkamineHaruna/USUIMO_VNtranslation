@@ -1,0 +1,12 @@
+{
+  "repository": "shiroin000/USUIMO_translation_source",
+  "sourceLanguage": "EN",
+  "languages": {
+    "KR": {
+      "label": "Korean",
+      "nativeLabel": "한국어",
+      "baseCommit": "cf6672cff5838df7f81558133d1762cda17ff3b2",
+      "baseNote": "Last repository revision that updated Korean translation files"
+    }
+  }
+}
