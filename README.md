@@ -64,6 +64,12 @@ Pull requests may be checked automatically for:
 
 If validation fails, please fix the errors and update your pull request.
 
+## Translation change report
+
+The repository includes an optional, read-only report that compares the current English source with the last reviewed source revision for each configured language. It highlights new, changed, deleted, missing, and structurally conflicting entries without modifying translation files.
+
+See [Translation change report](docs/translation-change-report.md) for local preview and checkpoint details.
+
 ## Notes
 
 This repository is for translation collaboration.
@@ -81,5 +87,4 @@ There may be mistranslations or incomplete parts.
 Please do not reuse these files for unrelated redistribution or repackaging of the game.
 
 All final merge decisions are made by the maintainer.
-
 

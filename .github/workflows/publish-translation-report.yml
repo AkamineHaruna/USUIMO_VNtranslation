@@ -1,0 +1,55 @@
+name: Publish translation change report
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/EN/**'
+      - 'data/KR/**'
+      - 'tools/generate-translation-report.mjs'
+      - 'tools/translation-report-lib.mjs'
+      - 'translation-report-web/**'
+      - 'translation-report.config.json'
+      - '.github/workflows/publish-translation-report.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: translation-report-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate semantic translation reports
+        run: node tools/generate-translation-report.mjs
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: translation-report-dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy Pages site
+        id: deployment
+        uses: actions/deploy-pages@v4
