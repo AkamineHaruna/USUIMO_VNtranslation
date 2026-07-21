@@ -51,6 +51,36 @@ test("strings and string arrays are compatible translation text", () => {
   assert.deepEqual(changes, []);
 });
 
+test("typographic punctuation and line-wrap-only source edits are ignored", () => {
+  const changes = diffJson(
+    {
+      description: ["A relic that turns touch to gold — the Bladekeepers’ ultimate dream…"],
+      lineWrap: "A long English line",
+    },
+    {
+      description: ["A relic that turns touch to gold - the Bladekeepers' ultimate dream..."],
+      lineWrap: ["A long", "English line"],
+    },
+    {
+      description: ["Translated description"],
+      lineWrap: ["Translated line"],
+    },
+  );
+  assert.deepEqual(changes, []);
+});
+
+test("meaningful punctuation and wording changes are still reported", () => {
+  const changes = diffJson(
+    { punctuation: "Are you ready.", wording: "Old wording" },
+    { punctuation: "Are you ready?", wording: "New wording" },
+    { punctuation: "Translated", wording: "Translated" },
+  );
+  assert.deepEqual(changes.map(({ status, pointer }) => ({ status, pointer })), [
+    { status: "changed", pointer: "/punctuation" },
+    { status: "changed", pointer: "/wording" },
+  ]);
+});
+
 test("blank and null translations are missing instead of conflicting", () => {
   const changes = diffJson(
     { subtitle: ["Source", "line"], description: "Source description" },

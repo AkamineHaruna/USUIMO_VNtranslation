@@ -26,6 +26,7 @@ To add another language, add its folder code and checkpoint to `translation-repo
 - JSON objects are compared by key, independent of key order or formatting.
 - Arrays are treated as atomic translation units to avoid index-shift errors.
 - Strings and arrays containing only strings are compatible translation text, allowing language-specific line wrapping.
+- Typographic-only English edits such as curly/straight quotes, equivalent dashes, ellipses, whitespace, and line wrapping are ignored.
 - Empty text, booleans, numbers, and other non-translatable metadata are not reported as translation tasks.
 - New English text is reported only when the target language does not already contain meaningful translated text.
 - `NEW`, `EN CHANGED`, `OBSOLETE`, `MISSING`, and `CONFLICT` are reported.
