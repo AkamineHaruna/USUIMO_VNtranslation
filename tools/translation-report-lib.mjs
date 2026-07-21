@@ -162,7 +162,7 @@ function walkDiff(base, current, target, segments, output) {
 
   if (!hasTranslatableText(current)) return;
 
-  const sourceChanged = !valuesEqual(base, current);
+  const sourceChanged = !sourceValuesEquivalent(base, current);
   const targetMissing = isBlankTranslation(target);
   const targetConflict = !targetMissing && !compatibleTypes(current, target);
 
@@ -203,6 +203,26 @@ function compatibleTypes(source, target) {
   if (isPlainObject(source)) return isPlainObject(target);
   if (source === null) return target === null;
   return typeof source === typeof target;
+}
+
+function sourceValuesEquivalent(left, right) {
+  if (isTextValue(left) && isTextValue(right)) {
+    return normalizeComparableText(left) === normalizeComparableText(right);
+  }
+  return valuesEqual(left, right);
+}
+
+function normalizeComparableText(value) {
+  const text = Array.isArray(value) ? value.join(" ") : value;
+  return text
+    .normalize("NFC")
+    .replace(/[‘’‚‛ʼ＇]/gu, "'")
+    .replace(/[“”„‟«»＂]/gu, '"')
+    .replace(/[‐‑‒–—―−﹘﹣－]/gu, "-")
+    .replaceAll("…", "...")
+    .replace(/[\u00a0\u1680\u2000-\u200a\u202f\u205f\u3000]/gu, " ")
+    .replace(/\s+/gu, " ")
+    .trim();
 }
 
 function isTextValue(value) {
