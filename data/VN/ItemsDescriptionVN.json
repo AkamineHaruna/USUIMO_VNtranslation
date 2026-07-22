@@ -1354,19 +1354,6 @@
         ],
         "ability": ""
     },
-    "150": {
-        "name": [
-            "Ớt Tử Thần"
-        ],
-        "subtitle": "",
-        "description": [
-            "Một loại ớt siêu cay từ nơi sâu thẳm nhất, tỏa ra những làn sóng nhiệt rõ rệt",
-            "Ăn sống nó sẽ khiến bạn có cảm giác như lưỡi mình đang bị thiêu cháy!"
-        ],
-        "ability": [
-            "Độ cay cực hạn đủ để thiêu đốt bất cứ ai!"
-        ]
-    },
     "151": {
         "name": [
             "Thịt Quái Vật"
@@ -1534,17 +1521,6 @@
             "Tăng ham muốn sau khi đọc!"
 		]	
     },
-    "196": {
-        "name": [
-            "Bộ Sưu Tập Kỷ Niệm [NLCH Polaroid]"
-        ],
-        "beIndependent": true,
-        "subtitle": "",
-        "description": [
-            "Bước vào Bộ Sưu Tập Kỷ Niệm để xem tất cả các bức Polaroid đã thu thập được"
-        ],
-        "ability": ""
-    },
     "197": {
         "name": [
             "Elixir Rubrum"
@@ -1598,11 +1574,10 @@
     },
     "200": {
         "name": [
-            "NLCH Polaroid#1"
+            "Polaroid#1"
         ],
         "subtitle": [
-            "\"Cậu đang làm gì vậy,",
-            "sao cứ nhìn chằm chằm suốt thế...!\""
+            "\"Cậu đang làm gì vậy, nhìn chằm chằm như thế...!\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1612,10 +1587,10 @@
     },
     "201": {
         "name": [
-            "NLCH Polaroid#2"
+            "Polaroid#2"
         ],
         "subtitle": [
-            "\"Đây chỉ là cách thỏ thể hiện tình cảm thôi mà~\""
+            "\"đây chỉ là cách thỏ thể hiện tình cảm thôi~\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1625,10 +1600,10 @@
     },
     "202": {
         "name": [
-            "NLCH Polaroid#3"
+            "Polaroid#3"
         ],
         "subtitle": [
-            "\"...Đã đủ sạch rồi phải không nè?\""
+            "\"...Đã đủ sạch rồi phải không?\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1638,10 +1613,10 @@
     },
     "203": {
         "name": [
-            "NLCH Polaroid#4"
+            "Polaroid#4"
         ],
         "subtitle": [
-            "\"K-Không, tệ thật... thuốc mạnh quá!\""
+            "\"K-Không, tệ quá... thuốc mạnh quá!\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1651,11 +1626,10 @@
     },
     "204": {
         "name": [
-            "NLCH Polaroid#5"
+            "Polaroid#5"
         ],
         "subtitle": [
-            "\"Chúa ơi, hãy tha thứ cho con ",
-            "vì đã bị cám dỗ bởi tiền bạc...\""
+            "\"Chúa ơi, tha thứ cho con vì đã bị cám dỗ bởi tiền bạc...\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1665,7 +1639,7 @@
     },
     "205": {
         "name": [
-            "NLCH Polaroid#6"
+            "Polaroid#6"
         ],
         "subtitle": [
             "\"Gâu... Chẳng phải đã đủ rồi sao...?\""
@@ -1678,7 +1652,7 @@
     },
     "206": {
         "name": [
-            "NLCH Polaroid#7"
+            "Polaroid#7"
         ],
         "subtitle": [
             "\"Hehe~♥ Cậu không thấy gì chứ?\""
@@ -1691,7 +1665,7 @@
     },
     "207": {
         "name": [
-            "NLCH Polaroid#8"
+            "Polaroid#8"
         ],
         "subtitle": [
             "\"Thôi nào, tư thế này chắc ổn rồi chứ?\""
@@ -1704,10 +1678,10 @@
     },
     "208": {
         "name": [
-            "NLCH Polaroid#9"
+            "Polaroid#9"
         ],
         "subtitle": [
-            "\"Sao ngài lại có vẻ mặt thích thú thế kia...?\""
+            "\"Sao cậu lại có vẻ mặt thích thú thế kia...?\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1717,7 +1691,7 @@
     },
     "209": {
         "name": [
-            "NLCH Polaroid#10"
+            "Polaroid#10"
         ],
         "subtitle": [
             "\"Tớ không thể... hát tiếp được nữa...!\""
@@ -1730,10 +1704,10 @@
     },
     "210": {
         "name": [
-            "NLCH Polaroid#11"
+            "Polaroid#11"
         ],
         "subtitle": [
-            "\"Vậy đây là điều ước năm mới của cậu à?\""
+            "\"Vậy, đây là điều ước năm mới của cậu à?\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1743,7 +1717,7 @@
     },
     "211": {
         "name": [
-            "NLCH Polaroid#12"
+            "Polaroid#12"
         ],
         "subtitle": [
             "\"Ah, ngay cả trà cũng bắt đầu ngọt hơn rồi!\""
@@ -1756,10 +1730,10 @@
     },
     "212": {
         "name": [
-            "NLCH Polaroid#13"
+            "Polaroid#13"
         ],
         "subtitle": [
-            "\"Vì là công việc bán thời gian nên tớ chịu thôi...\""
+            "\"Thôi, vì là công việc bán thời gian nên tớ chịu thôi...\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1769,10 +1743,10 @@
     },
     "213": {
         "name": [
-            "NLCH Polaroid#14"
+            "Polaroid#14"
         ],
         "subtitle": [
-            "\"Ôi, ngài vào mà không gõ cửa sao~\""
+            "\"Ôi, cậu vào mà không gõ cửa sao~\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1782,11 +1756,10 @@
     },
     "214": {
         "name": [
-            "NLCH Polaroid#15"
+            "Polaroid#15"
         ],
         "subtitle": [
-            "\"Vậy sao...?",
-            "Một kiểu tỏ tình mà tớ chưa từng nghe qua...\""
+            "\"Vậy sao...? Một kiểu tỏ tình mà tớ chưa từng nghe qua...\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1796,7 +1769,7 @@
     },
     "215": {
         "name": [
-            "NLCH Polaroid#16"
+            "Polaroid#16"
         ],
         "subtitle": [
             "\"Haa... Haa... Tớ không chịu nổi nữa...!\""
@@ -1809,10 +1782,10 @@
     },
     "216": {
         "name": [
-            "NLCH Polaroid#17"
+            "Polaroid#17"
         ],
         "subtitle": [
-            "\"Ôi Chúa ơi... xin hãy tha thứ cho con...\""
+            "\"Ôi Chúa... xin tha thứ cho con...\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1822,10 +1795,10 @@
     },
     "217": {
         "name": [
-            "NLCH Polaroid#18"
+            "Polaroid#18"
         ],
         "subtitle": [
-            "\"Gâu... Như vậy là đủ chưa...?\""
+            "\"Woof... Như vậy là đủ chưa...?\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1835,7 +1808,7 @@
     },
     "218": {
         "name": [
-            "NLCH Polaroid#19"
+            "Polaroid#19"
         ],
         "subtitle": [
             "\"...Meo?\""
@@ -1848,10 +1821,10 @@
     },
     "219": {
         "name": [
-            "NLCH Polaroid#20"
+            "Polaroid#20"
         ],
         "subtitle": [
-            "\"...Hể? Vẫn chưa dọn xong à?\""
+            "\"...Hả? Vẫn chưa dọn xong à?\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1861,11 +1834,10 @@
     },
     "220": {
         "name": [
-            "NLCH Polaroid#21"
+            "Polaroid#21"
         ],
         "subtitle": [
-            "\"Haa... Đây là bài hát thứ 11 rồi...",
-            "Như vậy đã đủ chưa?\""
+            "\"Haa... Đây là bài hát thứ 11... Như vậy là đủ chưa?\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1875,10 +1847,10 @@
     },
     "221": {
         "name": [
-            "NLCH Polaroid#22"
+            "Polaroid#22"
         ],
         "subtitle": [
-            "\"Tại sao ánh nhìn lại rạo rực thế này...?\""
+            "\"Tại sao ánh nhìn lại nóng rực thế này...?\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1888,11 +1860,10 @@
     },
     "222": {
         "name": [
-            "NLCH Polaroid#23"
+            "Polaroid#23"
         ],
         "subtitle": [
-            "\"Nguyện ước năm mới của cậu đã thành hiện thực ",
-            "ngay lập tức rồi đó, vui không nào?\""
+            "\"Nguyện ước năm mới của cậu đã thành hiện thực ngay lập tức, vui không?\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1902,10 +1873,10 @@
     },
     "223": {
         "name": [
-            "NLCH Polaroid#24"
+            "Polaroid#24"
         ],
         "subtitle": [
-            "\"Cậu cảm nhận được tình yêu của thỏ không nè~♥\""
+            "\"Cậu có cảm nhận được tình yêu của thỏ không~♥\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1915,7 +1886,7 @@
     },
     "224": {
         "name": [
-            "NLCH Polaroid#25"
+            "Polaroid#25"
         ],
         "subtitle": [
             "\"Một chú thỏ kỳ lạ bị bỏ rơi...\""
@@ -1928,7 +1899,7 @@
     },
     "225": {
         "name": [
-            "NLCH Polaroid#26"
+            "Polaroid#26"
         ],
         "subtitle": [
             "\"Suýt chút thì bị bắt quả tang rồi...\""
@@ -1941,10 +1912,10 @@
     },
     "226": {
         "name": [
-            "NLCH Polaroid#27"
+            "Polaroid#27"
         ],
         "subtitle": [
-            "\"Vào mà không gõ cửa... ngài đang làm gì thế~♥\""
+            "\"Vào mà không gõ cửa... cậu đang làm gì thế~♥\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1954,7 +1925,7 @@
     },
     "227": {
         "name": [
-            "NLCH Polaroid#28"
+            "Polaroid#28"
         ],
         "subtitle": [
             "\"Lạ thật... Mình dường như không cài được...\""
@@ -1967,10 +1938,10 @@
     },
     "228": {
         "name": [
-            "NLCH Polaroid#29"
+            "Polaroid#29"
         ],
         "subtitle": [
-            "\"...Ở đây chắc không có ai đang nhìn chứ?\""
+            "\"...Ở đây chẳng có ai đang nhìn chứ?\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1980,10 +1951,10 @@
     },
     "229": {
         "name": [
-            "NLCH Polaroid#30"
+            "Polaroid#30"
         ],
         "subtitle": [
-            "\"Hehe~♥ Không có gì xảy ra cả, đúng chứ?\""
+            "\"Hehe~♥ Không có gì xảy ra, đúng chứ?\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -1993,7 +1964,7 @@
     },
     "230": {
         "name": [
-            "NLCH Polaroid#31"
+            "Polaroid#31"
         ],
         "subtitle": [
             "\"Mmm... Trà giờ còn ngọt hơn nữa...!\""
@@ -2006,11 +1977,10 @@
     },
     "231": {
         "name": [
-            "NLCH Polaroid#32"
+            "Polaroid#32"
         ],
         "subtitle": [
-            "\"Tớ biết đây là một phần công việc,",
-            "nhưng chỉ lần này thôi nhé, được chứ?\""
+            "\"Tớ biết đây là một phần công việc, nhưng chỉ lần này thôi, được chứ?\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -2020,11 +1990,10 @@
     },
     "232": {
         "name": [
-            "NLCH Polaroid#33"
+            "Polaroid#33"
         ],
         "subtitle": [
-            "\"V-Vui lòng không chạm vào hàng hóa",
-            "một cách tùy tiện đâu đó!\""
+            "\"V-Vui lòng không chạm vào hàng hóa một cách tùy tiện!\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -2034,10 +2003,10 @@
     },
     "233": {
         "name": [
-            "NLCH Polaroid#34"
+            "Polaroid#34"
         ],
         "subtitle": [
-            "\"Nhoàm,  nhoàm... Cũng tạm được, tớ đoán vậy...\""
+            "\"Nhai, nhai... Cũng tạm được, tôi đoán vậy...\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -2047,10 +2016,10 @@
     },
     "234": {
         "name": [
-            "NLCH Polaroid#35"
+            "Polaroid#35"
         ],
         "subtitle": [
-            "\"Chủ nhân? Xin đừng trêu em vào lúc này chứ...\""
+            "\"Chủ nhân? Xin đừng trêu em vào lúc này...\""
         ],
         "description": [
             "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
@@ -3028,20 +2997,6 @@
         "ability": [
             ""
         ]
-    },
-    "480": {
-        "name": [
-            "Sức Mạnh của Lời Cầu Nguyện"
-        ],
-        "subtitle": [
-            "\"Chỉ cần bạn thành tâm cầu nguyện,",
-            "mọi vấn đề trên thế gian này rồi sẽ... tan biến!\""
-        ],
-        "description": [
-            "Những bức ảnh ghi lại cuộc sống thường ngày của các cô gái Tea Party…",
-            "nhưng rốt cuộc ai là người đã chụp những tấm hình này?"
-        ],
-        "ability": ""
     },
     "500": {
         "name": [

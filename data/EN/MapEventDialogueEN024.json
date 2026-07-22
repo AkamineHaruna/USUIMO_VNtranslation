@@ -437,6 +437,37 @@
       "or did \\str[120] look even more excited than usual…?"
     ]
   },
+  "7": {
+    "0": [
+      "——The entrance is completely quiet.",
+      "Normally around this time, \\str[120] should have come out ",
+      "to greet me right away since I came home early."
+    ],     
+    "1": [
+      "\"That's weird... ",
+      "She wouldn't still be sleeping in at this hour, would she?\""
+    ],    
+    "2": [
+      "I softened my steps and put on my slippers, ",
+      "intending to go straight to the loft to check on her,",
+      "but I was caught off guard by a series of blushing moans ",
+      "coming from the direction of the living room."
+    ],     
+    "3": [
+      "\\nl< >\\}\"Ngh... Ah...♥ ",
+      "Mmm... Nnnngh...♥\""
+    ],     
+    "4": [
+      "\"Th-this voice...     \\{\\w[60]",
+      "Is that \\str[120]!?\""
+    ], 
+    "5": [
+      "My heart skipped a beat. ",
+      "Driven by an intense voyeuristic urge mixed with nervousness and excitement,",
+      "I moved silently like a thief to the living room doorway,",
+      "and then slowly peeked inside——"
+    ] 
+  },  
   "9": {
     "0": [
       "The warmth in my arms reminded me that ",

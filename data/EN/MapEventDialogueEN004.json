@@ -799,6 +799,9 @@
       "\\nl< >\"Drying my hair is tiring... ",
       "\\str[121], give me a hand~\""
     ],
+    "4.1": [
+      "\\nl< >\"...Please don't keep staring at me like that~\""
+    ],
     "5": [
       "\\nl< >\"What's wrong, \\str[121]?\""
     ],
@@ -2026,7 +2029,7 @@
       "\\str[120] listened absentmindedly, as if she was enduring something."
     ],
     "14": [
-      "\\nl< >\"—Onii-chaaaan~!\""
+      "\\nl< >\"\\str[121]~!\""
     ],
     "15": [
       "Cheered \\str[120] up!"

@@ -127,6 +127,19 @@
       "Description": "坚持每日挥剑的成果",
       "Pop Up Desc": "十里坡剑神"
     }, 
+    "IJustWitnessedAPricelessPieceOfFootage": {
+      "Name": "看到了无比珍奇的场面啊",
+      "Description": "目睹了苹果妖精的诞生",
+      "Pop Up Desc": "看到了无比珍奇的场面啊"
+    },     
+    "WhoNeedsAFishingRod": {
+      "Name": "授人以鱼，不如授人以……渔？",
+      "Description": "累积向水里投掷10个炸弹",
+      "Pop Up Desc": [
+        "授人以鱼，不如授人以……",
+        "渔？"
+      ]      
+    },     
     "ItWasToMeasureMyCapacity": {
       "Name": "为了检测我的器量",
       "Description": "掌握了忍者的技艺",

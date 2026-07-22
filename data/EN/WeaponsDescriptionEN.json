@@ -354,8 +354,8 @@
     ],
     "subtitle": "",
     "description": [
-      "A staff adorned with gemstones that sparkle like the Milky",
-      "Way. It has the power to create a strong gravitational field,",
+      "A staff adorned with gemstones that sparkle like the Milky Way",
+      "It has the power to create a strong gravitational field,",
       "pulling intruders into the depths of darkness"
     ],
     "ability": [
@@ -404,6 +404,57 @@
       "Greatly enhances the effects of all learned skills"
     ]
   },
+  "31": {
+    "name": [
+      "Ruinous Remnant"
+    ],
+    "subtitle": [
+      "\"No matter... ███... will... find... ███...\""
+    ],
+    "description": [
+      "A broken stone sword found within a destroyed monument... Is it a burial object?",
+      "Mottled inscriptions remain on the side of the blade, ",
+      "but the meaning is fragmented and unreadable..."
+    ],
+    "ability": [
+      "Deals extra damage when the weapon nears breaking"
+    ]
+  },
+  "32": {
+    "name": [
+      "Staff of Yggdrasil"
+    ],
+    "subtitle": [
+      "——How should a mage allocate skill points? Waiting online, urgent!",
+      "——Put all stats into Stamina and Strength.",
+      "Max out Charge and Whirlwind for skills.",
+      "For magic, just get Holy Light and you're good.",
+      "——Thanks, bro."
+    ],
+    "description": [
+      "A staff crafted from the branches of Yggdrasil",
+      "Due to its sheer weight, it is only favored by a handful of battle mages"
+    ],
+    "ability": [
+      "50% chance to inflict Stun state on attack",
+      "When HP falls below \\c[29]400\\c[0], the weapon’s full potential is limited!"
+    ]
+  },  
+  "34": {
+    "name": [
+      "Roar of the Ruler"
+    ],
+    "subtitle": "",
+    "description": [
+      "A peculiar staff refined purely from water elements. They say it grants absolute",
+      "control over water pressure, just like a certain terrifying undersea overlord—",
+      "But wait, what if there's no water around at all...?!"
+    ],
+    "ability": [
+      "Hold right mouse button to cast Torrential Burial",
+      "Requires a nearby water source to cast"
+    ]
+  }, 
   "35": {
     "name": [
       "Claíomh Solais"
@@ -457,13 +508,12 @@
       "\"Remember this, Whirlwind Slash is used like this! \""
     ],
     "description": [
-      "A short-handled scythe carried by an outsider with a fearsome",
-      "design and a will dwelling within. Wielding it too long",
-      "may cause strange voices to echo in your mind"
+      "A short-handled scythe carried by an outsider, with a fearsome design and ",
+      "an inner will Wielding it too long may cause strange voices to echo in your mind"      
     ],
     "ability": [
-      "Automatically returns to hand after being thrown and hitting",
-      "When catching the returning weapon, can throw it again"
+      "Whirlwind Slash automatically tracks enemies and returns to hand when thrown",
+      "Catching the returning weapon allows an instant re-throw with increased damage"
     ]
   },
   "51": {
@@ -631,9 +681,8 @@
       "\"——most adventurers just call this thing the Deer Pipe.\""
     ],
     "description": [
-      "A weapon commonly used by the Lust Demon, said to have ",
-      "originally been some kind of ritual implement.",
-      "Its material and inner magic remain impossible to analyze.",
+      "A Lust Demon weapon, originally some kind of ritual implement",
+      "Its material and inner magic cannot be analyzed",
       "It also works surprisingly well as an alarm clock…!"
     ],
     "ability": [

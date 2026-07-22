@@ -131,6 +131,19 @@
         "weapons in stock?\""
       ]
     },
+    "IJustWitnessedAPricelessPieceOfFootage": {
+      "Name": "I just witnessed a priceless piece of footage.",
+      "Description": "Witnessed the birth of the Apple Fairy",
+      "Pop Up Desc": [
+        "\\fs[21]I just witnessed a priceless",
+        "piece of footage."
+      ]
+    },    
+    "WhoNeedsAFishingRod": {
+      "Name": "Who needs a fishing rod?",
+      "Description": "Blast drops out of the water with bombs 10 times",
+      "Pop Up Desc": "\\fs[22]Who needs a fishing rod?"
+    },      
      "TheSwordSaintOfTheSticks": {
       "Name": "The Sword Saint of the Sticks",
       "Description": "The results of persistent daily sword training",

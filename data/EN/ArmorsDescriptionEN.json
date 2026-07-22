@@ -1050,6 +1050,23 @@
       "Reveals hidden objects and paths while equipped"
     ]
   },
+  "76": {
+    "name": [
+      "Gaze of the Ruler"
+    ],
+    "subtitle": [
+      "\"It is watching you—\""
+    ],
+    "description": [
+      "A cursed ring inlaid with the eyeball of the Ruler",
+      "Its residual power constantly leaks out, giving the wearer the perpetual illusion ",
+      "of being coldly watched by an unknown existence"
+    ],
+    "ability": [
+      "Increases attack and movement speed in waterlogged states or water areas",
+      "Increases monster detection chance, but also has a chance to terrify them"
+    ]
+  },  
   "77": {
     "name": [
       "A Maiden's Prayer"
@@ -1066,6 +1083,35 @@
       "More likely to obtain \\ii[142] and \\ii[143]"
     ]
   },
+  "78": {
+    "name": [
+      "Blessed Protection Coat"
+    ],
+    "subtitle": "",
+    "description": [
+      "A coat said to be worn by the Great Sage in their youth as an adventurer",
+      "The spirits' blessing bestowed back then still dwells within its folds"
+    ],
+    "ability": [
+      "Attacking or chanting with a staff activates the spirit's blessing",
+      "While blessed, attack speed, movement speed, and magic defense increase"
+    ]
+  },  
+  "79": {
+    "name": [
+      "Demon Slate"
+    ],
+    "subtitle": "",
+    "description": [
+      "A shard left from a destroyed demonic portal",
+      "A demon's creation after all, it still holds dark power as a mere fragment",
+      "...But honestly, will this thing bring down demonic vengeance?"
+    ],
+    "ability": [
+      "Releases a shockwave to counter surrounding enemies when taking damage",
+      "Releases a healing wave that heals surrounding enemies when healed"
+    ]
+  },  
   "80": {
     "name": [
       "Royal Decree"

@@ -11,12 +11,42 @@
       "\\w[120]"
     ]
   },
+  "magicCamera": {
+    "record": "Record Video",
+    "stop": "Stop Recording",
+    "screenshot": "Take Screenshot",
+    "view": "View Files",
+    "starting": "Recording...",
+    "saving": "Saving...",
+    "screenshotting": "Screenshotting...",
+    "failed": "Failed!",
+    "duration": "Recorded {time}"
+  },  
+  "gallerySystem": {
+    "startRecall": [
+        "This event's memory log has been unlocked.",
+        "Would you like to relive this memory?"
+    ],
+    "takeBathWithImouto": "Taking a bath with \\str[120]",
+    "Polaroid": "NLCH Polaroid Series"
+  },  
+  "AnsuzSystem": {
+    "writeNotLoggedIn":  "Player not logged in! Failed to upload Ansuz!",
+    "uploadFailed":      "Unable to connect to the server! Failed to upload Ansuz!",
+    "writeLimitReached": "You have reached today's limit for creating Ansuz!",
+    "writeRejected":     "Abnormal data! Failed to upload Ansuz!",
+    "rateNotLoggedIn":   "Player not logged in! Rating failed!",
+    "rateFailed":        "Unable to connect to the server! Rating failed!",
+    "rateLimitReached":  "You have reached today's limit for rating Ansuz!",
+    "rateRejected":      "You cannot rate your own Ansuz!"    
+  },  
   "cheatCodeTutorial": {
     "0": [
       "⬆ Long press the avatar frame to call up the cheat code entry window.",
       "Unlock the corresponding features by entering the correct cheat code!"
     ]
   },  
+  "cannotUseItem": "Can't use item now!",
   "bulkSelectButton": "Click to toggle bulk selection",
   "usingItem": {
     "0": [
@@ -29,6 +59,10 @@
       "Discard"
     ]
   },
+  "forceGoHome": [
+    "It's getting late... The abyss at night is dangerous,",
+    "I should head home as soon as possible...!"
+  ],  
   "gameAnnouncement": {
     "0": [
       "Take a look",
@@ -324,6 +358,11 @@
   "PhilosophersFragment": {
     "title": [
       "Philosopher's Fragment"
+    ],
+    "description12": [
+      "A special shard obtained from the Ruler",
+      "If various shards can be collected",
+      "it might help improve ${}'s condition"
     ],
     "description50": [
       "A special shard obtained from the Red Beast",

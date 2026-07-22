@@ -116,6 +116,19 @@
       "Description": "100本以上の武器を壊した",
       "Pop Up Desc": "――武器の貯蔵は充分か？"
     },
+    "IJustWitnessedAPricelessPieceOfFootage": {
+      "Name": "とんだ『お宝映像』を見せてもらった",
+      "Description": "アップル妖精の誕生を目撃した。",
+      "Pop Up Desc": [
+        "\\fs[28]とんだ『お宝映像』を",
+        "見せてもらった"
+      ]
+    },     
+    "WhoNeedsAFishingRod": {
+      "Name": "海老（ボム）でタイを釣る",
+      "Description": "水中に爆弾を投げ込み、ドロップ品を計10回獲得する",
+      "Pop Up Desc": "海老（ボム）でタイを釣る"
+    },         
     "TheSwordSaintOfTheSticks": {
       "Name": "片田舎の剣聖",
       "Description": "日々の素振りの成果",

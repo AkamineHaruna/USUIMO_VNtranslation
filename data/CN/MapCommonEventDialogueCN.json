@@ -11,12 +11,42 @@
       "\\w[120]"
     ]
   },
+  "magicCamera": {
+    "record": "录制视频",
+    "stop": "结束录制",
+    "screenshot": "全屏拍照",
+    "view": "查看文件",
+    "starting": "正在录制…",
+    "saving": "正在保存…",
+    "screenshotting": "正在拍照…",
+    "failed": "操作失败！",
+    "duration": "已录制 {time}"
+  },
+  "gallerySystem": {
+    "startRecall": [
+      "已解锁该事件的回想记录。",
+      "要重新回顾这段记忆吗？"
+    ],
+    "takeBathWithImouto": "和\\str[120]一起洗澡",
+    "Polaroid": "茶会拍立得系列"
+  },
+  "AnsuzSystem": {
+    "writeNotLoggedIn": "玩家未登录！建言上传失败！",
+    "uploadFailed": "无法连接服务器！建言上传失败！",
+    "writeLimitReached": "已达到今天的创建数量上限！",
+    "writeRejected": "数据异常！建言上传失败！",
+    "rateNotLoggedIn": "玩家未登录！评价失败！",
+    "rateFailed": "无法连接服务器！评价失败！",
+    "rateLimitReached": "已达到今天的评价次数上限！",
+    "rateRejected": "不能给自己的建言进行评价！"
+  },
   "cheatCodeTutorial": {
     "0": [
       "⬆长按头像框即可呼出作弊码的输入窗口",
       "正确输入作弊码后即可解锁对应功能！"
     ]
   },
+  "cannotUseItem": "当前无法使用道具！",
   "bulkSelectButton": "点击此按钮可以切换至批量选择物品",
   "usingItem": {
     "0": [
@@ -34,16 +64,20 @@
       "去看看",
       "算了吧"
     ]
-  },    
+  },
+  "sealingScroll": [
+    "还没有被封印的物品",
+    "封印中:"
+  ],
   "takePhotoOfImouto": {
     "0": [
       "\\nl< >「——努！\\str[121]！    \\w[60]",
       "又在偷偷拍照了！」"
     ]
-  },  
-  "sealingScroll": [
-    "还没有被封印的物品",
-    "封印中:"
+  },
+  "forceGoHome": [
+    "已经不早了……夜晚的深渊很危险，",
+    "还是尽快回家吧……！"
   ],
   "skillOnCooldown": {
     "0": [
@@ -172,7 +206,7 @@
   },
   "minecartTutorial": [
     "如果矿车不会运作，请多敲打两下。"
-  ], 
+  ],
   "sela": {
     "1": [
       "（看来暂时不会醒来了…",
@@ -330,6 +364,11 @@
   "PhilosophersFragment": {
     "title": [
       "天上之石碎片"
+    ],
+    "description12": [
+      "从支配者身上獲得的特殊碎片",
+      "如果能收集到各種各样的碎片",
+      "可能会対${}的病情有所幇助吧"
     ],
     "description50": [
       "从紅獣身上獲得的特殊碎片",

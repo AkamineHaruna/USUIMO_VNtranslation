@@ -180,12 +180,13 @@
     "beIndependent": true,
     "subtitle": "",
     "description": [
-      "Said to be an Eastern artifact, exquisitely crafted yet lost",
-      "in the Abyss... It freezes scenes into images, but it’s",
-      "easily affected by magic, sometimes capturing strange things"
+      "Said to be an Eastern artifact, exquisitely crafted yet lost in the Abyss... ",
+      "It freezes scenes into images, but it’s easily affected by magic, ",
+      "sometimes capturing strange things"
     ],
     "ability": [
-      "Press F7 to take a photo"
+      "Can record videos or take photos",
+      "Can be used via the F7 shortcut key"
     ]
   },
   "15": {
@@ -531,8 +532,8 @@
       "no knowledge of magic can easily activate its effect"
     ],
     "ability": [
-      "Leaves a text-marked sign at the location when used",
-      "After updating, the sign becomes visible to other players"
+      "Inscribes a runic sign at your feet that can be read by other players",
+      "Can be used infinitely, but may only be inscribed up to 24 times per day"
     ]
   },
   "44": {
@@ -1219,6 +1220,39 @@
     ],
     "ability": ""
   },
+  "123": {
+    "name": [
+      "Orange"
+    ],
+    "subtitle": "",
+    "description": [
+      "Freshly picked fruit, full of refreshing flavor",
+      "Eating it directly slightly restores health"
+    ],
+    "ability": ""
+  },  
+  "124": {
+    "name": [
+      "Green pear"
+    ],
+    "subtitle": "",
+    "description": [
+      "Freshly picked fruit, full of refreshing flavor",
+      "Eating it directly slightly restores health"
+    ],
+    "ability": ""
+  },  
+  "125": {
+    "name": [
+      "Peach"
+    ],
+    "subtitle": "",
+    "description": [
+      "Freshly picked fruit, full of refreshing flavor",
+      "Eating it directly slightly restores health"
+    ],
+    "ability": ""
+  },
   "127": {
     "name": [
       "Octopus tentacles"
@@ -1529,6 +1563,21 @@
     "ability": [
       "Increases desire after reading!"
     ]
+  },
+  "193": {
+    "name": [
+      "Tentacle Dildo"
+    ],
+    "beIndependent": true,
+    "subtitle": [
+      "\"Ara ara~ I'm really curious as to where exactly you want to use this, onii-san~~\""
+    ], 
+    "description": [
+      "An erotic toy refined after handing monster materials over to a certain archdemon",
+      "It is said to automatically contract and move based on the user's level of desire...",
+      "But why did I make something like this—THAT WAS SUPPOSED TO BE ME...!!"
+    ],
+    "ability": ""
   },
   "196": {
     "name": [

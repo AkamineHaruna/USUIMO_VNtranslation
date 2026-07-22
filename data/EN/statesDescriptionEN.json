@@ -682,6 +682,16 @@
       "Being in the bush feels safe… HP auto-regenerates"
     ]
   },
+  "93": {
+    "name": [],
+    "subtitle": [
+      "\"Guh...!? S-So heavy...! I feel like I'm sinking... I-I'm drowning...!!\""
+    ],
+    "description": [
+      "Afflicted with ${$gameParty.leader().getStateCounter(93)} stacks of Waterlogged! ",
+      "Movement Speed decreases with each stack! Instantly drowns at over 10 stacks!"
+    ]
+  },  
   "98": {
     "name": [],
     "subtitle": [
@@ -736,40 +746,13 @@
       "Not enough strength to use the weapon fully!"
     ]
   },
-  "107": {
+  "111": {
     "name": [],
     "subtitle": [
       "\"We are the guardians!\""
     ],
     "description": [
-      "Movement speed increased!"
-    ]
-  },
-  "108": {
-    "name": [],
-    "subtitle": [
-      "\"We are the guardians!\""
-    ],
-    "description": [
-      "Attack and defense increased!"
-    ]
-  },
-  "109": {
-    "name": [],
-    "subtitle": [
-      "\"We are the guardians!\""
-    ],
-    "description": [
-      "Defense increased!"
-    ]
-  },
-  "110": {
-    "name": [],
-    "subtitle": [
-      "\"We are the guardians!\""
-    ],
-    "description": [
-      "Max HP and defense increased!"
+      "HP required to trigger Knight set effects has been adjusted to below 75%"
     ]
   },
   "115": {

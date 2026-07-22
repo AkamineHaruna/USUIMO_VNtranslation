@@ -68,14 +68,17 @@
   "Language": [
     "Game Language"
   ],
-  "SwitchLanguage": [
-    "Game language change detected!",
-    "Restarting now to apply the new language settings!"
+  "loadConfirm": [
+    "Would you like",
+    "to load?"
   ],
-  "ErrorReport": [
-    "An error occurred. Please report the bug on the NLCH Discord server.",
-    "(Click 'OK' to open the invite link)",
-    "(Attach a screenshot of the error)"
+  "OverwriteConfirmed": [
+    "Would you like",
+    "to save?"
+  ],
+  "SVConfirmText": [
+    "Yes",
+    "No"
   ],
   "EnterCheatCode": [
     "ZAKO~♥ ZAKO~♥",
@@ -84,6 +87,30 @@
   "AnnouncementMenu": [
     "Announcements",
     "Changelogs"
+  ],
+  "mvSaveToMzConvertConfirmText": [
+    "${} save data file(s) from an older version (MV version) have been detected.",
+    "Would you like to convert these save files to the current MZ version format ",
+    "so they can continue to be loaded and used?"
+  ],
+  "mvSaveToMzConvertTipsText": [
+    "When you place MV version save files into the save folder, ",
+    "the save conversion process will be triggered automatically.",
+    "After a successful conversion, the save files will be converted into ",
+    "a format readable by the current MZ version and will appear on the Load screen.",
+    " ",
+    "This process will not delete the original MV version save files. ",
+    "However, if an MZ version save file with the same slot number already exists, ",
+    "the conversion will not be triggered again.",
+    " ",
+    "This feature is currently still in development and testing. ",
+    "If you believe any data was lost after conversion,",
+    "please keep your original MV version save files and report the issue on our Discord server."
+  ],
+  "mvSaveToMzFailed": "No save data found that requires conversion.",
+  "mvSaveToMzSuccess": [
+    "Successfully converted ${} save data slot(s).",
+    "New slot records have been added to the Load Game screen:"
   ],
   "UpdateComplete1": [
     "Game update completed!",
@@ -174,12 +201,15 @@
     "You can disable this feature at any time to immediately restore full image clarity."
   ],
   "cloudSaveServiceWarning": [
-    "As the cloud save database is still under construction,",
-    "this feature will temporarily request access to your Google Drive",
-    "in order to store game save files in the NLCH/save folder.",
-    "Uploaded save files will only be used for future synchronization and ",
-    "downloading back into the game, and will not be used for any other purposes.",
-    "Do you agree to grant the game permission to access your Google Drive?"
+    "This is the legacy Google Drive-based cloud save feature.",
+    "Now that the official cloud save system is complete,",
+    "this feature is scheduled to be deprecated and removed in a future update.",
+    " ",
+    "This cloud save feature will connect to your Google Drive",
+    "and store your game saves in the NLCH/save folder.",
+    "Uploaded save files will only be used for future synchronization and downloading back ",
+    "into the game. They will not be used for any other purpose.",
+    "Do you agree to grant the game access to your Google Drive?"
   ],
   "uploadSaveFile": [
     "Downloading a save file from Google Drive will overwrite your current local save data!",
@@ -218,27 +248,73 @@
     "notLoggedIn": "Not Logged In",
     "RequestingLogin": "Requesting login link...",
     "openingWindow": "Opening Patreon login window...",
+    "chooseLoginMethod": "Choose a platform to log in with",
+    "openingWindowItch": "Opening the itch.io login window...",
     "cloudSave": "Use Cloud Save",
     "logInFirst": "Please click this button to log in first",
     "CheckUpdates": "Update to Latest Version",
-    "Subscribed": "Subscription confirmed!",
-    "subscribedAndItchUser": "Subscription confirmed! (Itch ownership verified)",
+    "Subscribed": "Confirmed as a sponsor or verified player!",
     "NotSubscribed": "No active subscription detected. Some features are unavailable.",
     "lastCheck": "LastCheck: ",
     "checkLatestVersion": "Checking for the latest version, please wait...",
     "isLatestVersion": "You are already on the latest version!",
     "notSponsor": "Unverified users must subscribe first!",
     "ImoutoFavorite": "Imouto's Favorite",
-    "itchUser": "Itch user confirmed!",
     "nonItchUser": "This game was not found in your Itch library!",
-    "itchVerifyNotice": "You can verify ownership of the Itch version here",
-    "itchVerifyAlert": "Please log in before checking the Itch version!",
+    "additionalPlatformVerifyNotice": "You can also link accounts from other platforms to share the same playerId data!",
     "majorUpdateFailed": [
       "Major version update failed!",
       "Error code: ${}",
       "Please try logging in for verification and start the update again,",
       "or send this screenshot to our Discord server for assistance!"
     ]
+  },
+  "cloudSave": {
+    "title": "Cloud Save",
+    "lastSync": "Last Synced: ",
+    "neverSynced": "Never Synced",
+    "loading": "Loading cloud saves...",
+    "hint": "Download one cloud save, or use the top button to sync all (overwrites matching local slots)",
+    "empty": "No saves found in the cloud!",
+    "notLoggedIn": "Please log in first to use the cloud save feature!",
+    "listFailed": "Failed to retrieve cloud save list!",
+    "desktopOnly": "Cloud restore is desktop-only for now",
+    "downloading": "Downloading...",
+    "downloadDone": "Restored to local save",
+    "downloadFailed": "Failed to download cloud save!",
+    "uploading": "Uploading local save...",
+    "uploadDone": "Upload complete: %1 successful, %2 failed",
+    "uploadSkipped": "No content needs to be uploaded",
+    "confirmDownload": "Download and overwrite local save: ",
+    "syncAll": "Sync All Cloud Saves",
+    "confirmSyncAll": [
+      "Download %1 unsynced cloud saves?",
+      "Overwrite the matching local slots."
+    ],
+    "confirmSyncAllLocalNewer": "Warning: %1 local saves are newer.",
+    "syncAllProgress": "Syncing cloud saves... %1/%2",
+    "syncAllDone": "Cloud saves synced: %1 restored",
+    "syncAllPartial": "Sync finished: %1 restored, %2 failed",
+    "reconcileChecking": "Comparing local and cloud saves...",
+    "confirmReconcileOverlap": [
+      "[Cloud Save Auto-Sync]",
+      "Downloading %2 cloud-only saves to local directory...",
+      " ",
+      "Detected %1 conflicting save files between local and cloud!",
+      "Select [OK] to overwrite local saves with cloud versions (local data will be lost).",
+      "Select [Cancel] to keep local saves and upload them to the server during the next sync."
+    ],
+    "reconcileProgress": "Restoring cloud saves... %1/%2",
+    "reconcileDone": "Comparison complete: %1 downloaded, %2 overwritten, %3 kept local.",
+    "reconcilePartial": "Comparison finished: %1 restored, %2 failed.",
+    "reconcileFailed": "Automatic cloud save comparison failed. Sign in again to retry.",
+    "reconcileNothing": "No cloud saves were found; local saves will sync normally.",
+    "slotAuto": "Auto Save",
+    "slotN": "Slot %1",
+    "statusNoLocal": "Cloud Only",
+    "statusCloudNewer": "Cloud Version Newer",
+    "statusLocalNewer": "Local Version Newer",
+    "statusSynced": "Synced"
   },
   "AdventurersPathway": {
     "mapName": "Adventurer's Pathway"

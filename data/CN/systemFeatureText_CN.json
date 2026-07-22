@@ -50,15 +50,16 @@
   "Language": [
     "游戏语言"
   ],
-  "SwitchLanguage": [
-    "检测到游戏语言设置发生了改变！",
-    "将立即重启游戏以适配新的语言环境！"
+  "loadConfirm": [
+    "现在要读档吗？"
+  ],  
+  "OverwriteConfirmed": [
+    "现在要存档吗？"
   ],
-  "ErrorReport": [
-    "游戏发生错误，是否前往逆流茶会的Discord服务器进行Bug反馈？",
-    "(点击“确定”将打开Discord邀请链接)",
-    "(请附带游戏报错画面的截屏)"
-  ],
+  "SVConfirmText": [
+    "是",
+    "否"
+  ],  
   "EnterCheatCode": [
     "杂鱼~♥ 杂鱼~♥",
     "在这输入作弊码..."
@@ -66,7 +67,23 @@
   "AnnouncementMenu": [
     "最新公告",
     "更新日志"
-  ],  
+  ],
+  "mvSaveToMzConvertConfirmText": [
+    "检测到${}份来自旧版本（MV版）的存档数据。",
+    "是否将这些存档转换为当前 MZ 版本格式，以便继续读取和使用？"
+  ],   
+  "mvSaveToMzConvertTipsText": [
+    "将MV版本的存档文件放入save文件夹后，系统会自动触发存档转换流程。",
+    "转换成功后，存档将被转换为当前MZ版本可读取的格式，并会显示在读档界面中。",
+    "该流程不会删除原本的MV版本存档，但如果相同编号的MZ版本存档已经存在，则不会再次触发转换。",
+    "目前该功能仍处于开发测试阶段。如果你认为转换后出现了数据丢失，",
+    "请妥善保留原 MV 版本存档，并前往我们的 Discord 服务器报告此问题。"
+  ],   
+  "mvSaveToMzFailed": "没有需要转换的存档。",
+  "mvSaveToMzSuccess": [
+    "成功转换${}份存档数据。",
+    "已向读档界面新增槽位记录："
+  ],    
   "UpdateComplete1": [
     "游戏自动更新完成！",
     "关闭该弹窗后将自动重启游戏以适配更新内容！",
@@ -82,8 +99,11 @@
     "请通过自动更新应用补丁修复问题！"
   ],
   "cloudSaveServiceWarning": [
-    "由于云存档数据库仍在建设中，",
-    "该功能将暂时通过请求访问您的 Google Drive，",
+    "这是基于Google Drive的旧版本云存档功能，",
+    "由于正式的云存档系统已完成建设，",
+    "该功能已计划在未来的版本废弃移除！",
+    " ",
+    "本云存档将连接至您的Google Drive",
     "以便将游戏存档存储至 NLCH/save 文件夹中。",
     "上传的存档文件仅用于后续同步与下载回游戏，不会用于其他用途。",
     "是否同意授予游戏访问 Google Drive 的权限？"
@@ -200,28 +220,74 @@
     "waitingLogin": "等待登录验证流程完成……",
     "notLoggedIn": "还未进行登录验证…",
     "RequestingLogin": "正在发起登录请求……",
-    "openingWindow": "正在打开Patreon登录窗口……",
+    "openingWindow": "正在打开登录窗口……",
+    "chooseLoginMethod": "请选择用于登录的平台",
+    "openingWindowItch": "正在打开itch.io登录窗口……",
     "cloudSave": "启用云存档",
     "logInFirst": "请先点击此按钮进行登录",
     "CheckUpdates": "更新至最新版本",
-    "Subscribed": "已确认为赞助者！",
+    "Subscribed": "已确认为赞助者或验证玩家！",
     "subscribedAndItchUser": "已确认为赞助者！(Itch入库验证)",
-    "NotSubscribed": "未确认到赞助记录，无法使用部分功能！",
+    "NotSubscribed": "未确认到付费凭证或游戏入库记录，无法使用部分功能！",
     "lastCheck": "最近登录时间： ",
     "checkLatestVersion": "正在检查最新的版本号，请稍等……",
     "isLatestVersion": "已经是最新版本啦！",
     "notSponsor": "非验证用户请先进行赞助！",
     "ImoutoFavorite": "妹妹的最爱！",
-    "itchUser": "已确认为Itch版本玩家！",
     "nonItchUser": "在Itch中未检测到你拥有本游戏！",
-    "itchVerifyNotice": "可进行Itch版本游戏入库验证",
-    "itchVerifyAlert": "请先登录再进行Itch版本检测！",
+    "additionalPlatformVerifyNotice": "可额外绑定其他平台的账号信息以继承同一个playerId数据！",
     "majorUpdateFailed": [
       "大版本更新失败！",
       "错误代码： ${}",
       "请重新尝试登录验证并发起更新，",
       "或者将此截图发送至我们的 Discord 服务器以获取帮助！"
     ]
+  },
+  "cloudSave": {
+      "title": "云存档",
+      "lastSync": "上次同步时间：",
+      "neverSynced": "从未同步",
+      "loading": "正在读取云端存档……",
+      "hint": "选择单个云存档下载，或使用顶部按钮一键同步（将覆盖对应本地存档位）",
+      "empty": "云端还没有存档！",
+      "notLoggedIn": "请先登录后使用云存档功能！",
+      "listFailed": "云端清单获取失败！",
+      "downloading": "正在下载……",
+      "downloadDone": "已恢复到本地存档",
+      "downloadFailed": "云存档下载失败！",
+      "uploading": "正在上传本地存档……",
+      "uploadDone": "上传完成：成功 %1 个，失败 %2 个",
+      "uploadSkipped": "没有需要上传的内容",
+      "confirmDownload": "下载该存档并覆盖本地数据：",
+      "syncAll": "一键同步所有云存档",
+      "confirmSyncAll": [
+        "下载 %1 个未同步的云存档？",
+        "这将覆盖对应的本地存档位。"
+      ],
+      "confirmSyncAllLocalNewer": "注意：%1 个本地存档较新。",
+      "syncAllProgress": "正在同步云存档……%1/%2",
+      "syncAllDone": "云存档同步完成：已恢复 %1 个",
+      "syncAllPartial": "同步完成：成功 %1 个，失败 %2 个",
+      "reconcileChecking": "正在对照本地与云端存档……",
+      "confirmReconcileOverlap": [
+        "【云存档自动同步】",
+        "正在将 %2 个云存档下载至本地——",
+        " ",
+        "检测到本地与云端有 %1 个重叠的存档数据！",
+        "选择【OK】将以云端版本覆盖本地（本地旧存档将丢失）",
+        "选择【Canel】将保留本地版本并于下次同步时上传至云端"
+      ],
+      "reconcileProgress": "正在恢复云存档……%1/%2",
+      "reconcileDone": "自动对照完成：下载 %1 个，覆盖 %2 个，保留本地 %3 个。",
+      "reconcilePartial": "对照完成：成功恢复 %1 个，失败 %2 个。",
+      "reconcileFailed": "云存档自动对照失败，请重新登录后重试。",
+      "reconcileNothing": "云端暂无存档，本地存档将按常规方式同步。",
+      "slotAuto": "自动存档",
+      "slotN": "存档 %1",
+      "statusNoLocal": "仅云端",
+      "statusCloudNewer": "云端版本更新",
+      "statusLocalNewer": "本地版本更新",
+      "statusSynced": "已同步"
   },
   "AdventurersPathway": {
     "mapName": "冒險者小道"
