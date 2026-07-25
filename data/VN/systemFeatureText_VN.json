@@ -63,14 +63,17 @@
 	"Language": [
 		"Ngôn ngữ game"
 	],
-	"SwitchLanguage": [
-		"Phát hiện thay đổi ngôn ngữ game!",
-		"Khởi động lại để áp dụng cài đặt ngôn ngữ mới!"
+	"loadConfirm": [
+		"Bạn có muốn load lại",
+		"tiến trình không?"
 	],
-	"ErrorReport": [
-		"Đã xảy ra lỗi. Vui lòng báo lỗi trên server Discord của NLCH.",
-		"(Nhấn 'OK' để mở liên kết mời Discord)",
-		"(Đính kèm ảnh chụp màn hình của lỗi)"
+	"OverwriteConfirmed": [
+		"Bạn có muốn save lại",
+		"tiến trình không?"
+	],
+	"SVConfirmText": [
+		"Có",
+		"Không"
 	],
 	"EnterCheatCode": [
 		"ZAKO~♥ ZAKO~♥",
@@ -80,10 +83,34 @@
 		"Thông báo",
 		"Nhật ký thay đổi"
   	],
+	"mvSaveToMzConvertConfirmText": [
+		"Đã phát hiện ${} tệp dữ liệu save từ phiên bản cũ hơn (phiên bản MV).",
+		"Bạn có muốn chuyển đổi các tệp save này sang định dạng của phiên bản MZ hiện tại ",
+		"để có thể tiếp tục load và sử dụng không?"
+	],
+	"mvSaveToMzConvertTipsText": [
+		"Khi bạn đặt các tệp save phiên bản MV vào thư mục save, ",
+		"quá trình chuyển đổi dữ liệu save sẽ được tự động kích hoạt.",
+		"Sau khi chuyển đổi thành công, các tệp save sẽ được chuyển sang ",
+		"định dạng mà phiên bản MZ hiện tại có thể đọc và sẽ xuất hiện trên màn hình Load.",
+		" ",
+		"Quá trình này sẽ không xóa các tệp save phiên bản MV gốc. ",
+		"Tuy nhiên, nếu đã tồn tại tệp save phiên bản MZ có cùng số ô save, ",
+		"quá trình chuyển đổi sẽ không được kích hoạt lại.",
+		" ",
+		"Tính năng này hiện vẫn đang trong quá trình phát triển và thử nghiệm. ",
+		"Nếu bạn cho rằng dữ liệu đã bị mất sau khi chuyển đổi,",
+		"vui lòng giữ lại các tệp save phiên bản MV gốc và báo cáo sự cố trên server Discord của chúng tôi."
+	],
+	"mvSaveToMzFailed": "Không tìm thấy dữ liệu save nào cần chuyển đổi.",
+	"mvSaveToMzSuccess": [
+		"Đã chuyển đổi thành công ${} ô dữ liệu save.",
+		"Các ô save mới đã được thêm vào màn hình Load Game:"
+	],
 	"UpdateComplete1": [
 		"Cập nhật game đã hoàn tất!",
 		"Game sẽ tự động khởi động lại sau khi đóng cửa sổ này.",
-		"Bạn có thể load file auto-save để tiếp tục tiến trình!"
+		"Bạn có thể load tệp auto-save để tiếp tục tiến trình!"
 	],
 	"UpdateComplete2": [
 		"Cập nhật game đã hoàn tất!",
@@ -169,11 +196,14 @@
 		"Bạn có thể tắt tính năng này bất cứ lúc nào để khôi phục ngay chất lượng hình ảnh đầy đủ."
 	],
 	"cloudSaveServiceWarning": [
-		"Do cơ sở dữ liệu lưu trữ đám mây vẫn đang trong quá trình phát triển,",
-		"tính năng này sẽ tạm thời yêu cầu quyền truy cập vào Google Drive của bạn",
-		"để lưu các tệp save game trong thư mục NLCH/save.",
-		"Các bản lưu được tải lên sẽ chỉ được dùng cho việc đồng bộ trong tương lai ",
-		"và tải ngược trở lại vào trò chơi, sẽ không được sử dụng cho bất kỳ mục đích nào khác.",
+		"Đây là tính năng lưu trữ đám mây cũ dựa vào Google Drive.",
+		"Hiện tại, hệ thống lưu trữ đám mây chính thức đã được hoàn thiện,",
+		"tính năng này dự kiến sẽ ngừng hỗ trợ và bị xóa trong một bản cập nhật tương lai.",
+		" ",
+		"Tính năng lưu trữ đám mây này sẽ kết nối với Google Drive của bạn",
+		"và lưu các tệp save game vào thư mục NLCH/save.",
+		"Các tệp save đã tải lên sẽ chỉ được sử dụng cho việc đồng bộ trong tương lai và tải ngược trở lại ",
+		"vào trò chơi. Chúng sẽ không được sử dụng cho bất kỳ mục đích nào khác.",
 		"Bạn có đồng ý cấp quyền để trò chơi truy cập Google Drive của mình không?"
 	],
 	"uploadSaveFile": [
@@ -213,21 +243,20 @@
 		"notLoggedIn": "Chưa đăng nhập",
 		"RequestingLogin": "Đang tạo link đăng nhập...",
 		"openingWindow": "Đang mở cửa sổ đăng nhập Patreon...",
+		"chooseLoginMethod": "Chọn nền tảng để đăng nhập",
+		"openingWindowItch": "Đang mở cửa sổ đăng nhập itch.io...",
 		"cloudSave": "Sử dụng lưu trữ đám mây",
 		"logInFirst": "Vui lòng nhấn nút này để đăng nhập trước",
 		"CheckUpdates": "Cập nhật lên phiên bản mới nhất",
-		"Subscribed": "Đã xác nhận đăng ký!",
-		"subscribedAndItchUser": "Đã xác nhận đăng ký! (Đã xác minh quyền sở hữu trên Itch)",
+		"Subscribed": "Đã xác nhận là người chơi có tài trợ hoặc người chơi đã xác minh!",
 		"NotSubscribed": "Không phát hiện đăng ký đang hoạt động. Một số tính năng sẽ không khả dụng.",
 		"lastCheck": "Lần kiểm tra cuối: ",
 		"checkLatestVersion": "Đang kiểm tra phiên bản mới nhất, vui lòng chờ...",
 		"isLatestVersion": "Bạn đã ở phiên bản mới nhất!",
 		"notSponsor": "Người dùng chưa xác minh cần đăng ký!",
 		"ImoutoFavorite": "Imouto's Favorite!",
-		"itchUser": "Đã xác nhận người dùng Itch!",
 		"nonItchUser": "Không tìm thấy trò chơi này trong thư viện Itch của bạn!",
-		"itchVerifyNotice": "Bạn có thể xác minh quyền sở hữu bản Itch tại đây",
-		"itchVerifyAlert": "Vui lòng đăng nhập trước khi kiểm tra bản Itch!",
+		"additionalPlatformVerifyNotice": "Bạn cũng có thể liên kết tài khoản từ các nền tảng khác để dùng chung dữ liệu playerId!",
 		"majorUpdateFailed": [
 			"Cập nhật phiên bản lớn thất bại!",
 			"Mã lỗi: ${}",
@@ -235,6 +264,53 @@
 			"hoặc gửi ảnh chụp màn hình này lên Discord của chúng tôi để được hỗ trợ!"
 		]
   	},
+	"cloudSave": {
+		"title": "Lưu Trữ Đám Mây",
+		"lastSync": "Lần đồng bộ cuối: ",
+		"neverSynced": "Chưa từng đồng bộ",
+		"loading": "Đang tải danh sách save trên đám mây...",
+		"hint": "Tải xuống một tệp save trên đám mây hoặc dùng nút phía trên để đồng bộ tất cả (sẽ ghi đè các ô save cục bộ trùng khớp)",
+		"empty": "Không tìm thấy tệp save nào trên đám mây!",
+		"notLoggedIn": "Vui lòng đăng nhập trước để sử dụng tính năng lưu trữ đám mây!",
+		"listFailed": "Không thể lấy danh sách save trên đám mây!",
+		"desktopOnly": "Hiện tại, tính năng khôi phục từ đám mây chỉ khả dụng trên máy tính",
+		"downloading": "Đang tải xuống...",
+		"downloadDone": "Đã khôi phục vào tệp save cục bộ",
+		"downloadFailed": "Không thể tải tệp save trên đám mây xuống!",
+		"uploading": "Đang tải tệp save cục bộ lên...",
+		"uploadDone": "Tải lên hoàn tất: %1 thành công, %2 thất bại",
+		"uploadSkipped": "Không có nội dung nào cần tải lên",
+		"confirmDownload": "Tải xuống và ghi đè tệp save cục bộ: ",
+		"syncAll": "Đồng Bộ Tất Cả Save Trên Đám Mây",
+		"confirmSyncAll": [
+			"Tải xuống %1 tệp save trên đám mây chưa được đồng bộ?",
+			"Các ô save cục bộ trùng khớp sẽ bị ghi đè."
+		],
+		"confirmSyncAllLocalNewer": "Cảnh báo: Có %1 tệp save cục bộ mới hơn.",
+		"syncAllProgress": "Đang đồng bộ save trên đám mây... %1/%2",
+		"syncAllDone": "Đã đồng bộ save trên đám mây: khôi phục %1 tệp",
+		"syncAllPartial": "Đồng bộ hoàn tất: khôi phục %1 tệp, %2 tệp thất bại",
+		"reconcileChecking": "Đang so sánh save cục bộ và save trên đám mây...",
+		"confirmReconcileOverlap": [
+			"[Tự Động Đồng Bộ Save Trên Đám Mây]",
+			"Đang tải %2 tệp save chỉ có trên đám mây xuống thư mục cục bộ...",
+			" ",
+			"Phát hiện %1 tệp save xung đột giữa dữ liệu cục bộ và đám mây!",
+			"Chọn [OK] để ghi đè save cục bộ bằng phiên bản trên đám mây (dữ liệu cục bộ sẽ bị mất).",
+			"Chọn [Cancel] để giữ lại save cục bộ và tải chúng lên máy chủ trong lần đồng bộ tiếp theo."
+		],
+		"reconcileProgress": "Đang khôi phục save trên đám mây... %1/%2",
+		"reconcileDone": "So sánh hoàn tất: %1 tệp đã tải xuống, %2 tệp đã ghi đè, %3 tệp được giữ lại cục bộ.",
+		"reconcilePartial": "So sánh hoàn tất: khôi phục %1 tệp, %2 tệp thất bại.",
+		"reconcileFailed": "Tự động so sánh save trên đám mây thất bại. Hãy đăng nhập lại để thử lại.",
+		"reconcileNothing": "Không tìm thấy save nào trên đám mây; save cục bộ sẽ được đồng bộ như bình thường.",
+		"slotAuto": "Save Tự Động",
+		"slotN": "Ô %1",
+		"statusNoLocal": "Chỉ Có Trên Đám Mây",
+		"statusCloudNewer": "Phiên Bản Trên Đám Mây Mới Hơn",
+		"statusLocalNewer": "Phiên Bản Cục Bộ Mới Hơn",
+		"statusSynced": "Đã Đồng Bộ"
+	},
 	"AdventurersPathway": {
     	"mapName": "Lối Mòn Mạo Hiểm Giả"
   	},

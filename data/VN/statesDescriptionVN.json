@@ -684,6 +684,16 @@
 			"Cảm thấy an toàn khi ở trong bụi cây... HP tự động hồi phục"
 		]
 	},
+	"93": {
+		"name": [],
+		"subtitle": [
+			"\"Guh...!? S-So heavy...! I feel like I'm sinking... I-I'm drowning...!!\""
+		],
+		"description": [
+			"Afflicted with ${$gameParty.leader().getStateCounter(93)} stacks of Waterlogged! ",
+			"Movement Speed decreases with each stack! Instantly drowns at over 10 stacks!"
+		]
+	},
 	"98": {
 		"name": [],
 		"subtitle": [
@@ -738,40 +748,13 @@
 			"Không đủ sức mạnh để sử dụng vũ khí!"
 		]
 	},
-	"107": {
+	"111": {
 		"name": [],
 		"subtitle": [
 			"\"Chúng ta là những người bảo vệ!\""
 		],
 		"description": [
-			"Tăng tốc độ di chuyển!"
-		]
-	},
-	"108": {
-		"name": [],
-		"subtitle": [
-			"\"Chúng ta là những người bảo vệ!\""
-		],
-		"description": [
-			"Tăng sức tấn công và phòng thủ!"
-		]
-	},
-	"109": {
-		"name": [],
-		"subtitle": [
-			"\"Chúng ta là những người bảo vệ!\""
-		],
-		"description": [
-			"Tăng phòng thủ!"
-		]
-	},
-	"110": {
-		"name": [],
-		"subtitle": [
-			"\"Chúng ta là những người bảo vệ!\""
-		],
-		"description": [
-			"Tăng HP tối đa và phòng thủ!"
+			"HP required to trigger Knight set effects has been adjusted to below 75%"
 		]
 	},
 	"115": {

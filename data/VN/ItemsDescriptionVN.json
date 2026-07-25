@@ -180,12 +180,13 @@
         "beIndependent": true,
         "subtitle": "",
         "description": [
-            "Được cho là một bảo vật phương Đông, chế tác tinh xảo nhưng bị thất lạc",
-            "trong Vực Sâu... Nó đóng băng cảnh vật thành hình ảnh, nhưng",
-            "dễ bị ảnh hưởng bởi ma thuật, đôi khi chụp được những thứ kỳ lạ"
+            "Được cho là một bảo vật phương Đông, chế tác tinh xảo nhưng bị thất lạc trong Vực Sâu... ",
+            "Nó đóng băng cảnh vật thành hình ảnh, nhưng lại dễ bị ảnh hưởng bởi ma thuật, ",
+            "đôi khi chụp được những thứ kỳ lạ"
         ],
         "ability": [
-            "Nhấn F7 để chụp ảnh"
+            "Có thể quay video và chụp ảnh",
+            "Có thể dùng thông qua phím F7"
         ]
     },
     "15": {
@@ -533,8 +534,8 @@
             "không có kiến thức về ma thuật cũng có thể dễ dàng kích hoạt nó."
         ],
         "ability": [
-            "Khi sử dụng sẽ để lại kí hiệu có chữ tại vị trí đó",
-            "Sau khi cập nhật, kí hiệu sẽ hiển thị với các người chơi khác"
+            "Leaves a text-marked sign at the location when used",
+            "After updating, the sign becomes visible to other players"
         ]
     },
     "44": {
@@ -1221,6 +1222,39 @@
         ],
         "ability": ""
     },
+    "123": {
+        "name": [
+            "Orange"
+        ],
+        "subtitle": "",
+        "description": [
+            "Freshly picked fruit, full of refreshing flavor",
+            "Eating it directly slightly restores health"
+        ],
+        "ability": ""
+    },
+    "124": {
+        "name": [
+            "Green pear"
+        ],
+        "subtitle": "",
+        "description": [
+            "Freshly picked fruit, full of refreshing flavor",
+            "Eating it directly slightly restores health"
+        ],
+        "ability": ""
+    },
+    "125": {
+        "name": [
+            "Peach"
+        ],
+        "subtitle": "",
+        "description": [
+            "Freshly picked fruit, full of refreshing flavor",
+            "Eating it directly slightly restores health"
+        ],
+        "ability": ""
+    },
     "127": {
         "name": [
             "Râu Bạch Tuộc"
@@ -1520,6 +1554,32 @@
         "ability": [
             "Tăng ham muốn sau khi đọc!"
 		]	
+    },
+    "193": {
+        "name": [
+            "Tentacle Dildo"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"Ara ara~ I'm really curious as to where exactly you want to use this, onii-san~~\""
+        ], 
+        "description": [
+            "An erotic toy refined after handing monster materials over to a certain archdemon",
+            "It is said to automatically contract and move based on the user's level of desire...",
+            "But why did I make something like this—THAT WAS SUPPOSED TO BE ME...!!"
+        ],
+        "ability": ""
+    },
+    "196": {
+        "name": [
+            "Memory Gallery [NLCH Polaroid]"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "Enter the Memory Gallery to view all collected Polaroids from this series"
+        ],
+        "ability": ""
     },
     "197": {
         "name": [

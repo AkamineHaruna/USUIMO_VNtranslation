@@ -800,6 +800,9 @@
             "\\nl< >\"Sấy tóc mệt quá... ",
 			"\\str[121], giúp em với~\""
         ],
+        "4.1": [
+            "\\nl< >\"...Please don't keep staring at me like that~\""
+        ],
         "5": [
             "\\nl< >\"Anh sao thế, \\str[121]?\""
         ],	
@@ -2029,7 +2032,7 @@
             "\\str[120] lắng nghe trong vô thức, như thể đang chịu đựng điều gì đó."
 		],
         "14": [
-            "\\nl< >\"—Onii-chaaaan~!\""
+            "\\nl< >\"\\str[121]~!\""
 		],
         "15": [
             "Động viên \\str[120]!"

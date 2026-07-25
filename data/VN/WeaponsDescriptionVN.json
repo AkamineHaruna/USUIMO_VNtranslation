@@ -404,6 +404,57 @@
             "Tăng mạnh hiệu quả của tất cả kỹ năng đã học"
         ]
     },
+    "31": {
+        "name": [
+            "Ruinous Remnant"
+        ],
+        "subtitle": [
+            "\"No matter... ███... will... find... ███...\""
+        ],
+        "description": [
+            "A broken stone sword found within a destroyed monument... Is it a burial object?",
+            "Mottled inscriptions remain on the side of the blade, ",
+            "but the meaning is fragmented and unreadable..."
+        ],
+        "ability": [
+            "Deals extra damage when the weapon nears breaking"
+        ]
+    },
+    "32": {
+        "name": [
+            "Staff of Yggdrasil"
+        ],
+        "subtitle": [
+            "——How should a mage allocate skill points? Waiting online, urgent!",
+            "——Put all stats into Stamina and Strength.",
+            "Max out Charge and Whirlwind for skills.",
+            "For magic, just get Holy Light and you're good.",
+            "——Thanks, bro."
+        ],
+        "description": [
+            "A staff crafted from the branches of Yggdrasil",
+            "Due to its sheer weight, it is only favored by a handful of battle mages"
+        ],
+        "ability": [
+            "50% chance to inflict Stun state on attack",
+            "When HP falls below \\c[29]400\\c[0], the weapon’s full potential is limited!"
+        ]
+    },  
+    "34": {
+        "name": [
+            "Roar of the Ruler"
+        ],
+        "subtitle": "",
+        "description": [
+            "A peculiar staff refined purely from water elements. They say it grants absolute",
+            "control over water pressure, just like a certain terrifying undersea overlord—",
+            "But wait, what if there's no water around at all...?!"
+        ],
+        "ability": [
+            "Hold right mouse button to cast Torrential Burial",
+            "Requires a nearby water source to cast"
+        ]
+    },
     "35": {
         "name": [
             "Claíomh Solais"
@@ -457,13 +508,12 @@
 		    "\"Nhớ nhé, Trảm Cuồng Phong dùng như thế này! \""
 		],
         "description": [
-            "Lưỡi hái cán ngắn của người ngoài với thiết kế đáng sợ",
-            "và ý chí trú ngụ bên trong. Cầm lâu còn có thể",
-            "nghe thấy tiếng nói lạ vang lên trong đầu"
+            "A short-handled scythe carried by an outsider, with a fearsome design and ",
+            "an inner will Wielding it too long may cause strange voices to echo in your mind"
         ],
         "ability": [
-            "Tự động tìm mục tiêu khi ném",
-			"Ý chí mạnh mẽ sẽ giúp bạn làm chủ kỹ năng chiến đấu đặc biệt"
+            "Whirlwind Slash automatically tracks enemies and returns to hand when thrown",
+            "Catching the returning weapon allows an instant re-throw with increased damage"
         ]
     },
     "51": {
@@ -632,9 +682,8 @@
             "\"——đa số mạo hiểm giả chỉ gọi thứ này là Ống Sừng Hươu.\""
         ],
         "description": [
-            "Vũ khí thường được Ác Ma Dục Vọng sử dụng, tương truyền ",
-            "ban đầu vốn là một loại pháp khí nghi thức.",
-            "Chất liệu cùng ma lực ẩn chứa bên trong đến nay vẫn không thể phân tích.",
+            "A Lust Demon weapon, originally some kind of ritual implement",
+            "Its material and inner magic cannot be analyzed",
             "Ngoài ra, nó còn hoạt động cực kỳ hiệu quả như một chiếc đồng hồ báo thức…!"
         ],
         "ability": [

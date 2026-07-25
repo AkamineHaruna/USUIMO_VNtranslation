@@ -10,7 +10,9 @@
 		    "???"
 		],	  
         "description": [
-            ""
+            "In this peril-filled abyss, this is the only ",
+			"haven that provides a moment of peaceful ",
+			"rest for weary travelers and adventurers"
 		],
 		"1": [
             "Tìm thấy lửa trại...",
@@ -837,7 +839,39 @@
 		    "Được",
             "Không"
         ]	
-    },	  
+    },
+	"39": {
+		"objectName": [
+			"Thick Tentacle"
+		],
+		"sentouryoku": [
+			"300"
+		],
+		"description": [
+			"An exceptionally thick and massive octopus tentacle",
+			"Its true form slumbers deep beneath the water, ",
+			"the undisputed Lord of the River",
+			"It wasn't this massive pastly, mutated by some unknown force",
+			"It merely drifts silently now; best not to disturb it..."
+		]
+	},    
+	"40": {
+		"objectName": [
+			"Ruler Of The Octo-Arms"
+		],
+		"subtitle": [
+			"Dwelling in the water"
+		],
+		"bossName": [
+			"Ruler Of The Octo-Arms"
+		],
+		"sentouryoku": [
+			"8600"
+		],
+		"description": [
+			""
+		]
+	},
   	"41": {
 		"objectName": [
 		    "\\c[114]Dịch Vụ Giao Hàng NLCH!"
@@ -933,7 +967,23 @@
 		"description": [
 			""
 		]
-  	},	  
+  	},
+	"61": {
+		"objectName": [
+			"WaterMelon Fairy"
+		],
+		"sentouryoku": [
+			"770"
+		],
+		"description": [
+			"The Watermelon Fairy is the most level-headed",
+			"among all the fairies. Although it ",
+			"doesn't understand the purpose of its own birth,",
+			"its clumsy yet solid body gives it more courage to explore,",
+			"only for it to realize, with a heavy dose of self-doubt,",
+			"that it can't run fast at all..."
+		]
+	},
   	"65": {
 		"objectName": [
 		    "\\c[116]Quái Điểu"
@@ -1031,11 +1081,12 @@
 		    "?10"
 		],	  
         "description": [
-            "Một sinh vật...? có hình dáng giống quả chuối.",
-            "Được sinh ra từ sức ảnh hưởng của Vực Sâu. ",
-            "Nó hầu như không gây nguy hiểm cho mạo hiểm giả.",
-            "Tuy nhiên, có tin đồn rằng nó có thể ",
-			"dễ dàng làm người ta bay vút đi..."
+            "Since bananas do not grow in this region, ",
+			"it seems to have wandered a long way to get here",
+			"While completely harmless to adventurers, ",
+			"it is incredibly sensitive and timid—",
+			"The slightest fright will send it into a crying fit, ",
+			"easily blasting away anyone who gets close..."
 		]	
     },	  
   	"71": {
@@ -1046,11 +1097,11 @@
 		    "?10"
 		],	  
         "description": [
-            "Một sinh vật...? có hình dáng giống quả táo.",
-            "Được sinh ra từ sức ảnh hưởng của Vực Sâu. ",
-            "Nó hầu như không gây nguy hiểm cho mạo hiểm giả.",
-            "Tuy nhiên, có tin đồn rằng nó có thể ",
-			"dễ dàng làm người ta bay vút đi..."
+            "A fairy born under the influence of the Abyss's aura",
+			"Currently, its biggest curiosity is finding out exactly ",
+			"where the Banana Fairy wandered in from",
+			"And quite naturally, ",
+			"it is just as much of a crybaby as the Banana Fairy"
 		]	
     },		  
   	"72": {
@@ -1125,7 +1176,22 @@
 		"description": [
 			""
 		]
-  	},	  
+  	},
+	"84": {
+		"objectName": [
+			"Fruit Tree"
+		],
+		"sentouryoku": [
+			"1"
+		],
+		"description": [
+			"A strange fruit tree growing on abyss nutrients",
+			"For some reason, rain always makes it bear fruit",
+			"Camp rumors say saplings grow on dead adventurers",
+			"Because of this, people believe chopping them down",
+			"will yield treasures left behind by predecessors"
+		]
+	},
   	"87": {
 		"objectName": [
 		    "Slime Ăn Cỏ"
@@ -1648,6 +1714,21 @@
             "\\fr${itemIcon}\\fr và tổng cộng ${itemLength} trang bị."
         ]	
     },
+	"104": {
+		"objectName": [
+			"\\c[114]Devil's Gate"
+		],
+		"sentouryoku": [
+			"???"
+		],
+		"description": [
+			"An ominous portal that appears to challenge champions",
+			"The chilling air leaking from within is a malicious invitation",
+			"Rumors say a seductive demonic sister waits inside",
+			"Eager, confident adventurers challenge her,",
+			"but crawl out pale and completely drained..."
+		]
+	},
 	"106": {
 		"objectName": [
 		    "Cây ớt"
