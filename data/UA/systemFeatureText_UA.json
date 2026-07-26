@@ -240,6 +240,8 @@
   "notLoggedIn": "Не Увійшов в Систему",
   "RequestingLogin": "Запит ссилки для входу в систему...",
   "openingWindow": "Відкриваємо вікно входу в систему Patreon...",
+    "chooseLoginMethod": "Виберіть платформу для входу",
+    "openingWindowItch": "Відкривається вікно входу itch.io...",
   "cloudSave": "Хмарне збереження",
   "CheckUpdates": "Оновити до останньої версії",
   "Subscribed": "Підписка підтверджена!",

@@ -453,8 +453,8 @@
 			"có lẽ anh nên dừng lại được rồi đó...\"    \\w[210]\\^"
         ],
 		"21": [
-            "\\nl< >\"Trời ạ, đừng có chọc em khắp nơi như vậy!\"  \\w[240]",
-			"\\nl< >\"Em không phải món đồ chơi của anh đâu đấy!\"    \\w[120]\\^"
+            "\\nl< >\"Trời ạ, đừng có chọc em khắp nơi như vậy!  \\w[240]",
+			"Em không phải món đồ chơi của anh đâu đấy!\"    \\w[120]\\^"
         ],
 		"22": [
             "\\nl< >\"Uweh-eh-eh... \\str[121], \\w[150]",
@@ -1276,7 +1276,7 @@
             "Uống gì đó",
 			"Chơi gì đó",
             "Xem gì đó",
-            "\\fs[20]Chiều chuộng anh trai",
+            "Chiều chuộng",
             "Tặng quà"
 		],
         "3": [
@@ -1929,7 +1929,7 @@
 			"\"Anh đã nghe qua rồi...\""
 		],
         "3": [
-            "Để anh lo cho!            \\w[30]",
+            "\"Để anh lo cho!\"            \\w[30]",
 	        "Chải chải—\\w[30]chải chải—\\w[30]chải chải—\\w[30]",
 	        "Tôi cẩn thận chải tóc cho \\str[120]."
 		],
@@ -2644,8 +2644,8 @@
 		],
         "37": [
             "\\nl< >\"Đây là loại thuốc mà anh đã tìm kiếm ",
-			"suốt thời gian qua đúng không?   \\w[90]\"",
-			"Anh đang lo lắng cho em à, \\str[121]?"
+			"suốt thời gian qua đúng không?   \\w[90]",
+			"Anh đang lo lắng cho em à, \\str[121]?\""
 		],	
         "38": [
             "Em ấy đột nhiên nắm lấy bàn tay ",

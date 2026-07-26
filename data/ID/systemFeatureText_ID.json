@@ -192,6 +192,8 @@
     "notLoggedIn": "Belum melakukan verifikasi login...",
     "RequestingLogin": "Sedang memulai permintaan login...",
     "openingWindow": "Sedang membuka jendela login Patreon...",
+    "chooseLoginMethod": "Pilih platform untuk masuk",
+    "openingWindowItch": "Membuka jendela login itch.io...",
     "cloudSave": "Aktifkan Penyimpanan Cloud",
     "logInFirst": "Mohon klik tombol ini untuk login terlebih dahulu.",
     "CheckUpdates": "Perbarui ke Versi Terbaru",

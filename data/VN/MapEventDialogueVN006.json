@@ -747,8 +747,8 @@
 			"Bóp con vịt"
         ],
 		"55": [
-		    "\\nl< >\"Ha... haa...             \\[60]",
-			"Em... em không... chịu nổi nữa...       \\[60]",
+		    "\\nl< >\"Ha... haa...             \\w[60]",
+			"Em... em không... chịu nổi nữa... \\w[60]",
 			"\\str[121], tự cởi nó ra đi...\""
         ],
 		"56": [

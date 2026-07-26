@@ -48,6 +48,7 @@
   },
   "cannotUseItem": "当前无法使用道具！",
   "bulkSelectButton": "点击此按钮可以切换至批量选择物品",
+  "warehouseIsFull": "不能再存放更多物品了！",
   "usingItem": {
     "0": [
       "拿出了\\ii[\\v[90]]、 ",

@@ -204,6 +204,8 @@
     "notLoggedIn": "Não está logado",
     "RequestingLogin": "Solicitando link de login...",
     "openingWindow": "Abrindo janela de login no Patreon...",
+    "chooseLoginMethod": "Escolha uma plataforma para fazer login",
+    "openingWindowItch": "Abrindo a janela de login do itch.io...",
     "cloudSave": "Usar Salvamento na Nuvem",
     "logInFirst": "Por favor, clique neste botão para entrar primeiro",
     "CheckUpdates": "Atualize para a versão mais recente",

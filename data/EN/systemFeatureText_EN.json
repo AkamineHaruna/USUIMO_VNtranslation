@@ -261,7 +261,10 @@
     "notSponsor": "Unverified users must subscribe first!",
     "ImoutoFavorite": "Imouto's Favorite",
     "nonItchUser": "This game was not found in your Itch library!",
-    "additionalPlatformVerifyNotice": "You can also link accounts from other platforms to share the same playerId data!",
+    "additionalPlatformVerifyNotice": [
+      "You can also link accounts from other platforms ",
+      "to share the same playerId data!"
+    ],
     "majorUpdateFailed": [
       "Major version update failed!",
       "Error code: ${}",
@@ -315,6 +318,34 @@
     "statusCloudNewer": "Cloud Version Newer",
     "statusLocalNewer": "Local Version Newer",
     "statusSynced": "Synced"
+  },
+  "minimapName": {
+    "5": "Forgotten Catacombe:Lower Layer",
+    "9": "Land of Slumber…",
+    "10": "Forest of Ruins",
+    "13": "Forest of Ruins",
+    "16": "Forest of Ruins",
+    "18": "Adventurer's Path: Gathering Point",
+    "26": "Forest of Ruins",
+    "27": "Forest of Ruins",
+    "28": "Forgotten Catacombe:Upper Layer",
+    "37": "Shallow Ruins Labyrinth",
+    "40": "Excavation Site",
+    "46": "Excavation Site",
+    "47": "Forest of Ruins",
+    "48": "Adventurer's Path:Monument",
+    "49": "Adventurer's Path:Grove",
+    "50": "??? Tomb",
+    "51": "Star Door",
+    "52": "Forgotten Catacombe:Hideout",
+    "53": "The Fallen Church",
+    "55": "Scorching Lava Zone",
+    "56": "Forest of Ruins:The Hidden Garden",
+    "58": "Adventurer's Path:Grove",
+    "59": "Excavation Site",
+    "60": "Excavation Site",
+    "61": "Excavation Site",
+    "62": "Adventurer's Path:Grove"
   },
   "AdventurersPathway": {
     "mapName": "Adventurer's Pathway"

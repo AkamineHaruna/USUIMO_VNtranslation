@@ -46,6 +46,7 @@
       "Unlock the corresponding features by entering the correct cheat code!"
     ]
   },  
+  "warehouseIsFull": "Can't store any more items!",
   "cannotUseItem": "Can't use item now!",
   "bulkSelectButton": "Click to toggle bulk selection",
   "usingItem": {

@@ -46,6 +46,7 @@
       "正解のチートコードを入力して、対応する機能を解放しましょう！"
     ]
   },
+  "warehouseIsFull": "これ以上アイテムを収納できない！",
   "cannotUseItem": "今はアイテム使えない！",
   "bulkSelectButton": "クリックでアイテムの一括選択に切り替え",
   "usingItem": {
