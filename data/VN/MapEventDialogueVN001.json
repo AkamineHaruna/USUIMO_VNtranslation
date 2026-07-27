@@ -10,13 +10,13 @@
 		    "???"
 		],	  
         "description": [
-            "In this peril-filled abyss, this is the only ",
-			"haven that provides a moment of peaceful ",
-			"rest for weary travelers and adventurers"
+            "Giữa Vực Sâu đầy hiểm nguy này, đây là chốn bình yên ",
+			"duy nhất, nơi những lữ khách và mạo hiểm giả mệt mỏi ",
+			"có thể tìm được một khoảnh khắc nghỉ ngơi bình yên "
 		],
 		"1": [
             "Tìm thấy lửa trại...",
-			"bây giờ tôi nên làm gì đây?"
+			"bây giờ mình nên làm gì đây?"
         ],
         "2": [
             "Nghỉ ngơi",
@@ -157,7 +157,7 @@
         ],	
         "10": [
 		    "Sinh ra tại Làng Shiri... ",
-			"Tham vọng của tôi là trở thành Thánh Kiếm! "
+			"Tham vọng của tôi là trở thành Kiếm Thánh! "
         ],	
         "11": [
 		    "\\{…Koko ni mairi mashita! "
@@ -842,28 +842,30 @@
     },
 	"39": {
 		"objectName": [
-			"Thick Tentacle"
+			"Xúc Tu Khổng Lồ"
 		],
 		"sentouryoku": [
 			"300"
 		],
 		"description": [
-			"An exceptionally thick and massive octopus tentacle",
-			"Its true form slumbers deep beneath the water, ",
-			"the undisputed Lord of the River",
-			"It wasn't this massive pastly, mutated by some unknown force",
-			"It merely drifts silently now; best not to disturb it..."
+			"Một xúc tu bạch tuộc to lớn và dày bất thường.",
+			"Chân thân của nó đang say ngủ sâu dưới đáy nước, ",
+			"là Chúa Tể Thủy Lưu không ai có thể lay chuyển.",
+			"Trước đây nó không hề khổng lồ đến thế, dường như ", 
+			"đã bị biến dị bởi một sức mạnh bí ẩn nào đó.",
+			"Giờ đây nó chỉ lặng lẽ trôi theo dòng nước,",
+			"tốt nhất là đừng quấy rầy nó"
 		]
 	},    
 	"40": {
 		"objectName": [
-			"Ruler Of The Octo-Arms"
+			"Đấng Thống Trị Bát Túc"
 		],
 		"subtitle": [
-			"Dwelling in the water"
+			"Cư ngụ dưới Hải Vực"
 		],
 		"bossName": [
-			"Ruler Of The Octo-Arms"
+			"Đấng Thống Trị Bát Túc"
 		],
 		"sentouryoku": [
 			"8600"
@@ -970,18 +972,18 @@
   	},
 	"61": {
 		"objectName": [
-			"WaterMelon Fairy"
+			"Tiểu Tiên Dưa Hấu"
 		],
 		"sentouryoku": [
 			"770"
 		],
 		"description": [
-			"The Watermelon Fairy is the most level-headed",
-			"among all the fairies. Although it ",
-			"doesn't understand the purpose of its own birth,",
-			"its clumsy yet solid body gives it more courage to explore,",
-			"only for it to realize, with a heavy dose of self-doubt,",
-			"that it can't run fast at all..."
+			"Tiểu Tiên Dưa Hấu là tiểu tiên điềm tĩnh và lý trí nhất ",
+			"trong số các tiểu tiên. Dù không hiểu mục đích ",
+			"mình được sinh ra là gì, cơ thể vụng về nhưng rắn chắc ",
+			"vẫn mang đến cho nó thêm can đảm để khám phá thế giới.",
+			"Chỉ đến khi nhận ra rằng mình hoàn toàn không thể chạy nhanh,",
+			"nó mới chìm vào một cơn hoài nghi nhân sinh sâu sắc..."
 		]
 	},
   	"65": {
@@ -1081,12 +1083,12 @@
 		    "?10"
 		],	  
         "description": [
-            "Since bananas do not grow in this region, ",
-			"it seems to have wandered a long way to get here",
-			"While completely harmless to adventurers, ",
-			"it is incredibly sensitive and timid—",
-			"The slightest fright will send it into a crying fit, ",
-			"easily blasting away anyone who gets close..."
+            "Vì chuối không mọc ở vùng đất này, ",
+			"có vẻ như nó đã lang thang một quãng đường rất xa ",
+			"mới đến được đây. Dù hoàn toàn vô hại với các",
+			"nhà mạo hiểm giả, nó lại cực kỳ nhạy cảm và nhút nhát—",
+			"chỉ cần bị dọa một chút thôi cũng đủ khiến nó khóc òa lên, ",
+			"dễ dàng hất văng bất cứ ai đến gần..."
 		]	
     },	  
   	"71": {
@@ -1097,11 +1099,11 @@
 		    "?10"
 		],	  
         "description": [
-            "A fairy born under the influence of the Abyss's aura",
-			"Currently, its biggest curiosity is finding out exactly ",
-			"where the Banana Fairy wandered in from",
-			"And quite naturally, ",
-			"it is just as much of a crybaby as the Banana Fairy"
+            "Một tiểu tiên được sinh ra bởi ảnh hưởng khí tức từ Vực Sâu.",
+			"Hiện tại, điều khiến nó tò mò nhất là muốn biết chính xác ",
+			"Tiểu Tiên Chuối đã lang thang từ đâu đến đây.",
+			"Và cũng chẳng có gì bất ngờ ",
+			"khi nó cũng mít ướt chẳng kém gì Tiểu Tiên Chuối."
 		]	
     },		  
   	"72": {
@@ -1179,17 +1181,20 @@
   	},
 	"84": {
 		"objectName": [
-			"Fruit Tree"
+			"Cây Ăn Quả"
 		],
 		"sentouryoku": [
 			"1"
 		],
 		"description": [
-			"A strange fruit tree growing on abyss nutrients",
-			"For some reason, rain always makes it bear fruit",
-			"Camp rumors say saplings grow on dead adventurers",
-			"Because of this, people believe chopping them down",
-			"will yield treasures left behind by predecessors"
+			"Một loài cây ăn quả kỳ lạ sinh trưởng nhờ ",
+			"dưỡng chất từ Vực Sâu. Không hiểu vì lý do gì,",
+			"cứ mỗi khi trời mưa, nó lại kết trái.",
+			"Theo lời đồn trong các trại nghỉ chân,",
+			"những cây non này mọc lên từ thi thể của các",
+			"nhà mạo hiểm đã chết. Vì vậy, người ta tin rằng",
+			"nếu chặt chúng xuống, có thể tìm thấy những ",
+			"báu vật mà các tiền bối đã để lại."
 		]
 	},
   	"87": {
@@ -1716,17 +1721,17 @@
     },
 	"104": {
 		"objectName": [
-			"\\c[114]Devil's Gate"
+			"\\c[114]Cánh Cổng Ác Ma"
 		],
 		"sentouryoku": [
 			"???"
 		],
 		"description": [
-			"An ominous portal that appears to challenge champions",
-			"The chilling air leaking from within is a malicious invitation",
-			"Rumors say a seductive demonic sister waits inside",
-			"Eager, confident adventurers challenge her,",
-			"but crawl out pale and completely drained..."
+			"Một cánh cổng u ám dường như đang thách thức những chiến binh dũng mãnh.",
+			"Luồng khí lạnh lẽo tỏa ra từ bên trong giống như một lời mời gọi đầy ác ý",
+			"Nghe đồn rằng bên trong có một nữ ác ma quyến rũ đang chờ đợi.",
+			"Những nhà mạo hiểm tự tin, háo hức bước vào khiêu chiến cô ta,",
+			"nhưng cuối cùng lại bò ra ngoài với khuôn mặt tái nhợt, hoàn toàn kiệt sức..."
 		]
 	},
 	"106": {

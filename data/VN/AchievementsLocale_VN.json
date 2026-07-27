@@ -139,17 +139,17 @@
             ]
         },
         "IJustWitnessedAPricelessPieceOfFootage": {
-            "Name": "I just witnessed a priceless piece of footage.",
-            "Description": "Witnessed the birth of the Apple Fairy",
+            "Name": "Mình vừa được chứng kiến một khoảnh khắc vô giá.",
+            "Description": "Chứng kiến sự ra đời của Tiểu Tiên Táo",
             "Pop Up Desc": [
-                "\\fs[21]I just witnessed a priceless",
-                "piece of footage."
+                "\\fs[21]Mình vừa được chứng kiến",
+                "một khoảnh khắc vô giá."
             ]
         },
         "WhoNeedsAFishingRod": {
-            "Name": "Who needs a fishing rod?",
-            "Description": "Blast drops out of the water with bombs 10 times",
-            "Pop Up Desc": "\\fs[22]Who needs a fishing rod?"
+            "Name": "Ai lại dùng cần câu nữa chứ?",
+            "Description": "Dùng bom làm nổ tung cá khỏi mặt nước 10 lần",
+            "Pop Up Desc": "\\fs[22]Ai lại dùng cần câu nữa chứ?"
         },
         "TheSwordSaintOfTheSticks": {
             "Name": "Thập Lý Pha Kiếm Thần",

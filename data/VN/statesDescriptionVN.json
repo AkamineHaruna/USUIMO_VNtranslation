@@ -687,11 +687,11 @@
 	"93": {
 		"name": [],
 		"subtitle": [
-			"\"Guh...!? S-So heavy...! I feel like I'm sinking... I-I'm drowning...!!\""
+			"\"Ư...!? N-Nặng quá...! Cảm giác như mình đang chìm xuống... K-Không thở được...!!\""
 		],
 		"description": [
-			"Afflicted with ${$gameParty.leader().getStateCounter(93)} stacks of Waterlogged! ",
-			"Movement Speed decreases with each stack! Instantly drowns at over 10 stacks!"
+			"Dính hiệu ứng Ngập Nước với ${$gameParty.leader().getStateCounter(93)} cộng dồn! ",
+			"Tốc độ di chuyển giảm theo mỗi cộng dồn! Khi vượt quá 10 cộng dồn sẽ lập tức chết đuối!"
 		]
 	},
 	"98": {
@@ -754,7 +754,7 @@
 			"\"Chúng ta là những người bảo vệ!\""
 		],
 		"description": [
-			"HP required to trigger Knight set effects has been adjusted to below 75%"
+			"HP cần thiết để kích hoạt hiệu ứng bộ trang bị Kỵ Sĩ đã được điều chỉnh xuống dưới 75%."
 		]
 	},
 	"115": {

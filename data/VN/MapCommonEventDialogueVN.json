@@ -12,33 +12,33 @@
         ]
     },
     "magicCamera": {
-        "record": "Record Video",
-        "stop": "Stop Recording",
-        "screenshot": "Take Screenshot",
-        "view": "View Files",
-        "starting": "Recording...",
-        "saving": "Saving...",
-        "screenshotting": "Screenshotting...",
-        "failed": "Failed!",
-        "duration": "Recorded {time}"
+        "record": "Quay Video",
+        "stop": "Dừng Quay",
+        "screenshot": "Chụp Ảnh Màn Hình",
+        "view": "Xem Tệp Tin",
+        "starting": "Đang Quay...",
+        "saving": "Đang Lưu...",
+        "screenshotting": "Đang Chụp Ảnh...",
+        "failed": "Thất Bại!",
+        "duration": "Đã Ghi {time}"
     },  
     "gallerySystem": {
         "startRecall": [
-            "This event's memory log has been unlocked.",
-            "Would you like to relive this memory?"
+            "Nhật ký ký ức của sự kiện này đã được mở khóa.",
+            "Bạn muốn xem lại ký ức này không?"
         ],
-        "takeBathWithImouto": "Taking a bath with \\str[120]",
-        "Polaroid": "NLCH Polaroid Series"
+        "takeBathWithImouto": "Tắm cùng với \\str[120]",
+        "Polaroid": "Bộ ảnh NLCH Polaroid"
     },  
     "AnsuzSystem": {
-        "writeNotLoggedIn":  "Player not logged in! Failed to upload Ansuz!",
-        "uploadFailed":      "Unable to connect to the server! Failed to upload Ansuz!",
-        "writeLimitReached": "You have reached today's limit for creating Ansuz!",
-        "writeRejected":     "Abnormal data! Failed to upload Ansuz!",
-        "rateNotLoggedIn":   "Player not logged in! Rating failed!",
-        "rateFailed":        "Unable to connect to the server! Rating failed!",
-        "rateLimitReached":  "You have reached today's limit for rating Ansuz!",
-        "rateRejected":      "You cannot rate your own Ansuz!"    
+        "writeNotLoggedIn":  "Người chơi chưa đăng nhập! Không thể tải Phù Văn Ansuz lên!",
+        "uploadFailed":      "Không thể kết nối với máy chủ! Không thể tải Phù Văn Ansuz lên!",
+        "writeLimitReached": "Bạn đã đạt giới hạn tạo Phù Văn Ansuz trong hôm nay!",
+        "writeRejected":     "Dữ liệu bất thường! Không thể tải Phù Văn Ansuz lên!",
+        "rateNotLoggedIn":   "Người chơi chưa đăng nhập! Đánh giá thất bại!",
+        "rateFailed":        "Không thể kết nối với máy chủ! Đánh giá thất bại!",
+        "rateLimitReached":  "Bạn đã đạt giới hạn đánh giá Phù Văn Ansuz trong hôm nay!",
+        "rateRejected":      "Bạn không thể đánh giá Phù Văn Ansuz của chính mình!"    
     },
     "cheatCodeTutorial": {
         "0": [
@@ -46,8 +46,8 @@
             "Nhập đúng mã gian lận để mở khóa các tính năng tương ứng!"
         ]
     },
-    "cannotUseItem": "Can't use item now!",
-    "bulkSelectButton": "Click to toggle bulk selection",
+    "cannotUseItem": "Không thể sử dụng vật phẩm lúc này!",
+    "bulkSelectButton": "Nhấp để bật/tắt chế độ chọn hàng loạt",
     "usingItem": {
         "0": [
             "Đã lấy ra \\ii[\\v[90]]  ",
@@ -60,8 +60,8 @@
         ]
     },
     "forceGoHome": [
-        "It's getting late... The abyss at night is dangerous,",
-        "I should head home as soon as possible...!"
+        "Trời cũng đã muộn rồi... Vực Sâu vào ban đêm rất nguy hiểm,",
+        "mình nên về nhà càng sớm càng tốt...!"
     ],
     "gameAnnouncement": {
         "0": [
@@ -360,9 +360,9 @@
             "Mảnh Hiền Triết"
         ],
         "description12": [
-            "A special shard obtained from the Ruler",
-            "If various shards can be collected",
-            "it might help improve ${}'s condition"
+            "Một mảnh vỡ đặc biệt thu được từ Đấng Thống Trị",
+            "Nếu thu thập đủ nhiều mảnh vỡ khác nhau",
+            "có thể sẽ giúp cải thiện tình trạng của ${}"
         ],
         "description50": [
             "Một mảnh vỡ đặc biệt thu được từ Cuồng Huyết Xích Thú",

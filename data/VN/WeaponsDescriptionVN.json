@@ -406,53 +406,55 @@
     },
     "31": {
         "name": [
-            "Ruinous Remnant"
+            "Tàn Tích Diệt Vong"
         ],
         "subtitle": [
-            "\"No matter... ███... will... find... ███...\""
+            "\"Không sao... ███... sẽ... tìm thấy... ███...\""
         ],
         "description": [
-            "A broken stone sword found within a destroyed monument... Is it a burial object?",
-            "Mottled inscriptions remain on the side of the blade, ",
-            "but the meaning is fragmented and unreadable..."
+            "Một thanh kiếm đá vỡ được tìm thấy bên trong một di tích đã bị hủy hoại...",
+            "Chẳng lẽ đây là vật chôn cất? ",
+            "Những dòng chữ loang lổ vẫn còn lưu lại trên thanh kiếm,",
+            "nhưng ý nghĩa đã bị đứt đoạn, hoàn toàn không thể đọc được"
         ],
         "ability": [
-            "Deals extra damage when the weapon nears breaking"
+            "Gây thêm sát thương khi độ bền của vũ khí sắp cạn kiệt"
         ]
     },
     "32": {
         "name": [
-            "Staff of Yggdrasil"
+            "Trượng Yggdrasil"
         ],
         "subtitle": [
-            "——How should a mage allocate skill points? Waiting online, urgent!",
-            "——Put all stats into Stamina and Strength.",
-            "Max out Charge and Whirlwind for skills.",
-            "For magic, just get Holy Light and you're good.",
-            "——Thanks, bro."
+            "——Pháp sư nên phân bổ điểm kỹ năng thế nào? Đang online, gấp lắm!",
+            "——Cứ dồn hết điểm vào Thể Lực và Sức Mạnh đi.",
+            "Kỹ năng thì nâng tối đa Xung Kích và Cuồng Phong.",
+            "Phép thuật chỉ cần lấy Thánh Quang là đủ.",
+            "——Cảm ơn anh bạn."
         ],
         "description": [
-            "A staff crafted from the branches of Yggdrasil",
-            "Due to its sheer weight, it is only favored by a handful of battle mages"
+            "Một cây trượng được chế tác từ những cành cây của Yggdrasil",
+            "Do trọng lượng quá lớn, nó chỉ được một số ít pháp sư chiến đấu ưa chuộng"
         ],
         "ability": [
-            "50% chance to inflict Stun state on attack",
-            "When HP falls below \\c[29]400\\c[0], the weapon’s full potential is limited!"
+            "Có 50% xác suất gây trạng thái Choáng khi tấn công",
+            "Khi HP giảm xuống dưới \\c[29]400\\c[0], uy lực thực sự của vũ khí sẽ bị hạn chế!"
         ]
     },  
     "34": {
         "name": [
-            "Roar of the Ruler"
+            "Tiếng Gầm Của Đấng Thống Trị"
         ],
         "subtitle": "",
         "description": [
-            "A peculiar staff refined purely from water elements. They say it grants absolute",
-            "control over water pressure, just like a certain terrifying undersea overlord—",
-            "But wait, what if there's no water around at all...?!"
+            "Một cây trượng kỳ lạ được tinh luyện hoàn toàn từ nguyên tố nước.",
+            "Người ta nói rằng nó cho phép người sử dụng kiểm soát tuyệt đối áp lực nước ",
+            "giống như một vị bá chủ đáng sợ nào đó dưới đáy biển—",
+            "Nhưng khoan đã, nếu xung quanh hoàn toàn không có nước thì sao...?!"
         ],
         "ability": [
-            "Hold right mouse button to cast Torrential Burial",
-            "Requires a nearby water source to cast"
+            "Giữ chuột phải để thi triển \\c[27]Cuồng Lưu Diệt Thế\\c[0]",
+            "Cần có nguồn nước ở gần để thi triển"
         ]
     },
     "35": {
@@ -508,12 +510,13 @@
 		    "\"Nhớ nhé, Trảm Cuồng Phong dùng như thế này! \""
 		],
         "description": [
-            "A short-handled scythe carried by an outsider, with a fearsome design and ",
-            "an inner will Wielding it too long may cause strange voices to echo in your mind"
+            "Một chiếc liềm cán ngắn được một kẻ ngoại lai mang theo, có thiết kế đáng sợ và ",
+            "ẩn chứa một ý chí riêng. Nếu cầm nó quá lâu có thể khiến những giọng nói kỳ lạ",
+            "bắt đầu vang vọng trong tâm trí..."
         ],
         "ability": [
-            "Whirlwind Slash automatically tracks enemies and returns to hand when thrown",
-            "Catching the returning weapon allows an instant re-throw with increased damage"
+            "Trảm Cuồng Phong sẽ tự động truy đuổi kẻ địch và quay trở lại tay người ném",
+            "Bắt lấy vũ khí khi nó quay về sẽ cho phép ném lại ngay lập tức với sát thương tăng cao"
         ]
     },
     "51": {
@@ -533,7 +536,7 @@
     },
     "52": {
         "name": [
-            "Đơn Vị Số 2"
+            "Unit 2"
         ],
         "subtitle": "",
         "description": [
@@ -682,8 +685,8 @@
             "\"——đa số mạo hiểm giả chỉ gọi thứ này là Ống Sừng Hươu.\""
         ],
         "description": [
-            "A Lust Demon weapon, originally some kind of ritual implement",
-            "Its material and inner magic cannot be analyzed",
+            "Một vũ khí của Ác Ma Dục Vọng, dường như là một loại pháp khí dùng trong nghi lễ",
+            "Chất liệu và ma lực ẩn chứa bên trong đều không thể phân tích được",
             "Ngoài ra, nó còn hoạt động cực kỳ hiệu quả như một chiếc đồng hồ báo thức…!"
         ],
         "ability": [

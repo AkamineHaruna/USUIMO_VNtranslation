@@ -534,8 +534,8 @@
             "không có kiến thức về ma thuật cũng có thể dễ dàng kích hoạt nó."
         ],
         "ability": [
-            "Leaves a text-marked sign at the location when used",
-            "After updating, the sign becomes visible to other players"
+            "Khắc một dấu ấn Phù Văn dưới chân bạn, có thể để những người chơi khác đọc được",
+            "Có thể sử dụng vô hạn, nhưng chỉ được khắc tối đa 24 lần mỗi ngày"
         ]
     },
     "44": {
@@ -1224,34 +1224,34 @@
     },
     "123": {
         "name": [
-            "Orange"
+            "Cam"
         ],
         "subtitle": "",
         "description": [
-            "Freshly picked fruit, full of refreshing flavor",
-            "Eating it directly slightly restores health"
+            "Trái cây vừa hái, đầy hương vị tươi mát",
+            "Ăn trực tiếp sẽ hồi phục sức khoẻ một chút"
         ],
         "ability": ""
     },
     "124": {
         "name": [
-            "Green pear"
+            "Lê xanh"
         ],
         "subtitle": "",
         "description": [
-            "Freshly picked fruit, full of refreshing flavor",
-            "Eating it directly slightly restores health"
+            "Trái cây vừa hái, đầy hương vị tươi mát",
+            "Ăn trực tiếp sẽ hồi phục sức khoẻ một chút"
         ],
         "ability": ""
     },
     "125": {
         "name": [
-            "Peach"
+            "Đào"
         ],
         "subtitle": "",
         "description": [
-            "Freshly picked fruit, full of refreshing flavor",
-            "Eating it directly slightly restores health"
+            "Trái cây vừa hái, đầy hương vị tươi mát",
+            "Ăn trực tiếp sẽ hồi phục sức khoẻ một chút"
         ],
         "ability": ""
     },
@@ -1557,27 +1557,27 @@
     },
     "193": {
         "name": [
-            "Tentacle Dildo"
+            "Dương Vật Giả Hình Xúc Tu"
         ],
         "beIndependent": true,
         "subtitle": [
-            "\"Ara ara~ I'm really curious as to where exactly you want to use this, onii-san~~\""
+            "\"Ara ara~ Em thật sự rất tò mò không biết Onii-san muốn dùng thứ này vào đâu đấy~~\""
         ], 
         "description": [
-            "An erotic toy refined after handing monster materials over to a certain archdemon",
-            "It is said to automatically contract and move based on the user's level of desire...",
-            "But why did I make something like this—THAT WAS SUPPOSED TO BE ME...!!"
+            "Một món đồ chơi tình dục được chế tác sau khi giao nguyên liệu quái vật cho một Đại Ác Ma nào đó",
+            "Nghe nói nó sẽ tự động co bóp và chuyển động dựa trên mức độ ham muốn của người sử dụng...",
+            "Nhưng tại sao lại chế ra thứ này chứ—ĐÁNG LẼ NGƯỜI ĐƯỢC LÀM CHUYỆN ĐÓ PHẢI LÀ MÌNH...!!"
         ],
         "ability": ""
     },
     "196": {
         "name": [
-            "Memory Gallery [NLCH Polaroid]"
+            "Bộ Sưu Tập Ký Ức [NLCH Polaroid]"
         ],
         "beIndependent": true,
         "subtitle": "",
         "description": [
-            "Enter the Memory Gallery to view all collected Polaroids from this series"
+            "Bước vào Bộ Sưu Tập Ký Ức để xem tất cả các bức ảnh Polaroid đã thu thập được"
         ],
         "ability": ""
     },
