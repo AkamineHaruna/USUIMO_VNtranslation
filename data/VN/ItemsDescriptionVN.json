@@ -884,10 +884,10 @@
         "beIndependent": true,
         "subtitle": "",
         "description": [
-            "Một sinh vật đồng hành của một ác ma nào đó.",
-            "Thả nó ra thì sẽ tiết lộ vị trí của ác ma",
-            "Rốt cuộc nó là mèo, một miếng sushi, hay là bánh pudding?",
-            "Bất kể hình dạng thật sự là gì, trông nó vẫn rất ngon!"
+            "A familiar belonging to a certain Archdemon",
+            "Set it free, and it will lead you to her whereabouts",
+            "But what exactly is it—a cat, sushi, or pudding? ",
+            "Either way, it looks pretty tasty.."
         ],
         "ability": ""
     },
@@ -1427,6 +1427,23 @@
         "subtitle": "",
         "description": [
             "Cái quái gì thế này!?"
+        ],
+        "ability": ""
+    },
+    "184": {
+        "name": [
+            "Men's 13-in-1 Shampoo"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "\"As the thirteen ingredients still have a few minor disagreements, ",
+            "shake well before use!\""
+        ],
+        "description": [
+            "A magnificent masterpiece of alchemical magic",
+            "A legendary cleaning product combining shampoo, conditioner, body wash, ",
+            "toothpaste, mouthwash, deodorant, diesel fuel, sports drink, milk, aluminum foil, ",
+            "tennis shoes, dental floss, and birth control pills in one bottle"
         ],
         "ability": ""
     },
@@ -3028,7 +3045,7 @@
         "name": [
             "Thu Chập Câu Chuyện"
         ],
-        "beIndependent":true,
+        "beIndependent": true,
         "subtitle": [
             "\"Chắc mình sẽ thử tìm các con đường bí mật vậy...\""
         ],
@@ -3045,7 +3062,7 @@
         "name": [
             "Dành cho \\str[120]"
         ],
-        "beIndependent":true,
+        "beIndependent": true,
         "subtitle": [
             "\"Tiếp tục thám hiểm vào những tầng đen tối hơn của Vực Sâu nào—\""
         ],
@@ -3062,7 +3079,7 @@
         "name": [
             "Hướng Dẫn Nhiệm Vụ Ẩn"
         ],
-        "beIndependent":true,
+        "beIndependent": true,
         "subtitle": [
             "\"Chỉ cần đọc hết cuốn hướng dẫn này thì phá đảo trò chơi sẽ dễ như trở bàn tay",
             " Nhưng đó là... Suy Nghĩ Của Đám ZAKO.",

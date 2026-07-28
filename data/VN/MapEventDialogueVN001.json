@@ -1504,6 +1504,12 @@
 		    "Không tiền, không cá hồi—thật là một Onii-san yếu ớt, thảm hại~ ",
 			"Không có gì ngạc nhiên khi anh vẫn độc thân và còn trinh~ "
         ],
+		"50.1": [
+			"No money, no salmon—what a weak, pathetic onii-san~",
+			"Even though you lost your virginity~ ",
+			"you're still a complete trash-zako, ",
+			"huh♥ Poor thing♥ Nyahaha♥"
+		],
         "51": [
 		    "Nếu một ngày anh thay đổi ý định, nhớ quay lại mua nhé~ ",
 			"Không phải em quan tâm anh hay gì đâu♥ "
@@ -1609,6 +1615,51 @@
 		"76": [
 			"Dù em đã giúp anh rồi~ ",
 			"Onii-san vẫn thảm hại ghê đó~ "
+		],
+		"77": [
+			"So you've decided on this one~?",
+			"Then please offer up \\v[86] \\ii[142], onii-san~"
+		],
+		"78": [
+			"You want to buy this one, meow? Ufufu♥",
+			"The fun stuff comes after you buy it~"
+		],
+		"79": [
+			"Give \\si[142]",
+			"Give \\si[143]",
+			"Never mind"
+		],
+		"80": [
+			"Eh... You aren't planning to buy anything?",
+			"Just staring without buying, what a useless onii-san~"
+		],
+		"81": [
+			"My, my, could it be... onii-san, ",
+			"you actually can't afford this? So uncool♥ Zako~~~♥"
+		],
+		"82": [
+			"Welcome, meow~♥ onii-san will offer up ",
+			"lots of tasty salmon today too, right~?"
+		],
+		"83": [
+			"We meet again, onii-sanr~♥ You're thinking",
+			"about doing something lewd again, aren't you~ Ufufu♥"
+		],
+		"84": [
+			"well, if it isn't zako onii-san~",
+			"Ah, my bad♥ I meant useless onii-san~"
+		],
+		"85": [
+			"Even if it's you, onii-san...",
+			"Teasing me over and over—I'm going to get mad, you know?"
+		],
+		"86": [
+			"Is onii-san not wide awake today?",
+			"Isn't this amount completely not enough~?"
+		],
+		"87": [
+			"As expected, onii-san is still just a zako~",
+			"Watching you try so hard to show off is hilarious♥"
 		]
     },
   	"98": {

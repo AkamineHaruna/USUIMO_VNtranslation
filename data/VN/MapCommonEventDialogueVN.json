@@ -46,6 +46,7 @@
             "Nhập đúng mã gian lận để mở khóa các tính năng tương ứng!"
         ]
     },
+    "warehouseIsFull": "Không thể chứa thêm vật phẩm!",
     "cannotUseItem": "Không thể sử dụng vật phẩm lúc này!",
     "bulkSelectButton": "Nhấp để bật/tắt chế độ chọn hàng loạt",
     "usingItem": {
