@@ -138,6 +138,19 @@
                 "dự trữ để dùng không?\""
             ]
         },
+        "IJustWitnessedAPricelessPieceOfFootage": {
+            "Name": "Mình vừa được chứng kiến một khoảnh khắc vô giá.",
+            "Description": "Chứng kiến sự ra đời của Tiểu Tiên Táo",
+            "Pop Up Desc": [
+                "\\fs[21]Mình vừa được chứng kiến",
+                "một khoảnh khắc vô giá."
+            ]
+        },
+        "WhoNeedsAFishingRod": {
+            "Name": "Ai lại dùng cần câu nữa chứ?",
+            "Description": "Dùng bom làm nổ tung cá khỏi mặt nước 10 lần",
+            "Pop Up Desc": "\\fs[22]Ai lại dùng cần câu nữa chứ?"
+        },
         "TheSwordSaintOfTheSticks": {
             "Name": "Thập Lý Pha Kiếm Thần",
             "Description": "Kết quả của việc luyện kiếm chăm chỉ mỗi ngày",
