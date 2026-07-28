@@ -884,10 +884,10 @@
         "beIndependent": true,
         "subtitle": "",
         "description": [
-            "A familiar belonging to a certain Archdemon",
-            "Set it free, and it will lead you to her whereabouts",
-            "But what exactly is it—a cat, sushi, or pudding? ",
-            "Either way, it looks pretty tasty.."
+            "Một sử ma thú thuộc về một Đại Ác Ma nào đó",
+            "Thả nó ra, nó sẽ dẫn bạn đến nơi cô ấy đang ở",
+            "Nhưng rốt cuộc nó là gì nhỉ—một con mèo, miếng sushi hay là bánh pudding? ",
+            "Dù là gì đi nữa... trông nó cũng ngon phết."
         ],
         "ability": ""
     },
@@ -1432,18 +1432,18 @@
     },
     "184": {
         "name": [
-            "Men's 13-in-1 Shampoo"
+            "Dầu Gội X-Men 13 Trong 1"
         ],
         "beIndependent": true,
         "subtitle": [
-            "\"As the thirteen ingredients still have a few minor disagreements, ",
-            "shake well before use!\""
+            "\"Do mười ba thành phần bên trong vẫn còn vài bất đồng nho nhỏ, ",
+            "hãy lắc kỹ trước khi sử dụng!\""
         ],
         "description": [
-            "A magnificent masterpiece of alchemical magic",
-            "A legendary cleaning product combining shampoo, conditioner, body wash, ",
-            "toothpaste, mouthwash, deodorant, diesel fuel, sports drink, milk, aluminum foil, ",
-            "tennis shoes, dental floss, and birth control pills in one bottle"
+            "Một kiệt tác huy hoàng của thuật giả kim",
+            "Là sản phẩm vệ sinh huyền thoại kết hợp dầu gội, dầu xả, sữa tắm, ",
+            "kem đánh răng, nước súc miệng, lăn khử mùi, dầu diesel, nước uống thể thao, sữa, ",
+            "giấy bạc, giày tennis, chỉ nha khoa và thuốc tránh thai trong cùng một chai."
         ],
         "ability": ""
     },

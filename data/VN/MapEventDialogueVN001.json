@@ -1304,8 +1304,8 @@
 			"từ con người bằng bất cứ cách nào có thể..."
 		],
         "1": [
-            "Ôi~ Có một vị khách đặc biệt nè~ Hehe~ ",
-			"Em có một số vật phẩm ngon đây, cứ từ từ xem nhé♥ "
+            "Ôi chà~ Có một vị khách đặc biệt nè~ Hehe~ ",
+			"Em có một số món hàng cực phẩm đây, cứ từ từ xem nhé♥ "
         ],
         "2": [
             "Yaho~! Trùng hợp thật đó~ Rất vui được gặp lại anh~! ",
@@ -1313,14 +1313,14 @@
         ],
         "3": [
 		    "Hehe, dù sao đi nữa~! Khi vận may đang đứng về phía anh, ",
-            "tốt nhất nên cẩn thận đó—kẻo bị ai đó thừa cơ cướp mất đấy♥ "
+            "tốt nhất nên cẩn thận đó, kẻo bị ai đó thừa cơ cướp mất đấy♥ "
         ],
         "4": [
-            "Cửa hàng của em đặc biệt lắm đó, biết không~ ",
-			"Em bán những thứ mà chỗ khác không có~ "
+            "Cửa hàng của em đặc biệt lắm đó nha~ ",
+			"Những thứ em bán ở đây chỗ khác không có đâu~ "
         ],
         "5": [
-		    "Mhm~ Sao vậy? Mặt anh đỏ bừng rồi~ \\w[45]Hehe~ \\w[45] ",
+		    "Mhm~ Sao vậy? Mặt anh đỏ bừng rồi kìa~ \\w[45]Hehe~ \\w[45] ",
             "Em khiến anh bị mê hoặc rồi hay sao thế? Anh dễ thương quá đấy~ "
         ],
         "6": [
@@ -1328,7 +1328,7 @@
             "Em rốt cuộc là ai...? "
         ],
         "7": [
-		    "Aha♥ Chỉ dành cho người trưởng thành thôi~ ",
+		    "Aha♥ Nó chỉ dành cho người trưởng thành thôi~ ",
             "Anh thích thể loại này à? "
         ],
         "8": [
@@ -1336,7 +1336,7 @@
             "Onii-san... anh thấy hứng thú à~? "
         ],
         "9": [
-		    "Oh~ anh muốn biết thêm về em à?" ,
+		    "Hể~ anh muốn biết thêm về em à?" ,
             "Được thôi~ em còn chưa tự giới thiệu mà nhỉ~ "
         ],
         "10": [
@@ -1345,22 +1345,22 @@
         ],
         "11": [
 		    "Này! Đừng làm vẻ mặt sợ hãi thế chứ~ ",
-            "Em chỉ đến để làm một ít giao dịch thôi~! "
+            "Em chỉ đến đây để làm một ít giao dịch thôi~! "
         ],
         "12": [
 		    "Ngửa ngửa... ",
 			"\\w[90]\\^"
         ],
         "13": [
-		    "Đúng rồi! Mùi này! ",
-            "Chính là nó! Cho em đi♥ Làm ơn~! "
+		    "Đúng rồi! Cái mùi này! ",
+            "Chính là nó! Cho em đi♥ Làm ơn mà~! "
         ],
         "14": [
-		    "Nào~ ",
+		    "Nào nào~ ",
             "Anh sẽ đưa cho em chứ♥ "
         ],
         "15": [
-		    "(À, hóa ra là cá hồi trong túi của tôi ",
+		    "(À, hóa ra là cá hồi trong túi của mình ",
 			"đã dụ em ấy tới...)"
         ],
         "16": [
@@ -1395,7 +1395,7 @@
 			"Anh đã bị nguyền rủa— "
         ],
         "24": [
-		    "Cá hồi nhiều quá♥ Anh thật ngọt ngào, Onii-san~  ",
+		    "Cá hồi nhiều quá♥ Anh ngọt ngào thật đó, Onii-san~  ",
 			"Anh đang cố chiếm lấy trái tim em à~? "
         ],
         "25": [
@@ -1403,15 +1403,15 @@
 			"Hehe~! "
         ],
         "26": [
-		    "Mang cái thứ đáng yêu này theo nhé~ ",
-			"Nếu muốn tìm em, anh chỉ cần gửi một tin nhắn~♥ "
+		    "Hãy mang cái thứ đáng yêu này theo nhé~ ",
+			"Nếu muốn tìm em, anh chỉ cần gửi nó đi là được~♥ "
         ],
         "27": [
 		    "Anh muốn mua món này à? ",
 			"Được thôi~ Em sẽ bán cho anh~! "
         ],
         "28": [
-		    "Ah! Nhưng anh biết đấy, em không quan tâm đến tiền đâu~ ",
+		    "Mà! Nhưng anh biết đấy, em không quan tâm đến tiền đâu~ ",
 			"Với một Đại Ác Ma như em, mấy thứ đó hoàn toàn vô giá trị~ "
         ],
         "29": [
@@ -1419,7 +1419,7 @@
 			"Em nghĩ chắc chắn anh có thể xử lý được~! "
         ],
         "30": [
-		    "...Hehe, nếu anh muốn món này~! ",
+		    "...Hehe, nếu anh muốn có món này~! ",
 			"Thì trao đổi bằng cá hồi nhé~! "
         ],
         "31": [
@@ -1443,15 +1443,15 @@
 			"Phải làm sao bây giờ đây ta~♥ "
         ],
         "36": [
-		    "Và nếu em nói không~? Thì anh sẽ làm gì nhỉ~? ",
-			"Aww, đừng làm cái mặt đó~ Không có hiệu quả đâu~ "
+		    "Và nếu em nói không thì sao~? Thì anh sẽ làm gì nhỉ~? ",
+			"Aww, đừng làm cái vẻ mặt đó chứ~ Không có hiệu quả đâu~ "
         ],
         "37": [
-		    "Giờ thì em chỉ muốn bắt nạt anh nhiều hơn nữa, Onii-san♥ ",
+		    "Giờ thì em chỉ muốn bắt nạt anh nhiều hơn nữa thôi, Onii-san♥ ",
 			"Không gỡ lời nguyền đâu~ Ahaha♥ "
         ],
         "38": [
-		    "Wow, anh thực sự tuyệt vọng nhỉ? Thật là ZAKO♥ ",
+		    "Ôi trời, anh thực sự tuyệt vọng nhỉ? Đúng là ZAKO♥ ",
 			"Cho em thấy sự hối lỗi của anh với lòng thành hơn đi~♥ "
         ],
         "39": [
@@ -1476,10 +1476,10 @@
         ],
         "44": [
 		    "Anh có muốn thử món mới không?",
-			"Đây là bánh Mizumanju em tự làm~"
+			"Đây là bánh Mizumanju em tự làm đó~"
         ],
         "45": [
-		    "Hiệu quả gì à? Hehe~!",
+		    "Có hiệu quả gì à? Hehe~!",
 			"Nó sẽ làm cơ thể trở nên cực kỳ nhạy cảm đó♥ "
         ],
         "46": [
@@ -1501,21 +1501,21 @@
 			"thật vô dụng♥ "
         ],
         "50": [
-		    "Không tiền, không cá hồi—thật là một Onii-san yếu ớt, thảm hại~ ",
+		    "Không tiền, không cá hồi, thật là một Onii-san yếu ớt thảm hại~ ",
 			"Không có gì ngạc nhiên khi anh vẫn độc thân và còn trinh~ "
         ],
 		"50.1": [
-			"No money, no salmon—what a weak, pathetic onii-san~",
-			"Even though you lost your virginity~ ",
-			"you're still a complete trash-zako, ",
-			"huh♥ Poor thing♥ Nyahaha♥"
+			"Không tiền, không cá hồi, thật là một Onii-san yếu ớt thảm hại~",
+			"Mặc dù anh đã mất trinh đi chăng nữa ",
+			"Anh vẫn đúng là một Zako rác rưởi, ",
+			"huh♥ Tội nghiệp chưa kìa♥ Nyahaha♥"
 		],
         "51": [
 		    "Nếu một ngày anh thay đổi ý định, nhớ quay lại mua nhé~ ",
 			"Không phải em quan tâm anh hay gì đâu♥ "
         ],
         "52": [
-		    "Tch~ Chán quá, nya~ ",
+		    "Tch~ Chán quá đi, nya~ ",
 			"Không thể tin được là anh đã bỏ lỡ một thứ tuyệt vời thế này♥ "
         ],
         "53": [
@@ -1523,12 +1523,12 @@
 			"Giờ mình lại có thể ăn nhiều cá hồi nữa rồi~ "
         ],
         "54": [
-		    "Tch~ Chán quá, nya~ ",
+		    "Tch~ Chán quá đi, nya~ ",
 			"Không thể tin được là anh đã bỏ lỡ một thứ tuyệt vời thế này♥ "
         ],
         "55": [
 		    "Ah~ Ý em là, có lẽ sẽ không có gì xảy ra đâu♥ ",
-			"Nhưng onii-san này, anh trông cực kỳ yếu đấy~ "
+			"Nhưng onii-san này, anh trông cực kỳ yếu ớt đấy~ "
         ],
         "56": [
 		    "Vậy nên em nghĩ là phải cảnh báo với anh~ ",
@@ -1536,7 +1536,7 @@
         ],
         "57": [
 		    "Và vâng, hiệu quả là làm cơ thể cực kỳ nhạy cảm♥ ",
-			"Vậy nên, tuyệt đối đừng dùng thử lên chính mình nhé~? "
+			"Vậy nên là tuyệt đối đừng dùng thử lên chính mình nhé~? "
         ],
         "58": [
 		    "Đợi đã, anh thật sự muốn thử à? ",
@@ -1544,31 +1544,31 @@
         ],
         "59": [
 		    "Đùa thôi~♥ Vậy thì, ",
-			"lần sau ghé thăm tiệm em tiếp nhé~♥ "
+			"lần sau ghé thăm tiệm của em tiếp nhé~♥ "
         ],
         "60": [
 		    "Tiếc quá~ Hàng đã hết rồi ư~? ",
 			"Trời ơi, Onii-san, anh thực sự tuyệt vọng nhỉ♥ "
         ],
         "61": [
-		    "Nếu muốn nhiều hơn, phải đợi lần sau~ ",
-			"Nhưng nếu anh mang cá hồi, em có thể ngoại lệ cho anh đó♥ "
+		    "Nếu muốn nhiều hơn nữa, đành phải đợi lần sau nha~ ",
+			"Nhưng nếu anh mang cá hồi tới, em có thể ngoại lệ cho anh đó♥ "
         ],
         "62": [
 			"Ôi trời♥ Anh muốn nhiều hơn ư? Thật tham quá~! ",
-			"Mua nhiều thế... anh định làm gì đó nghịch ngợm à~? "
+			"Mua nhiều thế này... anh định làm gì đó nghịch ngợm à~? "
         ],
         "63": [
 		    "Whoaaa—♥ Cá hồi chất lượng cao—! ",
-			"Anh nên đưa cái này ra sớm hơn chứ~ " 
+			"Anh nên đưa ra cái này ra sớm hơn chứ~ " 
         ],
         "64": [
-		    "Nếu là loại đó~ ",
+		    "Nếu là loại thượng phẩm đó~ ",
 			"Chỉ đưa cho em một con và em sẽ bán cho anh~♥ "
         ],
 		"65": [
 			"Hehe~ tìm gì đó để xem vào đêm khuya à~? ",
-			"Chọn đúng lúc ghê đó… Onii-san đang mong chờ thứ mặn nồng cỡ nào đây~? "
+			"Chọn đúng lúc ghê đó... Onii-san đang mong chờ thứ mặn nồng cỡ nào đây~? "
 		],
 		"66": [
 			"Muốn xem cùng với em gái sao~? Onii-san, ",
@@ -1597,8 +1597,8 @@
 		"72": [
 			"Thôi được rồi, ",
 			"em sẽ giúp Onii-san một chút vậy♥ ",
-			"Như vậy thì… chắc sẽ dễ ",
-			"bắt cá hơn rồi đúng không nào~?"
+			"Như vậy thì... chắc sẽ dễ ",
+			"bắt cá hơn rồi đúng không nào~? "
 		],
 		"73": [
 			"Ooh~~!",
@@ -1610,56 +1610,56 @@
 		],
 		"75": [
 			"Được rồi♥ Đây, thứ em đã hứa đây~ ",
-			"Nhớ tận hưởng cho đàng hoàng đó, onii-san~ "
+			"Nhớ tận hưởng cho đàng hoàng đó, Onii-san~ "
 		],
 		"76": [
 			"Dù em đã giúp anh rồi~ ",
 			"Onii-san vẫn thảm hại ghê đó~ "
 		],
 		"77": [
-			"So you've decided on this one~?",
-			"Then please offer up \\v[86] \\ii[142], onii-san~"
+			"Vậy là anh quyết định chọn cái này sao~? ",
+			"Vậy thì hãy dâng \\v[86] \\ii[142] lên đi, Onii-san~ "
 		],
 		"78": [
-			"You want to buy this one, meow? Ufufu♥",
-			"The fun stuff comes after you buy it~"
+			"Anh muốn mua cái này sao, meow? Ufufu♥ ",
+			"Chuyện vui chỉ bắt đầu sau khi anh mua nó đấy~ "
 		],
 		"79": [
-			"Give \\si[142]",
-			"Give \\si[143]",
-			"Never mind"
+			"Đưa \\si[142] ",
+			"Đưa \\si[143] ",
+			"Thôi bỏ đi "
 		],
 		"80": [
-			"Eh... You aren't planning to buy anything?",
-			"Just staring without buying, what a useless onii-san~"
+			"Eh... Anh không định mua gì sao? ",
+			"Chỉ đứng nhìn mà không mua, đúng là một Onii-san vô dụng mà~ "
 		],
 		"81": [
-			"My, my, could it be... onii-san, ",
-			"you actually can't afford this? So uncool♥ Zako~~~♥"
+			"Ôi chà, chẳng lẽ nào... Onii-san, ",
+			"Anh thật sự không đủ tiền mua sao? Thật vô dụng♥ Zako~~~♥ "
 		],
 		"82": [
-			"Welcome, meow~♥ onii-san will offer up ",
-			"lots of tasty salmon today too, right~?"
+			"Hoan nghênh, meow~♥ Hôm nay Onii-san cũng sẽ dâng ",
+			"thật nhiều cá hồi ngon lành cho em đúng không nào~? "
 		],
 		"83": [
-			"We meet again, onii-sanr~♥ You're thinking",
-			"about doing something lewd again, aren't you~ Ufufu♥"
+			"Lại gặp nhau rồi, Onii-san~♥ Anh lại đang nghĩ ",
+			"đến mấy chuyện biến thái nữa rồi đúng không nè~ Ufufu♥ "
 		],
 		"84": [
-			"well, if it isn't zako onii-san~",
-			"Ah, my bad♥ I meant useless onii-san~"
+			"Chà, chẳng phải là Zako Onii-san đây sao~ ",
+			"Ah, em nhầm♥ Ý em là Onii-san vô dụng cơ~ "
 		],
 		"85": [
-			"Even if it's you, onii-san...",
-			"Teasing me over and over—I'm going to get mad, you know?"
+			"Dù là Onii-san đi nữa... cứ trêu chọc em ",
+			"hết lần này đến lần khác như vậy... em sẽ nổi giận đấy nhé? "
 		],
 		"86": [
-			"Is onii-san not wide awake today?",
-			"Isn't this amount completely not enough~?"
+			"Hôm nay Onii-san vẫn chưa tỉnh táo hẳn nhỉ? ",
+			"Chừng này hoàn toàn không đủ đâu~? "
 		],
 		"87": [
-			"As expected, onii-san is still just a zako~",
-			"Watching you try so hard to show off is hilarious♥"
+			"Quả nhiên, Onii-san vẫn chỉ là một kẻ Zako mà thôi~ ",
+			"Nhìn anh cố gắng thể hiện bản thân hết sức mà buồn cười quá đi♥ "
 		]
     },
   	"98": {
