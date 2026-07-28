@@ -17,6 +17,20 @@
 	"numberDays": [
     	"DAY"
   	],
+	"tipSave": [
+		"Bạn có muốn truyền bản save từ phiên bản cũ không?",
+		"Bản game hiện tại đã tương thích với các tệp save từ phiến bản 0.22A trở lên."
+	],
+	"tipSave2": [
+		"Vui lòng chọn thư mục \"save\" của phiên bản cũ (hoặc thư mục gốc của trò chơi), sau đó nhấn \"Select Folder\"."
+	],
+	"tipSaveMobile": [
+		"Phiên bản Android hiện chưa hỗ trợ truy cập nhanh đén thư mục lưu dữ liệu",
+		"do các vấn đề liên quan đến quyền truy cập nhạy cảm.",
+		"Vui lòng tự truy cập đường dẫn '/storage/emulated/0/Documents/sister_save'",
+		"để kiểm tra các tệp save của bạn! Bạn có thể tự do chuyển dữ liệu save từ thiết bị này sang thiết bị khác hoặc",
+		"từ phiên bản PC về điện thoại để tiếp tục tiến trình chơi."
+	],
 	"quantityHeld": [
 		"\\fs[16]•Số lượng hiện có:\\c[17] ${} \\c[0]\\py[-8]"
 	],

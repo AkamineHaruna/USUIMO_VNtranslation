@@ -147,6 +147,8 @@
     "Jour"
   ],
   "memberMenu": {
-    "shortHint": " Activer la sauvegarde en cloud et les mise a jour majeures"
+    "shortHint": " Activer la sauvegarde en cloud et les mise a jour majeures",
+    "chooseLoginMethod": "Choisissez une plateforme de connexion",
+    "openingWindowItch": "Ouverture de la fenetre de connexion itch.io..."
   }
 }

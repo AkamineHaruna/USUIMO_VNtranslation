@@ -21,31 +21,37 @@
     "screenshotting": "Screenshotting...",
     "failed": "Failed!",
     "duration": "Recorded {time}"
-  },  
+  },
   "gallerySystem": {
     "startRecall": [
-        "This event's memory log has been unlocked.",
-        "Would you like to relive this memory?"
+      "This event's memory log has been unlocked.",
+      "Would you like to relive this memory?"
     ],
+    "recallButton": [
+      "Recall Event",
+      "Never Mind"
+    ],
+    "placeholder": "Available Recollections",
     "takeBathWithImouto": "Taking a bath with \\str[120]",
     "Polaroid": "NLCH Polaroid Series"
-  },  
+  },
   "AnsuzSystem": {
-    "writeNotLoggedIn":  "Player not logged in! Failed to upload Ansuz!",
-    "uploadFailed":      "Unable to connect to the server! Failed to upload Ansuz!",
+    "writeNotLoggedIn": "Player not logged in! Failed to upload Ansuz!",
+    "uploadFailed": "Unable to connect to the server! Failed to upload Ansuz!",
     "writeLimitReached": "You have reached today's limit for creating Ansuz!",
-    "writeRejected":     "Abnormal data! Failed to upload Ansuz!",
-    "rateNotLoggedIn":   "Player not logged in! Rating failed!",
-    "rateFailed":        "Unable to connect to the server! Rating failed!",
-    "rateLimitReached":  "You have reached today's limit for rating Ansuz!",
-    "rateRejected":      "You cannot rate your own Ansuz!"    
-  },  
+    "writeRejected": "Abnormal data! Failed to upload Ansuz!",
+    "rateNotLoggedIn": "Player not logged in! Rating failed!",
+    "rateFailed": "Unable to connect to the server! Rating failed!",
+    "rateLimitReached": "You have reached today's limit for rating Ansuz!",
+    "rateRejected": "You cannot rate your own Ansuz!"
+  },
   "cheatCodeTutorial": {
     "0": [
       "⬆ Long press the avatar frame to call up the cheat code entry window.",
       "Unlock the corresponding features by entering the correct cheat code!"
     ]
-  },  
+  },
+  "warehouseIsFull": "Can't store any more items!",
   "cannotUseItem": "Can't use item now!",
   "bulkSelectButton": "Click to toggle bulk selection",
   "usingItem": {
@@ -62,13 +68,13 @@
   "forceGoHome": [
     "It's getting late... The abyss at night is dangerous,",
     "I should head home as soon as possible...!"
-  ],  
+  ],
   "gameAnnouncement": {
     "0": [
       "Take a look",
       "Never mind"
     ]
-  },     
+  },
   "skillOnCooldown": {
     "0": [
       "Skill On Cooldown!"
@@ -79,7 +85,7 @@
       "\\nl< >\"Hngh! \\str[121]!    \\w[60]",
       "You're sneaking photos again!\""
     ]
-  }, 
+  },
   "sealingScroll": [
     "No items sealed yet",
     "Under Seal:"
@@ -145,6 +151,30 @@
   "unlockJackalope": {
     "0": [
       " Jackalope "
+    ],
+    "1": [
+      " has appeared in the Abyss! "
+    ]
+  },
+  "unlockMystletainn": {
+    "0": [
+      " Mistilteinn "
+    ],
+    "1": [
+      " has appeared in the Abyss! "
+    ]
+  },
+  "unlockAppleFairy": {
+    "0": [
+      " Apple Fairy "
+    ],
+    "1": [
+      " has appeared in the Abyss! "
+    ]
+  },
+  "unlockStrangeTentacle": {
+    "0": [
+      " Strange Tentacle "
     ],
     "1": [
       " has appeared in the Abyss! "

@@ -234,6 +234,8 @@
     "notLoggedIn": "로그인되지 않음",
     "RequestingLogin": "로그인 링크 요청 중...",
     "openingWindow": "Patreon 로그인 창 여는 중...",
+    "chooseLoginMethod": "로그인할 플랫폼을 선택해 주세요",
+    "openingWindowItch": "itch.io 로그인 창을 여는 중……",
     "cloudSave": "클라우드 저장 사용",
     "logInFirst": "먼저 로그인해 주세요",
     "CheckUpdates": "최신 버전으로 업데이트",

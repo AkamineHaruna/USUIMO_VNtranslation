@@ -296,46 +296,46 @@
       "After using a cheat code, you will receive the title 'ZAKO'. ",
       "You can toggle the title's easter egg effects in the Settings menu.",
       "This will not have any negative impact on your stats, story progression, or ending.",
-      "", 
-      "<<Cheat Code List>>",   
-      ""      
+      "",
+      "<<Cheat Code List>>",
+      ""
     ],
     "notUnlocked": [
-      "You haven't unlocked any cheat codes yet—maybe that weird knight can give you some clues!"  
-    ],        
+      "You haven't unlocked any cheat codes yet—maybe that weird knight can give you some clues!"
+    ],
     "hard2k1ll": [
       "< hard2k1ll >",
       "Obtain the cheat equipment 'Fairy Queen's Crystal Wings'. ",
-      "Grants immunity to fall damage and a massive damage reduction effect."  
+      "Grants immunity to fall damage and a massive damage reduction effect."
     ],
     "get40rfree": [
       "< get40rfree >",
-      "Obtain all consumables, ingredients, and materials. One-time use only."  
+      "Obtain all consumables, ingredients, and materials. One-time use only."
     ],
     "6a1n60ld": [
       "< 6a1n60ld >",
-      "Obtain 100,000 Yen and the cheat gear 'Lucky Mallet'. Defeating monsters will grant extra gold drops."  
+      "Obtain 100,000 Yen and the cheat gear 'Lucky Mallet'. Defeating monsters will grant extra gold drops."
     ],
     "healmeplz": [
       "< healmeplz >",
-      "Obtain the cheat gear 'Mio's First Aid Kit'. Grants a permanent, powerful auto-regeneration effect while equipped."  
+      "Obtain the cheat gear 'Mio's First Aid Kit'. Grants a permanent, powerful auto-regeneration effect while equipped."
     ],
     "unshatter": [
       "< unshatter >",
-      "Obtain the cheat gear 'Golden Finger'. Attacks will no longer consume weapon durability while equipped."  
+      "Obtain the cheat gear 'Golden Finger'. Attacks will no longer consume weapon durability while equipped."
     ],
     "60dpat": [
       "< 60dpat >",
-      "Obtain the cheat gear 'Catalyst Amatoria'. Grants a massive boost to Favorability when patting Imouto's head at home."  
+      "Obtain the cheat gear 'Catalyst Amatoria'. Grants a massive boost to Favorability when patting Imouto's head at home."
     ],
     "muestacz": [
       "< muestacz >",
-      "Obtain the cheat gear 'Absolute Territory'. Grants a massive amount of extra inventory space when equipped."  
+      "Obtain the cheat gear 'Absolute Territory'. Grants a massive amount of extra inventory space when equipped."
     ],
     "1f0g0ty0u": [
       "< 1f0g0ty0u >",
-      "Change Imouto's name."  
-    ]      
+      "Change Imouto's name."
+    ]
   },
   "23": {
     "name": [
@@ -625,7 +625,7 @@
     "ability": [
       "When used, grants Mind's Eye and Sage Mode statuses"
     ]
-  },  
+  },
   "52": {
     "name": [
       "The Lovers"
@@ -848,7 +848,7 @@
       "Places a bear trap beneath your feet",
       "Triggered whenever any non-flying creature passes over it"
     ]
-  },  
+  },
   "75": {
     "name": [
       "Sealed Timepiece"
@@ -883,11 +883,13 @@
     "subtitle": "",
     "description": [
       "A familiar belonging to a certain Archdemon",
-      "Releasing it will reveal the demon's location",
-      "Is it a cat, a piece of sushi, or a pudding?",
-      "Regardless of its true form, it looks tasty!"
+      "Set it free, and it will lead you to her whereabouts",
+      "But what exactly is it—a cat, sushi, or pudding? ",
+      "Either way, it looks pretty tasty.."
     ],
-    "ability": ""
+    "ability": [
+      "Use it, then follow Sushi Pudding to find Aki's shop"
+    ]
   },
   "80": {
     "name": [
@@ -1230,7 +1232,7 @@
       "Eating it directly slightly restores health"
     ],
     "ability": ""
-  },  
+  },
   "124": {
     "name": [
       "Green pear"
@@ -1241,7 +1243,7 @@
       "Eating it directly slightly restores health"
     ],
     "ability": ""
-  },  
+  },
   "125": {
     "name": [
       "Peach"
@@ -1261,6 +1263,20 @@
     "description": [
       "Broken octopus tentacles fished from the sea, they smell great when grilled",
       "It can also be cooked with other ingredients"
+    ],
+    "ability": ""
+  },
+  "128": {
+    "name": [
+      "Ruler's Tentacle"
+    ],
+    "subtitle": "",
+    "description": [
+      "A thick tentacle severed from the Ruler",
+      "Even without its body, it still writhes as if alive",
+      "As a cooking ingredient, it is undoubtedly considered a rare and high-grade delicacy",
+      "However, it is said that besides cooking, it can also have some ",
+      "unexpectedly miraculous uses in rather strange situations..."
     ],
     "ability": ""
   },
@@ -1441,6 +1457,23 @@
     ],
     "ability": ""
   },
+  "184": {
+    "name": [
+      "Men's 13-in-1 Shampoo"
+    ],
+    "beIndependent": true,
+    "subtitle": [
+      "\"As the thirteen ingredients still have a few minor disagreements, ",
+      "shake well before use!\""
+    ],
+    "description": [
+      "A magnificent masterpiece of alchemical magic",
+      "A legendary cleaning product combining shampoo, conditioner, body wash, ",
+      "toothpaste, mouthwash, deodorant, diesel fuel, sports drink, milk, aluminum foil, ",
+      "tennis shoes, dental floss, and birth control pills in one bottle"
+    ],
+    "ability": ""
+  },
   "185": {
     "name": [
       "Personal Jesus"
@@ -1571,7 +1604,7 @@
     "beIndependent": true,
     "subtitle": [
       "\"Ara ara~ I'm really curious as to where exactly you want to use this, onii-san~~\""
-    ], 
+    ],
     "description": [
       "An erotic toy refined after handing monster materials over to a certain archdemon",
       "It is said to automatically contract and move based on the user's level of desire...",
@@ -3037,7 +3070,7 @@
     "name": [
       "Gathering Tales"
     ],
-    "beIndependent":true,
+    "beIndependent": true,
     "subtitle": [
       "\"Guess I'll look for hidden paths...\""
     ],
@@ -3054,7 +3087,7 @@
     "name": [
       "For \\str[120]"
     ],
-    "beIndependent":true,
+    "beIndependent": true,
     "subtitle": [
       "\"Keep exploring into the deeper layers of the Abyss—\""
     ],
@@ -3066,6 +3099,55 @@
     "ability": [
       ""
     ]
+  },
+  "430": {
+    "name": [
+      "Bathroom Mirror Shame Play"
+    ],
+    "subtitle": [
+      "While taking a bath together, unable to resist \\str[120]'s teasing",
+      "and overcome by the urge to dote on her, ",
+      "\\str[121] brought her in front of the mirror—"
+    ],
+    "description": "",
+    "ability": ""
+  },
+  "431": {
+    "name": [
+      "\\str[120]'s Special Wash Service II"
+    ],
+    "subtitle": [
+      "To deepen their bond, \\str[121] asked \\str[120] to wash his back,",
+      "but pushing his luck, \\str[121] soon asked to wash the penis on the front as well.",
+      "Understanding completely, \\str[120] offered a special wash service on the spot..."
+    ],
+    "description": "",
+    "ability": ""
+  },
+  "432": {
+    "name": [
+      "\\str[120]'s Special Wash Service I"
+    ],
+    "subtitle": [
+      "To deepen their bond, \\str[121] asked \\str[120] to wash his back,",
+      "but pushing his luck, \\str[121] soon asked to wash the arms in front as well.",
+      "Understanding completely, \\str[120] offered a special wash service on the spot..."
+    ],
+    "description": "",
+    "ability": ""
+  },
+  "433": {
+    "name": [
+      "Correcting \\str[120] Who Secretly Turned Lewd"
+    ],
+    "subtitle": [
+      "Returning home early, \\str[121] accidentally caught \\str[120] secretly watching ",
+      "adult movies alone and learning to masturbate with a tentacle dildo. ",
+      "Facing \\str[120], who was becoming increasingly lewd behind the scenes,",
+      "\\str[121] decided to erect his penis and subject her to a harsh correction—"
+    ],
+    "description": "",
+    "ability": ""
   },
   "480": {
     "name": [
@@ -3085,7 +3167,7 @@
     "name": [
       "Hidden Quest Guide"
     ],
-    "beIndependent":true,
+    "beIndependent": true,
     "subtitle": [
       "\"Just read through the entire guide and beating the game will be a breeze——",
       " But that's... HOW ZAKOS THINK.",
@@ -3098,5 +3180,5 @@
     "ability": [
       "Hidden Quest Guidance Text"
     ]
-  }  
+  }
 }
