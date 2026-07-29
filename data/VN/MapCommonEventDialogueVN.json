@@ -27,18 +27,23 @@
             "Nhật ký ký ức của sự kiện này đã được mở khóa.",
             "Bạn muốn xem lại ký ức này không?"
         ],
+        "recallButton": [
+            "Xem Lại Sự Kiện",
+            "Bỏ Qua"
+        ],
+        "placeholder": "Ký Ức Hiện Có",
         "takeBathWithImouto": "Tắm cùng với \\str[120]",
         "Polaroid": "Bộ ảnh NLCH Polaroid"
     },  
     "AnsuzSystem": {
-        "writeNotLoggedIn":  "Người chơi chưa đăng nhập! Không thể tải Phù Văn Ansuz lên!",
-        "uploadFailed":      "Không thể kết nối với máy chủ! Không thể tải Phù Văn Ansuz lên!",
+        "writeNotLoggedIn": "Người chơi chưa đăng nhập! Không thể tải Phù Văn Ansuz lên!",
+        "uploadFailed": "Không thể kết nối với máy chủ! Không thể tải Phù Văn Ansuz lên!",
         "writeLimitReached": "Bạn đã đạt giới hạn tạo Phù Văn Ansuz trong hôm nay!",
-        "writeRejected":     "Dữ liệu bất thường! Không thể tải Phù Văn Ansuz lên!",
-        "rateNotLoggedIn":   "Người chơi chưa đăng nhập! Đánh giá thất bại!",
-        "rateFailed":        "Không thể kết nối với máy chủ! Đánh giá thất bại!",
-        "rateLimitReached":  "Bạn đã đạt giới hạn đánh giá Phù Văn Ansuz trong hôm nay!",
-        "rateRejected":      "Bạn không thể đánh giá Phù Văn Ansuz của chính mình!"    
+        "writeRejected": "Dữ liệu bất thường! Không thể tải Phù Văn Ansuz lên!",
+        "rateNotLoggedIn": "Người chơi chưa đăng nhập! Đánh giá thất bại!",
+        "rateFailed": "Không thể kết nối với máy chủ! Đánh giá thất bại!",
+        "rateLimitReached": "Bạn đã đạt giới hạn đánh giá Phù Văn Ansuz trong hôm nay!",
+        "rateRejected": "Bạn không thể đánh giá Phù Văn Ansuz của chính mình!"    
     },
     "cheatCodeTutorial": {
         "0": [
@@ -150,6 +155,30 @@
 		"1": [
             "đã xuất hiện trong Vực Sâu! "
         ]		
+    },
+    "unlockMystletainn": {
+        "0": [
+            " Mistilteinn "
+        ],
+        "1": [
+            " đã xuất hiện trong Vực Sâu! "
+        ]
+    },
+    "unlockAppleFairy": {
+        "0": [
+            " Apple Fairy "
+        ],
+        "1": [
+            " đã xuất hiện trong Vực Sâu! "
+        ]
+    },
+    "unlockStrangeTentacle": {
+        "0": [
+            " Strange Tentacle "
+        ],
+        "1": [
+            " đã xuất hiện trong Vực Sâu! "
+        ]
     },
     "maidBunnyBoss": {
         "0": [
