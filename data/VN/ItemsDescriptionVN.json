@@ -194,16 +194,17 @@
             "JoyStation V"
         ],
         "beIndependent": true,
-        "subtitle": "",
-        "description": [
-            "\"Ngay cả ở thế hệ thứ năm, các giới hạn của vật chất hóa linh hồn vẫn ngăn cản",
-            " người chơi trực tiếp đưa ý thức của mình vào.\""
-
+        "subtitle": [
+            "\"Ngay cả ở thế hệ thứ năm, các giới hạn của vật chất hóa linh hồn",
+            " vẫn ngăn cản người chơi trực tiếp đưa ý thức của mình vào.\""
         ],
-        "ability": [
+        "description": [
             "Một thiết bị giải trí kỳ lạ được các nhà giả kim tái tạo từ ",
             "những mảnh văn bản cổ. Nó khá nổi tiếng trong giới mạo hiểm giả,",
             "nhưng quy trình chế tạo phức tạp khiến nó trở nên cực kỳ hiếm."
+        ],
+        "ability": [
+            ""
         ]
     },
     "16": {
@@ -337,6 +338,24 @@
         "1f0g0ty0u": [
             "< 1f0g0ty0u >",
             "Đổi tên của em gái."
+        ]
+    },
+    "22": {
+    "name": [
+            "Bộ vật phẩm Mùa Hè"
+        ],
+    "subtitle": [
+            "\"Biển cả, Em & Anh\""
+        ],
+    "beIndependent": true,
+    "description": [
+            "Một bộ sản phẩm hợp tác phiên bản mùa hè của tựa game Shadow Souls",
+            "Thiết kế của nó được cho là lấy cảm hứng từ một trong những sự kiện mùa hè",
+            "kinh điển được yêu thích của game. Nhưng... khoan đã, tại sao một game hành động",
+            "lại có hẳn một tuyến tình cảm được đầu tư bài bản đến vậy?"
+        ],
+    "ability": [
+            "Có thể kích hoạt sự kiện liên quan khi trở về nhà trong thời tiết nắng nóng"
         ]
     },
     "23": {
@@ -1268,15 +1287,15 @@
     },
     "128": {
         "name": [
-            "Ruler's Tentacle"
+            "Xúc Tu Của Đấng Thống Trị"
         ],
         "subtitle": "",
         "description": [
-            "A thick tentacle severed from the Ruler",
-            "Even without its body, it still writhes as if alive",
-            "As a cooking ingredient, it is undoubtedly considered a rare and high-grade delicacy",
-            "However, it is said that besides cooking, it can also have some ",
-            "unexpectedly miraculous uses in rather strange situations..."
+            "Một xúc tu dày bị chặt rời khỏi Đấng Thống Trị",
+            "Dù đã lìa khỏi cơ thể, nhưng nó vẫn quằn quại như thể còn sống",
+            "Xét về nguyên liệu nấu ăn, chắc chắn đây là một món cao lương mỹ vị hiếm có và hảo hạng",
+            "Tuy nhiên, người ta nói rằng ngoài việc dùng để nấu ăn, nó còn có thể phát huy",
+            "những công dụng kỳ diệu không ngờ tới trong một số tình huống khá kỳ quặc..."
         ],
         "ability": ""
     },
@@ -3111,49 +3130,49 @@
     },
     "430": {
         "name": [
-            "Bathroom Mirror Shame Play"
+            "Chơi Xấu Hổ Trước Gương Trong Phòng Tắm"
         ],
         "subtitle": [
-            "While taking a bath together, unable to resist \\str[120]'s teasing",
-            "and overcome by the urge to dote on her, ",
-            "\\str[121] brought her in front of the mirror—"
+            "Trong lúc tắm cùng nhau, không thể cưỡng lại những lời trêu chọc",
+            "của \\str[120] và bị thôi thúc muốn cưng chiều em ấy, ",
+            "\\str[121] đã đưa em ấy đến trước gương—"
         ],
         "description": "",
         "ability": ""
     },
     "431": {
         "name": [
-            "\\str[120]'s Special Wash Service II"
+            "Dịch Vụ Tắm Rửa Đặc Biệt Của \\str[120] II"
         ],
         "subtitle": [
-            "To deepen their bond, \\str[121] asked \\str[120] to wash his back,",
-            "but pushing his luck, \\str[121] soon asked to wash the penis on the front as well.",
-            "Understanding completely, \\str[120] offered a special wash service on the spot..."
+            "Để thắt chặt mối quan hệ, \\str[121] đã nhờ \\str[120] kỳ lưng cho mình,",
+            "Nhưng được đà lấn tới, \\str[121] nhanh chóng yêu cầu em ấy rửa cả 'thằng đệ' ở phía trước.",
+            "Hiểu ý ngay lập tức, \\str[120] liền phục vụ tắm rửa đặc biệt ngay tại chỗ..."
         ],
         "description": "",
         "ability": ""
     },
     "432": {
         "name": [
-            "\\str[120]'s Special Wash Service I"
+            "Dịch Vụ Tắm Rửa Đặc Biệt Của \\str[120] I"
         ],
         "subtitle": [
-            "To deepen their bond, \\str[121] asked \\str[120] to wash his back,",
-            "but pushing his luck, \\str[121] soon asked to wash the arms in front as well.",
-            "Understanding completely, \\str[120] offered a special wash service on the spot..."
+            "Để thắt chặt mối quan hệ, \\str[121] đã nhờ \\str[120] kỳ lưng cho mình, ",
+            "Nhưng được đà lấn tới, \\str[121] nhanh chóng yêu cầu em ấy tắm rửa cả cánh tay ở phía trước. ",
+            "Hiểu ý ngay lập tức, \\str[120] liền phục vụ tắm rửa đặc biệt ngay tại chỗ... "
         ],
         "description": "",
         "ability": ""
     },
     "433": {
         "name": [
-            "Correcting \\str[120] Who Secretly Turned Lewd"
+            "Chỉnh Đốn \\str[120] Vì Lén Lút Trở Nên Dâm Đãng"
         ],
         "subtitle": [
-            "Returning home early, \\str[121] accidentally caught \\str[120] secretly watching ",
-            "adult movies alone and learning to masturbate with a tentacle dildo. ",
-            "Facing \\str[120], who was becoming increasingly lewd behind the scenes,",
-            "\\str[121] decided to erect his penis and subject her to a harsh correction—"
+            "Về nhà sớm, \\str[121] tình cờ bắt gặp \\str[120] đang lén ",
+            "xem phim người lớn một mình và học cách thủ dâm bằng đạo cụ xúc tu. ",
+            "Đối mặt với \\str[120], người ngày càng trở nên dâm đãng sau lưng mình,",
+            "\\str[121] quyết định dựng dương vật lên và nghiêm khắc 'chỉnh đốn' em ấy—"
         ],
         "description": "",
         "ability": ""
