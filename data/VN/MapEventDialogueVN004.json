@@ -800,9 +800,6 @@
             "\\nl< >\"Sấy tóc mệt quá... ",
 			"\\str[121], giúp em với~\""
         ],
-        "4.1": [
-            "\\nl< >\"...Đừng nhìn chằm chằm vào em như thế nữa mà~\""
-        ],
         "5": [
             "\\nl< >\"Anh sao thế, \\str[121]?\""
         ],	
@@ -814,8 +811,8 @@
             "\\nl< >\"...\\str[121]?\""
         ],
         "8": [
-            "\"Để anh giúp em sấy tóc nhé. ",
-			"Tự làm chắc cũng mệt lắm đúng không?\""
+            "\"Để anh sấy nó cho em. ",
+			"Tự làm chắc cũng mệt lắm, đúng không?\""
         ],
         "9": [
             "Tôi cúi người xuống, một tay cầm máy sấy, ",
@@ -2032,7 +2029,7 @@
             "\\str[120] lắng nghe trong vô thức, như thể đang chịu đựng điều gì đó."
 		],
         "14": [
-            "\\nl< >\"\\str[121]~!\""
+            "\\nl< >\"—Onii-chaaaan~!\""
 		],
         "15": [
             "Động viên \\str[120]!"

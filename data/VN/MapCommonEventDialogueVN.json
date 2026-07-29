@@ -11,44 +11,13 @@
 			"\\w[120]"
         ]
     },
-    "magicCamera": {
-        "record": "Quay Video",
-        "stop": "Dừng Quay",
-        "screenshot": "Chụp Ảnh Màn Hình",
-        "view": "Xem Tệp Tin",
-        "starting": "Đang Quay...",
-        "saving": "Đang Lưu...",
-        "screenshotting": "Đang Chụp Ảnh...",
-        "failed": "Thất Bại!",
-        "duration": "Đã Ghi {time}"
-    },  
-    "gallerySystem": {
-        "startRecall": [
-            "Nhật ký ký ức của sự kiện này đã được mở khóa.",
-            "Bạn muốn xem lại ký ức này không?"
-        ],
-        "takeBathWithImouto": "Tắm cùng với \\str[120]",
-        "Polaroid": "Bộ ảnh NLCH Polaroid"
-    },  
-    "AnsuzSystem": {
-        "writeNotLoggedIn":  "Người chơi chưa đăng nhập! Không thể tải Phù Văn Ansuz lên!",
-        "uploadFailed":      "Không thể kết nối với máy chủ! Không thể tải Phù Văn Ansuz lên!",
-        "writeLimitReached": "Bạn đã đạt giới hạn tạo Phù Văn Ansuz trong hôm nay!",
-        "writeRejected":     "Dữ liệu bất thường! Không thể tải Phù Văn Ansuz lên!",
-        "rateNotLoggedIn":   "Người chơi chưa đăng nhập! Đánh giá thất bại!",
-        "rateFailed":        "Không thể kết nối với máy chủ! Đánh giá thất bại!",
-        "rateLimitReached":  "Bạn đã đạt giới hạn đánh giá Phù Văn Ansuz trong hôm nay!",
-        "rateRejected":      "Bạn không thể đánh giá Phù Văn Ansuz của chính mình!"    
-    },
     "cheatCodeTutorial": {
         "0": [
             "⬆ Nhấn giữ khung avatar để mở cửa sổ nhập mã gian lận.",
             "Nhập đúng mã gian lận để mở khóa các tính năng tương ứng!"
         ]
     },
-    "warehouseIsFull": "Không thể chứa thêm vật phẩm!",
-    "cannotUseItem": "Không thể sử dụng vật phẩm lúc này!",
-    "bulkSelectButton": "Nhấp để bật/tắt chế độ chọn hàng loạt",
+    "bulkSelectButton": "Click to toggle bulk selection",
     "usingItem": {
         "0": [
             "Đã lấy ra \\ii[\\v[90]]  ",
@@ -60,10 +29,6 @@
             "Vứt bỏ"
         ]
     },
-    "forceGoHome": [
-        "Trời cũng đã muộn rồi... Vực Sâu vào ban đêm rất nguy hiểm,",
-        "mình nên về nhà càng sớm càng tốt...!"
-    ],
     "gameAnnouncement": {
         "0": [
             "Hãy xem thử ",
@@ -359,11 +324,6 @@
     "PhilosophersFragment": {
         "title": [
             "Mảnh Hiền Triết"
-        ],
-        "description12": [
-            "Một mảnh vỡ đặc biệt thu được từ Đấng Thống Trị",
-            "Nếu thu thập đủ nhiều mảnh vỡ khác nhau",
-            "có thể sẽ giúp cải thiện tình trạng của ${}"
         ],
         "description50": [
             "Một mảnh vỡ đặc biệt thu được từ Cuồng Huyết Xích Thú",

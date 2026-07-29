@@ -404,59 +404,6 @@
             "Tăng mạnh hiệu quả của tất cả kỹ năng đã học"
         ]
     },
-    "31": {
-        "name": [
-            "Tàn Tích Diệt Vong"
-        ],
-        "subtitle": [
-            "\"Không sao... ███... sẽ... tìm thấy... ███...\""
-        ],
-        "description": [
-            "Một thanh kiếm đá vỡ được tìm thấy bên trong một di tích đã bị hủy hoại...",
-            "Chẳng lẽ đây là vật chôn cất? ",
-            "Những dòng chữ loang lổ vẫn còn lưu lại trên thanh kiếm,",
-            "nhưng ý nghĩa đã bị đứt đoạn, hoàn toàn không thể đọc được"
-        ],
-        "ability": [
-            "Gây thêm sát thương khi độ bền của vũ khí sắp cạn kiệt"
-        ]
-    },
-    "32": {
-        "name": [
-            "Trượng Yggdrasil"
-        ],
-        "subtitle": [
-            "——Pháp sư nên phân bổ điểm kỹ năng thế nào? Đang online, gấp lắm!",
-            "——Cứ dồn hết điểm vào Thể Lực và Sức Mạnh đi.",
-            "Kỹ năng thì nâng tối đa Xung Kích và Cuồng Phong.",
-            "Phép thuật chỉ cần lấy Thánh Quang là đủ.",
-            "——Cảm ơn anh bạn."
-        ],
-        "description": [
-            "Một cây trượng được chế tác từ những cành cây của Yggdrasil",
-            "Do trọng lượng quá lớn, nó chỉ được một số ít pháp sư chiến đấu ưa chuộng"
-        ],
-        "ability": [
-            "Có 50% xác suất gây trạng thái Choáng khi tấn công",
-            "Khi HP giảm xuống dưới \\c[29]400\\c[0], uy lực thực sự của vũ khí sẽ bị hạn chế!"
-        ]
-    },  
-    "34": {
-        "name": [
-            "Tiếng Gầm Của Đấng Thống Trị"
-        ],
-        "subtitle": "",
-        "description": [
-            "Một cây trượng kỳ lạ được tinh luyện hoàn toàn từ nguyên tố nước.",
-            "Người ta nói rằng nó cho phép người sử dụng kiểm soát tuyệt đối áp lực nước ",
-            "giống như một vị bá chủ đáng sợ nào đó dưới đáy biển—",
-            "Nhưng khoan đã, nếu xung quanh hoàn toàn không có nước thì sao...?!"
-        ],
-        "ability": [
-            "Giữ chuột phải để thi triển \\c[27]Cuồng Lưu Diệt Thế\\c[0]",
-            "Cần có nguồn nước ở gần để thi triển"
-        ]
-    },
     "35": {
         "name": [
             "Claíomh Solais"
@@ -510,13 +457,13 @@
 		    "\"Nhớ nhé, Trảm Cuồng Phong dùng như thế này! \""
 		],
         "description": [
-            "Một chiếc liềm cán ngắn được một kẻ ngoại lai mang theo, có thiết kế đáng sợ và ",
-            "ẩn chứa một ý chí riêng. Nếu cầm nó quá lâu có thể khiến những giọng nói kỳ lạ",
-            "bắt đầu vang vọng trong tâm trí..."
+            "Lưỡi hái cán ngắn của người ngoài với thiết kế đáng sợ",
+            "và ý chí trú ngụ bên trong. Cầm lâu còn có thể",
+            "nghe thấy tiếng nói lạ vang lên trong đầu"
         ],
         "ability": [
-            "Trảm Cuồng Phong sẽ tự động truy đuổi kẻ địch và quay trở lại tay người ném",
-            "Bắt lấy vũ khí khi nó quay về sẽ cho phép ném lại ngay lập tức với sát thương tăng cao"
+            "Tự động tìm mục tiêu khi ném",
+			"Ý chí mạnh mẽ sẽ giúp bạn làm chủ kỹ năng chiến đấu đặc biệt"
         ]
     },
     "51": {
@@ -536,7 +483,7 @@
     },
     "52": {
         "name": [
-            "Unit 2"
+            "Đơn Vị Số 2"
         ],
         "subtitle": "",
         "description": [
@@ -685,8 +632,9 @@
             "\"——đa số mạo hiểm giả chỉ gọi thứ này là Ống Sừng Hươu.\""
         ],
         "description": [
-            "Một vũ khí của Ác Ma Dục Vọng, dường như là một loại pháp khí dùng trong nghi lễ",
-            "Chất liệu và ma lực ẩn chứa bên trong đều không thể phân tích được",
+            "Vũ khí thường được Ác Ma Dục Vọng sử dụng, tương truyền ",
+            "ban đầu vốn là một loại pháp khí nghi thức.",
+            "Chất liệu cùng ma lực ẩn chứa bên trong đến nay vẫn không thể phân tích.",
             "Ngoài ra, nó còn hoạt động cực kỳ hiệu quả như một chiếc đồng hồ báo thức…!"
         ],
         "ability": [

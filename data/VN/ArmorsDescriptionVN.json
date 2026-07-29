@@ -1054,23 +1054,6 @@
             "Hiện vật thể và lối đi bị ẩn khi trang bị"
         ]
     },
-    "76": {
-        "name": [
-            "Ánh Mắt Của Đấng Thống Trị"
-        ],
-        "subtitle": [
-            "\"Nó đang dõi theo bạn—\""
-        ],
-        "description": [
-            "Một chiếc nhẫn bị nguyền rủa, được khảm bằng nhãn cầu của Đấng Thống Trị ",
-            "Nguồn sức mạnh còn sót lại không ngừng rò rỉ ra ngoài, khiến người đeo ",
-            "luôn có ảo giác rằng mình đang bị một thực thể vô danh lạnh lùng dõi theo "
-        ],
-        "ability": [
-            "Tăng Tốc độ Đánh và Tốc độ Di chuyển khi ở trạng thái ngập nước hoặc trong khu vực có nước",
-            "Tăng khả năng phát hiện quái vật, nhưng cũng có xác suất khiến chúng hoảng sợ"
-        ]
-    },
     "77": {
         "name": [
             "Thiếu Nữ Cầu Nguyện"
@@ -1085,35 +1068,6 @@
         ],
         "ability": [
             "Tăng xác suất nhận được \\ii[142] và \\ii[143]"
-        ]
-    },
-    "78": {
-        "name": [
-            "Áo Choàng Hộ Mệnh"
-        ],
-        "subtitle": "",
-        "description": [
-            "Một chiếc áo choàng cho là đã được Đại Hiền Giả mặc khi phiêu lưu lúc còn trẻ ",
-            "Lời chúc phúc của các linh hồn được ban tặng khi ấy vẫn còn lưu lại trong từng nếp áo "
-        ],
-        "ability": [
-            "Tấn công hoặc niệm phép bằng trượng sẽ kích hoạt lời chúc phúc của linh hồn",
-            "Khi được ban phước, Tốc độ Đánh, Tốc độ Di chuyển và Kháng Ma thuật đều được tăng"
-        ]
-    },  
-    "79": {
-        "name": [
-            "Mảnh Đá Ác Ma"
-        ],
-        "subtitle": "",
-        "description": [
-            "Một mảnh vỡ còn sót lại từ một cánh cổng ma giới đã bị phá hủy",
-            "Dù sao thì nó cũng là tạo vật của Ác Ma, chỉ một mảnh vỡ thôi mà vẫn ẩn chứa sức mạnh hắc ám",
-            "...Nhưng mà, liệu thứ này có thật sự mang đến sự báo thù của ác ma không?"
-        ],
-        "ability": [
-            "Khi chịu sát thương, giải phóng một sóng xung kích để phản công những kẻ địch xung quanh",
-            "Khi được hồi phục, giải phóng một làn sóng chữa trị hồi máu cho những kẻ địch xung quanh"
         ]
     },
     "80": {

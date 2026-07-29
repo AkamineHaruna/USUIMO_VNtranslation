@@ -684,16 +684,6 @@
 			"Cảm thấy an toàn khi ở trong bụi cây... HP tự động hồi phục"
 		]
 	},
-	"93": {
-		"name": [],
-		"subtitle": [
-			"\"Ư...!? N-Nặng quá...! Cảm giác như mình đang chìm xuống... K-Không thở được...!!\""
-		],
-		"description": [
-			"Dính hiệu ứng Ngập Nước với ${$gameParty.leader().getStateCounter(93)} cộng dồn! ",
-			"Tốc độ di chuyển giảm theo mỗi cộng dồn! Khi vượt quá 10 cộng dồn sẽ lập tức chết đuối!"
-		]
-	},
 	"98": {
 		"name": [],
 		"subtitle": [
@@ -748,13 +738,40 @@
 			"Không đủ sức mạnh để sử dụng vũ khí!"
 		]
 	},
-	"111": {
+	"107": {
 		"name": [],
 		"subtitle": [
 			"\"Chúng ta là những người bảo vệ!\""
 		],
 		"description": [
-			"HP cần thiết để kích hoạt hiệu ứng bộ trang bị Kỵ Sĩ đã được điều chỉnh xuống dưới 75%."
+			"Tăng tốc độ di chuyển!"
+		]
+	},
+	"108": {
+		"name": [],
+		"subtitle": [
+			"\"Chúng ta là những người bảo vệ!\""
+		],
+		"description": [
+			"Tăng sức tấn công và phòng thủ!"
+		]
+	},
+	"109": {
+		"name": [],
+		"subtitle": [
+			"\"Chúng ta là những người bảo vệ!\""
+		],
+		"description": [
+			"Tăng phòng thủ!"
+		]
+	},
+	"110": {
+		"name": [],
+		"subtitle": [
+			"\"Chúng ta là những người bảo vệ!\""
+		],
+		"description": [
+			"Tăng HP tối đa và phòng thủ!"
 		]
 	},
 	"115": {

@@ -337,6 +337,23 @@
       "Change Imouto's name."
     ]
   },
+  "22": {
+    "name": [
+      "Summer Set"
+    ],
+    "subtitle": [
+      "\"Sea, You & Me\""
+    ],
+    "beIndependent": true,
+    "description": [
+      "A summer collaboration merchandise set from the game Shadow Souls",
+      "Its design is said to be inspired by one of the game's beloved classic summer events",
+      "But... why does an action game have such a fully developed romance element anyway?"
+    ],
+    "ability": [
+      "Can trigger a related event when returning home during hot weather"
+    ]
+  },
   "23": {
     "name": [
       "Delicious Milk"

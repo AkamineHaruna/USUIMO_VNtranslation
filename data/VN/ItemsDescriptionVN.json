@@ -180,13 +180,12 @@
         "beIndependent": true,
         "subtitle": "",
         "description": [
-            "Được cho là một bảo vật phương Đông, chế tác tinh xảo nhưng bị thất lạc trong Vực Sâu... ",
-            "Nó đóng băng cảnh vật thành hình ảnh, nhưng lại dễ bị ảnh hưởng bởi ma thuật, ",
-            "đôi khi chụp được những thứ kỳ lạ"
+            "Được cho là một bảo vật phương Đông, chế tác tinh xảo nhưng bị thất lạc",
+            "trong Vực Sâu... Nó đóng băng cảnh vật thành hình ảnh, nhưng",
+            "dễ bị ảnh hưởng bởi ma thuật, đôi khi chụp được những thứ kỳ lạ"
         ],
         "ability": [
-            "Có thể quay video và chụp ảnh",
-            "Có thể dùng thông qua phím F7"
+            "Nhấn F7 để chụp ảnh"
         ]
     },
     "15": {
@@ -534,8 +533,8 @@
             "không có kiến thức về ma thuật cũng có thể dễ dàng kích hoạt nó."
         ],
         "ability": [
-            "Khắc một dấu ấn Phù Văn dưới chân bạn, có thể để những người chơi khác đọc được",
-            "Có thể sử dụng vô hạn, nhưng chỉ được khắc tối đa 24 lần mỗi ngày"
+            "Khi sử dụng sẽ để lại kí hiệu có chữ tại vị trí đó",
+            "Sau khi cập nhật, kí hiệu sẽ hiển thị với các người chơi khác"
         ]
     },
     "44": {
@@ -884,10 +883,10 @@
         "beIndependent": true,
         "subtitle": "",
         "description": [
-            "Một sử ma thú thuộc về một Đại Ác Ma nào đó",
-            "Thả nó ra, nó sẽ dẫn bạn đến nơi cô ấy đang ở",
-            "Nhưng rốt cuộc nó là gì nhỉ—một con mèo, miếng sushi hay là bánh pudding? ",
-            "Dù là gì đi nữa... trông nó cũng ngon phết."
+            "Một sinh vật đồng hành của một ác ma nào đó.",
+            "Thả nó ra thì sẽ tiết lộ vị trí của ác ma",
+            "Rốt cuộc nó là mèo, một miếng sushi, hay là bánh pudding?",
+            "Bất kể hình dạng thật sự là gì, trông nó vẫn rất ngon!"
         ],
         "ability": ""
     },
@@ -1222,39 +1221,6 @@
         ],
         "ability": ""
     },
-    "123": {
-        "name": [
-            "Cam"
-        ],
-        "subtitle": "",
-        "description": [
-            "Trái cây vừa hái, đầy hương vị tươi mát",
-            "Ăn trực tiếp sẽ hồi phục sức khoẻ một chút"
-        ],
-        "ability": ""
-    },
-    "124": {
-        "name": [
-            "Lê xanh"
-        ],
-        "subtitle": "",
-        "description": [
-            "Trái cây vừa hái, đầy hương vị tươi mát",
-            "Ăn trực tiếp sẽ hồi phục sức khoẻ một chút"
-        ],
-        "ability": ""
-    },
-    "125": {
-        "name": [
-            "Đào"
-        ],
-        "subtitle": "",
-        "description": [
-            "Trái cây vừa hái, đầy hương vị tươi mát",
-            "Ăn trực tiếp sẽ hồi phục sức khoẻ một chút"
-        ],
-        "ability": ""
-    },
     "127": {
         "name": [
             "Râu Bạch Tuộc"
@@ -1443,23 +1409,6 @@
         ],
         "ability": ""
     },
-    "184": {
-        "name": [
-            "Dầu Gội X-Men 13 Trong 1"
-        ],
-        "beIndependent": true,
-        "subtitle": [
-            "\"Do mười ba thành phần bên trong vẫn còn vài bất đồng nho nhỏ, ",
-            "hãy lắc kỹ trước khi sử dụng!\""
-        ],
-        "description": [
-            "Một kiệt tác huy hoàng của thuật giả kim",
-            "Là sản phẩm vệ sinh huyền thoại kết hợp dầu gội, dầu xả, sữa tắm, ",
-            "kem đánh răng, nước súc miệng, lăn khử mùi, dầu diesel, nước uống thể thao, sữa, ",
-            "giấy bạc, giày tennis, chỉ nha khoa và thuốc tránh thai trong cùng một chai."
-        ],
-        "ability": ""
-    },
     "185": {
         "name": [
             "Sự Cứu Rỗi Cá Nhân"
@@ -1585,29 +1534,14 @@
             "Tăng ham muốn sau khi đọc!"
 		]	
     },
-    "193": {
-        "name": [
-            "Dương Vật Giả Hình Xúc Tu"
-        ],
-        "beIndependent": true,
-        "subtitle": [
-            "\"Ara ara~ Em thật sự rất tò mò không biết Onii-san muốn dùng thứ này vào đâu đấy~~\""
-        ], 
-        "description": [
-            "Một món đồ chơi tình dục được chế tác sau khi giao nguyên liệu quái vật cho một Đại Ác Ma nào đó",
-            "Nghe nói nó sẽ tự động co bóp và chuyển động dựa trên mức độ ham muốn của người sử dụng...",
-            "Nhưng tại sao lại chế ra thứ này chứ—ĐÁNG LẼ NGƯỜI ĐƯỢC LÀM CHUYỆN ĐÓ PHẢI LÀ MÌNH...!!"
-        ],
-        "ability": ""
-    },
     "196": {
         "name": [
-            "Bộ Sưu Tập Ký Ức [NLCH Polaroid]"
+            "Bộ Sưu Tập Kỷ Niệm [NLCH Polaroid]"
         ],
         "beIndependent": true,
         "subtitle": "",
         "description": [
-            "Bước vào Bộ Sưu Tập Ký Ức để xem tất cả các bức ảnh Polaroid đã thu thập được"
+            "Bước vào Bộ Sưu Tập Kỷ Niệm để xem tất cả các bức Polaroid đã thu thập được"
         ],
         "ability": ""
     },
@@ -3065,7 +2999,7 @@
         "name": [
             "Thu Chập Câu Chuyện"
         ],
-        "beIndependent": true,
+        "beIndependent":true,
         "subtitle": [
             "\"Chắc mình sẽ thử tìm các con đường bí mật vậy...\""
         ],
@@ -3082,7 +3016,7 @@
         "name": [
             "Dành cho \\str[120]"
         ],
-        "beIndependent": true,
+        "beIndependent":true,
         "subtitle": [
             "\"Tiếp tục thám hiểm vào những tầng đen tối hơn của Vực Sâu nào—\""
         ],
@@ -3113,7 +3047,7 @@
         "name": [
             "Hướng Dẫn Nhiệm Vụ Ẩn"
         ],
-        "beIndependent": true,
+        "beIndependent":true,
         "subtitle": [
             "\"Chỉ cần đọc hết cuốn hướng dẫn này thì phá đảo trò chơi sẽ dễ như trở bàn tay",
             " Nhưng đó là... Suy Nghĩ Của Đám ZAKO.",
