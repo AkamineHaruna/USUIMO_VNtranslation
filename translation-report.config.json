@@ -59,7 +59,7 @@
     "VN": {
       "label": "Vietnamese",
       "nativeLabel": "Tiếng Việt",
-      "baseCommit": "b29afc4cd7db79a522c7f9fa22ad70efac6f6a6e",
+      "baseCommit": "5b2389e07842a5c379d4c6d8922082d48db99ad2",
       "baseNote": "Last repository revision that updated Vietnamese translation files"
     }
   }
