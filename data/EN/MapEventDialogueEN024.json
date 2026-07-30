@@ -442,32 +442,32 @@
       "——The entrance is completely quiet.",
       "Normally around this time, \\str[120] should have come out ",
       "to greet me right away since I came home early."
-    ],     
+    ],
     "1": [
       "\"That's weird... ",
       "She wouldn't still be sleeping in at this hour, would she?\""
-    ],    
+    ],
     "2": [
       "I softened my steps and put on my slippers, ",
       "intending to go straight to the loft to check on her,",
       "but I was caught off guard by a series of blushing moans ",
       "coming from the direction of the living room."
-    ],     
+    ],
     "3": [
       "\\nl< >\\}\"Ngh... Ah...♥ ",
       "Mmm... Nnnngh...♥\""
-    ],     
+    ],
     "4": [
       "\"Th-this voice...     \\{\\w[60]",
       "Is that \\str[120]!?\""
-    ], 
+    ],
     "5": [
       "My heart skipped a beat. ",
       "Driven by an intense voyeuristic urge mixed with nervousness and excitement,",
       "I moved silently like a thief to the living room doorway,",
       "and then slowly peeked inside——"
-    ] 
-  },  
+    ]
+  },
   "9": {
     "0": [
       "The warmth in my arms reminded me that ",
@@ -529,6 +529,59 @@
     ],
     "15": [
       "\\nl< >\"Got it.\""
+    ],
+    "19": [
+      "\\nl< >\"........\\str[121]?",
+      "Welcome home~\""
+    ],
+    "20": [
+      "\\nl< >\"Welcome back, \\str[121]! ",
+      "Good work today!\""
+    ],
+    "21": [
+      "\\nl< >\"Would you like a bath first?    \\w[120]",
+      "Would you like dinner first?                \\w[120]",
+      "Or would you prefer..."
+    ],
+    "22": [
+      "\\nl< >\\{\"M·e~?\""
+    ],
+    "23": [
+      "—What kind of new greeting style is this!?",
+      "This is bad! \\str[120] is looking dangerously cute~!"
+    ],
+    "24": [
+      "Eat \\str[120] first",
+      "Take a bath first",
+      "Eat dinner first"
+    ],
+    "25": [
+      "\"Let's have dinner first!\""
+    ],
+    "26": [
+      "\\nl< >\"Sorry~ I haven't made any yet~\""
+    ],
+    "27": [
+      "\"—Eh.\""
+    ],
+    "28": [
+      "\\nl< >\"I saw this on TV today and thought it looked fun~\""
+    ],
+    "29": [
+      "\\nl< >\"But if \\str[121] wants to eat, ",
+      "I actually just got an idea for a new dish~!\""
+    ],
+    "30": [
+      "\"—Ehhh!?\""
+    ],
+    "31": [
+      "Before I could even snap out of my shock, ",
+      "\\str[120] trotted off to the kitchen with an excited look on her face.",
+      "Recalling the food \\str[120] had made in the past, ",
+      "a sudden chill ran down my spine."
+    ],
+    "32": [
+      "\"Just in case... I'd better go take a look...\""
     ]
   },
   "13": {

@@ -182,58 +182,58 @@
       "Thinking fast, ",
       "I pulled a prepared bottle of milk from my shirt ",
       "and handed it to her."
-    ], 
+    ],
     "6": [
       "\\nl< >\"Oh, I see. Thanks, \\str[121]~",
       "Your timing is perfect!\""
-    ], 
+    ],
     "7": [
       "\\nl< >\"Eh... it's not the flavor I wanted...\""
-    ], 
+    ],
     "8": [
       "—Phew, looks like I managed to ",
       "bluff my way through after all...!"
-    ],  
+    ],
     "9": [
       "\"Ah... since it's been getting hotter lately, right?",
       "I saw quite a few bugs around here, ",
       "so I thought I'd come check the place—\""
-    ],   
+    ],
     "10": [
       "\"Look, the bath supplies are almost running out, ",
       "so I... I thought I'd come restock them...\""
-    ],   
+    ],
     "11": [
       "\"Oh... I just happened to be passing by while cleaning. ",
       "What a coincidence, haha, hahaha—!\""
-    ],  
+    ],
     "12": [
       "With cold sweat running down my face, ",
       "I forced out a desperate excuse."
-    ],  
+    ],
     "13": [
       "\\nl< >\"………………………………\""
-    ],   
+    ],
     "14": [
       "\\nl< >\"\\str[121]... ",
       "you were here to peep, weren't you—\""
-    ],     
+    ],
     "15": [
       "I'm busted!",
       "Not only did she see through me, ",
       "but I've made \\str[120] angry..."
-    ],     
+    ],
     "16": [
       "\\nl< >\"Hmph... Hmm...? Really?\""
-    ],     
+    ],
     "17": [
       "Even though \\str[120] shot me an extremely suspicious look, ",
       "I somehow managed to bluff my way through..."
-    ],     
+    ],
     "18": [
       "\\nl< >\"Is that so— ",
       "\\str[121], you sure work hard.\""
-    ],     
+    ],
     "19": [
       "It seems \\str[120] didn't suspect my clumsy excuse at all. ",
       "I finally made a clean getaway..."
@@ -241,107 +241,107 @@
     "20": [
       "\\nl< >\"\\str[121]? What are you doing there?\"",
       "\\w[150]\\^"
-    ],    
+    ],
     "21": [
       "\\\"Pffft...!\"",
       "\\w[45]\\^"
-    ],    
+    ],
     "22": [
       "\\str[120]'s confused voice came from right beside me.",
       "O-oh no! I'm about to be caught by \\str[120]!"
-    ],   
+    ],
     "23": [
       "\\nl< >\"Why is \\str[121] here, ",
       "and why are you holding my panties...\""
-    ],     
+    ],
     "24": [
       "Try to justify",
       "Come clean",
       "Stay true"
-    ],    
+    ],
     "25": [
       "I'm in a very awkward position right now.",
       "I need to stay calm and handle this carefully..."
-    ],    
+    ],
     "26": [
       "\\{I'll just have to try and ",
       "bluff my way through...!"
-    ],   
+    ],
     "27": [
       "\\nl< >\"...\\str[121]?\""
-    ],   
+    ],
     "28": [
       "\"It's not what you think!",
       "I was just... trying to give \\str[120] a ",
       "\\{health check\\}, that's all!\""
-    ], 
+    ],
     "29": [
       "\\nl< >\"Eh... a health check...        \\w[120]",
       "\\str[121] sure works hard—               \\w[90]\\^"
-    ],   
+    ],
     "30": [
       "\\nl< >\\{—Did you really think I'd say that?\""
-    ],    
+    ],
     "31": [
       "\\nl< >\\{\"\\str[121], you dummy! You pervert!\"",
       "\\w[120]\\^"
-    ],    
+    ],
     "32": [
       "\\nl< >\"LEWWWWWWWD——!!\""
-    ],    
+    ],
     "33": [
       "\\str[120]'s angry shouts were still echoing in the washroom, ",
       "but she had already turned and fled into the bathroom.",
       "It seems she wants nothing to do with me right now... ",
       "I'll have to apologize to her properly later..."
-    ],    
+    ],
     "34": [
       "In this situation... as I thought...",
       "I have to confess everything and ",
       "beg for \\str[120]'s forgiveness...!"
-    ],  
+    ],
     "35": [
       "\\{\"It's my fault! ",
       "I'm truly, deeply sorry!!\""
-    ],    
+    ],
     "36": [
       "\\nl< >\"—Eh?\""
-    ],  
+    ],
     "37": [
       "\"Because I wanted to feel my cute \\str[120]'s growth up close, ",
       "so I just...!\""
-    ],  
+    ],
     "38": [
       "\"By the time I realized it, ",
       "my head was filled with the scent ",
       "and texture of your panties—so I just...!\""
-    ],  
+    ],
     "39": [
       "\\nl< >\"Um... \\str[121], that's enough—\"",
       "\\w[120]\\^"
-    ],  
+    ],
     "40": [
       "\"It's not enough...!!\""
-    ],    
+    ],
     "41": [
       "\\nl< >\"—Kyaa!?\""
-    ],    
+    ],
     "42": [
       "\"I did something like this to \\str[120]...",
       "how can I ever forgive myself!",
       "I have to reflect on this with every fiber of my being!\""
-    ],   
+    ],
     "43": [
       "\\nl< >\"Uwahhh...\""
-    ],    
+    ],
     "44": [
       "\"That's why I—",
       "\\w[45]\\^"
-    ],    
+    ],
     "45": [
       "\\nl< >\"That's enough! I've heard enough of ",
       "\\str[121]'s reflections already!!\""
-    ],    
+    ],
     "46": [
       "\\str[120] fled into the bathroom as if she were escaping... ",
       "That's strange... was my attitude not sincere enough? ",
@@ -350,98 +350,98 @@
     "47": [
       "\\nl< >\"——————\\str[121]?\"",
       "\\w[90]\\^"
-    ],     
+    ],
     "48": [
       "\\nl< >\"...Again? You did this before too, didn't you?\""
-    ],      
+    ],
     "49": [
       "\\nl< >\"Why do you keep doing things like this...?\""
-    ],       
+    ],
     "50": [
       "Oh, this is bad...!",
       "Can I actually pull off a smooth excuse this time...?"
-    ],    
+    ],
     "51": [
       "\"Actually... ",
       "I've been cursed by an Evil God from the Abyss!",
       "If I don't release this pressure periodically, ",
       "I'll literally explode...!\""
-    ],       
+    ],
     "52": [
       "\\nl< >\"—I've never heard you mention anything like that before.\""
-    ],         
+    ],
     "53": [
       "\"I'm not lying!",
       "Look! My heart is racing...",
       "and my hands have started to tremble!\""
-    ],        
+    ],
     "54": [
       "\\nl< >\"...You're definitely lying.\""
-    ],        
+    ],
     "55": [
       "\"...Eh.\""
-    ],        
+    ],
     "56": [
       "\\nl< >\"After all, you've looked perfectly fine this whole time,",
       "and you're talking with so much... excitement...\""
-    ],        
+    ],
     "57": [
       "\\nl< >\"\\str[121]... ",
       "you're just giving me the runaround again, aren't you?\""
-    ],        
+    ],
     "58": [
       "\"………………………………\""
-    ],         
+    ],
     "59": [
       "Since when did \\str[120] get so sharp!?"
-    ],        
+    ],
     "60": [
       "\\nl< >\\{\"\\str[121], you big dummy!!\"",
       "\\w[65]\\^"
-    ],        
+    ],
     "61": [
       "\\nl< >\"You don't understand my feelings at all!!\""
-    ],        
+    ],
     "62": [
       "Eh... why...? ",
       "Why does it feel like she's even angrier than last time?"
-    ],      
+    ],
     "63": [
       "\\nl< >\"Huh? The shampoo is all gone...\"",
       "\\w[150]\\^"
-    ],     
+    ],
     "64": [
       "\\str[120]'s confused voice came from the other side. ",
       "N-no good! I need to get out of here, fast!!"
-    ],     
+    ],
     "65": [
       "\\nl< >\"\\str[121], the shampoo is—     \\w[90]",
       "\\str[121]? Are you already out here?\""
-    ],      
+    ],
     "66": [
       "\"...I-I heard your voice and rushed right over!",
       "So, uh, did something happen...?\""
-    ],      
+    ],
     "67": [
       "\\nl< >\"It's just that I'm out of shampoo...      \\w[120]",
       "Could you bring me some more?                      \\w[120]",
       "Wait, \\str[121], you're panting pretty hard...",
       "did you run all the way here?\""
-    ],      
+    ],
     "68": [
       "\"Y-yeah... ahaha... pretty fast, right?\""
-    ],      
+    ],
     "69": [
       "Not daring to think any further, ",
       "I quickly grabbed a refill bottle of shampoo ",
       "from the cabinet and handed it to her."
-    ],      
+    ],
     "70": [
       "\\str[120] shut the door and went back to her bath. ",
       "If I stay here any longer, I'm bound to be exposed... ",
       "I should head back..."
-    ]                      
-  },  
+    ]
+  },
   "6": {
     "0": [
       "Tiptoe, tiptoe..."
@@ -598,7 +598,7 @@
       "I carefully tucked the panties, which felt heavy from the liquid, ",
       "back into their original place and used the folds of the other clothes ",
       "to desperately hide the soiled areas."
-    ]    
+    ]
   },
   "7": {
     "0": [
@@ -858,8 +858,8 @@
     "63": [
       "\\nl< >\"\\str[121], you shot out so much again...",
       "now I have to wash my hair all over again...!\""
-    ]       
-  },   
+    ]
+  },
   "11": {
     "0": [
       "After washing her face, ",
@@ -893,6 +893,98 @@
     "7": [
       "We finished brushing our teeth while chatting in ",
       "languages neither of us could really understand."
+    ],
+    "8": [
+      "\\nl< >\"Ah—I fokgot to tie up my haiw fiwst!\""
+    ],
+    "9": [
+      "Realizing she had gotten her morning routine out of order,",
+      "\\str[120] quickly spat out the foam in her mouth and frantically ",
+      "picked up the hair accessories on the counter to tie up her hair."
+    ],
+    "10": [
+      "Even when she's dead tired and half-asleep,",
+      "she has a strange obsession with details when ",
+      "it comes to keeping her hair clean."
+    ],
+    "11": [
+      "\\nl< >\"Mmm-hmmm~~~~~",
+      "All done~!\""
+    ],
+    "12": [
+      "The moment her two lively side-twintails were tied,",
+      "\\str[120] squinted her eyes in satisfaction, raised her hands high, ",
+      "and took a big, defenseless stretch."
+    ],
+    "13": [
+      "Looking at her petite frame and the sharp curves accentuated as she stretched,",
+      "a wave of uncontrollable mischievous intent suddenly surged in my heart, ",
+      "despite having been brushing my teeth properly just a moment ago..."
+    ],
+    "14": [
+      "Groping \\str[120]",
+      "Better not"
+    ],
+    "14.1": [
+      "After finishing her stretch, \\str[120] picked up her toothbrush again ",
+      "and went back to brushing her teeth earnestly."
+    ],
+    "14.2": [
+      "The rhythmic and unified \"shoo-shoo\" sounds echoed in the washroom once more.",
+      "Though neither of us said another word, the reflection in the mirror ",
+      "captured an exceptionally warm and harmonious atmosphere."
+    ],
+    "15": [
+      "Taking advantage of the gap right after \\str[120] finished her ",
+      "stretch and picked up her toothbrush again—",
+      "I quietly tiptoed up behind her."
+    ],
+    "16": [
+      "\\nl< >\"—Meow-ya!?\""
+    ],
+    "17": [
+      "My hands reached out abruptly from behind, ",
+      "wrapping my fingers around those heavy boobs,",
+      "groping and squeezing them without a shred of hesitation."
+    ],
+    "18": [
+      "\\str[120] had zero defense against this sudden attack,",
+      "shivering violently in surprise as a cute little shriek burst out of her."
+    ],
+    "19": [
+      "Enjoying the incredibly tender touch in my palms, ",
+      "a mischievous smirk spread across my face at the resounding success of my prank.",
+      "Throwing all moderation out the window, my fingers even started fondling her further."
+    ],
+    "20": [
+      "\\nl< >\"Meow-yayayaya—!?\""
+    ],
+    "21": [
+      "\\{\"Phoo-ah—!?\""
+    ],
+    "22": [
+      "Accompanied by a dull, heavy thud, ",
+      "a sharp pain hit my abdomen and my vision went black.",
+      "I collapsed straight onto my knees, ",
+      "my entire body twitching uncontrollably."
+    ],
+    "23": [
+      "\"That's... the Serious Punch... ",
+      "we haven't seen in a while...\""
+    ],
+    "24": [
+      "\\nl< >\"\\str[121], seriously...",
+      "Don't pull sudden attacks like that~! ",
+      "It's super scary!\""
+    ],
+    "25": [
+      "\"Ah... ahhh...\""
+    ],
+    "26": [
+      "I stood up shakily like a newborn fawn.",
+      "No matter how many times I experience it, ",
+      "it's hard to wrap my head around where \\str[120] ",
+      "gets this crazy explosive power from..."
     ]
   },
   "13": {

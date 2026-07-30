@@ -303,6 +303,10 @@
     "notUnlocked": [
       "You haven't unlocked any cheat codes yet—maybe that weird knight can give you some clues!"
     ],
+    "yes1mh0rny": [
+      "< yes1mh0rny >",
+      "Unlocks the Recall entries for ${Object.keys(RecallStage.stageSetupMap).length} H-events(can be triggered in \\str[120]'s room)."
+    ],    
     "hard2k1ll": [
       "< hard2k1ll >",
       "Obtain the cheat equipment 'Fairy Queen's Crystal Wings'. ",
@@ -326,7 +330,7 @@
     ],
     "60dpat": [
       "< 60dpat >",
-      "Obtain the cheat gear 'Catalyst Amatoria'. Grants a massive boost to Favorability when patting Imouto's head at home."
+      "Obtain the cheat gear 'Catalyst Amatoria'. Grants a massive boost to Favorability when patting \\str[120]'s head at home."
     ],
     "muestacz": [
       "< muestacz >",
@@ -334,7 +338,7 @@
     ],
     "1f0g0ty0u": [
       "< 1f0g0ty0u >",
-      "Change Imouto's name."
+      "Change \\str[120]'s name."
     ]
   },
   "22": {
