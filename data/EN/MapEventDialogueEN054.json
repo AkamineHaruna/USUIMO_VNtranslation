@@ -2733,6 +2733,10 @@
       "\\str[121]... You've vented enough now, right...? ",
       "Can you let go of me already—\""
     ],
+    "3.1": [
+      "\\nl< >\"...Haven't you had enough already?",
+      "You came so much, \\str[121]...\""
+    ],
     "4": [
       "Another round!",
       "Forget it"
@@ -2741,6 +2745,10 @@
       "\"Over? This is just getting started!",
       "You clearly want to keep going too, don't you, \\str[120]? ",
       "Your body is being pretty honest about it~\""
+    ],
+    "5.1": [
+      "\"We're nowhere near done yet—!",
+      "\\str[121] is only getting started—!\""
     ],
     "6": [
       "Driven by a suddenly ignited competitive spirit, ",
@@ -2763,6 +2771,43 @@
     "7": [
       "\\nl< >\"Eh...?! Y-You still want more...?",
       "\\str[121]... I really can't... Nnn-ah♥\""
+    ],
+    "7.1": [
+      "\\nl< >\"Ugh... No way... Another round...?",
+      "How is \\str[121] getting big again...?\""
+    ],
+    "8": [
+      "\"Weren't you super curious about lewd flavors just a moment ago~!",
+      "Why are you giving up already~?\""
+    ],
+    "8.1": [
+      "\"This is what a real adult tool feels like~!",
+      "It's nothing like those little toys of yours~!\""
+    ],
+    "9": [
+      "\\nl< >\"Th-That was...!",
+      "It's all \\str[121]'s fault...! ",
+      "You're always being mean to me~!\""
+    ],
+    "9.1": [
+      "\\nl< >\"Ugh... It's \\str[121] who's bullying me!",
+      "You won't even give me a second to rest~!\""
+    ],
+    "10": [
+      "\"Turning around and blaming others, are we~!",
+      "Guess I'll have to show you what adults are really capable of!\""
+    ],
+    "11": [
+      "\\nl< >\"...It's \\str[121] who's in the wrong!",
+      "At times like this, your head is always filled with lewd thoughts~!\""
+    ],
+    "12": [
+      "\"That's what a little brat gets for talking back~",
+      "A bad brat needs some proper correction until she learns to ",
+      "admit her mistake~!\""
+    ],
+    "13": [
+      "\\nl< >\"Waaah... You monster! So mean!\""
     ],
     "15": [
       "As the wave of pleasure subsided, ",
