@@ -304,8 +304,12 @@
             ""
         ],
         "notUnlocked": [
-            "Bạn vẫn chưa mở khoá mã gian lận, có lẽ tên hiệp sĩ kì lạ kia có thể cho bạn manh mối!"  
+            "Bạn vẫn chưa mở khoá mã gian lận, có lẽ Hiệp Sĩ Kỳ Lạ kia có thể cho bạn manh mối!"  
         ],
+        "yes1mh0rny": [
+            "< yes1mh0rny >",
+            "Mở khóa các hồi tưởng ký ức của ${Object.keys(RecallStage.stageSetupMap).length} Sự kiện H (có thể được kích hoạt trong phòng của \\str[120])."
+    ],  
         "hard2k1ll": [
             "< hard2k1ll >",
             "Nhận trang bị gian lận 'Đôi Cánh Pha Lê Của Nữ Hoàng Tiên'.",
@@ -329,7 +333,7 @@
         ],
         "60dpat": [
             "< 60dpat >",
-            "Nhận trang bị gian lận 'Ái Thần Dâng Trào'. Khi xoa đầu em gái ở nhà sẽ tăng mạnh độ hảo cảm."
+            "Nhận trang bị gian lận 'Ái Thần Dâng Trào'. Khi xoa đầu \\str[120] ở nhà, mức độ hảo cảm sẽ tăng mạnh."
         ],
         "muestacz": [
             "< muestacz >",
@@ -337,7 +341,7 @@
         ],
         "1f0g0ty0u": [
             "< 1f0g0ty0u >",
-            "Đổi tên của em gái."
+            "Đổi tên của \\str[120]."
         ]
     },
     "22": {
@@ -562,7 +566,7 @@
             "Phù văn Raido"
         ],
         "subtitle": [
-            "\"Sức mạnh Kỵ Sĩ\""
+            "\"Sức mạnh Hiệp Sĩ\""
         ],
         "description": [
             "Một hòn đá khắc ký tự ma thuật, được thiết kế để ngay cả những người mới",
@@ -908,7 +912,9 @@
             "Nhưng rốt cuộc nó là gì nhỉ—một con mèo, miếng sushi hay là bánh pudding? ",
             "Dù là gì đi nữa... trông nó cũng ngon phết."
         ],
-        "ability": ""
+        "ability": [
+            "Hãy sử dụng nó, rồi đi theo Sushi Pudding để tìm cửa hàng của Aki."
+        ]
     },
     "80": {
         "name": [
@@ -1627,10 +1633,20 @@
             "\"Ara ara~ Em thật sự rất tò mò không biết Onii-san muốn dùng thứ này vào đâu đấy~~\""
         ], 
         "description": [
-            "Một món đồ chơi tình dục được chế tác sau khi giao nguyên liệu quái vật cho một Đại Ác Ma nào đó",
-            "Nghe nói nó sẽ tự động co bóp và chuyển động dựa trên mức độ ham muốn của người sử dụng...",
-            "Nhưng tại sao lại chế ra thứ này chứ—ĐÁNG LẼ NGƯỜI ĐƯỢC LÀM CHUYỆN ĐÓ PHẢI LÀ MÌNH...!!"
+            "Một món đồ chơi tình dục được chế tác sau khi giao nguyên liệu quái vật cho ",
+            "một Đại Ác Ma nào đó. Nghe nói nó sẽ tự động co bóp và chuyển động dựa trên",
+            "mức độ ham muốn của người sử dụng... Nhưng tại sao lại chế ra thứ này chứ—",
+            "ĐÁNG LẼ NGƯỜI ĐƯỢC LÀM CHUYỆN ĐÓ PHẢI LÀ MÌNH...!!"
         ],
+        "productSubtitle":[
+            ""
+        ],
+        "productDescription": [
+            "Một món đồ chơi đồ chơi tình dục bí ẩn, tỏa ra cảm giác đáng ngờ đến kỳ lạ.",
+            "Thành thật mà nói... mình cũng hơi tò mò không biết phải sử dụng nó như thế nào...",
+            "K-không, quan trọng hơn, có một chuyện mà mình đã muốn nói từ nãy đến giờ—",
+            "Đừng nói với tôi là những cái kệ phía sau đều chất đầy những thứ như thế này nhé!?"
+    ],        
         "ability": ""
     },
     "196": {

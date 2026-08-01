@@ -532,6 +532,59 @@
 		],
 		"15": [
 			"\\nl< >\"Hiểu rồi.\""
+		 ],
+        "19": [
+            "\\nl< >\"........\\str[121]?",
+            "Mừng anh về nhà~\""
+        ],
+        "20": [
+            "\\nl< >\"Chào mừng trở về, \\str[121]! ",
+            "Hôm nay anh đã vất vả rồi!\""
+        ],
+        "21": [
+            "\\nl< >\"Anh muốn đi tắm trước?    \\w[120]",
+            "Hay muốn ăn tối trước?                \\w[120]",
+            "Hay là anh muốn..."
+        ],
+        "22": [
+            "\\nl< >\\{\"Em~?\""
+        ],
+        "23": [
+            "—Đây là kiểu chào đón mới gì thế này!?",
+            "Nguy hiểm rồi! \\str[120] đang dễ thương đến mức đáng báo động luôn kìa~!"
+        ],
+        "24": [
+            "Ăn \\str[120] trước",
+            "Đi tắm trước",
+            "Ăn tối trước"
+        ],
+        "25": [
+            "\"Ăn tối trước đi!\""
+        ],
+        "26": [
+            "\\nl< >\"Xin lỗi nhé~ Em vẫn chưa nấu món gì cả~\""
+        ],
+        "27": [
+            "\"—Eh.\""
+        ],
+        "28": [
+            "\\nl< >\"Hôm nay em xem trên TV thấy cái này thú vị quá nên muốn thử chút~\""
+        ],
+        "29": [
+            "\\nl< >\"Nhưng nếu \\str[121] muốn ăn thì em ",
+            "vừa mới nảy ra ý tưởng cho một món mới rồi~!\""
+        ],
+        "30": [
+            "\"—Ehhh!?\""
+        ],
+        "31": [
+            "Trước khi tôi kịp hoàn hồn khỏi cú sốc, ",
+            "\\str[120] đã vui vẻ chạy vào bếp với vẻ mặt đầy hào hứng.",
+            "Nhớ lại những món ăn mà \\str[120] từng làm trước đây, ",
+            "một cảm giác lạnh sống lưng bất chợt chạy dọc người tôi."
+        ],
+        "32": [
+            "\"Để chắc chắn... tốt hơn hết là mình nên đi xem thử đã...\""
 		]
 	},
 	"13": {
