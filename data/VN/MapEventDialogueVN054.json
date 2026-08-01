@@ -2775,6 +2775,146 @@
 		"7": [
 			"\\nl< >\"Eh...?! A-anh còn muốn nữa sao...?",
 			"\\str[121]... Em thật sự không chịu nổi nữa... Nnn-ah♥\""
+			 ],
+		"7.1": [
+            "\\nl< >\"Ugh... Không thể nào... Lại thêm một hiệp nữa hả...?",
+            "Sao \\str[121] lại cương cứng lên nữa thế...?\""
+        ],
+        "8": [
+            "\"Vừa nãy chẳng phải em rất tò mò về những cảm giác người lớn sao~!",
+            "Sao giờ lại bỏ cuộc nhanh vậy~?\""
+        ],
+        "8.1": [
+            "\"Đây mới là cảm giác của một món đồ người lớn thật sự đó~!",
+            "Hoàn toàn khác với mấy món đồ chơi nho nhỏ của em mà~!\""
+        ],
+        "9": [
+            "\\nl< >\"C-cái đó là...!",
+            "Tất cả là lỗi của \\str[121]...! ",
+            "Lúc nào anh cũng bắt nạt em hết~!\""
+        ],
+        "9.1": [
+            "\\nl< >\"Ugh... Người bắt nạt em mới là \\str[121] đó!",
+            "Anh thậm chí còn không cho em một chút thời gian nghỉ ngơi nữa~!\""
+        ],
+        "10": [
+            "\"Quay sang đổ lỗi cho người khác à~!",
+            "Xem ra anh phải cho em thấy người lớn thực sự lợi hại thế nào rồi!\""
+        ],
+        "11": [
+            "\\nl< >\"...Người sai là \\str[121] mới đúng!",
+            "Những lúc thế này, trong đầu anh lúc nào cũng chỉ toàn ",
+			"nghĩ đến mấy chuyện bậy bạ thôi!~!\""
+        ],
+        "12": [
+            "\"Đó là cái giá cho việc một con nhóc dám cãi lời đấy~",
+            "Một đứa trẻ hư cần phải được 'chỉnh đốn' đàng hoàng ",
+            "cho đến khi biết nhận lỗi mới được~!\""
+        ],
+        "13": [
+            "\\nl< >\"Waaah... Đồ quái vật! Xấu xa quá đi!\""
+        ],
+        "15": [
+            "Khi làn sóng khoái cảm dần lắng xuống, tiếng thở dốc nặng nề vang vọng ",
+            "khắp căn phòng một cách rõ ràng. Nhìn \\str[120] đang nằm mềm nhũn trên bàn,",
+            "toàn thân thấm đẫm mồ hôi và tinh dịch, tâm trí đang nóng nảy và mất kiểm soát",
+            "của tôi cuối cùng cũng dần bình tĩnh trở lại."
+        ],
+        "16": [
+            "Ôi trời... Rốt cuộc mình vừa làm cái gì vậy...!?",
+            "Không chỉ bị bắt gặp lúc đang nhìn trộm, ",
+            "mà mình còn vì mất kiểm soát trong lúc xúc động ",
+            "mà cư xử quá thô bạo với \\str[120] nữa chứ...!"
+        ],
+        "17": [
+            "\"Anh thực sự xin lỗi, \\str[120]! Em có ổn không!?\""
+        ],
+        "18": [
+            "Bị nhấn chìm bởi cảm giác tội lỗi mãnh liệt,",
+            "tôi vội buông em ấy ra rồi nhanh chóng kéo em ấy vào lòng."
+        ],
+        "19": [
+            "\\nl< >\"..............................",
+            "..............................\""
+        ],
+        "20": [
+            "Sau khi được thả ra, \\str[120] chỉ cúi đầu xuống, ",
+            "để mái tóc che khuất khuôn mặt mà không nói một lời nào.",
+            "Nhìn dáng vẻ ấy của em ấy hoàn toàn mất hết sức sống, ",
+            "thậm chí còn khẽ run rẩy khiến trái tim tôi lập tức hoảng loạn."
+        ],
+        "21": [
+            "\"Um... Anh có làm em bị thương không? Em có chỗ nào bị đau không?",
+            "Lúc nãy anh đã có hơi quá mạnh tay rồi... Em vẫn ổn chứ?\""
+        ],
+        "22": [
+            "Trong trạng thái tuyệt vọng và hoảng hốt, ",
+            "tôi cứ luống cuống quanh \\str[120], liên tục hỏi han lo lắng,",
+            "cố tìm kiếm dù chỉ một chút dấu hiệu tha thứ ",
+            "trên khuôn mặt đang cúi gằm của em ấy."
+        ],
+        "23": [
+            "\\nl< >\\}\"Không phải... lỗi của \\str[121]... hay gì đâu...",
+            "Chỉ là... chuyện đó...\""
+        ],
+        "24": [
+            "Giọng của \\str[120] nhỏ đến mức gần giống như tiếng muỗi kêu,",
+            "nên tôi cúi sát lại để nghe cho rõ, và đó là lúc tôi nhận ra.",
+            " ",
+            " ",
+            "Lúc này, toàn bộ khuôn mặt của \\str[120] đỏ bừng đến mức như sắp nổ tung,",
+            "sắc đỏ nóng bỏng lan xuống cả đôi tai nhỏ và chiếc cổ mảnh khảnh của em ấy.",
+            " "
+        ],
+        "25": [
+            "\\nl< >\\}\"Bởi vì... em bị nhìn thấy... vừa rồi...",
+            "em đã nghĩ... rằng anh sẽ... ghét em mất... h-hức...\""
+        ],
+        "26": [
+            "Không hiểu vì lý do gì, \\str[120] đã hoàn toàn ",
+            "mất đi vẻ bình tĩnh thường thấy mỗi khi hai chúng tôi cãi nhau.",
+            "Giọng em ấy càng lúc càng nhỏ dần, cho đến khi những lời còn lại ",
+            "tan biến thành những tiếng nức nở thút thít, chẳng còn nghe rõ được nữa."
+        ],
+        "27": [
+            "\"Uhh... 'bị nhìn thấy'... 'bị ghét'...?",
+            "Vậy là em thật sự nghĩ anh giận em vì đã bắt gặp em làm chuyện xấu hổ sao...\""
+        ],
+        "28": [
+            "Tôi cau mày suy nghĩ, ",
+            "nín thở và cẩn thận lắng nghe một lúc lâu,",
+            "cuối cùng cũng đưa ra kết luận mà tôi cho là hợp lý nhất."
+        ],
+        "29": [
+            "\"Việc nhìn trộm em đúng là lỗi của anh,",
+            "nhưng anh cũng thật sự lo cho em mà? ",
+            "Làm chuyện như vậy một mình thì hơi quá—\"",
+            "\\w[90]\\^"
+        ],
+        "30": [
+            "\\nl< >\"..............................\""
+        ],
+        "31": [
+            "Những lời lẩm bẩm yếu ớt của \\str[120] đột nhiên dừng lại. ",
+            "Em ấy khựng người, ngẩng đầu lên, trên khuôn mặt hiện rõ sự pha trộn",
+            "giữa xấu hổ và tủi thân, rồi ngay lập tức nước mắt tràn đầy khóe mắt—"
+        ],
+        "32": [
+            "\\nl< >\"Waaaaah~~~!",
+            "Ý em hoàn toàn không phải như vậy mà~~~!\""
+        ],
+        "33": [
+            "\\str[120] mạnh mẽ đẩy tôi ra, rồi chẳng thèm chỉnh lại quần áo,",
+            "em ấy chạy thẳng lên gác xép như một chú thỏ nhỏ hoảng sợ, ",
+            "loạng choạng suốt cả đường đi."
+        ],
+        "34": [
+            "Khi tôi quay trở lại gác xép, ",
+            "tôi thấy \\str[120] đã vùi mình trong chăn kín mít như một con đà điểu.",
+            "Tôi không còn cách nào khác ngoài việc cúi đầu liên tục xin lỗi,",
+            "đồng thời cố gắng hết sức để nhẹ nhàng an ủi em ấy.",
+            "Mãi cho đến khi màn đêm buông xuống,",
+            "\\str[120] cuối cùng mới lấy lại đủ can đảm để nói chuyện với tôi lần nữa..."
 		]
 	}
 }

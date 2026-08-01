@@ -46,7 +46,82 @@
             "\\nl< >\"Vậy nên, \\str[121] cứ ngồi ngoan ngoãn ở bàn đi ",
             "và chờ đồ ăn được dọn ra nhé!\"        \\w[120]"
         ]
-    },		
+    },
+    "3": {
+        "1": [
+            "\\nl< >\"Ta-da~! Cơm nắm đặc biệt của \\str[120] đây!",
+            "Thế nào \\str[121]? Trông thấy có ngon không nè?\""
+        ],
+        "2": [
+            "\\{\"Không, không, không... đợi một chút đã—!",
+            "Nhìn kiểu gì thì cái cơm nắm này ",
+            "cũng to quá mức bình thường rồi đó!?\""
+        ],
+        "3": [
+            "\"Eh~? Sao lại thế chứ~? \\str[121] là một mạo hiểm giả mà đúng không?",
+            "Chẳng phải anh có thể nuốt gọn thứ to cỡ này trong nháy mắt sao?—\""
+        ],
+        "4": [
+            "\"Mạo hiểm giả cũng là con người mà!?\""
+        ],
+        "6": [
+            "\\nl< >\"\\str[121] ngày nào cũng vất vả phiêu lưu bên ngoài,",
+            "nên với tư cách là \\str[120] của anh, tất nhiên là em phải tìm cách ",
+            "nạp lại đầy năng lượng cho anh rồi~!\""
+        ],
+        "7": [
+            "Càng nói, em ấy càng trở nên hào hứng hơn, ",
+            "đôi mắt to tròn lấp lánh ánh sáng rực rỡ.",
+            " ",
+            " ",
+            "Hai tay giữ chặt chiếc cơm nắm khổng lồ, lớn hơn khuôn mặt em ấy đến vài lần ",
+            "thẳng thừng đưa nó đến trước miệng tôi mà không chấp nhận lời từ chối.",
+            " "
+        ],
+        "8": [
+            "\\nl< >\"Nào~ há miệng ra~~!",
+            "Ăn hết một lần đi rồi lấy lại toàn bộ thể lực nhé~!\""
+        ],
+        "9": [
+            "\"K-khoan đã! Cái này chắc chắn không thể vừa đâu—",
+            "Mmph! Mff...!?\""
+        ],
+        "10": [
+            "Không cho tôi bất kỳ cơ hội phản kháng nào,",
+            "\\str[120] mạnh mẽ nhét chiếc cơm nắm vào miệng tôi ",
+            "với một lực đẩy đầy đáng sợ."
+        ],
+        "11": [
+            "Dưới ánh mắt đầy nhiệt huyết của em ấy, ẩn chứa một ý đồ ",
+            "nào đó vừa bí ẩn vừa mãnh liệt, tôi không còn cách nào khác",
+            "ngoài việc cố gắng nhai và nuốt một cách đầy tuyệt vọng ",
+            "như thể đang hoàn thành một nhiệm vụ anh hùng..."
+        ],
+        "12": [
+            "Ực... Ực...!"
+        ],
+        "13": [
+            "Không biết đã bao lâu trôi qua, ",
+            "cuối cùng chiếc cơm nắm khổng lồ ấy cũng đã được ăn sạch hoàn toàn.",
+            "Cái giá phải trả là chiếc bụng của tôi bị kéo căng, tròn xoe và phình ra, ",
+            "khiến tôi ngồi phịch trên ghế, lắc lư như một quả bóng khổng lồ."
+        ],
+        "14": [
+            "\"Bụng mình... cảm giác như sắp nổ tung rồi... ợ~~\""
+        ],
+        "15": [
+            "\\nl< >\"Yay~! \\str[121] ăn hết rồi!\""
+        ],
+        "16": [
+            "\\nl< >\\}\"'Con đường đến trái tim đàn ông là thông qua dạ dày'...",
+            "Heheh, hóa ra những gì trên TV nói là thật sao...\""
+        ],
+        "17": [
+            "\\str[120] dường như đang lẩm bẩm điều gì đó khá đáng ngờ,",
+            "nhưng vì ăn quá no khiến mắt tôi gần như đảo ngược, ",
+            "tôi chỉ có thể liên tục ợ hơi để giảm bớt cảm giác khó chịu trong bụng..."
+        ]
+    },	
     "5": {
         "0": [
             "Hôm nay chúng ta ăn gì đây~"			
