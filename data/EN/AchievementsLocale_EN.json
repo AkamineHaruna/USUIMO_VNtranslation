@@ -24,19 +24,19 @@
       "Category Name": "Memories of Hentai",
       "New Scene Name": "",
       "Trophy Description": "Sugar and spice~And everything nice~"
-    }     
+    }
   },
   "achievements": {
     "WhereIsImouto": {
       "Name": "Where Is Imouto",
       "Description": "Must find the beloved girl—",
-      "Pop Up Desc": "\\fs[20]Where is my dear Imouto…?"     
+      "Pop Up Desc": "\\fs[20]Where is my dear Imouto…?"
     },
     "ItsMyImouto": {
       "Name": "It's my dear Imouto!",
       "Description": "The beloved girl is right in front of me",
       "Pop Up Desc": "It's my dear Imouto!"
-    },     
+    },
     "JoyStation V": {
       "Name": "Got a Game Console!",
       "Description": "Now you can play games with \\str[120]!",
@@ -52,7 +52,7 @@
         "\\fs[22]My Little Sister ",
         "Is Just That Cute!"
       ]
-    },        
+    },
     "ImoutoBodyPillow": {
       "Name": "Imouto Body Pillow",
       "Description": "can now have Imouto sit on lap while gaming!",
@@ -62,19 +62,24 @@
       "Name": "Gacha Is a Bad Civilization!",
       "Description": "Spent too much money on gacha and got scolded by Imouto...",
       "Pop Up Desc": "\\fs[21]Gacha Is a Bad Civilization!"
-    }, 
+    },
     "CanYouSendMe50K": {
       "Name": "Can You Send Me 50K~?",
       "Description": "Gave Imouto over 50,000 in allowance at once!",
       "Pop Up Desc": "Can You Send Me 50K~?"
-    },           
+    },
+    "ShinkonSantaku": {
+      "Name": "Newlywed Three Choice!",
+      "Description": "Had Imouto act out the newlywed three choices!",
+      "Pop Up Desc": "Newlywed Three Choice!"
+    },
     "PeopleDieIfTheyAreKilled": {
       "Name": "People Die If They Are Killed?",
       "Description": "Your HP drops to zero in the Abyss...",
       "Pop Up Desc": [
         "\\fs[22]People Die If They",
         "Are Killed?"
-      ]      
+      ]
     },
     "HoardingHabit": {
       "Name": "Hoarding Habit",
@@ -87,13 +92,13 @@
     "TransportedToIsekai": {
       "Name": "Transported To Isekai?",
       "Description": "Mercilessly Run Over by a Shop Truck...",
-      "Pop Up Desc": "\\fs[20]Isekai Reincarnation Magic!?"  
+      "Pop Up Desc": "\\fs[20]Isekai Reincarnation Magic!?"
     },
     "YouAreAlreadyDead": {
       "Name": "Requiem",
       "Description": "Declared dead by Death",
-      "Pop Up Desc": "You Are Already Dead"      
-    },                          
+      "Pop Up Desc": "You Are Already Dead"
+    },
     "AirKing": {
       "Name": "Air King",
       "Description": "You’ve already fallen so many times…",
@@ -109,7 +114,7 @@
         "\\fs[22]\"You Can See It…",
         "the Death Omen Star!!\""
       ]
-    },      
+    },
     "ServantAndMaster": {
       "Name": "Servants and Master",
       "Description": "Command five Servants at the same time",
@@ -122,7 +127,7 @@
       "Name": "Rejoice at the birth of the king!",
       "Description": "Battle a boss for the first time",
       "Pop Up Desc": "\\fs[18]Rejoice at the birth of the king!"
-    },           
+    },
     "UnlimitedBladeWaste": {
       "Name": "Unlimited Blade Waste",
       "Description": "Broke over 100 weapons",
@@ -138,13 +143,13 @@
         "\\fs[21]I just witnessed a priceless",
         "piece of footage."
       ]
-    },    
+    },
     "WhoNeedsAFishingRod": {
       "Name": "Who needs a fishing rod?",
       "Description": "Blast drops out of the water with bombs 10 times",
       "Pop Up Desc": "\\fs[22]Who needs a fishing rod?"
-    },      
-     "TheSwordSaintOfTheSticks": {
+    },
+    "TheSwordSaintOfTheSticks": {
       "Name": "The Sword Saint of the Sticks",
       "Description": "The results of persistent daily sword training",
       "Pop Up Desc": "\\fs[18]The Sword Saint of the Sticks"
@@ -156,17 +161,17 @@
         "\\fs[22]\"IT WAS TO MEASURE MY ",
         "CAPACITY.\""
       ]
-    },     
+    },
     "DonotYouEverStop": {
       "Name": "Don't you ever stop!",
       "Description": "Keep running at super high speed",
       "Pop Up Desc": "Don't you ever stop!"
-    },   
+    },
     "YouAreBeingSummoned": {
       "Name": "You're Being Summoned, ◉▽◉!",
       "Description": "Ancient creature discovered!",
       "Pop Up Desc": "\\fs[18]You're Being Summoned, ◉▽◉!"
-    },     
+    },
     "YouTooCanBecomeLight": {
       "Name": "You too can become light!",
       "Description": "Aki's curse flared up",
@@ -181,7 +186,7 @@
       "Name": "Hopeless Siscon",
       "Description": "In Imouto room, using Imouto's computer to doing indecent things to Imouto",
       "Pop Up Desc": "Play games with Imouto?"
-    },             
+    },
     "Milkeddry": {
       "Name": "Milked Dry...",
       "Description": "There's... not a single drop left...",
@@ -204,6 +209,6 @@
       "Name": "Stairway To Adulthood♥♥♥",
       "Description": "Teach Imouto the joys of sex",
       "Pop Up Desc": "\\fs[20]Stairway To Adulthood♥♥♥"
-    }        
+    }
   }
 }

@@ -36,7 +36,7 @@
       "Name": "俺の妹だ！",
       "Description": "愛する少女は目の前にいる",
       "Pop Up Desc": "俺の妹だ！"
-    },    
+    },
     "JoyStation V": {
       "Name": "ゲーム機ゲット!",
       "Description": "妹と一緒にゲームで遊べるようになった！",
@@ -46,12 +46,12 @@
       "Name": "俺の妹はこんなに可愛い！",
       "Description": "妹との好感度が最高になった！",
       "Pop Up Desc": "俺の妹はこんなに可愛い！"
-    },     
+    },
     "ImoutoBodyPillow": {
       "Name": "妹の抱き枕になる",
       "Description": "ゲーム中に妹を膝の上に乗せられるようになった！",
       "Pop Up Desc": "妹がいればいいじゃない？"
-    }, 
+    },
     "GachaIsBadCivilization": {
       "Name": "ガチャは悪い文明！",
       "Description": "ガチャにお金を使いすぎて妹に叱られた……",
@@ -61,12 +61,17 @@
       "Name": "5万円を送ってもらえます？",
       "Description": "妹に一度で5万以上のお小遣いをあげた！",
       "Pop Up Desc": "5万円を送ってもらえます？"
-    },           
+    },
+    "ShinkonSantaku": {
+      "Name": "新婚三択！",
+      "Description": "妹に新婚三択をやってもらった！",
+      "Pop Up Desc": "新婚三択！"
+    },
     "PeopleDieIfTheyAreKilled": {
       "Name": "人は殺されれば死ぬ……か？",
       "Description": "アビスで体力がゼロになる……",
       "Pop Up Desc": "人は殺されれば死ぬ……か？"
-    }, 
+    },
     "HoardingHabit": {
       "Name": "ため込み癖",
       "Description": "星の門に大量のアイテムを入れた",
@@ -75,13 +80,13 @@
     "TransportedToIsekai": {
       "Name": "異世界転生？",
       "Description": "トラックに無情にも轢かれた……",
-      "Pop Up Desc": "異世界転生魔法！？"      
-    }, 
+      "Pop Up Desc": "異世界転生魔法！？"
+    },
     "YouAreAlreadyDead": {
       "Name": "レクイエム",
       "Description": "死神に死を宣告された",
-      "Pop Up Desc": "お前は、もう死んでいる"      
-    },                 
+      "Pop Up Desc": "お前は、もう死んでいる"
+    },
     "AirKing": {
       "Name": "撃墜王",
       "Description": "もう何度落ちたか分からない…",
@@ -97,7 +102,7 @@
         "\\fs[24]「天を見よ！！見えるはずだ",
         "あの死兆星が！！」"
       ]
-    },    
+    },
     "ServantAndMaster": {
       "Name": "サーヴァントとマスター",
       "Description": "同時に5体のサーヴァントを使役する",
@@ -105,12 +110,12 @@
         "\\fs[24]「問おう。",
         "貴方が私たちのマスターか？」"
       ]
-    }, 
+    },
     "BossFirstAppearance": {
       "Name": "王の誕生に、祝え！",
       "Description": "初めてボスと戦闘する",
       "Pop Up Desc": "王の誕生に、祝え！"
-    },       
+    },
     "UnlimitedBladeWaste": {
       "Name": "無限の剣冢",
       "Description": "100本以上の武器を壊した",
@@ -123,12 +128,12 @@
         "\\fs[28]とんだ『お宝映像』を",
         "見せてもらった"
       ]
-    },     
+    },
     "WhoNeedsAFishingRod": {
       "Name": "海老（ボム）でタイを釣る",
       "Description": "水中に爆弾を投げ込み、ドロップ品を計10回獲得する",
       "Pop Up Desc": "海老（ボム）でタイを釣る"
-    },         
+    },
     "TheSwordSaintOfTheSticks": {
       "Name": "片田舎の剣聖",
       "Description": "日々の素振りの成果",
@@ -138,7 +143,7 @@
       "Name": "己の器を量るためだ",
       "Description": "忍術を習得しました",
       "Pop Up Desc": "「己の『器』を量るためだ。」"
-    },          
+    },
     "DonotYouEverStop": {
       "Name": "止まるんじゃねぇぞ！",
       "Description": "超高速で走り続ける",
@@ -153,7 +158,7 @@
       "Name": "光になれる！",
       "Description": "Akiの呪いが発作した",
       "Pop Up Desc": "\\fs[36]光になれる！"
-    },    
+    },
     "ObtainWornPanties": {
       "Name": "履いていないパンツに価値はない！",
       "Description": "妹からパンツをもらった〜！",
@@ -163,7 +168,7 @@
       "Name": "救いようのないシスコン",
       "Description": "妹の部屋で、妹のパソコン使って、妹にいかがわしいことをする",
       "Pop Up Desc": "妹とゲームをする？"
-    },           
+    },
     "Milkeddry": {
       "Name": "搾り尽くされた……",
       "Description": "もう……一滴も、残ってない……",
@@ -186,6 +191,6 @@
       "Name": "大人への階段♥♥♥",
       "Description": "妹に性の快楽を教える",
       "Pop Up Desc": "大人への階段♥♥♥"
-    }     
+    }
   }
 }
