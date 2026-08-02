@@ -41,7 +41,7 @@
     "RU": {
       "label": "Russian",
       "nativeLabel": "Русский",
-      "baseCommit": "f6beb24e0593a207a7823fbc2b3d4e778163efb7",
+      "baseCommit": "088d0ee2076595c3ca765704698e00cc3e6890c2",
       "baseNote": "Last repository revision that updated Russian translation files"
     },
     "TH": {
