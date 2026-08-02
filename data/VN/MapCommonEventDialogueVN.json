@@ -25,13 +25,13 @@
     "gallerySystem": {
         "startRecall": [
             "Nhật ký ký ức của sự kiện này đã được mở khóa.",
-            "Bạn muốn xem lại ký ức này không?"
+            "Bạn muốn hồi tưởng lại ký ức này không?"
         ],
         "recallButton": [
-            "Xem Lại Sự Kiện",
-            "Bỏ Qua"
+            "Hồi tưởng ký ức",
+            "Bỏ qua"
         ],
-        "placeholder": "Ký Ức Hiện Có",
+        "placeholder": "Ký ức hiện có",
         "takeBathWithImouto": "Tắm cùng với \\str[120]",
         "Polaroid": "Bộ ảnh NLCH Polaroid"
     },  
