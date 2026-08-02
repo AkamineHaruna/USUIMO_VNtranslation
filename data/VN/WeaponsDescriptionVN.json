@@ -295,7 +295,7 @@
             "Sứ Giả Địa Ngục"
         ],
         "subtitle": [
-            "\"Thứ này khát máu...\""		
+            "\"Thứ này đang khát máu...\""		
 		],
         "description": [
             "Một trong những vũ khí của tên sát nhân khét tiếng,",
@@ -345,7 +345,7 @@
         ],
         "ability": [
             "Thi triển gần nguồn nước sẽ cường hóa ma pháp.",
-            "Giữ chuột phải để thi triển Truy Kích Gợn Thủy."
+            "Giữ chuột phải để thi triển \\c[27]Truy Kích Gợn Thủy\\c[0]."
         ]
     },
     "26": {
@@ -413,9 +413,9 @@
         ],
         "description": [
             "Một thanh kiếm đá vỡ được tìm thấy bên trong một di tích đã bị hủy hoại...",
-            "Chẳng lẽ đây là vật chôn cất? ",
-            "Những dòng chữ loang lổ vẫn còn lưu lại trên thanh kiếm,",
-            "nhưng ý nghĩa đã bị đứt đoạn, hoàn toàn không thể đọc được"
+            "Chẳng lẽ đây là vật chôn cất? Những dòng chữ loang lổ vẫn còn lưu lại trên thanh kiếm,",
+            "nhưng ý nghĩa đã bị đứt đoạn, hoàn toàn không thể đọc được",
+            ""
         ],
         "ability": [
             "Gây thêm sát thương khi độ bền của vũ khí sắp cạn kiệt"
@@ -428,8 +428,8 @@
         "subtitle": [
             "——Pháp sư nên phân bổ điểm kỹ năng thế nào? Đang online, gấp lắm!",
             "——Cứ dồn hết điểm vào Thể Lực và Sức Mạnh đi.",
-            "Kỹ năng thì nâng tối đa Xung Kích và Cuồng Phong.",
-            "Phép thuật chỉ cần lấy Thánh Quang là đủ.",
+            " Kỹ năng thì nâng tối đa Xung Kích và Cuồng Phong.",
+            " Ma thuật chỉ cần lấy Thánh Quang là đủ.",
             "——Cảm ơn anh bạn."
         ],
         "description": [
@@ -495,7 +495,7 @@
 		],
         "description": [
             "Vũ khí sinh ra để trừng phạt những nhà thám mạo hiểm xấu xa. ",
-            "Dù chỉ là búa đồ chơi, bị đập vẫn đau thật sự."
+            "Dù chỉ là búa đồ chơi, nhưng bị ăn đập vẫn đau thật sự."
         ],
         "ability": [
             "Gây sát thương phản lại khi dùng cho việc xấu",
@@ -516,7 +516,7 @@
         ],
         "ability": [
             "Trảm Cuồng Phong sẽ tự động truy đuổi kẻ địch và quay trở lại tay người ném",
-            "Bắt lấy vũ khí khi nó quay về sẽ cho phép ném lại ngay lập tức với sát thương tăng cao"
+            "Bắt lấy vũ khí khi nó quay về và ném lại ngay lập tức với sát thương tăng cao"
         ]
     },
     "51": {

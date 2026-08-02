@@ -1108,12 +1108,12 @@
         "subtitle": "",
         "description": [
             "Một mảnh vỡ còn sót lại từ một cánh cổng ma giới đã bị phá hủy",
-            "Dù sao thì nó cũng là tạo vật của Ác Ma, chỉ một mảnh vỡ thôi mà vẫn ẩn chứa sức mạnh hắc ám",
+            "Dù gì nó cũng là tạo vật của Ác Ma, chỉ một mảnh vỡ thôi mà vẫn ẩn chứa sức mạnh hắc ám",
             "...Nhưng mà, liệu thứ này có thật sự mang đến sự báo thù của ác ma không?"
         ],
         "ability": [
-            "Khi chịu sát thương, giải phóng một sóng xung kích để phản công những kẻ địch xung quanh",
-            "Khi được hồi phục, giải phóng một làn sóng chữa trị hồi máu cho những kẻ địch xung quanh"
+            "Khi chịu sát thương, giải phóng sóng xung kích để phản công những kẻ thù xung quanh",
+            "Khi được hồi phục, giải phóng làn sóng chữa trị hồi máu cho những kẻ thù xung quanh"
         ]
     },
     "80": {
@@ -1206,7 +1206,7 @@
             "Nụ Cười Của Em Gái"
         ],
         "subtitle": [
-            "\"\\str[121], anh đã giữ lời hứa, tốt lắm!\""		
+            "\"\\str[121], anh đã giữ lời hứa, làm tốt lắm!\""		
 		],
         "description": [
             "Nụ cười hoàn hảo cuối cùng cũng được bộc lộ bởi \\str[120] ",
