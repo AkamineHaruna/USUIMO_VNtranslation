@@ -65,6 +65,11 @@
       "Description": "給妹妹發了5萬以上的紅包！",
       "Pop Up Desc": "請給我50000元~！"
     },
+    "ShinkonSantaku": {
+      "Name": "新婚三問！",
+      "Description": "讓妹妹演繹了一次新婚三問！",
+      "Pop Up Desc": "新婚三問！"
+    },
     "PeopleDieIfTheyAreKilled": {
       "Name": "人被殺就會死？",
       "Description": "在深淵裡體力歸零……",
@@ -126,6 +131,19 @@
       "Name": "十里坡劍神",
       "Description": "堅持每日揮劍的成果",
       "Pop Up Desc": "十里坡劍神"
+    },
+    "IJustWitnessedAPricelessPieceOfFootage": {
+      "Name": "看到了無比珍奇的場面啊",
+      "Description": "目睹了蘋果妖精的誕生",
+      "Pop Up Desc": "看到了無比珍奇的場面啊"
+    },
+    "WhoNeedsAFishingRod": {
+      "Name": "授人以魚，不如授人以……漁？",
+      "Description": "累積向水裡投擲10個炸彈",
+      "Pop Up Desc": [
+        "授人以魚，不如授人以……",
+        "漁？"
+      ]
     },
     "ItWasToMeasureMyCapacity": {
       "Name": "為了檢測我的器量",

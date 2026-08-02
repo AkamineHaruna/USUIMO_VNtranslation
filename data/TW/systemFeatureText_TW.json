@@ -50,14 +50,15 @@
   "Language": [
     "遊戲語言"
   ],
-  "SwitchLanguage": [
-    "檢測到遊戲語言設置發生了改變！",
-    "將立即重啟遊戲以適配新的語言環境！"
+  "loadConfirm": [
+    "現在要讀檔嗎？"
   ],
-  "ErrorReport": [
-    "遊戲發生錯誤，是否前往逆流茶會的Discord服務器進行Bug反饋？",
-    "(點擊“確定”將打開Discord邀請鏈接)",
-    "(請附帶遊戲報錯畫面的截屏)"
+  "OverwriteConfirmed": [
+    "現在要存檔嗎？"
+  ],
+  "SVConfirmText": [
+    "是",
+    "否"
   ],
   "EnterCheatCode": [
     "雜魚~♥ 雜魚~♥",
@@ -66,6 +67,22 @@
   "AnnouncementMenu": [
     "最新公告",
     "更新日誌"
+  ],
+  "mvSaveToMzConvertConfirmText": [
+    "檢測到${}份來自舊版本（MV版）的存檔數據。",
+    "是否將這些存檔轉換為當前 MZ 版本格式，以便繼續讀取和使用？"
+  ],
+  "mvSaveToMzConvertTipsText": [
+    "將MV版本的存檔文件放入save文件夾後，系統會自動觸發存檔轉換流程。",
+    "轉換成功後，存檔將被轉換為當前MZ版本可讀取的格式，並會顯示在讀檔界面中。",
+    "該流程不會刪除原本的MV版本存檔，但如果相同編號的MZ版本存檔已經存在，則不會再次觸發轉換。",
+    "目前該功能仍處於開發測試階段。如果你認為轉換後出現了數據丟失，",
+    "請妥善保留原 MV 版本存檔，並前往我們的 Discord 服務器報告此問題。"
+  ],
+  "mvSaveToMzFailed": "沒有需要轉換的存檔。",
+  "mvSaveToMzSuccess": [
+    "成功轉換${}份存檔數據。",
+    "已向讀檔界面新增槽位記錄："
   ],
   "UpdateComplete1": [
     "遊戲自動更新完成！",
@@ -82,8 +99,11 @@
     "請通過自動更新應用補丁修復問題！"
   ],
   "cloudSaveServiceWarning": [
-    "由於雲存檔數據庫仍在建設中，",
-    "該功能將暫時通過請求訪問您的 Google Drive，",
+    "這是基於Google Drive的舊版本雲存檔功能，",
+    "由於正式的雲存檔系統已完成建設，",
+    "該功能已計劃在未來的版本廢棄移除！",
+    " ",
+    "本雲存檔將連接至您的Google Drive",
     "以便將遊戲存檔存儲至 NLCH/save 文件夾中。",
     "上傳的存檔文件僅用於後續同步與下載迴游戲，不會用於其他用途。",
     "是否同意授予遊戲訪問 Google Drive 的權限？"
@@ -126,8 +146,9 @@
     "成功安裝了${}的新增補丁內容，將在下次重啟遊戲時生效！"
   ],
   "outdatedVersionWarning": [
-    "當前遊戲版本已過期，最新版本為${}。",
-    "大版本更新不支持自動更新，請從官方渠道重新下載遊戲。"
+    "檢測到當前遊戲版本已更新，最新版本為${}。",
+    "大版本自動更新現已上線，僅對完成正版驗證的用戶開放。",
+    "若無法驗證，請移步你購買遊戲的平臺手動重新下載遊戲。"
   ],
   "renameCharacter": [
     "我想起來了——",
@@ -155,16 +176,6 @@
     "①遊戲在解壓安裝過程中因為編碼問題出現亂碼文件名或已經損壞",
     "②開發者忘記添加此文件，請等待補丁更新修復"
   ],
-  "LowResMode": [
-    "低畫質模式"
-  ],
-  "lowResModeWarning": [
-    "此功能主要用於安卓設備的性能優化，對 PC 版本可能不會有明顯效果。",
-    "開啟後，遊戲會以較低分辨率渲染地圖和圖片，再進行放大顯示，",
-    "從而減輕手機 GPU 負擔，降低發熱與耗電。",
-    "請注意：這是實驗性功能，效果可能因設備而異。",
-    "你可以隨時關閉此功能，立即恢復畫面的清晰度。"
-  ],
   "nearbyMonstersCount": [
     "偵查到附近的魔物"
   ],
@@ -182,6 +193,18 @@
     "歡迎添加到心願單支持我們！  (*´∀`)~♥",
     "⬇點擊即可跳轉到Steam頁面"
   ],
+  "tipSave": [
+    "你要轉移來自其他舊版本的存檔嗎？",
+    "當前遊戲可兼容來自0.22A以上版本的存檔數據"
+  ],
+  "tipSave2": [
+    "請選擇舊版本的 “save” 文件夾（或遊戲根目錄），然後點 “選擇文件夾”"
+  ],
+  "tipSaveMobile": [
+    "安卓版本因為權限敏感問題，暫不支持快捷打開存檔目錄！",
+    "請自行前往檢查/storage/emulated/0/Documents/sister_save路徑檢查存檔文件！",
+    "你可以自由轉移來自其他設備或PC版本的存檔繼承數據。"
+  ],
   "memberMenu": {
     "firstTimeNotice": [
       "這是目前仍在實驗中的正版驗證功能。",
@@ -197,30 +220,105 @@
     "waitingLogin": "等待登錄驗證流程完成……",
     "notLoggedIn": "還未進行登錄驗證…",
     "RequestingLogin": "正在發起登錄請求……",
-    "openingWindow": "正在打開Patreon登錄窗口……",
-    "chooseLoginMethod": "請選擇用於登入的平台",
-    "openingWindowItch": "正在開啟itch.io登入視窗……",
+    "openingWindow": "正在打開登錄窗口……",
+    "chooseLoginMethod": "請選擇用於登錄的平臺",
+    "openingWindowItch": "正在打開itch.io登錄窗口……",
     "cloudSave": "啟用雲存檔",
     "logInFirst": "請先點擊此按鈕進行登錄",
     "CheckUpdates": "更新至最新版本",
-    "Subscribed": "已確認為贊助者！",
+    "Subscribed": "已確認為贊助者或驗證玩家！",
     "subscribedAndItchUser": "已確認為贊助者！(Itch入庫驗證)",
-    "NotSubscribed": "未確認到贊助記錄，無法使用部分功能！",
+    "NotSubscribed": "未確認到付費憑證或遊戲入庫記錄，無法使用部分功能！",
     "lastCheck": "最近登錄時間： ",
     "checkLatestVersion": "正在檢查最新的版本號，請稍等……",
     "isLatestVersion": "已經是最新版本啦！",
     "notSponsor": "非驗證用戶請先進行贊助！",
     "ImoutoFavorite": "妹妹的最愛！",
-    "itchUser": "已確認為Itch版本玩家！",
     "nonItchUser": "在Itch中未檢測到你擁有本遊戲！",
-    "itchVerifyNotice": "可進行Itch版本遊戲入庫驗證",
-    "itchVerifyAlert": "請先登錄再進行Itch版本檢測！",
+    "additionalPlatformVerifyNotice": [
+      "可額外綁定其他平臺的賬號信息以繼承",
+      "同一個playerId數據！"
+    ],
     "majorUpdateFailed": [
       "大版本更新失敗！",
       "錯誤代碼： ${}",
       "請重新嘗試登錄驗證併發起更新，",
       "或者將此截圖發送至我們的 Discord 服務器以獲取幫助！"
     ]
+  },
+  "cloudSave": {
+    "title": "雲存檔",
+    "lastSync": "上次同步時間：",
+    "neverSynced": "從未同步",
+    "loading": "正在讀取雲端存檔……",
+    "hint": "選擇單個雲存檔下載，或使用頂部按鈕一鍵同步（將覆蓋對應本地存檔位）",
+    "empty": "雲端還沒有存檔！",
+    "notLoggedIn": "請先登錄後使用雲存檔功能！",
+    "listFailed": "雲端清單獲取失敗！",
+    "downloading": "正在下載……",
+    "downloadDone": "已恢復到本地存檔",
+    "downloadFailed": "雲存檔下載失敗！",
+    "uploading": "正在上傳本地存檔……",
+    "uploadDone": "上傳完成：成功 %1 個，失敗 %2 個",
+    "uploadSkipped": "沒有需要上傳的內容",
+    "confirmDownload": "下載該存檔並覆蓋本地數據：",
+    "syncAll": "一鍵同步所有云存檔",
+    "confirmSyncAll": [
+      "下載 %1 個未同步的雲存檔？",
+      "這將覆蓋對應的本地存檔位。"
+    ],
+    "confirmSyncAllLocalNewer": "注意：%1 個本地存檔較新。",
+    "syncAllProgress": "正在同步雲存檔……%1/%2",
+    "syncAllDone": "雲存檔同步完成：已恢復 %1 個",
+    "syncAllPartial": "同步完成：成功 %1 個，失敗 %2 個",
+    "reconcileChecking": "正在對照本地與雲端存檔……",
+    "confirmReconcileOverlap": [
+      "【雲存檔自動同步】",
+      "正在將 %2 個雲存檔下載至本地——",
+      " ",
+      "檢測到本地與雲端有 %1 個重疊的存檔數據！",
+      "選擇【OK】將以雲端版本覆蓋本地（本地舊存檔將丟失）",
+      "選擇【Canel】將保留本地版本並於下次同步時上傳至雲端"
+    ],
+    "reconcileProgress": "正在恢復雲存檔……%1/%2",
+    "reconcileDone": "自動對照完成：下載 %1 個，覆蓋 %2 個，保留本地 %3 個。",
+    "reconcilePartial": "對照完成：成功恢復 %1 個，失敗 %2 個。",
+    "reconcileFailed": "雲存檔自動對照失敗，請重新登錄後重試。",
+    "reconcileNothing": "雲端暫無存檔，本地存檔將按常規方式同步。",
+    "slotAuto": "自動存檔",
+    "slotN": "存檔 %1",
+    "statusNoLocal": "僅雲端",
+    "statusCloudNewer": "雲端版本更新",
+    "statusLocalNewer": "本地版本更新",
+    "statusSynced": "已同步"
+  },
+  "minimapName": {
+    "5": "忘卻的墓穴 下層",
+    "9": "沈眠之所…",
+    "10": "遺跡之森",
+    "13": "遺跡之森",
+    "16": "遺跡之森",
+    "18": "冒險者小道 集結地",
+    "26": "遺跡之森",
+    "27": "遺跡之森",
+    "28": "忘卻的墓穴 上層",
+    "37": "淺層遺跡迷宮",
+    "40": "開拓中區域",
+    "46": "開拓中區域",
+    "47": "遺跡之森",
+    "48": "冒險者小道:記念碑",
+    "49": "冒險者小道:林間",
+    "50": "？？？墓穴",
+    "51": "星之門",
+    "52": "忘卻的墓穴:藏身處",
+    "53": "墮落的聖堂",
+    "55": "大焦熱熔岩帯",
+    "56": "遺跡之森:隠秘的箱庭",
+    "58": "冒險者小道:林間",
+    "59": "開拓中區域",
+    "60": "開拓中區域",
+    "61": "開拓中區域",
+    "62": "冒險者小道:林間"
   },
   "AdventurersPathway": {
     "mapName": "冒險者小道"
@@ -254,56 +352,5 @@
   },
   "Nibelungen": {
     "mapName": "尼伯龍根"
-  },
-  "cloudSave": {
-      "title": "雲端存檔",
-      "lastSync": "上次同步：",
-      "neverSynced": "從未同步",
-      "loading": "正在讀取雲端存檔……",
-      "hint": "選擇單個雲端存檔下載，或使用頂部按鈕一鍵同步（將覆蓋對應本地存檔位）",
-      "empty": "雲端還沒有存檔",
-      "notLoggedIn": "請先登入後使用雲端存檔",
-      "listFailed": "雲端清單獲取失敗",
-      "desktopOnly": "雲端恢復目前僅支援桌面版",
-      "downloading": "正在下載……",
-      "downloadDone": "已恢復到本地存檔",
-      "downloadFailed": "下載失敗",
-      "uploadNow": "【 立即上傳本地存檔 】",
-      "uploading": "正在上傳本地存檔……",
-      "uploadDone": "上傳完成：成功 %1 個，失敗 %2 個",
-      "uploadSkipped": "沒有需要上傳的內容",
-      "confirmDownload": "下載並覆蓋本地：",
-      "syncAll": "一鍵同步所有雲端存檔",
-      "confirmSyncAll": [
-        "下載 %1 個尚未同步的雲端存檔？",
-        "這將覆蓋對應的本地存檔位。"
-      ],
-      "confirmSyncAllLocalNewer": "注意：%1 個本地存檔較新。",
-      "syncAllProgress": "正在同步雲端存檔……%1/%2",
-      "syncAllDone": "雲端存檔同步完成：已恢復 %1 個",
-      "syncAllPartial": "同步完成：成功 %1 個，失敗 %2 個",
-      "reconcileChecking": "正在對照本地與雲端存檔……",
-      "confirmReconcileOverlap": [
-        "本地與雲端有 %1 個重疊存檔位。",
-        "是：用雲端版本覆蓋本地。",
-        "否：保留本地，之後照常上傳。",
-        "另有 %2 個僅雲端存檔會照常下載。"
-      ],
-      "reconcileProgress": "正在恢復雲端存檔……%1/%2",
-      "reconcileDone": "自動對照完成：下載 %1 個，覆蓋 %2 個，保留本地 %3 個。",
-      "reconcilePartial": "對照完成：成功恢復 %1 個，失敗 %2 個。",
-      "reconcileFailed": "雲端存檔自動對照失敗，請重新登入後重試。",
-      "reconcileNothing": "雲端暫無存檔，本地存檔將按常規方式同步。",
-      "cancel": "取消",
-      "slotAuto": "自動存檔",
-      "slotN": "存檔 %1",
-      "statusNoLocal": "僅雲端",
-      "statusCloudNewer": "雲端較新",
-      "statusLocalNewer": "本地較新",
-      "statusSynced": "已同步",
-      "confirmUpload": "上傳本地存檔並覆蓋雲端？",
-      "slotConfig": "遊戲設定",
-      "slotDrill": "全域數據",
-      "dayFmt": "第 %1 天"
   }
 }

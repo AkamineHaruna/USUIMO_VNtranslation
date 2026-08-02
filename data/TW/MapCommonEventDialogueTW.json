@@ -11,13 +11,49 @@
       "\\w[120]"
     ]
   },
+  "magicCamera": {
+    "record": "錄製視頻",
+    "stop": "結束錄製",
+    "screenshot": "全屏拍照",
+    "view": "查看文件",
+    "starting": "正在錄製…",
+    "saving": "正在保存…",
+    "screenshotting": "正在拍照…",
+    "failed": "操作失敗！",
+    "duration": "已錄製 {time}"
+  },
+  "gallerySystem": {
+    "startRecall": [
+      "已解鎖該事件的回想記錄。",
+      "要重新回顧這段記憶嗎？"
+    ],
+    "recallButton": [
+      "事件回想",
+      "還是算了"
+    ],
+    "placeholder": "目前可回想的事件",
+    "takeBathWithImouto": "和\\str[120]一起洗澡",
+    "Polaroid": "茶會拍立得系列"
+  },
+  "AnsuzSystem": {
+    "writeNotLoggedIn": "玩家未登錄！建言上傳失敗！",
+    "uploadFailed": "無法連接服務器！建言上傳失敗！",
+    "writeLimitReached": "已達到今天的創建數量上限！",
+    "writeRejected": "數據異常！建言上傳失敗！",
+    "rateNotLoggedIn": "玩家未登錄！評價失敗！",
+    "rateFailed": "無法連接服務器！評價失敗！",
+    "rateLimitReached": "已達到今天的評價次數上限！",
+    "rateRejected": "不能給自己的建言進行評價！"
+  },
   "cheatCodeTutorial": {
     "0": [
       "⬆長按頭像框即可呼出作弊碼的輸入窗口",
       "正確輸入作弊碼後即可解鎖對應功能！"
     ]
   },
+  "cannotUseItem": "當前無法使用道具！",
   "bulkSelectButton": "點擊此按鈕可以切換至批量選擇物品",
+  "warehouseIsFull": "不能再存放更多物品了！",
   "usingItem": {
     "0": [
       "拿出了\\ii[\\v[90]]、 ",
@@ -35,15 +71,19 @@
       "算了吧"
     ]
   },
+  "sealingScroll": [
+    "還沒有被封印的物品",
+    "封印中:"
+  ],
   "takePhotoOfImouto": {
     "0": [
       "\\nl< >「——努！\\str[121]！    \\w[60]",
       "又在偷偷拍照了！」"
     ]
   },
-  "sealingScroll": [
-    "還沒有被封印的物品",
-    "封印中:"
+  "forceGoHome": [
+    "已經不早了……夜晚的深淵很危險，",
+    "還是儘快回家吧……！"
   ],
   "skillOnCooldown": {
     "0": [
@@ -116,6 +156,30 @@
       " 出現在了深淵裡！ "
     ]
   },
+  "unlockAppleFairy": {
+    "0": [
+      " 蘋果妖精 "
+    ],
+    "1": [
+      " 出現在了深淵裡！ "
+    ]
+  },
+  "unlockMystletainn": {
+    "0": [
+      " 魔剣米斯特汀 "
+    ],
+    "1": [
+      " 出現在了深淵裡！ "
+    ]
+  },
+  "unlockStrangeTentacle": {
+    "0": [
+      " 奇怪的觸手 "
+    ],
+    "1": [
+      " 出現在了深淵裡！ "
+    ]
+  },
   "vendingMachine": {
     "1": [
       "一臺奇怪的自動販售機……",
@@ -170,6 +234,9 @@
       "否則後果自負！"
     ]
   },
+  "minecartTutorial": [
+    "如果礦車不會運作，請多敲打兩下。"
+  ],
   "sela": {
     "1": [
       "（看來暫時不會醒來了…",
@@ -327,6 +394,11 @@
   "PhilosophersFragment": {
     "title": [
       "天上之石碎片"
+    ],
+    "description12": [
+      "從支配者身上獲得的特殊碎片",
+      "如果能收集到各種各樣的碎片",
+      "可能會対${}的病情有所幇助吧"
     ],
     "description50": [
       "從紅獣身上獲得的特殊碎片",

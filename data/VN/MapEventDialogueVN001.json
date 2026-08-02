@@ -1429,10 +1429,6 @@
 		    "Những món này là... ",
             "Em rốt cuộc là ai...? "
         ],
-		"6.5": [
-            "Nói chuyện",
-            "Giao dịch"
-        ],
         "7": [
 		    "Aha♥ Nó chỉ dành cho người trưởng thành thôi~ ",
             "Anh thích thể loại này à? "
@@ -1766,29 +1762,7 @@
 		"87": [
 			"Quả nhiên, Onii-san vẫn chỉ là một kẻ Zako mà thôi~ ",
 			"Nhìn anh cố gắng thể hiện bản thân hết sức mà buồn cười quá đi♥ "
-		],
-		"88": [
-            "Ôi chà, Onii-san muốn mua cái này sao?♥ ",
-            "Chắc chắn là anh đang định~ làm chuyện gì hư hỏng rồi phải không~ "
-        ],
-        "89": [
-            "Thật sự cần một món đồ chơi như thế này mới làm được sao~? ",
-            "Onii-san đúng là yếu đuối quá đi~ "
-        ],
-        "90": [
-            "Nhưng mà những món đồ chơi này đều được ",
-            "chế tác riêng theo yêu cầu đó nha~? ",
-            "Onii-san cũng không muốn nó bị vương mùi ",
-            "của người khác đâu, đúng không nè?♥ "
-        ],
-        "91": [
-            "Vì vậy~ để làm ra một món đồ chơi được chế tác dành riêng cho onii-san~ ",
-            "em cần anh tự mang nguyên liệu xúc tu đến cho em nhé~♪ "
-        ],
-        "92": [
-            "Phải là một chiếc xúc tu thật lớn, thật dày đó nha?♥ ",
-            "Việc đó chắc không quá khó với onii-san đâu đúng không nào~? "
-        ]
+		]
     },
   	"98": {
 		"objectName": [
