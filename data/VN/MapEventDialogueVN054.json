@@ -2517,7 +2517,7 @@
 		],
 		"8.1": [
 			"\\{—Hả.    ",
-			"Chẳng phải đó là món đạo cụ ma pháp mà ",
+			"Chẳng phải đó là món đồ chơi ma pháp mà ",
 			"mình mang từ bên ngoài về trước đây sao!?",
 			"Rõ ràng mình đã giấu nó thật kỹ trong tủ rồi mà!"
 		],
@@ -2656,17 +2656,17 @@
 		],
 		"12.16": [
 			"\"L-là vậy à... Ahaha... Đúng rồi, đúng rồi,",
-			"Dùng thêm đạo cụ để hỗ trợ tập luyện ",
+			"Dùng thêm đồ chơi để hỗ trợ tập luyện ",
 			"cũng là một trải nghiệm khá thú vị đó ha~!\""
 		],
 		"12.17": [
-			"\\nl< >\"Ehehe... phải đó, món đạo cụ đó đúng là rất hay—     \\w[150]",
-			"Eh—Đạo cụ?\""
+			"\\nl< >\"Ehehe... phải đó, món đồ chơi đó đúng là rất hay—     \\w[150]",
+			"Eh—Đồ chơi?\""
 		],
 		"12.18": [
 			"—Ấy, chết rồi.",
 			"Căng thẳng quá nên mình lỡ miệng nói ra suy nghĩ trong đầu.",
-			""
+			" "
 		],
 		"12.19": [
 			"\\nl< >\"............\\str[121]!?",
@@ -2698,9 +2698,9 @@
 			"Dâm dục là tuyệt nhất!\""
 		],
 		"12.25": [
-			"\"Chỉ là... em không nhờ \\str[121] giúp mà lại dùng đạo cụ ",
+			"\"Chỉ là... em không nhờ \\str[121] giúp mà lại dùng đồ chơi ",
 			"nên anh có hơi buồn một chút thôi, chứ anh thật sự không giận đâu!?",
-			"Anh yêu thích \\str[120] dâm dục của mình mà!?\""
+			"Anh yêu thích \\str[120] dâm dục của mình lắm!?\""
 		],
 		"12.26": [
 			"\\str[120] vẫn cúi thấp đầu, thân hình nhỏ bé run lên bần bật,",
@@ -2795,320 +2795,325 @@
 		],
 		"25": [
 			"\\nl< >\"Eh...? \\str[121]...!?",
-			"Why... are you back so ear—\"    \\w[150]\\{"
+			"Sao... nay anh lại về sớm thế—\"    \\w[150]\\{"
 		],
 		"26": [
 			"\\nl< >\\{\"..............Eek!?\""
 		],
 		"27": [
-			"Before she could even process the fact that I had come home early,",
-			"\\str[120] looked down and suddenly realized",
-			"just how scandalously exposed a posture she was ",
-			"slumped in right in front of \\str[121]."
+			"Chưa kịp định thần lại việc tôi đã về nhà sớm hơn dự kiến,",
+			"\\str[120] cúi xuống nhìn bản thân rồi chợt nhận ra",
+			"tư thế ngồi buông thả đầy hớ hênh đến mức xấu hổ",
+			"mà mình đang bày ra ngay trước mặt \\str[121]."
 		],
 		"28": [
-			"Realizing what an unsightly sight she had displayed before \\str[121],",
-			"\\str[120] was so terrified she almost leapt out of her chair.",
+			"Nhận thức được mình vừa để \\str[121] nhìn thấy dáng vẻ đáng xấu hổ như vậy,",
+			"\\str[120] hoảng hốt đến mức suýt bật cả người khỏi ghế.",
 			" ",
 			" ",
-			"In her panic, ",
-			"she didn't even have time to pull out the tentacle inside her. ",
-			"her widely spread legs snapped tightly shut,",
-			"trying to hide that flooded, muddy zone with her knees."
+			"Trong cơn hoảng loạn, ",
+			"em ấy thậm chí còn không kịp lấy chiếc xúc tu ra. ",
+			"Hai chân vốn đang dang rộng lập tức khép chặt lại,",
+			"cố dùng đầu gối che đi vùng dưới đã ướt đẫm và nhầy nhụa."
 		],
 		"29": [
 			"\\nl< >\"Mmh-uuuu-gh-mmh-mmh~~~~~~!\""
 		],
 		"30": [
-			"Exposed to this extent, such self-deceiving defense ",
-			"was obviously completely pointless— \\str[120] seemed to realize ",
-			"this as well, \\str[120] seemed to realize this as well, her fair cheeks",
-			"instantly flushing beet red, steaming as if she were about to evaporate."
+			"Đã lộ đến mức này thì cách che đậy đầy tự trấn an bản thân ấy rõ ràng ",
+			"chẳng còn chút tác dụng nào nữa. Bản thân\\str[120] dường như cũng ",
+			"nhận ra điều đó, gò má trắng nõn của \\str[120] lập tức đỏ bừng,",
+			"nóng đến mức như sắp bốc khói."
 		],
 		"31": [
-			"\\nl< >\"W-Welcome back... \\str[121]...",
-			"Th-That... just now... ",
-			"it's not what you think... ugh-uugh...\""
+			"\\nl< >\"C-chào mừng trở về... \\str[121]...",
+			"Ch-chuyện... lúc nãy... ",
+			"không phải như anh nghĩ đâu... ugh-uugh...\""
 		],
 		"32": [
-			"Trembling violently all over, \\str[120] curled herself up into ",
-			"a tiny ball on the chair as best as she could.",
-			"In extreme shame and panic, all she could do was stammer out a greeting,",
-			"completely at a loss."
+			"Toàn thân run lẩy bẩy, \\str[120] cố co rúm người lại thành một cục bông nhỏ trên ghế ",
+			"Vì quá xấu hổ và hoảng loạn, em ấy chỉ có thể lắp bắp chào tôi,",
+			"hoàn toàn không biết phải làm gì tiếp theo.",
+			" "
 		],
 		"32.1": [
-			"...This is bad. ",
-			"If I don't handle this right,",
-			"\\str[120] is definitely going to die of embarrassment!?"
+			"...Nguy rồi. ",
+			"Nếu mình xử lý không khéo,",
+			"\\str[120] chắc chắn sẽ xấu hổ đến chết mất!?"
 		],
 		"33": [
-			"Do it together!",
-			"Gloss it over"
+			"Cùng nhau làm nhé!",
+			"Đánh trống lảng"
 		],
 		"33.1": [
-			"\"It's fine, \\str[120], I totally get it!   \\w[60] ",
-			"Sex feels really good, after all————         \\w[20]\\^"
+			"\"Không sao đâu \\str[120], anh hiểu mà!   \\w[60] ",
+			"Dù sao thì... làm chuyện ấy cũng sướng thật————         \\w[20]\\^"
 		],
 		"33.2": [
 			"\\nl< >\"Waaah-eee-eee-eee~~~~~!",
-			"I don't wanna hear it, la-la-la-la-aaah~~~~!\""
+			"Em không muốn nghe cái gì hết, la-la-la-la-aaah~~~~!\""
 		],
 		"33.3": [
-			"I flashed a dashing smile at \\str[120], ",
-			"but before I could finish my sentence,",
-			"\\str[120] jumped up with tears in her eyes. ",
+			"Tôi nở một nụ cười đầy tự tin với \\str[120], ",
+			"nhưng còn chưa kịp nói hết câu thì em ấy đã bật dậy,",
+			"nước mắt lưng tròng. ",
 			" ",
-			"Without even putting her panties on properly,",
-			"she stumbled and fled back to the attic."
+			"Đến cả quần lót còn chưa kịp mặc chỉnh tề,",
+			"em ấy loạng choạng bỏ chạy thẳng lên gác xép."
 		],
 		"33.4": [
-			"Is this... really okay?",
-			"\\str[120] won't be traumatized by sex because of this, right...?"
+			"Thế này... thật sự ổn chứ?",
+			"Lỡ sau chuyện này \\str[120] sẽ bị ám ảnh với mấy chuyện tình dục luôn thì sao...?"
 		],
 		"34": [
-			"Without saying a word, ",
-			"I quickly pulled down my pants right in front of \\str[120],",
-			"exposing my thick, hard dick that was already fully erect and bulging with veins."
+			"Không nói một lời nào, ",
+			"tôi nhanh chóng kéo quần xuống ngay trước mặt \\str[120],",
+			"để lộ cây hàng to dày và cương cứng từ lúc nào."
 		],
 		"34.1": [
-			"\\nl< >\"Eh...?! \\str[121]... W-What are you doing...?!\""
+			"\\nl< >\"Eh...?! \\str[121] định làm gì thế...?!\""
 		],
 		"34.2": [
-			"While \\str[120] was still in a panic, ",
-			"I scooped her up and pressed her onto the table,",
-			"then lifted her soft, snow-white butt high into the air."
+			"Trong lúc \\str[120] còn đang hoảng hốt,",
+			"tôi bế bổng em ấy lên rồi nhẹ nhàng đặt nằm sấp lên chiếc bàn,",
+			"rồi nhấc bổng cái mông mềm mại trắng như tuyết của em ấy lên."
 		],
 		"34.3": [
-			"\\nl< >\"Kyaah...?! No... \\str[121]... wait...",
-			"I was wrong~~ Don't spank me—\""
+			"\\nl< >\"Kyaah...?! Không... \\str[121]... đợi đã...",
+			"Em biết lỗi rồi~~ Đừng có đánh mông em mà—\""
 		],
 		"34.4": [
-			"\\str[120] seemed to misunderstand something, but I didn't bother to explain.",
-			"After yanking out the tentacle to expose that soaked, messy pussy,",
-			"I gripped my burning cock and thrust my hips, penetrating all the way in with ease."
+			"Có vẻ \\str[120] đã hiểu lầm điều gì đó, nhưng tôi cũng chẳng buồn giải thích.",
+			"Sau khi giật mạnh xúc tu ra để lộ cái âm hộ ướt át, nhớp nháp đó,",
+			"tôi nắm chặt dương vật đang nóng rực của mình và đút vào,",
+			"do đã ướt từ trước nên dễ dàng thâm nhập vào sâu bên trong."
 		],
 		"34.5": [
 			"\\nl< >\"Ngh-aaah~~~",
-			"Wh-Why is it this one—!?",
-			"\\str[121], so suddenly... uu-ngh♥\""
+			"S-Sao lại là cái này chứ—!?",
+			"\\str[121], đột ngột quá... uu-ngh♥\""
 		],
 		"34.6": [
-			"\"Since I've already seen everything, there's no need to be shy anymore.",
-			"Why don't we just do even extra lewd things together!\""
+			"\"Đằng nào em cũng bị anh nhìn thấy hết rồi, không cần phải ngại ngùng nữa đâu.",
+			"Sao chúng ta không cùng nhau làm những thứ dâm dục hơn nữa nhỉ!\""
 		],
 		"34.7": [
-			"I locked my hands tightly around her waist ",
-			"and began pounding violently from behind,",
-			"every single thrust sending ripples of lewd flesh across her soft butt."
+			"Tôi siết chặt vòng tay quanh eo em ấy rồi bắt đầu chuyển động ",
+			"dồn dập từ phía sau, mỗi cú nhấp đều tạo nên những gợn sóng khiêu gợi ",
+			"lan khắp trên bờ mông mềm mại của \\str[120]."
 		],
 		"34.8": [
 			"\\nl< >\"Haah... ngh-ah...♥",
-			"\\str[121], you big pervert... spying on me the whole time...\""
+			"\\str[121] là đồ biến thái... lén nhìn em suốt từ nãy đến giờ...\""
 		],
 		"35": [
-			"\\str[120]'s breathing grew more and more rapid,",
-			"and her hand movements completely lost all rhyme or reason, ",
-			"blindly speeding up.",
+			"Hơi thở của \\str[120] ngày một gấp gáp,",
+			"bàn tay đang cầm món đồ chơi cũng hoàn toàn mất đi nhịp điệu hay lý trí, ",
+			"chỉ còn theo bản năng mà chuyển động càng lúc càng nhanh.",
 			" ",
-			"That tentacle rapidly slid in and out of her tender pussy, ",
-			"creating wet, sticky splashing noises."
+			"Chiếc xúc tu đó nhanh chóng trượt ra vào liên tục trong âm hộ mềm mại của em ấy, ",
+			"tạo ra những âm thanh ướt át, nhầy nhụa."
 		],
 		"36": [
-			"\\nl< >\"Haah... so hot... inside... ",
-			"it's gonna break... uu-ngh♥\""
+			"\\nl< >\"Haah... nóng quá... bên trong... ",
+			"sắp không chịu nổi nữa... uu-ngh♥\""
 		],
 		"37": [
-			"Just as \\str[120] was about to reach the edge of climax, ",
-			"an accident happened—"
+			"Ngay khi \\str[120] sắp chạm đến giới hạn, ",
+			"một chuyện bất ngờ đột nhiên xảy ra—"
 		],
 		"38": [
 			"\\nl< >\"—♥!? Mgh, ngh, mmh-ngh-ngh————!!\""
 		],
 		"39": [
-			"The thick tentacle suddenly vibrated violently as if coming alive,",
-			"driving its suction cups to cling tightly to her pussy ",
-			"and stir inside to its heart's content."
+			"Chiếc xúc tu đó đột nhiên rung lên dữ dội như thể sống dậy,",
+			"điều khiển những giác hút của nó bám chặt vào âm hộ em ấy ",
+			"và khuấy động bên trong theo ý muốn của nó."
 		],
 		"40": [
-			"That sudden, intense stimulation made \\str[120]'s body jerk violently.",
-			"Unable to even let out a sweet moan, ",
-			"she convulsed violently as if shocked by electricity,",
-			"entering a forced, overwhelming climax."
+			"Sự kích thích đột ngột và mãnh liệt ấy khiến cơ thể của \\str[120] co giật dữ dội.",
+			"Chẳng thể thốt ra nổi một tiếng rên rỉ ngọt ngào nào cả, ",
+			"em ấy co giật mạnh như thể bị điện giật,",
+			"rơi vào trạng thái lên đỉnh cưỡng ép đầy choáng ngợp."
 		],
 		"41": [
-			"—Ah. Come to think of it, ",
-			"doesn't that tentacle toy actually have a feature like that?",
-			"Supposedly, it starts moving on its own when the user's desire skyrockets...",
-			" ",
-			"Evidently, because \\str[120]'s lust had reached its peak,",
-			"the tentacle, being a magic item, had fully activated its function."
+			"—Ah. Nghĩ lại thì, ",
+			"chẳng phải món đồ chơi xúc tu đó thật sự có chức năng như vậy sao?",
+			"Nghe nói nó sẽ tự bắt đầu chuyển động khi ham muốn ",
+			"của người sử dụng tăng lên đến một mức nhất định...",
+			"Rõ ràng là vì ham muốn của \\str[120] đã đạt đến đỉnh điểm rồi,",
+			"Nên chiếc đồ chơi xúc tu này đã hoàn toàn tự động kích hoạt chức năng của nó."
 		],
 		"42": [
-			"The tentacle was now completely acting against \\str[120]'s control, ",
-			"no longer needing her hand to pump it.",
-			"It obstinately churned wildly inside her narrow channel on its own, ",
+			"Lúc này, chiếc xúc tu hoàn toàn đã vượt khỏi tầm kiểm soát của \\str[120],",
+			"không còn cần bàn tay của em ấy điều khiển nữa.",
+			"Nó cứ ngoan cố tự mình khuấy đảo dữ dội bên âm hộ em ấy,",
 			" ",
-			"suction cups clinging tight and relentlessly grinding every inch of her inner walls,",
-			"continuously squeezing out sweet love juices from within \\str[120]."
+			"Những giác hút bám chặt và không ngừng cọ xát lên từng tấc thịt bên trong,",
+			"liên tục vắt kiệt những dòng nước dịch ái tình ngọt ngào từ cơ thể của \\str[120]."
 		],
 		"43": [
-			"\\nl< >\"N-No more moving...",
-			"Stop... please stop... ah, aaah—♥\""
+			"\\nl< >\"Đ-Đừng chuyển động nữa....",
+			"Dừng lại đi... Làm ơn dừng lại đi mà... ah, aaah—♥\""
 		],
 		"44": [
-			"\\str[120] was forced to endure this overwhelming assault of pleasure.",
-			"Even her pleas for mercy were broken into ",
-			"shattered fragments amidst the intense, continuous climax,",
+			"\\str[120] buộc phải chịu đựng cảm giác khoái cảm mãnh liệt ấy.",
+			"Ngay cả những lời cầu xin yếu ớt của em ấy cũng tan vỡ ",
+			"thành những âm thanh đứt quãng giữa những cơn cao trào dồn dập không dứt,",
 			" ",
-			"her entire body convulsing and trembling uncontrollably as ",
-			"wild desires ran amok inside her."
+			"Toàn thân em ấy run rẩy mất kiểm soát, ",
+			"những ham muốn mãnh liệt đang cuộn trào bên trong."
 		],
 		"45": [
-			"After who knows how long,",
-			"as the spasms in \\str[120]'s delicate body ",
-			"finally subsided and the climax came to an end,",
-			"the frantic tentacle stopped its vibrating and churning on its own."
+			"Không biết đã bao lâu trôi qua,",
+			"cuối cùng những cơn co giật trên cơ thể mỏng manh của \\str[120] ",
+			"cũng dần lắng xuống, và khi cảm giác mãnh liệt ấy kết thúc,",
+			"chiếc xúc tu đang rung lắc dữ dội và khuấy đảo cũng từ từ dừng lại."
 		],
 		"46": [
 			"\\nl< >\"Haah—♥ Haah—♥",
-			"Was that... broken just now...? ",
-			"It just wouldn't stop...\""
+			"Vừa rồi.... nó bị hỏng sao...? ",
+			"Nó cứ không chịu dừng lại...\""
 		],
 		"47": [
-			"\\nl< >\"............Guess I'll try one more time.\""
+			"\\nl< >\"............Có lẽ mình thử thêm một lần nữa xem sao.\""
 		],
 		"48": [
 			"\"No Horny—!!!\""
 		],
 		"49": [
-			"The sudden roar made \\str[120] leap right off the sofa like a startled cat.",
-			"She turned her head in panic, only then finally ",
-			"seeing me standing up from behind the sofa,",
-			"flushed red and breathing heavily."
+			"Tiếng hét bất ngờ khiến \\str[120] giật bắn người.",
+			"bật nhảy khỏi ghế sofa như một chú mèo bị hoảng sợ.",
+			"em ấy vội quay đầu lại trong cơn hoảng loạn, lúc đó mới nhận ra ",
+			"tôi đang đứng dậy từ phía sau ghế, mặt đỏ bừng và thở hổn hển."
 		],
 		"50": [
-			"\\nl< >\"\\str[121]...!? Why are you here...",
-			"W-Wait a minute, you just... saw everything...!?\""
+			"\\nl< >\"\\str[121]...!? Sao anh lại ở đây...",
+			"K-Khoan đã, anh vừa... nhìn thấy hết rồi sao...!?\""
 		],
 		"51": [
-			"Wh-What should I do... I couldn't help but shout out loud...",
-			"But you can't blame me! Witnessing \\str[120] masturbating, ",
-			"and she was actually going to keep going...!?"
+			"Mình phải làm gì đây... Lỡ không thể kìm được mà hét lên...",
+			"Nhưng cũng không thể trách tôi được! Chứng kiến thấy \\str[120] tự sướng ",
+			"và em ấy còn định tiếp tục nữa chứ...!?"
 		],
 		"52": [
-			"\\{Screw it! It's too late to explain anything now!",
-			"Anyway... I can't hold back anymore either!!"
+			"\\{Thôi xong! Giờ có giải thích gì cũng đã quá muộn rồi!",
+			"Dù sao thì... mình cũng không thể kiềm chế được nữa!!"
 		],
 		"53": [
-			"Without a word, I pulled down my pants right in front of \\str[120].",
-			"Before she could even snap out of it, ",
-			"I picked her up, roughly pinned her onto the table,",
-			"forcibly lifted her butt, and plunged all the way into that dripping wet pussy!"
+			"Không nói một lời, tôi kéo quần xuống ngay trước mặt \\str[120].",
+			"Trước khi em ấy kịp phản ứng, tôi nhấc bổng em ấy lên và ghì chặt xuống bàn,",
+			"mạnh mẽ nâng cái mông mềm mại của em ấy lên,",
+			"và đút thật sâu vào trong cái âm hộ ướt đẫm đó!!"
 		],
 		"54": [
-			"\\nl< >\"Ah... aaah♥ It went in...?",
-			"No... I just... ugh-ngh♥♥\""
+			"\\nl< >\"Ah... aaah♥ Nó vào rồi...?",
+			"Không... Em chỉ... ugh-ngh♥♥\""
 		],
 		"55": [
-			"\"Shut up! ",
-			"Who told a brat like you to ",
-			"secretly do lewd things at home!",
-			"Using toys behind my back and all, that's way too sneaky!\""
+			"\"Im đi! ",
+			"Ai bảo một nhóc con hư đốn như em lại lén lút ",
+			"làm mấy chuyện dâm dục ở nhà chứ!",
+			"Còn lén lút giấu đồ chơi rồi tự ý dùng sau lưng anh nữa!\""
 		],
 		"56": [
-			"Post-orgasm, \\str[120]'s pussy was still in a sensitive and soft state, ",
-			"yet it tightly wrapped around the invading cock.",
-			"As if completely deaf to her complaints, I gripped her slender waist with both hands",
-			"and thrust my hips even more fiercely, burying myself almost completely with every stroke."
+			"Sau khi lên đỉnh, âm hộ của \\str[120] vẫn còn mềm mại và nhạy cảm, ",
+			"nhưng nó lại siết chặt lấy dương vật đang xâm nhập bên trong.",
+			" ",
+			" ",
+			"Như thể hoàn toàn phớt lờ những lời than phiền của em ấy, ",
+			"tôi dùng cả hai tay giữ chặt lấy vòng eo thon thả ấy và thúc đẩy mạnh bạo hơn nữa,",
+			"gần như vùi sâu hoàn toàn vào trong với mỗi nhịp đẩy."
 		],
 		"57": [
-			"\"You always say you hate lewd stuff, ",
-			"but here you are secretly watching porn and getting ",
-			"so into playing with toys on your own?",
-			"How many times have you secretly done this!?\""
+			"\"Em lúc nào cũng nói là ghét mấy chuyện dâm dục, ",
+			"vậy mà lại lén xem phim khiêu dâm rồi còn ",
+			"say mê nghịch đồ chơi một mình như thế này sao?",
+			"Rốt cuộc em đã lén làm chuyện này bao nhiêu lần rồi đây!?\""
 		],
 		"58": [
-			"\\nl< >\"H-Hardly any times... ngh...♥",
-			"I was just... ch-checking the stuff you brought back, \\str[121]...\""
+			"\\nl< >\"Em chả làm lần nào cả... ngh...♥",
+			"Em chỉ... kiểm tra mấy thứ mà \\str[121] mang về thôi mà...\""
 		],
 		"59": [
-			"\\nl< >\"Besides, it's \\str[121]'s fault...",
-			"Why would you hide something like this in your room...!\""
+			"\\nl< >\"Hơn nữa, đó cũng là lỗi của \\str[121] mà...",
+			"Ai bảo anh lại giấu thứ này trong phòng cơ chứ...!\""
 		],
 		"60": [
-			"\"What do you mean 'something like this'? ",
-			"That's an important exploration tool!",
-			"You tell me then, what is this thing supposed to be used for—\""
+			"\"Ý em là 'mấy thứ này' sao? ",
+			"Đây là một công cụ để khám phá rất quan trọng đó!",
+			"Vậy em nói xem, thứ này rốt cuộc dùng để làm gì nào—\""
 		],
 		"61": [
-			"\\nl< >\"Eh...? What for...",
-			"It's... it's... ugh... ngh-ngh♥\""
+			"\\nl< >\"Eh...? Để làm gì à...",
+			"Nó... nó là... ugh... ngh-ngh♥\""
 		],
 		"62": [
-			"\"What's wrong... why did you stop talking~!",
-			"Don't you know how to use this thing!\""
+			"\"Sao vậy... sao tự nhiên im rồi~!",
+			"Chẳng lẽ em không biết thứ này dùng làm gì à!\""
 		],
 		"63": [
-			"\\nl< >\"It's... used for... used for...",
-			"Waaah~~~ \\str[121], you already know and you're still asking... ",
-			"You monster! So mean!\""
+			"\\nl< >\"Nó... dùng... dùng để...",
+			"Waaah~~~ \\str[121] biết rõ rồi mà còn hỏi nữa... ",
+			"Đồ quái vật! Xấu xa quá đi!\""
 		],
 		"64": [
-			"\"How would anyone know if you don't say it! Come on, speak up!",
-			"Where did you stick it in yourself just now? ",
-			"And why were you moaning so loudly?\""
+			"\"Làm sao người ta biết được nếu em không nói ra chứ!",
+			"Thôi nào, nói đi chứ! Lúc nãy em đã nhét nó vào đâu đấy?",
+			"Và tại sao em lại rên rỉ to thế kia?\""
 		],
 		"65": [
-			"\\nl< >\"I-I was not moaning!",
-			"\\str[121]... If... If you keep bullying me like this... ",
-			"I'm really gonna get mad!\""
+			"\\nl< >\"E-em đâu có rên đâu!",
+			"\\str[121]... Nếu... nếu anh cứ bắt nạt em như vậy... ",
+			"em thật sự sẽ nổi giận đó!\""
 		],
 		"66": [
-			"\"Not moaning? Then what was that ",
-			"'It feels different from when \\str[121] puts it in' I just heard?\""
+			"\"Không phải rên à? Vậy thì cái câu nói ",
+			"'Nhưng vẫn khác so với lúc \\str[121] đút vào' mà anh vừa nghe là gì thế?\""
 		],
 		"67": [
 			"\\nl< >\"....................Eh!?",
-			"So you really were watching the whole time, \\str[121]! ",
-			"So... so mean...!\""
+			"Vậy là \\str[121] thật sự đã nhìn thấy hết từ đầu đến cuối sao! ",
+			"Anh thật... thật xấu tính quá đi...!\""
 		],
 		"68": [
-			"\\str[120] began squirming and struggling restlessly, ",
-			"trying to escape from underneath me,",
-			"but I held her waist firmly, refusing to let her slip away as ",
-			"I continued my relentless pounding."
+			"\\str[120] bắt đầu vặn vẹo và vùng vẫy không yên,",
+			"cố gắng thoát ra khỏi vòng tay tôi,",
+			"nhưng tôi đã giữ chặt lấy eo để em ấy không thể trốn thoát,",
+			"đồng thời tôi vẫn tiếp tục trêu chọc em ấy không ngừng."
 		],
 		"69": [
-			"\"I just came home early like normal!",
-			"It's \\str[120] who's too lewd, secretly doing this while I'm away!",
-			"Tell me, just how many times did you call out for me? Hmm?\""
+			"\"Anh chỉ là về nhà sớm hơn bình thường thôi mà!",
+			"Chính \\str[120] mới là người dâm dục nhất đó,",
+			"lén lút làm chuyện này khi anh vắng nhà!\"",
+			"rốt cuộc em đã gọi tên anh bao nhiêu lần rồi ta? Hmm?"
 		],
 		"70": [
-			"\\nl< >\"Y-You misheard...",
-			"It's because \\str[121] suddenly showed up and scared me... that's why...",
-			"I didn't call out anything weird like that!\""
+			"\\nl< >\"A-anh nghe nhầm rồi đó...",
+			"Là vì \\str[121] đột nhiên xuất hiện làm em giật mình... nên mới vậy thôi...",
+			"Em đâu có gọi gì kỳ lạ như thế chứ!\""
 		],
 		"71": [
-			"\"Scared you? ",
-			"Weren't you about to go for a second round just now—",
-			"Or have you already done it more than once!?\""
+			"\"Giật mình à? ",
+			"Chẳng phải vừa nãy em còn định làm thêm lần nữa sao—",
+			"Hay là em đã làm chuyện đó nhiều hơn một lần rồi!?\""
 		],
 		"72": [
-			"\\nl< >\"Ugh... \\str[121]... You're really so mean...",
-			"I... I only... called out once or twice... occasionally...",
-			"If you keep this up... I'm really gonna cry!\""
+			"\\nl< >\"Ugh... \\str[121]... quá đáng thật đó...",
+			"Em... Em chỉ... gọi một hai lần... thỉnh thoảng thôi mà...",
+			"Nếu anh cứ tiếp tục như thế... em thật sự sẽ khóc đó!\""
 		],
 		"73": [
-			"\\str[120]'s eyes gradually narrowed, ",
-			"her cheeks blushing so red they almost bled.",
-			"Although she was still trying to talk back, ",
-			"her voice was visibly beginning to soften."
+			"Đôi mắt của \\str[120] dần nheo lại, ",
+			"hai má của em ấy đỏ bừng như sắp rỉ máu.",
+			"Dù vẫn cố cãi lại, nhưng giọng nói ",
+			"của em ấy rõ ràng đã bắt đầu trở nên mềm yếu hơn."
 		],
 		"74": [
-			"I was so excited I could barely contain myself, ",
-			"my thrusting speed getting faster and faster.",
-			"My cock throbbed frantically inside her pussy, and soon enough, ",
-			"I reached my limit—"
+			"Tôi phấn khích đến mức gần như không thể kiềm chế bản thân, ",
+			"tốc độ chuyển động cũng ngày càng nhanh hơn.",
+			"Dương vật của tôi co giật điên cuồng bên trong âm hộ của em ấy, ",
+			"và chẳng mấy chốc tôi đã đạt đến giới hạn của mình—"
 		]
 	},
 	"17": {
@@ -3126,6 +3131,10 @@
 			"\\str[121]... Anh đã xuất ra hết rồi đúng không...? ",
 			"Có thể buông em ra được chưa—\""
 		],
+		"3.1": [
+			"\\nl< >\"...Anh vẫn chưa thấy đủ thoã mãn sao?",
+			"\\str[121]... đã ra nhiều lắm rồi mà...\""
+		],
 		"4": [
 			"Thêm một hiệp nữa!",
 			"Thôi vậy"
@@ -3134,6 +3143,10 @@
 			"\"Xong á? Đây mới chỉ là bắt đầu thôi!",
 			"Rõ ràng là em cũng còn muốn tiếp tục mà đúng không nào, \\str[120]? ",
 			"Cơ thể của em thành thật lắm đấy nhé~\""
+		],
+		"5.1": [
+			"\"Vẫn còn lâu mới xong—!",
+			"\\Mọi chuyện với str[121] giờ mới chỉ bắt đầu thôi—!\""
 		],
 		"6": [
 			"Bị khơi dậy bởi tinh thần hiếu thắng đột ngột, ",
