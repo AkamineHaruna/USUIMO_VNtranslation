@@ -306,7 +306,7 @@
     "yes1mh0rny": [
       "< yes1mh0rny >",
       "Unlocks the Recall entries for ${Object.keys(RecallStage.stageSetupMap).length} H-events(can be triggered in \\str[120]'s room)."
-    ],    
+    ],
     "hard2k1ll": [
       "< hard2k1ll >",
       "Obtain the cheat equipment 'Fairy Queen's Crystal Wings'. ",
@@ -1631,7 +1631,7 @@
       "It is said to automatically contract and move based on the user's level of desire...",
       "But why did I make something like this—THAT WAS SUPPOSED TO BE ME...!!"
     ],
-    "productSubtitle":[
+    "productSubtitle": [
       ""
     ],
     "productDescription": [
@@ -1639,7 +1639,7 @@
       "Honestly, I'm kind of curious how you're supposed to use it...",
       "N-no, more importantly, there's something I've been dying to point out this whole time—",
       "Don't tell me the shelves in the back are completely packed with stuff like this!?"
-    ],        
+    ],
     "ability": ""
   },
   "196": {
@@ -3081,6 +3081,17 @@
     ],
     "ability": ""
   },
+  "326": {
+    "name": [
+      "Chilled Watermelon"
+    ],
+    "subtitle": "",
+    "description": [
+      "Fresh watermelon taken straight from the refrigerator and cut into bite-sized pieces",
+      "Cool, sweet, refreshing, and juicy—the perfect treat for beating the summer heat!"
+    ],
+    "ability": ""
+  },
   "410": {
     "name": [
       "The Knight's Suggestion"
@@ -3175,6 +3186,20 @@
       "adult movies alone and learning to masturbate with a tentacle dildo. ",
       "Facing \\str[120], who was becoming increasingly lewd behind the scenes,",
       "\\str[121] decided to erect his penis and subject her to a harsh correction—"
+    ],
+    "description": "",
+    "ability": ""
+  },
+  "434": {
+    "name": [
+      "Watching a Horror Movie with \\str[120]"
+    ],
+    "subtitle": [
+      "\\str[121] brings \\str[120], who has never stayed up late before, to watch a ",
+      "mysterious videotape he bought, only for it to turn out to be a horror movie!",
+      "Terrified by the frightening scenes, \\str[120] clings tightly to \\str[121], ",
+      "trying to ease her anxiety through close physical contact, but before ",
+      "they realize it, the atmosphere gradually grows hotter and more intimate..."
     ],
     "description": "",
     "ability": ""

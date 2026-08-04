@@ -39,12 +39,12 @@
     "5": [
       "Note: You can only overwrite existing save files!",
       "If you transfer a new save file without a matching record",
-      "the game won’t recognize it!"
+      "the game won't recognize it!"
     ]
   },
   "exitGame": {
     "0": [
-      "Do you want to return to the game’s title screen?",
+      "Do you want to return to the game's title screen?",
       "Any unsaved data will be lost."
     ],
     "1": [
@@ -54,7 +54,7 @@
   },
   "quickHeadpat": [
     "My hair will get messy!",
-    "Don’t pat it too much!",
+    "Don't pat it too much!",
     "Feels nice",
     "A little longer?",
     "Meow..."
@@ -90,7 +90,7 @@
     "7": [
       "My \\str[120] got insanely lucky at the casino and ",
       "won the ultimate weapon, then charged into the ",
-      "Demon Lord’s castle way ahead of time.",
+      "Demon Lord's castle way ahead of time.",
       "Game over."
     ],
     "8": [
@@ -125,7 +125,7 @@
     ],
     "17": [
       "I do feel a bit lonely,",
-      "but maybe I shouldn’t bother her too much—"
+      "but maybe I shouldn't bother her too much—"
     ]
   },
   "3": {
@@ -342,7 +342,7 @@
   "4": {
     "0": [
       "\\nl< >\"Grrrr...! \\w[45]",
-      "You did that on purpose, didn’t you!?\"  \\w[150]\\^"
+      "You did that on purpose, didn't you!?\"  \\w[150]\\^"
     ],
     "1": [
       "\\nl< >\"—Uwehhhhh!?\"  \\w[20]\\^"
@@ -354,17 +354,17 @@
       "…\\str[121]?"
     ],
     "4": [
-      "Mmm…not now…don’t touch…"
+      "Mmm…not now…don't touch…"
     ],
     "5": [
-      "\\nl< >\"Jeez, don’t touch me when my hair’s still wet…\"",
+      "\\nl< >\"Jeez, don't touch me when my hair's still wet…\"",
       "\\w[180]\\^"
     ],
     "6": [
       "My hair got all messy again...",
       "Hmm... what a strange feeling..",
       "Ehehe...",
-      "Your hand’s so warm, \\str[121]…",
+      "Your hand's so warm, \\str[121]…",
       null,
       "\\str[121]…",
       null,
@@ -379,11 +379,11 @@
   "5": {
     "0": [
       "\\nl< >\"Uwaaah, \\str[121]... ",
-      "that's not a button you’re supposed to press!\"  \\w[240]\\^"
+      "that's not a button you're supposed to press!\"  \\w[240]\\^"
     ],
     "1": [
       "\\nl< >\"Grrrr...! \\w[45]",
-      "You did that on purpose, didn’t you!?\"  \\w[150]\\^"
+      "You did that on purpose, didn't you!?\"  \\w[150]\\^"
     ],
     "2": [
       "\\nl< >\"Not now...!  \\w[60]",
@@ -401,13 +401,13 @@
     ],
     "6": [
       "\\nl< >\"Mou~ you totally did that on purpose,",
-      "didn’t you, \\str[121]?!\"    \\w[120]\\^"
+      "didn't you, \\str[121]?!\"    \\w[120]\\^"
     ],
     "7": [
       "\\nl< >\"Ahh...   \\w[45]\\^"
     ],
     "8": [
-      "\\nl< >\"ah, \\str[121]! Don’t come any closer!\"   \\w[300]\\^"
+      "\\nl< >\"ah, \\str[121]! Don't come any closer!\"   \\w[300]\\^"
     ],
     "9": [
       "\\nl< >\"Ughhh... Give me back my towel...\"   \\w[90]\\^"
@@ -436,7 +436,7 @@
       "It was an accident…? O-Okay, I get it…\"    \\w[210]\\^"
     ],
     "17": [
-      "\\nl< >\"D-Don’t mess with me like that…  \\w[150]",
+      "\\nl< >\"D-Don't mess with me like that…  \\w[150]",
       "It feels weird…!\"    \\w[150]\\^"
     ],
     "18": [
@@ -452,12 +452,12 @@
       "maybe you should stop…\"    \\w[210]\\^"
     ],
     "21": [
-      "\\nl< >\"Geez, don’t go poking me all over!  \\w[240]",
-      "I’m not your toy, you know!\"    \\w[120]\\^"
+      "\\nl< >\"Geez, don't go poking me all over!  \\w[240]",
+      "I'm not your toy, you know!\"    \\w[120]\\^"
     ],
     "22": [
       "\\nl< >\"Uweh-eh-eh… \\str[121], \\w[150]",
-      "you’re getting way too into this…!?\"    \\w[180]\\^"
+      "you're getting way too into this…!?\"    \\w[180]\\^"
     ]
   },
   "6": {
@@ -523,56 +523,56 @@
     "13": [
       "\\nl< >\"...Hm? ",
       "Isn't this the Free Pass I gave you, \\str[121]?\""
-    ],  
+    ],
     "13.5": [
       "\\nl< >\"That's for you to use! ",
       "I'm not accepting any returns~!\""
-    ],  
+    ],
     "14": [
       "\\nl< >\"..............White hairs?\""
-    ],  
+    ],
     "15": [
       "\\nl< >\"————————!?\""
-    ],  
+    ],
     "16": [
       "\\nl< >\"\\str[121]!!",
       "Why on earth do you have so many of my hairs in your hand!?",
       "This isn't funny at all!!\""
-    ],  
+    ],
     "17": [
       "\\nl< >\"\\str[121]... ",
       "I already knew you did weird things sometimes...",
       "But this is just taking it too far...\""
-    ],  
+    ],
     "18": [
       "\\nl< >\"...Milk? ",
       "\\str[121]... if you think you can just bribe me with something ",
       "like this and expect me to forgive you—\""
-    ],  
+    ],
     "19": [
       "\\{\\nl< >\"—Then you'd better give me ",
       "at least one more bottle!\""
-    ],  
+    ],
     "19.5": [
       "\\nl< >\"Ooh~! Can I really drink all of this by myself?",
       "I feel such a guilty sense of luxury right now~!\""
-    ], 
+    ],
     "20": [
       "\\nl< >\"W-what is this...?\""
-    ],   
+    ],
     "21": [
       "\\nl< >\"...A book from outside? ",
       "There are so many illustrations~! ",
       "Thanks, \\str[121]! I'll look forward to reading it~\""
-    ],  
+    ],
     "23": [
       "\\nl< >\"It's full of nothing but lewd pictures! ",
       "It's all your fault! After looking at it, ",
       "I feel like my eyes are going to turn weird!!\""
-    ],  
+    ],
     "24": [
       "\\nl< >\"...Eh? Do I... want to see more...?\""
-    ],  
+    ],
     "25": [
       "\\nl< >\"That's not the point!! ",
       "It's your fault for giving me these kinds of doujinshi ",
@@ -583,11 +583,44 @@
       "you like looking at this stuff, \\str[121]... ",
       "I suppose I could... use them as a reference... \\}",
       "To see... what kind of things you like...\""
-    ]    
+    ],
+    "27": [
+      "\"There's still some chilled watermelon in the fridge!",
+      "Do you want some now~?\""
+    ],
+    "27.5": [
+      "She's already had some...",
+      "It wouldn't be good to let her eat too many cold things."
+    ],
+    "28": [
+      "\\nl< >\"Chilled watermelon?",
+      "Yes, yes~! I was just getting thirsty~!\""
+    ],
+    "29": [
+      "\\nl< >\"...Watermelon?",
+      "I'm not thirsty right now, ",
+      "but I'll never say no to something sweet~!\""
+    ],
+    "30": [
+      "\\nl< >\"Time to dig in~~!\""
+    ],
+    "31": [
+      "\\nl< >\"It's so nice and cold—and really tasty~!\""
+    ],
+    "32": [
+      "\\nl< >\"It's so nice and cold, and super sweet too~!\""
+    ],
+    "33": [
+      "...She ate it so fast!?",
+      "I haven't even started eating yet..."
+    ],
+    "34": [
+      "I enjoyed some delicious, ice-cold watermelon together with \\str[120]!"
+    ]
   },
   "7": {
     "0": [
-      "\\str[120] looks like she’s sleeping so peacefully..."
+      "\\str[120] looks like she's sleeping so peacefully..."
     ],
     "1": [
       "Sneak Closer",
@@ -614,7 +647,7 @@
       "Maybe I'll stay a little longer..."
     ],
     "7": [
-      "Can’t really sleep anyway...   \\w[30]",
+      "Can't really sleep anyway...   \\w[30]",
       "\\{Time for a quick workout!"
     ],
     "8": [
@@ -643,7 +676,7 @@
       "\\nl< >\"Mmm… hmm hmm…\""
     ],
     "14": [
-      "Uh-oh, looks like she’s about to wake up",
+      "Uh-oh, looks like she's about to wake up",
       "Better not stick around any longer...",
       "Time to head back."
     ],
@@ -655,7 +688,7 @@
       "\"...\\str[120]?\""
     ],
     "17": [
-      "It’s just \\str[120] as usual.",
+      "It's just \\str[120] as usual.",
       "I guess it really was just a dream..."
     ]
   },
@@ -680,16 +713,16 @@
     ],
     "5": [
       "\\str[120] suddenly threw herself at me, crying her eyes out,",
-      "looks like she’s blaming herself for everything that happened..."
+      "looks like she's blaming herself for everything that happened..."
     ],
     "6": [
-      "\"Sorry for making you worry… but I’m fine now, really.\""
+      "\"Sorry for making you worry… but I'm fine now, really.\""
     ],
     "7": [
-      "\\nl< >\"\\str[121], it must’ve been because you ate what I made earlier—\""
+      "\\nl< >\"\\str[121], it must've been because you ate what I made earlier—\""
     ],
     "8": [
-      "\"Look, I’m perfectly healthy now!\""
+      "\"Look, I'm perfectly healthy now!\""
     ],
     "9": [
       "To keep her from worrying, I jumped up from bed right away,",
@@ -697,27 +730,27 @@
     ],
     "10": [
       "\\nl< >\"Geez…! You just woke up,",
-      "don’t do dangerous stuff like that!\""
+      "don't do dangerous stuff like that!\""
     ],
     "11": [
-      "\"Seriously, that’s amazing! My wounds are healed,",
+      "\"Seriously, that's amazing! My wounds are healed,",
       "it must be because your feelings reached me!\""
     ],
     "12": [
-      "\\nl< >\"…If that’s true, then I’m really glad.",
+      "\\nl< >\"…If that's true, then I'm really glad.",
       "Maybe I really can help you from now on.\""
     ],
     "13": [
       "\\nl< >\"I actually practiced in secret for a long time.",
-      "But… I was always afraid you wouldn’t like the taste…\""
+      "But… I was always afraid you wouldn't like the taste…\""
     ],
     "14": [
-      "\\nl< >\"Then it’s all good now.",
-      "If \\str[121] likes it, I’ll keep doing my best!\""
+      "\\nl< >\"Then it's all good now.",
+      "If \\str[121] likes it, I'll keep doing my best!\""
     ],
     "15": [
-      "Eh…!? She’s going to cook again...? ",
-      "That’s kinda worrying..."
+      "Eh…!? She's going to cook again...? ",
+      "That's kinda worrying..."
     ]
   },
   "10": {
@@ -740,7 +773,7 @@
     ],
     "5": [
       "—Ah, right.",
-      "I’d already promised \\str[120] that I’d have ",
+      "I'd already promised \\str[120] that I'd have ",
       "some milk ready for her as a reward."
     ],
     "6": [
@@ -834,7 +867,7 @@
     ],
     "13": [
       "With her head down, she quietly fiddled with her fingers,",
-      "I couldn’t see her expression from this angle, ",
+      "I couldn't see her expression from this angle, ",
       "but it felt like she wanted to say something—"
     ],
     "14": [
@@ -844,7 +877,7 @@
     ],
     "15": [
       "\"Your hair's gotten so long.",
-      "I remember it wasn’t this long when you were little...\""
+      "I remember it wasn't this long when you were little...\""
     ],
     "16": [
       "\\nl< >\"Hmm... Do you prefer short hair, \\str[121]?\""
@@ -872,7 +905,7 @@
     ],
     "23": [
       "She looked a bit bashful,",
-      "but I couldn’t make out her face from this angle.",
+      "but I couldn't make out her face from this angle.",
       "All I could see were the full curves tightly wrapped in her towel,",
       "making it hard to know where to rest my eyes."
     ],
@@ -897,15 +930,15 @@
     ],
     "29": [
       "Her coy, affectionate expression was irresistibly adorable,",
-      "and I couldn’t help but smile."
+      "and I couldn't help but smile."
     ],
     "30": [
-      "\"Sure, I’ll come back early tomorrow. Let’s play together then.\""
+      "\"Sure, I'll come back early tomorrow. Let's play together then.\""
     ],
     "31": [
       "She seemed to be saying something really important,",
       "but my attention was completely stolen by that pinkish hue,",
-      "and I didn’t catch a word of what she said."
+      "and I didn't catch a word of what she said."
     ],
     "32": [
       "\"Bothersome... yeah, I guess you could say that...\""
@@ -927,33 +960,33 @@
     ],
     "37": [
       "\"You want to play together...? That sounds great!",
-      "Let’s do that tomorrow! I’ll be home early!\""
+      "Let's do that tomorrow! I'll be home early!\""
     ],
     "38": [
-      "\\nl< >\"Really? It’s a promise then!\""
+      "\\nl< >\"Really? It's a promise then!\""
     ],
     "39": [
-      "\"...It’s a promise!\""
+      "\"...It's a promise!\""
     ],
     "40": [
       "As she smiled happily at our new promise,",
       "her hair had just finished drying."
     ],
     "41": [
-      "She didn’t seem to notice the little accident just now,",
+      "She didn't seem to notice the little accident just now,",
       "just purely happy about our new promise.",
       "At that moment, her hair had just dried completely."
     ],
     "42": [
-      "\\nl< >\"It’s all fluffy now...!     \\w[45]",
+      "\\nl< >\"It's all fluffy now...!     \\w[45]",
       "Thanks, \\str[121]~!\""
     ],
     "43": [
-      "\"That’s great!\""
+      "\"That's great!\""
     ],
     "44": [
-      "\"That’s great!     \\w[60]\\}",
-      "Ah~ I’m tired...\""
+      "\"That's great!     \\w[60]\\}",
+      "Ah~ I'm tired...\""
     ],
     "45": [
       "As I carefully adjusted the angle of the dryer and ",
@@ -973,16 +1006,16 @@
       "I had a flash of genius—an idea that felt clever enough to work!"
     ],
     "48": [
-      "Now that I think about it, I’m holding the dryer!",
+      "Now that I think about it, I'm holding the dryer!",
       "Could I maybe use the wind to make a miracle happen!?"
     ],
     "49": [
-      "Let’s try it!",
+      "Let's try it!",
       "Maybe not..."
     ],
     "50": [
       "Alright, here goes!",
-      "Acting casual, I subtly adjusted the dryer’s direction,",
+      "Acting casual, I subtly adjusted the dryer's direction,",
       "and aimed the hot air straight at her chest—"
     ],
     "51": [
@@ -1002,7 +1035,7 @@
       "\"Ah, sorry.\""
     ],
     "56": [
-      "Luckily, she didn’t notice anything unusual,",
+      "Luckily, she didn't notice anything unusual,",
       "so I resigned myself and kept drying her hair with a bit of regret."
     ],
     "57": [
@@ -1013,7 +1046,7 @@
       "revealing a little pink cherry inside."
     ],
     "59": [
-      "She didn’t seem to notice what had happened,",
+      "She didn't seem to notice what had happened,",
       "so I casually fixed her strap and continued drying, completely satisfied."
     ],
     "60": [
@@ -1060,28 +1093,28 @@
       "Feeling a bit less tired now?\""
     ],
     "1": [
-      "\\nl< >\"Next, it’s time for me to go bathe~\""
+      "\\nl< >\"Next, it's time for me to go bathe~\""
     ],
     "2": [
-      "Eh… what’s that… a line you picked up from TV?"
+      "Eh… what's that… a line you picked up from TV?"
     ],
     "3": [
-      "\\nl< >\"I guess it’s about time for me to head into the bath.\""
+      "\\nl< >\"I guess it's about time for me to head into the bath.\""
     ],
     "4": [
-      "\\nl< >\"Well then, I’ll go wash up too.\""
+      "\\nl< >\"Well then, I'll go wash up too.\""
     ],
     "5": [
-      "Hmm, I’ll just find something random to pass the time—"
+      "Hmm, I'll just find something random to pass the time—"
     ],
     "6": [
-      "\\str[120] went to take a bath, and I’m a bit bored on my own,",
+      "\\str[120] went to take a bath, and I'm a bit bored on my own,",
       "so I started daydreaming to kill time.   \\w[40]",
       "Come to think of it, I used to bathe with her pretty often—",
       "she was so cute back then~"
     ],
     "7": [
-      "It’s been so many years, she must have changed a lot,",
+      "It's been so many years, she must have changed a lot,",
       "in all sorts of ways…"
     ],
     "8": [
@@ -1098,7 +1131,7 @@
     ],
     "11": [
       "But peeking at \\str[120] bathing… ",
-      "isn’t that inappropriate for an adult…?"
+      "isn't that inappropriate for an adult…?"
     ],
     "12": [
       "\\{ ",
@@ -1106,13 +1139,13 @@
       "to such wicked thoughts…!"
     ],
     "13": [
-      "Doesn’t feel right… she’s grown up,",
+      "Doesn't feel right… she's grown up,",
       "I need to give her enough privacy…"
     ],
     "14": [
       "She went to bathe again, ",
       "and for some reason I felt a little empty inside.",
-      "I can’t stop wondering how she’s grown, and it makes me restless."
+      "I can't stop wondering how she's grown, and it makes me restless."
     ],
     "15": [
       "………………Should I just sneak a quick look?"
@@ -1129,13 +1162,13 @@
       "\\nl< >\"…\\str[121], could you come here for a moment?\""
     ],
     "19": [
-      "Huh, looks like it wasn’t my imagination!"
+      "Huh, looks like it wasn't my imagination!"
     ],
     "20": [
-      "\\{ \"I’ll be right there!\""
+      "\\{ \"I'll be right there!\""
     ],
     "21": [
-      "She’s already gone to take a bath, ",
+      "She's already gone to take a bath, ",
       "so what should I do next————"
     ],
     "22": [
@@ -1152,15 +1185,15 @@
       "Forget It"
     ],
     "25": [
-      "She only just went in, so she’s probably changing clothes right now…",
+      "She only just went in, so she's probably changing clothes right now…",
       "That makes me a bit curious, maybe I should go check right away…"
     ],
     "26": [
-      "She only just went in, so she’s probably changing clothes right now…",
-      "But it feels like I’d get caught easily, maybe I should wait…"
+      "She only just went in, so she's probably changing clothes right now…",
+      "But it feels like I'd get caught easily, maybe I should wait…"
     ],
     "27": [
-      "Hmm, I’ll just find something random to pass the time—"
+      "Hmm, I'll just find something random to pass the time—"
     ]
   },
   "15": {
@@ -1174,7 +1207,7 @@
       "...Didn't I just take a bath not long ago?"
     ],
     "3": [
-      "Mmm... I guess it’s about time for a bath."
+      "Mmm... I guess it's about time for a bath."
     ],
     "4": [
       "Invite \\str[120]",
@@ -1202,36 +1235,36 @@
       "\\nl< >\\{\"\\str[121]!!!\"\\}"
     ],
     "11": [
-      "\\nl< >\"What’s wrong, \\str[121]?\""
+      "\\nl< >\"What's wrong, \\str[121]?\""
     ],
     "12": [
       "\\nl< >\"...\\str[121]?\""
     ],
     "13": [
       "\\nl< >\\{\"You're such a dummy, \\str[121]! \\w[60]",
-      "I’m not talking to you anymore!\""
+      "I'm not talking to you anymore!\""
     ],
     "14": [
       "\\nl< >\"Uh, \\str[121]?\\w[60]",
       "Can you not talk to me right now?\""
     ],
     "15": [
-      "Casually patted \\str[120]’s head."
+      "Casually patted \\str[120]'s head."
     ],
     "16": [
-      "Vigorously patted \\str[120]’s head."
+      "Vigorously patted \\str[120]'s head."
     ],
     "17": [
-      "\\str[120]’s hair was so soft and fluffy,",
-      "I couldn’t help but reach out and gently, ",
+      "\\str[120]'s hair was so soft and fluffy,",
+      "I couldn't help but reach out and gently, ",
       "tenderly pat her head."
     ],
     "18": [
-      "This is \\str[121]’s special privilege!",
-      "I lovingly patted \\str[120]’s head."
+      "This is \\str[121]'s special privilege!",
+      "I lovingly patted \\str[120]'s head."
     ],
     "19": [
-      "\\str[120]’s the best—just want to keep patting her!",
+      "\\str[120]'s the best—just want to keep patting her!",
       "I warmly and eagerly patted her head."
     ],
     "20": [
@@ -1240,27 +1273,27 @@
     ],
     "21": [
       "\\nl< >\"Mmm… So sleepy…   \\w[60]",
-      "I must’ve dozed off from sitting too long…\""
+      "I must've dozed off from sitting too long…\""
     ],
     "22": [
       "\\nl< >\"But my cheek feels a little sore…",
       "Did you do something to me?\""
     ],
     "23": [
-      "She looks like she’s nodding off…",
+      "She looks like she's nodding off…",
       "What should I do…? Seeing her so defenseless like this,",
       "I really want to reach out and pinch her cheek…"
     ],
     "24": [
       "Huh?",
-      "She still hasn’t woken up even after that…?",
+      "She still hasn't woken up even after that…?",
       "Can I… do it again…?"
     ],
     "25": [
       "\\nl< >\"Ueeegh...",
       "It's so strange... my whole body feels so itchy...",
       "Even my clothes rubbing against my skin makes me feel all tingly...\""
-    ]    
+    ]
   },
   "18": {
     "0": [
@@ -1271,7 +1304,7 @@
       "Sleepy..."
     ],
     "1": [
-      "\\nl< >\"Guess it’s about time I dried my hair~\""
+      "\\nl< >\"Guess it's about time I dried my hair~\""
     ],
     "2": [
       "Drink Something",
@@ -1281,13 +1314,13 @@
       "Give a Gift"
     ],
     "3": [
-      "\\nl< >\"My hair isn't dry yet. Let’s drink later.\""
+      "\\nl< >\"My hair isn't dry yet. Let's drink later.\""
     ],
     "4": [
       "\\nl< >\"My hair isn't dry yet. Let's play later.\""
     ],
     "5": [
-      "\\nl< >\"\\str[121]’s hands are way too naughty, so no!\""
+      "\\nl< >\"\\str[121]'s hands are way too naughty, so no!\""
     ],
     "6": [
       "\\nl< >\"Ah—!      \\w[40]",
@@ -1300,14 +1333,14 @@
     "8": [
       "\\nl< >\"Ah—!      \\w[40]",
       "It's already so late—!   \\w[60]",
-      "I didn’t make it in time for the show!\""
+      "I didn't make it in time for the show!\""
     ],
     "9": [
       ""
     ],
     "10": [
       "\\nl< >\"Ah—!    \\w[40]",
-      "It’s time for the new anime to start—!\""
+      "It's time for the new anime to start—!\""
     ],
     "11": [
       "\\nl< >\"I'm going to watch anime now~! ",
@@ -1318,14 +1351,14 @@
       "Is it that TV show \\str[120] likes?"
     ],
     "13": [
-      "\"Ah, sure. Let’s watch it together.\""
+      "\"Ah, sure. Let's watch it together.\""
     ],
     "14": [
-      "\\nl< >\\{\"Then I’ll head over first—!\""
+      "\\nl< >\\{\"Then I'll head over first—!\""
     ],
     "15": [
-      "…It’s rare to see her this excited. ",
-      "I guess I’ll go take a look too!"
+      "…It's rare to see her this excited. ",
+      "I guess I'll go take a look too!"
     ],
     "16": [
       "Wanna do something together with \\str[120]…?"
@@ -1339,19 +1372,19 @@
     ],
     "19": [
       "\\nl< >\"This is…!?          \\w[90]",
-      "\\str[121]! You’ve decided to use it already~?\""
+      "\\str[121]! You've decided to use it already~?\""
     ],
     "20": [
-      "\"Yeah… so, you’re saying I can really ask for anything…?\""
+      "\"Yeah… so, you're saying I can really ask for anything…?\""
     ],
     "21": [
       "Hmm… I already spoiled her once today,",
-      "maybe I shouldn’t push my luck and do it too often…"
+      "maybe I shouldn't push my luck and do it too often…"
     ],
     "22": [
-      "\\nl< >\"As long as it’s something \\str[121] wants me to do, ",
-      "it’s totally fine!",
-      "I’ll do my very best to make you happy!\""
+      "\\nl< >\"As long as it's something \\str[121] wants me to do, ",
+      "it's totally fine!",
+      "I'll do my very best to make you happy!\""
     ],
     "23": [
       "Love Words",
@@ -1363,15 +1396,15 @@
       "What should I ask her to do for me…?"
     ],
     "25": [
-      "Hmm… I can’t really think of any reason to ",
+      "Hmm… I can't really think of any reason to ",
       "ask \\str[120] for something right now.",
-      "Maybe I’ll just save it for next time…"
+      "Maybe I'll just save it for next time…"
     ],
     "26": [
-      "\\nl< >\"Eh… \\str[121] doesn’t have anything he wants me to do?\""
+      "\\nl< >\"Eh… \\str[121] doesn't have anything he wants me to do?\""
     ],
     "27": [
-      "\\nl< >\"…That’s it?\"",
+      "\\nl< >\"…That's it?\"",
       "\\w[120]"
     ],
     "28": [
@@ -1379,7 +1412,7 @@
     ],
     "29": [
       "\\nl< >\"Something like that—you could just tell me anytime, you know!",
-      "You shouldn’t waste such a precious Pass on something that simple…!\""
+      "You shouldn't waste such a precious Pass on something that simple…!\""
     ],
     "30": [
       "\\nl< >\"K… kiss…? \\str[121], d-do you want a kiss?\"",
@@ -1390,14 +1423,14 @@
       "clearly flustered by a request that seemed to be a bit too much for her…"
     ],
     "32": [
-      "\\nl< >\"O-of course you can! I-it’s not that big of a deal!",
-      "I’m not a kid anymore, I can totally handle something like this!",
-      "So you don’t have to waste your Pass on it, \\str[121]!\""
+      "\\nl< >\"O-of course you can! I-it's not that big of a deal!",
+      "I'm not a kid anymore, I can totally handle something like this!",
+      "So you don't have to waste your Pass on it, \\str[121]!\""
     ],
     "33": [
       "\\nl< >\"K-kissing is a totally normal thing for adults, right!",
       "No need to spend such a precious Pass on that! ",
-      "You’re overreacting, \\str[121]!\""
+      "You're overreacting, \\str[121]!\""
     ],
     "34": [
       "Even though her face was bright red like an apple and she was clearly nervous,",
@@ -1409,7 +1442,7 @@
       "\\w[120]"
     ],
     "36": [
-      "\\nl< >\"Just… a lap pillow…? That’s all?\""
+      "\\nl< >\"Just… a lap pillow…? That's all?\""
     ],
     "37": [
       "After finally thinking of something appropriate,",
@@ -1417,8 +1450,8 @@
       "Why though…? Was my answer not good enough?"
     ],
     "38": [
-      "\\nl< >\"If it’s just a lap pillow, you could’ve just asked me directly!",
-      "Don’t waste your precious Pass on something like that!\""
+      "\\nl< >\"If it's just a lap pillow, you could've just asked me directly!",
+      "Don't waste your precious Pass on something like that!\""
     ],
     "39": [
       "\"Ehh!?\""
@@ -1432,18 +1465,18 @@
     ],
     "42": [
       "She handed the 'Free Pass' back to me…",
-      "Wait, seriously? She’s taking this that seriously!?"
+      "Wait, seriously? She's taking this that seriously!?"
     ],
     "43": [
-      "\\nl< >\"So you see, \\str[121]—if it’s something small like that,",
+      "\\nl< >\"So you see, \\str[121]—if it's something small like that,",
       "I can totally do it for you even without the Pass~\""
     ],
     "44": [
       "\\nl< >\"Do you have any shows you want to watch, \\str[121]?",
-      "Then let’s go to the living room together~!\""
+      "Then let's go to the living room together~!\""
     ],
     "45": [
-      "It’s already late… ",
+      "It's already late… ",
       "better not go to the living room."
     ]
   },
@@ -1476,7 +1509,7 @@
     "7": [
       "What a kind child she is... ",
       "Even though I did such a terrible thing, ",
-      "she’s still thinking about me."
+      "she's still thinking about me."
     ],
     "8": [
       "\\nl< >\"When I think about it calmly, maybe    \\w[120]",
@@ -1490,7 +1523,7 @@
     "10": [
       "\\str[120] seems to be desperately trying to ",
       "tell me something— What a sweet girl she is...",
-      "\\str[121]’s about to burst into tears, you know?"
+      "\\str[121]'s about to burst into tears, you know?"
     ],
     "11": [
       "\\nl< >\\{\"This is the only way I can ",
@@ -1511,15 +1544,15 @@
     ],
     "15": [
       "\\nl< >\"\\str[121] is a boy after all,     \\w[150]",
-      "Mhm, mhm… I’m sure it’s fine… it’s okay…\""
+      "Mhm, mhm… I'm sure it's fine… it's okay…\""
     ],
     "16": [
       "Cold sweat kept dripping down my forehead...",
       "No, if this keeps going—"
     ],
     "17": [
-      "\\nl< >\"That’s right.",
-      "\\str[121], you’ve always been there for me.  \\w[300]",
+      "\\nl< >\"That's right.",
+      "\\str[121], you've always been there for me.  \\w[300]",
       "\\{Thank you!And good night—!     \\}\"\\w[120]\\^"
     ],
     "18": [
@@ -1530,7 +1563,7 @@
       "\"No—! That's not it!\""
     ],
     "20": [
-      "\"That’s not what I wants—wait, no!\""
+      "\"That's not what I wants—wait, no!\""
     ],
     "21": [
       "\"I mean, I never even thought anything weird—!\""
@@ -1544,7 +1577,7 @@
       "It's not what you think—\""
     ],
     "24": [
-      "\\nl< >\"\\str[121]’s face just got even scarier—\""
+      "\\nl< >\"\\str[121]'s face just got even scarier—\""
     ],
     "25": [
       "\"Please don't hate me——\""
@@ -1556,7 +1589,7 @@
       "\\{\"Guh...!\""
     ],
     "28": [
-      "As \\str[120] screamed like she’d just seen a cockroach, ",
+      "As \\str[120] screamed like she'd just seen a cockroach, ",
       "I gave up trying to think."
     ]
   },
@@ -1568,18 +1601,18 @@
       "\"————\\str[121]\"    \\w[60]\\^"
     ],
     "2": [
-      "It feels like someone’s calling me."
+      "It feels like someone's calling me."
     ],
     "3": [
       "\\nl< >\"\\str[121], are you okay? ",
       "You look really pale.\" "
     ],
     "4": [
-      "\"—Was that \\str[120]’s voice?\" "
+      "\"—Was that \\str[120]'s voice?\" "
     ],
     "5": [
       "Was I dozing off here? ",
-      "My head feels foggy… I can’t remember anything…"
+      "My head feels foggy… I can't remember anything…"
     ],
     "6": [
       "\\nl< >\"Still half-asleep? Heyー\"  \\w[90]\\^"
@@ -1596,13 +1629,13 @@
     "9": [
       "Mmm... so soft, and she smells nice—",
       "a sweet citrusy scent filled my nose.",
-      "Ahh… now I’m feeling sleepy again..."
+      "Ahh… now I'm feeling sleepy again..."
     ],
     "10": [
       "\\nl< >\"Geez, \\str[121] fell asleep again!\""
     ],
     "11": [
-      "Was it just my imagination? I could’ve sworn...",
+      "Was it just my imagination? I could've sworn...",
       "\\str[120] looks a lot more grown up compared to how I remember her."
     ],
     "12": [
@@ -1616,7 +1649,7 @@
       "\"Mmm—yep, definitely feels bigger now—\""
     ],
     "15": [
-      "\\nl< >\"It hasn’t gotten bigger at all...  \\w[60]",
+      "\\nl< >\"It hasn't gotten bigger at all...  \\w[60]",
       "Also, \\str[121], where exactly are you touching!?\""
     ],
     "16": [
@@ -1630,17 +1663,17 @@
       "\\nl< >\"Are you fully awake now?\""
     ],
     "19": [
-      "\"Thanks to your punch, I’m wide awake now.\""
+      "\"Thanks to your punch, I'm wide awake now.\""
     ],
     "20": [
-      "\\nl< >\"Then, do you know what’s going on right now?\""
+      "\\nl< >\"Then, do you know what's going on right now?\""
     ],
     "21": [
       "\"I know—I just touched your butt、",
       "and it felt amazing———\"  \\w[60]\\^"
     ],
     "22": [
-      "\\nl< >\\{\"That’s not what I was asking!",
+      "\\nl< >\\{\"That's not what I was asking!",
       "You big dummy, \\str[121]!\""
     ],
     "23": [
@@ -1649,25 +1682,25 @@
     ],
     "24": [
       "And... I think I had a really important dream just now,",
-      "but I can’t remember what it was—"
+      "but I can't remember what it was—"
     ],
     "25": [
-      "Oh well, it’ll come back to me eventually.",
+      "Oh well, it'll come back to me eventually.",
       "Right now, I need to calm \\str[120] down first."
     ],
     "26": [
-      "\\nl< >\"That’s a relief. Were you having a nightmare? ",
+      "\\nl< >\"That's a relief. Were you having a nightmare? ",
       "You looked really distressed.\""
     ],
     "27": [
       "A nightmare, huh... I do feel like I just had something intense.",
       "The dull headache lingering now feels like a hangover,",
-      "and there’s still a bit of tear left at the corner of my eye..."
+      "and there's still a bit of tear left at the corner of my eye..."
     ],
     "28": [
-      "There’s this weird sense of discomfort in my body, ",
+      "There's this weird sense of discomfort in my body, ",
       "like I really experienced something,",
-      "and it’s slowly confirming the traces of that dream..."
+      "and it's slowly confirming the traces of that dream..."
     ],
     "29": [
       "\\nl< >\"Oh~? What did you dream about?\""
@@ -1684,21 +1717,21 @@
     ],
     "32": [
       "\\nl< >\"\\str[121] when he was little?",
-      "I wish I could’ve seen tiny \\str[121]~\""
+      "I wish I could've seen tiny \\str[121]~\""
     ],
     "33": [
       "\\nl< >\"Running around with a wooden sword,  \\w[60]",
-      "yelling, ‘I’m gonna be a hero one day!’  \\w[90]",
-      "That must’ve been super adorable!\""
+      "yelling, ‘I'm gonna be a hero one day!'  \\w[90]",
+      "That must've been super adorable!\""
     ],
     "34": [
       "No no no, whose embarrassing past are we bringing up here?",
       "If I had to see that now,",
-      "I’d probably cry and dig a hole to hide in."
+      "I'd probably cry and dig a hole to hide in."
     ],
     "35": [
       "\"Ah, speaking of which,",
-      "I think there’s some of Dad’s old gear stored in the basement.",
+      "I think there's some of Dad's old gear stored in the basement.",
       "I remember he used to be an adventurer for a while...\""
     ],
     "36": [
@@ -1706,17 +1739,17 @@
     ],
     "37": [
       "\"That guy did all sorts of dumb stuff when he was young—   \\w[60]",
-      "Alright, this is a good chance, let’s go find it!\""
+      "Alright, this is a good chance, let's go find it!\""
     ],
     "38": [
       "This was the room where Dad did all sorts of alchemy research,",
-      "but now it’s basically abandoned..."
+      "but now it's basically abandoned..."
     ],
     "39": [
       "\"Heave-ho!\""
     ],
     "40": [
-      "In the old basement that hasn’t been used in ages,",
+      "In the old basement that hasn't been used in ages,",
       "I looked around for anything useful."
     ],
     "41": [
@@ -1725,12 +1758,12 @@
       "This is——————!\""
     ],
     "42": [
-      "\"It’s Dad’s old gear!",
+      "\"It's Dad's old gear!",
       "Yes! It looks awesome!\""
     ],
     "43": [
       "\\nl< >\"Ah, um... \\w[60]",
-      "As long as you’re happy, \\str[121]...\""
+      "As long as you're happy, \\str[121]...\""
     ],
     "44": [
       "\"Look, dear sister! With this gear,",
@@ -1742,18 +1775,18 @@
     ],
     "46": [
       "I waved the dusty old gear around in excitement,",
-      "but \\str[120] didn’t seem all that interested."
+      "but \\str[120] didn't seem all that interested."
     ],
     "47": [
-      "Wow, I didn’t think I’d actually find a treasure...",
-      "But wait, wasn’t I forgetting something important?"
+      "Wow, I didn't think I'd actually find a treasure...",
+      "But wait, wasn't I forgetting something important?"
     ],
     "48": [
-      "Oh well, if I can’t remember, then it’s fine.",
+      "Oh well, if I can't remember, then it's fine.",
       "I just want to try this new gear out as soon as possible!"
     ],
     "49": [
-      "Since I couldn’t remember what happened in the dream,",
+      "Since I couldn't remember what happened in the dream,",
       "I just made something up."
     ],
     "50": [
@@ -1761,15 +1794,15 @@
       "I want some too!\""
     ],
     "51": [
-      "Ah, right—\\str[120]’s a total meat lover.",
+      "Ah, right—\\str[120]'s a total meat lover.",
       "All-you-can-eat steak must sound amazing to her."
     ],
     "52": [
-      "\"Then next time I’ll bring back more meat,",
-      "and we’ll have a big BBQ party together, okay?\""
+      "\"Then next time I'll bring back more meat,",
+      "and we'll have a big BBQ party together, okay?\""
     ],
     "53": [
-      "\\nl< >\"Yay! \\str[121], you’re the best!\""
+      "\\nl< >\"Yay! \\str[121], you're the best!\""
     ],
     "54": [
       "\\nl< >\"Filet~♪ Sirloin~♪    \\w[90]",
@@ -1778,12 +1811,12 @@
     "55": [
       "\\str[120] looked so happy, ",
       "she started singing a weird and off-key song.",
-      "Oh well, as long as she’s happy...",
+      "Oh well, as long as she's happy...",
       "I just hope we can actually make that promise happen soon..."
     ],
     "56": [
       "\\nl< >\"\\str[121]... are you really okay?  \\w[60]",
-      "You’re starting to forget things like an old man, you know?\""
+      "You're starting to forget things like an old man, you know?\""
     ],
     "57": [
       "Yeah... why is that?",
@@ -1791,7 +1824,7 @@
     ],
     "58": [
       "Hmm... whatever.",
-      "I’ll remember it eventually.",
+      "I'll remember it eventually.",
       "No need to stress over it now."
     ]
   },
@@ -1809,7 +1842,7 @@
     ],
     "3": [
       "Got rejected by \\str[120].",
-      "Well, I guess that’s only natural…"
+      "Well, I guess that's only natural…"
     ],
     "4": [
       "\\nl< >\"Yay, off to the bathroom~!\""
@@ -1822,7 +1855,7 @@
     ],
     "7": [
       "\\nl< >\"Hmm…\\w[80]If \\str[121] wants it that badly…\\w[90]",
-      "let’s go bathe together…\""
+      "let's go bathe together…\""
     ],
     "8": [
       "\\nl< >\"No! There's no way I'm bathing with you!\""
@@ -1833,18 +1866,18 @@
     ],
     "10": [
       "\\nl< >\"Ugh… \\str[121], ",
-      "you’re really acting like a little kid…\"\\w[150]"
+      "you're really acting like a little kid…\"\\w[150]"
     ],
     "11": [
       "\\nl< >\"Geez… \\str[121], you're such a handful…",
-      "Fine, I’ll go…\""
+      "Fine, I'll go…\""
     ],
     "12": [
       "Kept begging and finally convinced \\str[120]…!"
     ],
     "13": [
       "\\nl< >\\{\"No——Way——!!\\w[90]",
-      "If it’s \\str[121], you’re ",
+      "If it's \\str[121], you're ",
       "definitely thinking something pervy!\"\\}"
     ],
     "14": [
@@ -1858,7 +1891,7 @@
       "...Didn't I just take a bath not long ago?"
     ],
     "17": [
-      "Mmm... I guess it’s about time for a bath."
+      "Mmm... I guess it's about time for a bath."
     ],
     "18": [
       "Invite \\str[120]",
@@ -1880,7 +1913,7 @@
       "You should get some rest too, \\str[121]...\""
     ],
     "1": [
-      "\\nl< >\"It’s fine, it’s fine! ",
+      "\\nl< >\"It's fine, it's fine! ",
       "I was just about to sleep too!\""
     ],
     "2": [
@@ -1891,7 +1924,7 @@
       "Hmm, still got a few things I want to do."
     ],
     "4": [
-      "\\nl< >\"Yeah, it’s about time to rest.   \\w[120]",
+      "\\nl< >\"Yeah, it's about time to rest.   \\w[120]",
       "Good night, \\str[121].\""
     ],
     "5": [
@@ -1899,7 +1932,7 @@
       "Good night...\""
     ],
     "6": [
-      "\\nl< >\"Lately you’ve been going to bed so early, \\str[121]...     \\w[150]",
+      "\\nl< >\"Lately you've been going to bed so early, \\str[121]...     \\w[150]",
       "It feels a little lonely...\""
     ],
     "7": [
@@ -1922,24 +1955,24 @@
       "Chatted casually with \\str[120] about random things."
     ],
     "2": [
-      "\"I’ve got a new recipe idea today!\"",
-      "\"Your hair’s gotten longer.\"",
+      "\"I've got a new recipe idea today!\"",
+      "\"Your hair's gotten longer.\"",
       "\"I wonder what the weather will be like tomorrow…\"",
       "\"This game, huh…\"",
-      "\"I’ve heard about it before…\""
+      "\"I've heard about it before…\""
     ],
     "3": [
       "\"Leave it to me!\"           \\w[30]",
       "Brushy brushy—\\w[30]brushy brushy—\\w[30]brushy brushy—\\w[30]",
-      "I carefully brushed \\str[120]’s hair."
+      "I carefully brushed \\str[120]'s hair."
     ],
     "4": [
-      "\"You’re even cuter than yesterday!\"",
+      "\"You're even cuter than yesterday!\"",
       "I gave \\str[120] some very enthusiastic praise."
     ],
     "5": [
       "\"Good girl, good girl, good girl—!\"",
-      "I patted \\str[120]’s head over and over."
+      "I patted \\str[120]'s head over and over."
     ],
     "6": [
       "\"In the depths of the dungeon—\"",
@@ -1984,14 +2017,14 @@
   },
   "29": {
     "0": [
-      "\\nl< >\"\\str[121]… don’t bring up weird stuff right now…\""
+      "\\nl< >\"\\str[121]… don't bring up weird stuff right now…\""
     ],
     "1": [
       "\\str[120] mumbled with embarrassment,",
       "but the hazy look in her eyes seemed to suggest something else…"
     ],
     "2": [
-      "\\nl< >\"That’s interesting~\""
+      "\\nl< >\"That's interesting~\""
     ],
     "3": [
       "\\str[120] listened with interest—nice!"
@@ -2004,23 +2037,23 @@
     ],
     "6": [
       "\\str[120] looked a little bored… ",
-      "maybe the topic wasn’t interesting enough?"
+      "maybe the topic wasn't interesting enough?"
     ],
     "7": [
-      "\\nl< >\"That’s a pretty deep topic.\""
+      "\\nl< >\"That's a pretty deep topic.\""
     ],
     "8": [
-      "\\nl< >\"Um… \\str[121], let’s not talk about that anymore…\""
+      "\\nl< >\"Um… \\str[121], let's not talk about that anymore…\""
     ],
     "9": [
-      "\\str[120] doesn’t seem to like that topic—better ",
+      "\\str[120] doesn't seem to like that topic—better ",
       "be careful next time..."
     ],
     "10": [
       "\\nl< >\"\\str[121]… sorry, but please stop...\""
     ],
     "11": [
-      "Looks like \\str[120]’s getting a little upset…"
+      "Looks like \\str[120]'s getting a little upset…"
     ],
     "12": [
       "\\nl< >\"Hmm… I see…\""
@@ -2038,25 +2071,25 @@
       "\\nl< >\"Thanks for today, \\str[121].\""
     ],
     "17": [
-      "\\str[120]’s mood seems to have improved."
+      "\\str[120]'s mood seems to have improved."
     ],
     "18": [
       "\\nl< >\"Mm…\""
     ],
     "19": [
-      "\\str[120]’s reaction seems a little off…"
+      "\\str[120]'s reaction seems a little off…"
     ],
     "20": [
-      "\\nl< >\"\\str[121]… that’s enough already…\""
+      "\\nl< >\"\\str[121]… that's enough already…\""
     ],
     "21": [
-      "\\str[120]’s reaction wasn’t very good."
+      "\\str[120]'s reaction wasn't very good."
     ],
     "22": [
-      "\\nl< >\"You’re being annoying, \\str[121]!\""
+      "\\nl< >\"You're being annoying, \\str[121]!\""
     ],
     "23": [
-      "Got on \\str[120]’s bad side…"
+      "Got on \\str[120]'s bad side…"
     ],
     "24": [
       "\\nl< >\"\\str[121], you big dummy! Stop it already!\""
@@ -2076,17 +2109,17 @@
   },
   "30": {
     "0": [
-      "Mmm…not now…don’t touch…"
+      "Mmm…not now…don't touch…"
     ],
     "1": [
-      "\\nl< >\"Jeez, don’t touch me when my hair’s still wet…\"",
+      "\\nl< >\"Jeez, don't touch me when my hair's still wet…\"",
       "\\w[180]\\^"
     ],
     "2": [
       "My hair got all messy again...",
       "Hmm... what a strange feeling..",
       "Ehehe...",
-      "Your hand’s so warm, \\str[121]…",
+      "Your hand's so warm, \\str[121]…",
       null,
       "\\str[121]…",
       null,
@@ -2108,7 +2141,7 @@
       "\\w[120]\\^"
     ],
     "2": [
-      "\"That’s right! It’s the JoyStation V——     \\w[30]",
+      "\"That's right! It's the JoyStation V——     \\w[30]",
       "…Huh?        \\w[30]",
       "You already knew?\""
     ],
@@ -2129,19 +2162,19 @@
       "this is awesome!\""
     ],
     "7": [
-      "\\nl< >\"I’m so happy! ",
-      "You’re the best, \\str[121]! I love you!\""
+      "\\nl< >\"I'm so happy! ",
+      "You're the best, \\str[121]! I love you!\""
     ],
     "8": [
       "Oh well, I guess it turned out to be a surprise after all—",
-      "since \\str[120]’s this happy."
+      "since \\str[120]'s this happy."
     ],
     "9": [
-      "\\nl< >\"\\str[121], don’t just stand there!",
+      "\\nl< >\"\\str[121], don't just stand there!",
       "Come play with me!\""
     ],
     "10": [
-      "\"Oh, let’s play together!\""
+      "\"Oh, let's play together!\""
     ],
     "11": [
       "And so the two of us pulled an all-nighter gaming",
@@ -2153,7 +2186,7 @@
       "\\w[120]"
     ],
     "13": [
-      "Hm...? The console’s still on?",
+      "Hm...? The console's still on?",
       "Did I forget to power it off?"
     ],
     "14": [
@@ -2174,7 +2207,7 @@
     "19": [
       "\\str[120] quickly jumped back onto the bed ",
       "and buried her face in the pillow, completely still.",
-      "Looks like she’s fully committed to pretending she’s asleep…"
+      "Looks like she's fully committed to pretending she's asleep…"
     ],
     "20": [
       "Looking closely, I can see her body still trembling slightly.",
@@ -2185,7 +2218,7 @@
     ],
     "22": [
       "Looking at her plump, round butt snug in those fluffy shorts,",
-      "I couldn’t resist reaching out and giving it a gentle pat."
+      "I couldn't resist reaching out and giving it a gentle pat."
     ],
     "23": [
       "\\nl< >\"Sleeping... sleeping...\""
@@ -2194,11 +2227,11 @@
       "\\nl< >\"Guuuuhhhmmmmm...\""
     ],
     "25": [
-      "\\nl< >\"Can’t see me— \\str[121] can’t see me…\""
+      "\\nl< >\"Can't see me— \\str[121] can't see me…\""
     ],
     "26": [
       "...Never mind. As funny as her reaction was,",
-      "she’s starting to look kinda pitiful. ",
+      "she's starting to look kinda pitiful. ",
       "I should stop teasing her."
     ],
     "27": [
@@ -2216,7 +2249,7 @@
       "\"M-my stomach suddenly hurts so bad...\""
     ],
     "2": [
-      "\\nl< >\"\\str[121]? What’s wrong?\\w[40]",
+      "\\nl< >\"\\str[121]? What's wrong?\\w[40]",
       "I think I heard a weird noise from your stomach——\""
     ],
     "3": [
@@ -2233,9 +2266,9 @@
       "Even though we ate the exact same thing..."
     ],
     "6": [
-      "Well, it’s a relief she’s not going through",
+      "Well, it's a relief she's not going through",
       "the same thing...After all, ",
-      "there’s only one toilet in the house—",
+      "there's only one toilet in the house—",
       "  ",
       "if she got hit too, ",
       "this situation could turn into ",
@@ -2253,18 +2286,18 @@
       "Poor \\str[121]...\""
     ],
     "10": [
-      "\\nl< >\"…I’ll just head to the toilet.\""
+      "\\nl< >\"…I'll just head to the toilet.\""
     ],
     "11": [
       "\\str[120] went to the toilet…",
-      "I’ll just find something random to kill time."
+      "I'll just find something random to kill time."
     ],
     "12": [
       "——Come to think of it,",
       "I never managed to take care of C before, did I?"
     ],
     "13": [
-      "I’ve got a bad feeling, I can sense C’s presence.",
+      "I've got a bad feeling, I can sense C's presence.",
       "To protect \\str[120], should I go check on her…?"
     ],
     "14": [
@@ -2274,31 +2307,31 @@
     "15": [
       "Yeah… this is to protect \\str[120], ",
       "and also to bring C to justice…",
-      "It’s not like I’m trying to peek or anything…"
+      "It's not like I'm trying to peek or anything…"
     ],
     "16": [
       "…Forget it.",
-      "Going to peek with such a flimsy excuse really isn’t right."
+      "Going to peek with such a flimsy excuse really isn't right."
     ],
     "17": [
       "\\nl< >\"Mmm… nghh…\""
     ],
     "18": [
       "Huh? \\str[120] looks a little off,",
-      "her cheeks are bright red, and it seems like she’s enduring something…"
+      "her cheeks are bright red, and it seems like she's enduring something…"
     ],
     "19": [
-      "\"What’s wrong? Do you feel sick?\""
+      "\"What's wrong? Do you feel sick?\""
     ],
     "20": [
       "I reached out to touch her forehead. It was warmer than usual,",
-      "but it didn’t really feel like a fever—            \\w[30]\\^"
+      "but it didn't really feel like a fever—            \\w[30]\\^"
     ],
     "21": [
-      "\\nl< >\"Ah…!\\w[30]It’s nothing at all!\""
+      "\\nl< >\"Ah…!\\w[30]It's nothing at all!\""
     ],
     "22": [
-      "\\nl< >\"I…\\w[30] I…\\w[30] I’ll just go to the toilet…!\"",
+      "\\nl< >\"I…\\w[30] I…\\w[30] I'll just go to the toilet…!\"",
       "\\w[120]\\^"
     ],
     "23": [
@@ -2306,7 +2339,7 @@
       "Huh? Was she really just in a hurry to use the toilet?"
     ],
     "24": [
-      "What should I do… should I go see what’s going on with her?"
+      "What should I do… should I go see what's going on with her?"
     ],
     "25": [
       "Go Check",
@@ -2317,7 +2350,7 @@
     ],
     "27": [
       "…Forget it.",
-      "Going to peek with such a flimsy excuse really isn’t right."
+      "Going to peek with such a flimsy excuse really isn't right."
     ]
   },
   "40": {
@@ -2332,7 +2365,7 @@
       "\\nl< >\"Uuehh… \\str[121]…\""
     ],
     "3": [
-      "\"Don’t be scared… \\str[121]’s right here, ",
+      "\"Don't be scared… \\str[121]'s right here, ",
       "nothing to fear now.\""
     ],
     "4": [
@@ -2342,8 +2375,8 @@
     "5": [
       "When I asked at the end, ",
       "it seemed she had found a bug in the toilet.",
-      "Probably because the weather’s getting warmer… ",
-      "it’s about time to think of some pest control."
+      "Probably because the weather's getting warmer… ",
+      "it's about time to think of some pest control."
     ],
     "6": [
       "After we went back to the room together,",
@@ -2357,8 +2390,8 @@
       "she really seemed to have taken quite a shock…"
     ],
     "9": [
-      "This can’t go on…",
-      "I’ve got to find a way to deal with the bugs in the house."
+      "This can't go on…",
+      "I've got to find a way to deal with the bugs in the house."
     ]
   },
   "41": {
@@ -2400,7 +2433,7 @@
       "\\nl< >\"Enough already… I forgive you, \\str[121]…\""
     ],
     "9": [
-      "\\nl< >\"Don’t forget the promise you made to me.\""
+      "\\nl< >\"Don't forget the promise you made to me.\""
     ],
     "10": [
       "She still looked a bit sulky,",
@@ -2410,7 +2443,7 @@
       "\\nl< >\"\\str[121], you're a bully…\""
     ],
     "12": [
-      "\\nl< >\"I don’t want to talk to you anymore…\""
+      "\\nl< >\"I don't want to talk to you anymore…\""
     ],
     "13": [
       "She seems to have perked up a little."
@@ -2438,7 +2471,7 @@
       "\"Yeah, \\str[121] will say yes to anything!\""
     ],
     "21": [
-      "\\nl< >\"Don’t come home all beaten up tomorrow…\""
+      "\\nl< >\"Don't come home all beaten up tomorrow…\""
     ],
     "22": [
       "\\nl< >\"I want meat for dinner tomorrow…\""
@@ -2455,7 +2488,7 @@
   "42": {
     "0": [
       "\\nl< >\"Sleepyyy—\\w[90]",
-      "\\str[121], it’s really late... time for bed, okay?\""
+      "\\str[121], it's really late... time for bed, okay?\""
     ],
     "1": [
       "Yeah, it's this late already. ",
@@ -2470,7 +2503,7 @@
     ],
     "4": [
       "...Still kinda feel like doing a little more.",
-      "Guess I’ll hang in there a bit longer."
+      "Guess I'll hang in there a bit longer."
     ],
     "5": [
       "\\nl< >\\}\"Mmyaa—zzZ\"\\{"
@@ -2480,8 +2513,8 @@
       "……"
     ],
     "7": [
-      "Nope, \\str[120]’s already about to fall asleep.",
-      "That’s it for today—let’s go to bed."
+      "Nope, \\str[120]'s already about to fall asleep.",
+      "That's it for today—let's go to bed."
     ],
     "8": [
       "Gently picked up the already-sleeping \\str[120] ",
@@ -2496,7 +2529,7 @@
       "so hurry up and get out!\""
     ],
     "11": [
-      "\"But I’m not done ye—!\"\\w[60]\\^"
+      "\"But I'm not done ye—!\"\\w[60]\\^"
     ],
     "12": [
       "\\nl< >\"Go awayyy—go awayyy—\"\\w[60]\\^"
@@ -2507,13 +2540,13 @@
       "Hmm... I feel like drinking something..."
     ],
     "1": [
-      "But there’s no drink at home at all..."
+      "But there's no drink at home at all..."
     ],
     "2": [
       "Hmm... I feel like drinking something..."
     ],
     "3": [
-      "Guess I don’t really feel like ",
+      "Guess I don't really feel like ",
       "drinking it that much anymore..."
     ],
     "4": [
@@ -2523,7 +2556,7 @@
       "\\nl< >\"Whatever! \\str[121] can drink whatever he likes!\""
     ],
     "6": [
-      "\\nl< >\"Ohh! Yes, yes, I’ll drink!\""
+      "\\nl< >\"Ohh! Yes, yes, I'll drink!\""
     ],
     "7": [
       "\\nl< >\"Mm, thanks for the hard work, \\str[121].\""
@@ -2549,10 +2582,10 @@
     ],
     "13": [
       "\"There's still some snacks today!",
-      "It’s\\ii[\\v[90]], want to try some?\""
+      "It's\\ii[\\v[90]], want to try some?\""
     ],
     "14": [
-      "\\nl< >\"Yes, I’ll eat... snacks are innocent.\""
+      "\\nl< >\"Yes, I'll eat... snacks are innocent.\""
     ],
     "15": [
       "\\nl< >\"Eh? ",
@@ -2586,18 +2619,18 @@
       "in the forest...?\""
     ],
     "24": [
-      "\"It’s strange, right? But after I put in a coin, ",
+      "\"It's strange, right? But after I put in a coin, ",
       "it gave me a drink like normal, ",
       "and the expiration date is pretty new.\""
     ],
     "25": [
-      "\"It’s strange, right? ",
+      "\"It's strange, right? ",
       "but it did give out a drink, ",
       "and the expiration date is quite new.\""
     ],
     "26": [
       "But I accidentally broke the machine,",
-      "I wonder if someone’s going to come after me ",
+      "I wonder if someone's going to come after me ",
       "for compensation...",
       "Now that I think about it, this feels kinda bad..."
     ],
@@ -2626,24 +2659,24 @@
     ],
     "33": [
       "What if...",
-      "it doesn’t actually work on her? Or worse, ",
+      "it doesn't actually work on her? Or worse, ",
       "what if it makes her condition even worse...?  \\w[60]",
-      "Father’s research should be sound, but still…!"
+      "Father's research should be sound, but still…!"
     ],
     "34": [
-      "\\nl< >\"\\str[121]? What’s wrong?  \\w[45] ",
-      "You’re shaking...\""
+      "\\nl< >\"\\str[121]? What's wrong?  \\w[45] ",
+      "You're shaking...\""
     ],
     "35": [
-      "\"…Ah, it’s nothing.\""
+      "\"…Ah, it's nothing.\""
     ],
     "36": [
       "I made her worry.   \\w[45]",
-      "But I still couldn’t bring myself to decide ",
+      "But I still couldn't bring myself to decide ",
       "whether to let her drink it or not—"
     ],
     "37": [
-      "\\nl< >\"That’s the medicine you’ve been looking for ",
+      "\\nl< >\"That's the medicine you've been looking for ",
       "all this time, right?   \\w[90]",
       "Are you worried about me, \\str[121]?\""
     ],
@@ -2652,8 +2685,8 @@
       "I was using to hold the Elixir Rubrum."
     ],
     "39": [
-      "\\nl< >\"\\str[121], you’ve been working so hard for me.  \\w[90]",
-      "That’s why I want to try my best for you too...\""
+      "\\nl< >\"\\str[121], you've been working so hard for me.  \\w[90]",
+      "That's why I want to try my best for you too...\""
     ],
     "40": [
       "\\nl< >\"So, let me try this medicine.\""
@@ -2663,7 +2696,7 @@
     ],
     "42": [
       "\"…If something feels off, ",
-      "promise me you’ll spit it out, okay?\""
+      "promise me you'll spit it out, okay?\""
     ],
     "43": [
       "There was no point in running away now.",
@@ -2685,7 +2718,7 @@
       "\"Does it… taste weird!?\""
     ],
     "48": [
-      "\\nl< >\"It’s delicious! Sweet and tangy, ",
+      "\\nl< >\"It's delicious! Sweet and tangy, ",
       "I feel like I could drink another glass~!\""
     ],
     "49": [
@@ -2726,9 +2759,9 @@
     ],
     "59": [
       "In any case, ",
-      "\\str[120]’s mental state really has been improving gradually ",
+      "\\str[120]'s mental state really has been improving gradually ",
       "after taking the medicine, and that alone is enough to prove ",
-      "that Father’s experiment wasn’t a mistake. ",
+      "that Father's experiment wasn't a mistake. ",
       "If things keep going like this, ",
       "as long as I can get another four or five bottles of Elixir Rubrum,",
       "maybe \\str[120] really can recover enough to go outside again!"
@@ -2736,18 +2769,18 @@
   },
   "51": {
     "0": [
-      "\\nl< >\"I’m back…\""
+      "\\nl< >\"I'm back…\""
     ],
     "1": [
-      "\\str[120] cheeks are flushed, and there’s a faint, ",
+      "\\str[120] cheeks are flushed, and there's a faint, ",
       "sweet scent coming from her body, this is…"
     ],
     "2": [
-      "\"What’s wrong? You were in such a hurry just now—\""
+      "\"What's wrong? You were in such a hurry just now—\""
     ],
     "3": [
-      "\\nl< >\"N-no, it’s nothing…!     \\w[90]",
-      "It’s just that the milk tasted weird and made me ",
+      "\\nl< >\"N-no, it's nothing…!     \\w[90]",
+      "It's just that the milk tasted weird and made me ",
       "feel like I had to rush to the toilet…!\""
     ],
     "4": [
@@ -2759,37 +2792,37 @@
   "53": {
     "0": [
       "\\nl< >\"\\str[121], ",
-      "don’t bring up weird topics right now...\""
+      "don't bring up weird topics right now...\""
     ],
     "1": [
       "With a cheerful smile, ",
-      "I asked \\str[120] what kind of panties she’s wearing now."
+      "I asked \\str[120] what kind of panties she's wearing now."
     ],
     "2": [
       "\\nl< >\"Mm... \\str[121],",
       "do you really want to know that much?\""
     ],
     "3": [
-      "\\str[120] didn’t seem too resistant,",
+      "\\str[120] didn't seem too resistant,",
       "is this a chance?"
     ],
     "4": [
-      "\\nl< >\"What’s wrong, \\str[121]? ",
+      "\\nl< >\"What's wrong, \\str[121]? ",
       "Asking such a weird question...\""
     ],
     "5": [
-      "\"Ah... uh... it’s nothing...\""
+      "\"Ah... uh... it's nothing...\""
     ],
     "6": [
-      "Seeing \\str[120]’s innocent expression, ",
+      "Seeing \\str[120]'s innocent expression, ",
       "I turned my head away in shame."
     ],
     "7": [
       "Unwilling to give up, I pressed \\str[120] again about ",
-      "the kind of panties she’s wearing now."
+      "the kind of panties she's wearing now."
     ],
     "8": [
-      "\\nl< >\"Geez, I really can’t say no to you...\""
+      "\\nl< >\"Geez, I really can't say no to you...\""
     ],
     "9": [
       "\\nl< >\\}\"I'm not wearing anything at all...\""
@@ -2821,14 +2854,14 @@
     "17": [
       "Summoning all my courage, ",
       "I asked \\str[120] one last time what kind of panties ",
-      "she’s wearing now."
+      "she's wearing now."
     ],
     "18": [
-      "\\nl< >\"\\str[121] already knows, doesn’t? ",
-      "I’m not telling you again!\""
+      "\\nl< >\"\\str[121] already knows, doesn't? ",
+      "I'm not telling you again!\""
     ],
     "19": [
-      "\\nl< >\"Geez, \\str[121], you’re so annoying!\""
+      "\\nl< >\"Geez, \\str[121], you're so annoying!\""
     ],
     "20": [
       "I ended up making her angry..."
