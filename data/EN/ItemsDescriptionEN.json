@@ -3204,6 +3204,31 @@
     "description": "",
     "ability": ""
   },
+  "435": {
+    "name": [
+      "Peeping at \\str[120] Bathing"
+    ],
+    "description": [
+      ""
+    ],
+    "subtitle": [
+      "Staking all my ninja skills! ",
+      "The sight before me right now IS MY NINJA WAY, RAAAAAAGH—!"
+    ],
+    "ability": ""
+  },
+  "436": {
+    "name": [
+      "Become Hentai for \\str[120]!"
+    ],
+    "subtitle": [
+      "'My dear \\str[120], you wouldn't want \\str[121] to keep suffering like this, right?'",
+      "Even though he was caught red-handed peeping at \\str[120], ",
+      "\\str[121] somehow became self-righteous out of nowhere,",
+      "and coaxed the shy \\str[120] step by step with his dick—"
+    ],
+    "ability": ""
+  },
   "480": {
     "name": [
       "The Power of Prayer"
