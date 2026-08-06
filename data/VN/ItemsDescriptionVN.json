@@ -9,9 +9,9 @@
             "Nhưng mà... cửa hàng của NLCH ở đâu nhỉ?"
         ],
         "ability": [
-		    "Có thể bỏ vào máy gacha không bị hư để kích hoạt lượt quay",
-			"Luôn cho 11 lượt quay với ít nhất một quả bóng vàng"
-		]
+            "Có thể bỏ vào máy gacha không bị hư để kích hoạt lượt quay",
+            "Luôn cho 11 lượt quay với ít nhất một quả bóng vàng"
+        ]
     },
     "2": {
         "name": [
@@ -19,8 +19,8 @@
         ],
         "beIndependent": true,
         "subtitle": [
-		    "\"Được viết bởi RORO, bắt đầu vào ngày 01/10/2024\""
-		],
+            "\"Được viết bởi RORO, bắt đầu vào ngày 01/10/2024\""
+        ],
         "description": [
             "Ban đầu chỉ là một cuốn nhật ký đơn giản của một nhà thám hiểm tên RORO,",
             "theo thời gian, nhiều người khác thấy thú vị nên cũng tham gia và ghi chú thêm,",
@@ -28,8 +28,8 @@
             "'Cách vào hầm ngục' cho đến 'Ăn gì cho bữa tối' — được ra đời."
         ],
         "ability": [
-		    "Cho phép bạn xem hướng dẫn trong game"
-		]
+            "Cho phép bạn xem hướng dẫn trong game"
+        ]
     },
     "3": {
         "name": [
@@ -129,7 +129,7 @@
             "Đến cả máy gacha cũng phải mỉm cười trước giá trị này—"
         ],
         "ability": ""
-    },	
+    },
     "11": {
         "name": [
             "50000 Yên"
@@ -143,7 +143,7 @@
             "chỉ để trải nghiệm cái thứ gọi là 'mua sắm' này"
         ],
         "ability": ""
-    },	
+    },
     "12": {
         "name": [
             "100000 Yên"
@@ -165,7 +165,7 @@
         "subtitle": "",
         "description": [
             "Một tấm bản đồ được các Thỏ Hầu Gái sử dụng, vẫn còn dính vụn cà rốt.",
-			"Chúng đào những Hố Thỏ và di chuyển khắp nơi—gần như một đội shipper thực thụ.",
+            "Chúng đào những Hố Thỏ và di chuyển khắp nơi—gần như một đội shipper thực thụ.",
             "Kể từ khi người lãnh đạo quỷ quyệt và sắc sảo xuất hiện cách đây mười năm,",
             "bầy thỏ đã chiếm lĩnh Vực Sâu và bắt đầu giao thương với quái vật."
         ],
@@ -219,12 +219,11 @@
             "một số lượng lớn các mạo hiểm giả và những trải nghiệm của họ.",
             "Đầy ắp những quái vật và màn chơi tàn bạo đến khó tin,",
             "nhưng người chơi vẫn ùn ùn kéo đến…"
-
         ],
         "ability": [
             ""
         ]
-    },	
+    },
     "17": {
         "name": [
             "Ahoge Của \\str[120]"
@@ -247,7 +246,6 @@
             "Một món đồ chơi vịt cao su không rõ vì sao bị bỏ lại đơn độc trong lòng kênh.",
             "Có lẽ vì một cơn đồng cảm bất chợt, nó đã được nhặt lên.",
             "\\str[120] chắc hẳn sẽ thích nó…"
-
         ],
         "ability": [
             ""
@@ -262,7 +260,6 @@
         "description": [
             "Một chiếc quạt điện nhỏ với mẫu mã lỗi thời và luồng gió khá yếu.",
             "Nhưng so với nó, việc sử dụng ma pháp làm mát còn tốn kém hơn nhiều…"
-
         ],
         "ability": [
             ""
@@ -275,7 +272,7 @@
         "subtitle": [
             "\"Đây là sức mạnh kiên cường nhất trong tất cả các loại ý chí,",
             "  vững chắc và xuyên thấu qua mọi điều tinh vi\""
-		],
+        ],
         "description": [
             "Ngay cả một mảnh nhỏ cũng chứa sức mạnh to lớn—"
         ],
@@ -299,17 +296,17 @@
             "Sau khi sử dụng mã gian lận, bạn sẽ nhận danh hiệu 'ZAKO'.",
             "Bạn có thể bật/tắt hiệu ứng easter egg của danh hiệu này trong menu Cài đặt.",
             "Việc này sẽ không ảnh hưởng tiêu cực đến chỉ số, tiến trình cốt truyện hoặc kết game.",
-            "", 
+            "",
             "<<Danh Sách Mã Gian Lận>>",
             ""
         ],
         "notUnlocked": [
-            "Bạn vẫn chưa mở khoá mã gian lận, có lẽ Hiệp Sĩ Kỳ Lạ kia có thể cho bạn manh mối!"  
+            "Bạn vẫn chưa mở khoá mã gian lận, có lẽ Hiệp Sĩ Kỳ Lạ kia có thể cho bạn manh mối!"
         ],
         "yes1mh0rny": [
             "< yes1mh0rny >",
             "Mở khóa các hồi tưởng ký ức của ${Object.keys(RecallStage.stageSetupMap).length} Sự kiện H (có thể được kích hoạt trong phòng của \\str[120])."
-    ],  
+        ],
         "hard2k1ll": [
             "< hard2k1ll >",
             "Nhận trang bị gian lận 'Đôi Cánh Pha Lê Của Nữ Hoàng Tiên'.",
@@ -345,20 +342,20 @@
         ]
     },
     "22": {
-    "name": [
+        "name": [
             "Bộ vật phẩm Mùa Hè"
         ],
-    "subtitle": [
+        "subtitle": [
             "\"Biển cả, Anh & Em\""
         ],
-    "beIndependent": true,
-    "description": [
+        "beIndependent": true,
+        "description": [
             "Một bộ sản phẩm hợp tác phiên bản mùa hè của tựa game Shadow Souls",
             "Thiết kế của nó được cho là lấy cảm hứng từ một trong những sự kiện mùa hè",
             "kinh điển được yêu thích của game. Nhưng... khoan đã, tại sao một game hành động",
             "lại có hẳn một tuyến tình cảm được đầu tư bài bản đến vậy?"
         ],
-    "ability": [
+        "ability": [
             "Có thể kích hoạt sự kiện liên quan khi trở về nhà trong thời tiết nắng nóng"
         ]
     },
@@ -367,8 +364,8 @@
             "Sữa Ngon Cực Kỳ"
         ],
         "subtitle": [
-            "\"Tài trợ bởi: NLCH\""		
-		],
+            "\"Tài trợ bởi: NLCH\""
+        ],
         "description": [
             "Một loại đồ uống từ máy bán hàng kỳ lạ. Bỏ qua hương vị,",
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
@@ -382,8 +379,8 @@
             "Sữa Cà Rốt"
         ],
         "subtitle": [
-            "\"Tài trợ bởi: NLCH\""		
-		],
+            "\"Tài trợ bởi: NLCH\""
+        ],
         "description": [
             "Một loại đồ uống từ máy bán hàng kỳ lạ. Bỏ qua hương vị,",
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
@@ -397,8 +394,8 @@
             "Sữa Dâu"
         ],
         "subtitle": [
-            "\"Tài trợ bởi: NLCH\""		
-		],
+            "\"Tài trợ bởi: NLCH\""
+        ],
         "description": [
             "Một loại đồ uống từ máy bán hàng kỳ lạ. Bỏ qua hương vị,",
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
@@ -412,8 +409,8 @@
             "Sữa Dưa Lưới"
         ],
         "subtitle": [
-            "\"Tài trợ bởi: NLCH\""		
-		],
+            "\"Tài trợ bởi: NLCH\""
+        ],
         "description": [
             "Một loại đồ uống từ máy bán hàng kỳ lạ. Bỏ qua hương vị,",
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
@@ -427,8 +424,8 @@
             "Sữa Chuối"
         ],
         "subtitle": [
-            "\"Tài trợ bởi: NLCH\""		
-		],
+            "\"Tài trợ bởi: NLCH\""
+        ],
         "description": [
             "Một loại đồ uống từ máy bán hàng kỳ lạ. Bỏ qua hương vị,",
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
@@ -442,8 +439,8 @@
             "Kẹo Konpeito Hồng"
         ],
         "subtitle": [
-            "\"Fufufu... Tốt nhất là đừng nên biết thành phần~♥\""		
-		],
+            "\"Fufufu... Tốt nhất là đừng nên biết thành phần~♥\""
+        ],
         "description": [
             "Kẹo Konpeitō thủ công được Ác Ma chế tác tinh xảo",
             "Tỏa ra mùi đào khiến chỉ cần ngửi thôi cũng cảm thấy chóng mặt..."
@@ -457,8 +454,8 @@
             "Kẹo Konpeito Xanh"
         ],
         "subtitle": [
-            "\"Fufufu... Tốt nhất là đừng nên biết thành phần~♥\""	
-		],
+            "\"Fufufu... Tốt nhất là đừng nên biết thành phần~♥\""
+        ],
         "description": [
             "Kẹo Konpeitō thủ công được Ác Ma chế tác tinh xảo",
             "Tỏa ra mùi việt quất khiến chỉ cần ngửi thôi cũng cảm thấy bình tĩnh..."
@@ -472,8 +469,8 @@
             "Kẹo Konpeito Xanh Lá"
         ],
         "subtitle": [
-            "\"Fufufu... Tốt nhất là đừng nên biết thành phần~♥\""		
-		],
+            "\"Fufufu... Tốt nhất là đừng nên biết thành phần~♥\""
+        ],
         "description": [
             "Kẹo Konpeitō thủ công được Ác Ma chế tác tinh xảo",
             "Tỏa ra mùi dưa lưới khiến chỉ cần ngửi thôi cũng cảm thấy phấn chấn..."
@@ -503,8 +500,8 @@
             "Cola(L) NLCH"
         ],
         "subtitle": [
-            "\"Tài trợ bởi: NLCH\""		
-		],
+            "\"Tài trợ bởi: NLCH\""
+        ],
         "description": [
             "Một loại đồ uống từ máy bán hàng kỳ lạ. Bỏ qua hương vị,",
             "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
@@ -550,8 +547,8 @@
             "Phù văn Ansuz"
         ],
         "subtitle": [
-            "\"Sức mạnh Khải Huyền\""		
-		],
+            "\"Sức mạnh Khải Huyền\""
+        ],
         "description": [
             "Một hòn đá khắc ký tự ma thuật, được thiết kế để ngay cả những người mới",
             "không có kiến thức về ma thuật cũng có thể dễ dàng kích hoạt nó."
@@ -710,7 +707,7 @@
         "ability": [
             "Khi sử dụng, nhận một hiệu ứng có lợi hoặc bất lợi ngẫu nhiên"
         ]
-    },	
+    },
     "57": {
         "name": [
             "Công Lý"
@@ -783,7 +780,7 @@
             "Thiết kế sao cho ngay cả người mới cũng có thể dễ dàng kích hoạt hiệu ứng"
         ],
         "ability": [
-			"Triệu hồi Cửa Thiên Tinh gần người chơi để trở về điểm xuất phát"
+            "Triệu hồi Cửa Thiên Tinh gần người chơi để trở về điểm xuất phát"
         ]
     },
     "65": {
@@ -873,7 +870,7 @@
             "Đặt một bẫy gấu dưới chân bạn",
             "Sẽ kích hoạt bất cứ khi nào có sinh vật không biết bay đi ngang qua nó"
         ]
-    },  
+    },
     "75": {
         "name": [
             "Đồng Hồ Phong Ấn"
@@ -920,8 +917,8 @@
         "name": [
             "Cuộn Phép Phong Ấn"
         ],
-        "beIndependent": true,		
-        "subtitle": "",		
+        "beIndependent": true,
+        "subtitle": "",
         "description": [
             "Một bí cụ chỉ được truyền lại trong giới ninja",
             "Kích hoạt Chú Ấn sẽ mở ra một khe nứt không gian, phong ấn vật phẩm vào bên trong",
@@ -1527,9 +1524,9 @@
         ],
         "description": [
             "Một dạng lưu trữ đặc biệt chứa hình ảnh của một thời đại xa xưa, chỉ có thể",
-			"phát bằng những thiết bị chuyên dụng. Có giả thuyết cho rằng đây là sản phẩm",
-			"giả kim của một nền văn minh cổ xưa, dù chưa có bằng chứng xác thực.",
-			"Độ hiếm của nó khiến giới sưu tầm khao khát săn tìm"
+            "phát bằng những thiết bị chuyên dụng. Có giả thuyết cho rằng đây là sản phẩm",
+            "giả kim của một nền văn minh cổ xưa, dù chưa có bằng chứng xác thực.",
+            "Độ hiếm của nó khiến giới sưu tầm khao khát săn tìm"
         ],
         "ability": [
             ""
@@ -1545,9 +1542,9 @@
         ],
         "description": [
             "Một dạng lưu trữ đặc biệt chứa hình ảnh của một thời đại xa xưa, chỉ có thể",
-			"phát bằng những thiết bị chuyên dụng. Có giả thuyết cho rằng đây là sản phẩm",
-			"giả kim của một nền văn minh cổ xưa, dù chưa có bằng chứng xác thực.",
-			"Nó dường như còn bị nguyền rủa — cảnh quay bên trong lúc nào cũng",
+            "phát bằng những thiết bị chuyên dụng. Có giả thuyết cho rằng đây là sản phẩm",
+            "giả kim của một nền văn minh cổ xưa, dù chưa có bằng chứng xác thực.",
+            "Nó dường như còn bị nguyền rủa — cảnh quay bên trong lúc nào cũng",
             "mang vẻ rợn người đến bất thường."
         ],
         "ability": [
@@ -1564,9 +1561,9 @@
         ],
         "description": [
             "Một dạng lưu trữ đặc biệt chứa hình ảnh của một thời đại xa xưa, chỉ có thể",
-			"phát bằng những thiết bị chuyên dụng. Có giả thuyết cho rằng đây là sản phẩm",
-			"giả kim của một nền văn minh cổ xưa, dù chưa có bằng chứng xác thực.",
-			"Có vẻ là loại nội dung bị hạn chế, chứa đầy những cảnh quay",
+            "phát bằng những thiết bị chuyên dụng. Có giả thuyết cho rằng đây là sản phẩm",
+            "giả kim của một nền văn minh cổ xưa, dù chưa có bằng chứng xác thực.",
+            "Có vẻ là loại nội dung bị hạn chế, chứa đầy những cảnh quay",
             "mang tính kích thích và gợi dục."
         ],
         "ability": [
@@ -1576,53 +1573,53 @@
     "190": {
         "name": [
             "Doujinshi Yuri"
-		],
+        ],
         "beIndependent": true,
-		"subtitle": [
-		    "\"Onee-chan... em cảm thấy... em không thể sống thiếu chị được nữa...\""
-		],
+        "subtitle": [
+            "\"Onee-chan... em cảm thấy... em không thể sống thiếu chị được nữa...\""
+        ],
         "description": [
             "Một doujinshi với tranh vẽ đẹp mắt. Nhưng nó mô tả một tình yêu",
-			"cấm kị giữa hai cô gái xinh đẹp... Câu chuyện nóng bỏng đến mức ",
-			"cả trang sách cũng tỏa ra hương thơm nhẹ nhàng."
-		],
+            "cấm kị giữa hai cô gái xinh đẹp... Câu chuyện nóng bỏng đến mức ",
+            "cả trang sách cũng tỏa ra hương thơm nhẹ nhàng."
+        ],
         "ability": [
             "Tăng ham muốn sau khi đọc!"
-		]	
+        ]
     },
     "191": {
         "name": [
             "Doujinshi Moe"
-		],
+        ],
         "beIndependent": true,
-		"subtitle": [
-		    "\"Moe moe kyun~♡\""
-		],
+        "subtitle": [
+            "\"Moe moe kyun~♡\""
+        ],
         "description": [
             "Một doujinshi tràn ngập bong bóng màu hồng và hiệu ứng hình trái tim.",
-			"Nhân vật đỏ mặt và bối rối vì những chuyện nhỏ nhặt...",
-			"Người ta nói bạn có thể sẽ thở dài \"thật moe~\" sau khi đọc."
-		],
+            "Nhân vật đỏ mặt và bối rối vì những chuyện nhỏ nhặt...",
+            "Người ta nói bạn có thể sẽ thở dài \"thật moe~\" sau khi đọc."
+        ],
         "ability": [
             "Tăng ham muốn sau khi đọc!"
-		]	
+        ]
     },
     "192": {
         "name": [
             "Doujinshi Gái Mèo"
-		],
+        ],
         "beIndependent": true,
-		"subtitle": [
-		    "\"Chủ nhân... nya~ xoa đầu em được không?\""
-		],
+        "subtitle": [
+            "\"Chủ nhân... nya~ xoa đầu em được không?\""
+        ],
         "description": [
             "Một doujinshi thoang thoảng mùi cỏ mèo.",
-			"Miêu tả các cô gái mèo kêu rừ rừ, lăn lộn và vẫy đuôi.",
-			"Có thể khiến bạn cân nhắc việc tìm một cô vợ biết nói 'nyan'..."
-		],
+            "Miêu tả các cô gái mèo kêu rừ rừ, lăn lộn và vẫy đuôi.",
+            "Có thể khiến bạn cân nhắc việc tìm một cô vợ biết nói 'nyan'..."
+        ],
         "ability": [
             "Tăng ham muốn sau khi đọc!"
-		]	
+        ]
     },
     "193": {
         "name": [
@@ -1631,14 +1628,14 @@
         "beIndependent": true,
         "subtitle": [
             "\"Ara ara~ Em thật sự rất tò mò không biết Onii-san muốn dùng thứ này vào đâu đấy~~\""
-        ], 
+        ],
         "description": [
             "Một món đồ chơi tình dục được chế tác sau khi giao nguyên liệu quái vật cho ",
             "một Đại Ác Ma nào đó. Nghe nói nó sẽ tự động co bóp và chuyển động dựa trên",
             "mức độ ham muốn của người sử dụng... Nhưng tại sao lại chế ra thứ này chứ—",
             "ĐÁNG LẼ NGƯỜI ĐƯỢC LÀM CHUYỆN ĐÓ PHẢI LÀ MÌNH...!!"
         ],
-        "productSubtitle":[
+        "productSubtitle": [
             ""
         ],
         "productDescription": [
@@ -1646,7 +1643,7 @@
             "Thành thật mà nói... mình cũng hơi tò mò không biết phải sử dụng nó như thế nào...",
             "K-không, quan trọng hơn, có một chuyện mà mình đã muốn nói từ nãy đến giờ—",
             "Đừng nói với tôi là những cái kệ phía sau đều chất đầy những thứ như thế này nhé!?"
-    ],        
+        ],
         "ability": ""
     },
     "196": {
@@ -1702,12 +1699,12 @@
         ],
         "subtitle": [
             "\"Trên phiếu thưởng chi chít những nét vẽ nguệch ngoạc...\""
-		],
+        ],
         "description": [
             "Một tấm phiếu thưởng do \\str[120] tự tay vẽ. \\str[121] có thể tìm kiếm sự  ",
             "chiều chuộng từ \\str[120] dù yêu cầu có ích kỷ đến đâu, em ấy cũng sẽ chấp nhận.",
             "Dù vậy, \\str[120] vẫn luôn muốn làm điều gì đó giúp đỡ ",
-			"\\str[121], dù có tấm phiếu này hay không—"
+            "\\str[121], dù có tấm phiếu này hay không—"
         ],
         "ability": ""
     },
@@ -2186,8 +2183,8 @@
             "của các cô gái. Mở ra thoang thoảng hương trà đen..."
         ],
         "ability": [
-		    "Polaroid đã sưu tầm: \\c[6]${QJ.MPMZ.tl.checkPolaroidCount()}\\c[0]/35"
-		]
+            "Polaroid đã sưu tầm: \\c[6]${QJ.MPMZ.tl.checkPolaroidCount()}\\c[0]/35"
+        ]
     },
     "236": {
         "name": [
@@ -2202,8 +2199,8 @@
             " của các cô gái. Mở ra thoang thoảng hương trà đen..."
         ],
         "ability": [
-		    "Bộ sưu tập đã hoàn chỉnh! Vận may tăng vĩnh viễn!"
-		]
+            "Bộ sưu tập đã hoàn chỉnh! Vận may tăng vĩnh viễn!"
+        ]
     },
     "240": {
         "name": [
@@ -2218,7 +2215,7 @@
         "ability": [
             ""
         ]
-    },  
+    },
     "241": {
         "name": [
             "Bánh táo"
@@ -2496,7 +2493,7 @@
             ""
         ],
         "ability": [
-        ""
+            ""
         ]
     },
     "261": {
@@ -3095,6 +3092,18 @@
         ],
         "ability": ""
     },
+    "326": {
+        "name": [
+            "Dưa Hấu Ướp Lạnh"
+        ],
+        "subtitle": "",
+        "description": [
+            "Dưa hấu tươi mát vừa lấy ra từ tủ lạnh, được cắt thành từng miếng vừa ăn",
+            "Mát lạnh, ngọt thanh, mọng nước và sảng khoái—",
+            "Món ăn hoàn hảo để xua tan cái nóng mùa hè!"
+        ],
+        "ability": ""
+    },
     "410": {
         "name": [
             "Đề nghị của Hiệp sĩ"
@@ -3191,6 +3200,46 @@
             "\\str[121] quyết định dựng dương vật lên và nghiêm khắc 'chỉnh đốn' em ấy—"
         ],
         "description": "",
+        "ability": ""
+    },
+    "434": {
+        "name": [
+            "Xem Phim Kinh Dị Cùng Với \\str[120]"
+        ],
+        "subtitle": [
+            "\\str[121] rủ \\str[120] cùng xem phim, với người chưa từng thức khuya bao giờ",
+            "thì đây là một trải nghiệm mới lạ, tôi mở cuộn băng video bí ẩn mà mình mới mua—",
+            "Ai ngờ đâu đó lại là một bộ phim kinh dị! Bị những cảnh tượng đáng sợ dọa cho khiếp vía.",
+            "\\str[120] bám chặt lấy \\str[121], trong lúc cố gắng xoa dịu nỗi bất an của em ấy thì",
+            "bầu không khí giữa họ bỗng nhiên dần trở nên nóng bỏng và đầy sự gần gũi..."
+        ],
+        "description": "",
+        "ability": ""
+    },
+    "435": {
+        "name": [
+            "Lén nhìn \\str[120] tắm"
+        ],
+        "description": [
+            ""
+        ],
+        "subtitle": [
+            "Đặt cược toàn bộ vào kỹ năng ninja của mình! ",
+            "Cảnh tượng trước mắt lúc này—",
+            "CHÍNH LÀ CON ĐƯỜNG NINJA CỦA TA, RAAAAAAGH—!"
+        ],
+        "ability": ""
+    },
+    "436": {
+        "name": [
+            "Trở thành kẻ biến thái vì \\str[120]!"
+        ],
+        "subtitle": [
+            "'\\str[120] thân yêu à, em cũng không muốn \\str[121] cứ phải chịu đựng",
+            "như thế này mãi đâu đúng không?' Mặc dù bị bắt quả tang đang lén nhìn \\str[120] tắm",
+            "\\str[121] chẳng hiểu sao lại đột nhiên tỏ ra đầy chính nghĩa,",
+            "rồi từng bước dụ dỗ \\str[120] đang ngượng ngùng bằng chính 'cây hàng' của mình"
+        ],
         "ability": ""
     },
     "480": {
