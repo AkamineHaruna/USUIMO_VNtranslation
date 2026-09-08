@@ -94,8 +94,9 @@
     "into the abyss, is now unknown..."
   ],
   "16": [
-    "\\fr\\fs[28]\\c[114]Grand Labyrinth",
-    "\\fr\\{\\i[16]400 \\fr",
+    "\\fr\\fs[28]Grand Labyrinth",
+    "\\HSEP",
+    "\\fr\\fs[32]\\i[16]400 \\fr",
     "✦Legend has it that the corridor, ",
     "abandoned by the gods, stretches infinitely here.",
     "Beneath the collapsed dome and twisting ancient ",
@@ -119,7 +120,10 @@
     "objectName": "LV1 Fridge",
     "objectDescription": [
       "A large fridge with plenty of room for fresh ingredients",
-      "The door shelves belong to \\str[120], reserved exclusively for her favorite drinks"
+      "The door shelves belong to \\str[120], ",
+      "reserved exclusively for her favorite drinks",
+      "Every day brings the adorable sight of her sneaking over ",
+      "to hunt for a cold drink"
     ],
     "allDrinksCollected": [
       "Every flavor is stocked! Enough to keep \\str[120] happy for quite a while!"
