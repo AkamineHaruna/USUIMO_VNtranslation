@@ -82,8 +82,9 @@
 		"và luôn giữ nó bên mình."
 	],
 	"15": [
-		"\\fr\\fs[20]\\c[10]Ma Pháp Trận Thất Lạc",
-		"\\fs[22]\\i[16]???\\fr",
+		"\\fr\\fs[28]Đại Mê Cung",
+		"\\HSEP",
+		"\\fr\\fs[32]\\i[16]400 \\fr",
 		"✦Một Không Gian Dị Giới được tạo ra bởi ",
 		"một lá bài ma thuật thừa hưởng từ cha.",
 		"Hoàn toàn không bị ảnh hưởng bởi thời gian, ",
@@ -96,25 +97,44 @@
 	],
 	"16": [
 		"\\fr\\fs[28]\\c[114]Đại Mê Cung",
-        "\\fr\\{\\i[16]400 \\fr",
-        "✦Tương truyền rằng hành lang bị các vị thần bỏ ",
-        "quên này kéo dài đến vô tận. Dưới mái vòm đổ nát ",
-        "và những dây leo cổ đại uốn lượn, ánh huy hoàng ",
-        "của một nền văn minh đã mất vẫn còn vương vấn.",
-        "Vô số nhà thám hiểm đã bước chân vào nơi đây ",
-        "và không bao giờ trở lại— ",
-        "Mê Cung không từ chối bất kỳ ai.",
+		"\\fr\\{\\i[16]400 \\fr",
+		"✦Tương truyền rằng hành lang bị các vị thần bỏ ",
+		"quên này kéo dài đến vô tận. Dưới mái vòm đổ nát ",
+		"và những dây leo cổ đại uốn lượn, ánh huy hoàng ",
+		"của một nền văn minh đã mất vẫn còn vương vấn.",
+		"Vô số nhà thám hiểm đã bước chân vào nơi đây ",
+		"và không bao giờ trở lại— ",
+		"Mê Cung không từ chối bất kỳ ai.",
 		"Nó chỉ quyết định ai là người được phép rời đi."
 	],
-  	"17": [
+	"17": [
 		"✦Một chiếc TV 85 inch với những công nghệ mới nhất.",
 		"Tuy nhiên, nó không nhiều chương trình truyền hình. ",
 		"Để xem được các chương trình thú vị,",
 		"phải tìm được một số cuộn băng video ở đâu đó."
-  	],
+	],
 	"18": [
 		"✦Chiếc quần lót mà \\str[120] vừa cởi ra.",
 		"Nó vẫn còn giữ hơi ấm cơ thể của em ấy, và mảnh vải nhỏ ",
 		"ở chính giữa trông như đã ướt sũng."
-	]
+	],
+	"Fridge": {
+		"objectName": "Tủ Lạnh LV1",
+		"objectDescription": [
+			"Một chiếc tủ lạnh lớn với không gian rộng rãi để bảo quản nguyên liệu tươi",
+			"Các ngăn cửa thuộc về \\str[120], ",
+			"chỉ dành riêng cho những thức uống yêu thích của em ấy",
+			"Mỗi ngày đều mang đến cảnh tượng đáng yêu khi em ấy lén lút ",
+			"đến đây để tìm một món đồ uống mát lạnh"
+		],
+		"allDrinksCollected": [
+			"Đủ mọi hương vị! Lượng đồ uống này đủ để khiến \\str[120] vui vẻ trong một thời gian dài!"
+		],
+		"drinkCapacity": "Sức chứa đồ uống",
+		"storedCount": "Số lượng đã lưu trữ",
+		"affectionPledgeReward": "Mức Tăng Thiện Cảm Tự Động Mỗi Ngày",
+		"moodPledgeReward": "Mức Tăng Tâm Trạng Tự Động Mỗi Ngày",
+		"affectionDrinkGain": "Mức Tăng Thiện Cảm Khi Uống",
+		"moodDrinkGain": "Mức Tăng Tâm Trạng Khi Uống"
+	}
 }
