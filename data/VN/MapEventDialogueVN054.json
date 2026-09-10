@@ -3001,7 +3001,7 @@
 			"\\nl< >\"Ooh~! Là dưa hấu lạnh mát!!\""
 		],
 		"106": [
-			"\"\\str[121] cắt nhanh lên đi! Quả này chắc chắn ngọt lắm đó!!\""
+			"\\nl< >\"\\str[121] cắt nhanh lên đi! Quả này chắc chắn ngọt lắm đó!!\""
 		],
 		"107": [
 			"\"Rồi, rồi. Em ra khỏi hồ trước đi, không lại làm bẩn đấy.\""
@@ -3691,7 +3691,7 @@
 		],
 		"5.1": [
 			"\"Vẫn còn lâu mới xong—!",
-			"\\Mọi chuyện với str[121] giờ mới chỉ bắt đầu thôi—!\""
+			"Mọi chuyện với \\str[121] giờ mới chỉ bắt đầu thôi—!\""
 		],
 		"6": [
 			"Bị khơi dậy bởi tinh thần hiếu thắng đột ngột, ",

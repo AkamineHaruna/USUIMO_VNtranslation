@@ -1,4 +1,16 @@
 {
+    "MapExploration": {
+        "TemporaryTemplate": [
+            "Phòng Tắm",
+            "Phòng Khách",
+            "Phòng \\str[120]",
+            "Nhà Vệ Sinh"
+        ],
+        "saveButton": [
+            "Tiếp Tục",
+            "Lưu"
+        ]
+    },
     "autoUpdateReminder": {
         "0": [
             "Quá trình cập nhật sẽ tự động bắt đầu khi bạn thức dậy vào ngày hôm sau.",
@@ -456,6 +468,9 @@
         ],
         "2": [
             "Vẫn đang lựa chọn nguyên liệu!!"
+        ],
+        "3": [
+            "Mình cần chọn thêm ít nhất một nguyên liệu nữa..."
         ]
     },
     "inventoryExpansion": {
