@@ -23,6 +23,27 @@
       "\\w[120]"
     ]
   },
+  "rpgMapButtonDescription": {
+    "starDoor": "帰宅",
+    "option": "設定",
+    "skill": "スキル",
+    "inventory": "アイテム",
+    "status": "能力"
+  },
+  "equipmentDescriptionKeyword": {
+    "sentouryoku": "戦闘力",
+    "durability": "耐久度",
+    "ATK": "物理攻撃力",
+    "DEF": "防御力",
+    "MAT": "魔法攻撃力",
+    "MDF": "魔法耐性",
+    "LUK": "運",
+    "ASP": "攻撃速度",
+    "CSP": "詠唱速度",
+    "HRG": "自動回復",
+    "SPD": "移動速度",
+    "HP": "最大体力"
+  },
   "magicCamera": {
     "record": "動画撮影",
     "stop": "撮影終了",

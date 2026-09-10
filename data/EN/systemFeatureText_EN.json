@@ -76,8 +76,8 @@
   "ShowWeaponDurability": [
     "Show Weapon Durability"
   ],
-  "DisableAutoUpdate": [
-    "Disable Auto Update"
+  "fullUIMode": [
+    "Button Always Highlighted"
   ],
   "LockedFPS": [
     "Locked 60 FPS"

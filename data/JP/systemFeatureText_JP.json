@@ -59,8 +59,8 @@
   "ShowWeaponDurability": [
     "武器耐久表示常時"
   ],
-  "DisableAutoUpdate": [
-    "自動更新を無効化"
+  "fullUIMode": [
+    "ボタンを常時ハイライト"
   ],
   "LockedFPS": [
     "60FPSに固定"

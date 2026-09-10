@@ -58,8 +58,8 @@
   "ShowWeaponDurability": [
     "武器耐久度常时显示"
   ],
-  "DisableAutoUpdate": [
-    "禁止自动更新"
+  "fullUIMode": [
+    "按钮常驻高亮"
   ],
   "LockedFPS": [
     "锁定60帧"

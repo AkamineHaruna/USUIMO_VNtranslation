@@ -23,6 +23,27 @@
       "\\w[120]"
     ]
   },
+  "rpgMapButtonDescription": {
+    "starDoor": "回家",
+    "option": "设置",
+    "skill": "技能",
+    "inventory": "背包",
+    "status": "属性"
+  },
+  "equipmentDescriptionKeyword": {
+    "sentouryoku": "战斗力",
+    "HP": "体力值",
+    "durability": "耐久度",
+    "ATK": "攻击力",
+    "DEF": "防御力",
+    "MAT": "魔法强度",
+    "MDF": "魔法抗性",
+    "LUK": "幸运",
+    "ASP": "攻击速度",
+    "CSP": "吟唱速度",
+    "HRG": "自动回复",
+    "SPD": "移动速度"
+  },
   "magicCamera": {
     "record": "录制视频",
     "stop": "结束录制",

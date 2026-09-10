@@ -8,7 +8,7 @@
     ],
     "saveButton": [
       "Load",
-      "Save"     
+      "Save"
     ]
   },
   "autoUpdateReminder": {
@@ -22,6 +22,27 @@
       "The network connection may have failed!",
       "\\w[120]"
     ]
+  },
+  "rpgMapButtonDescription": {
+    "starDoor": "HOME",
+    "option": "CONFIG",
+    "skill": "SKILL",
+    "inventory": "ITEM",
+    "status": "STATUS"
+  },
+  "equipmentDescriptionKeyword": {
+    "sentouryoku": "Combat Power",
+    "HP": "Max HP",
+    "durability": "Durability",
+    "ATK": "Attack",
+    "DEF": "Defense",
+    "MAT": "Magic Power",
+    "MDF": "Magic Resistance",
+    "LUK": "Luck",
+    "ASP": "Attack Speed",
+    "CSP": "Cast Speed",
+    "HRG": "Auto Recovery",
+    "SPD": "Move Speed"
   },
   "magicCamera": {
     "record": "Record Video",
