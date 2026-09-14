@@ -376,5 +376,35 @@
             "Gây sát thương tăng mạnh nếu vị trí mục tiêu có nước",
             "Kỹ năng còn có thể đánh bật các vật phẩm ẩn bên dưới mặt nước lên"
         ]
+    },
+    "97": {
+        "name": [
+            "Cuồng Lưu Diệt Thế"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Liên tục hút và nén các nguyên tố nước xung quanh (ngừng tích tụ nếu không có nước)",
+            "Khi kết thúc tích tụ, giải phóng một làn sóng xung kích nước mạnh mẽ theo hướng chỉ định"
+        ]
+    },
+    "98": {
+        "name": [
+            "Hồng Liên Tinh"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Thi triển ma pháp triệu hồi, đánh dấu vị trí mục tiêu khi kết thúc",
+            "Sau vài giây, triệu hồi thiên thạch giáng xuống vị trí đã đánh dấu"
+        ]
     }
 }
