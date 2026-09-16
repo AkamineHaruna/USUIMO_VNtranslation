@@ -65,6 +65,9 @@
   "LockedFPS": [
     "60FPSに固定"
   ],
+  "FPSDisplay": [
+    "FPSモニターを表示"
+  ],
   "ZakoMode": [
     "雑魚モード"
   ],

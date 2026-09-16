@@ -82,6 +82,9 @@
   "LockedFPS": [
     "Locked 60 FPS"
   ],
+  "FPSDisplay": [
+    "Show FPS Monitor"
+  ],
   "ZakoMode": [
     "ZAKO Mode"
   ],

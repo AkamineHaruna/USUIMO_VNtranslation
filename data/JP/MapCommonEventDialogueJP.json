@@ -1,9 +1,14 @@
 {
   "MapExploration": {
-    "TemporaryTemplate": [
-      "浴室",
+    "mapTemplate": [
+      "玄関",
+      "ダイニング",
       "リビング",
       "\\str[120]の部屋",
+      "自分の部屋",
+      "主寝室",
+      "洗面所",
+      "浴室",
       "トイレ"
     ],
     "saveButton": [
@@ -43,6 +48,11 @@
     "HRG": "自動回復",
     "SPD": "移動速度",
     "HP": "最大体力"
+  },
+  "EquipScene": {
+    "operationInstructions": "装備アイコンをクリックまたはドラッグして装備・破棄",
+    "discardDescription": "ここにドラッグして装備を破棄",
+    "unequipDescription": "ここにドラッグして装備を外し、バッグに戻す"
   },
   "magicCamera": {
     "record": "動画撮影",

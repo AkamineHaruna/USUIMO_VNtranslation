@@ -1,9 +1,14 @@
 {
   "MapExploration": {
-    "TemporaryTemplate": [
-      "浴室",
+    "mapTemplate": [
+      "玄关",
+      "餐厅",
       "客厅",
-      "妹妹的房间",
+      "\\str[120]的房间",
+      "自己的房间",
+      "主卧",
+      "洗面所",
+      "浴室",
       "厕所"
     ],
     "saveButton": [
@@ -43,6 +48,11 @@
     "CSP": "吟唱速度",
     "HRG": "自动回复",
     "SPD": "移动速度"
+  },
+  "EquipScene": {
+    "operationInstructions": "点击或拖拽装备图标进行装备或丢弃",
+    "discardDescription": "将装备拖拽至此处即可丢弃", 
+    "unequipDescription": "将装备拖拽至此处即可卸下并放回背包"
   },
   "magicCamera": {
     "record": "录制视频",

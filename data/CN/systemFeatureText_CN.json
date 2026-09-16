@@ -64,6 +64,9 @@
   "LockedFPS": [
     "锁定60帧"
   ],
+  "FPSDisplay": [
+    "显示FPS监视器"
+  ],
   "ZakoMode": [
     "杂鱼模式"
   ],

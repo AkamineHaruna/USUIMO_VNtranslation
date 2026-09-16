@@ -1,9 +1,14 @@
 {
   "MapExploration": {
-    "TemporaryTemplate": [
-      "Bathroom",
+    "mapTemplate": [
+      "Entryway",
+      "Dining Room",
       "Living Room",
       "\\str[120]'s Room",
+      "My Room",
+      "Master Bedroom",
+      "Wash Area",
+      "Bathroom",
       "Toilet"
     ],
     "saveButton": [
@@ -43,6 +48,11 @@
     "CSP": "Cast Speed",
     "HRG": "Auto Recovery",
     "SPD": "Move Speed"
+  },
+  "EquipScene": {
+    "operationInstructions": "Click or drag equipment icons to equip or discard.",
+    "discardDescription": "Drag equipment here to discard.",
+    "unequipDescription": "Drag equipment here to unequip and return it to bag."
   },
   "magicCamera": {
     "record": "Record Video",

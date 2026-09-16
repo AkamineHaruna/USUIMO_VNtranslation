@@ -64,6 +64,9 @@
   "LockedFPS": [
     "鎖定60幀"
   ],
+  "FPSDisplay": [
+    "顯示FPS監視器"
+  ],
   "ZakoMode": [
     "雜魚模式"
   ],
