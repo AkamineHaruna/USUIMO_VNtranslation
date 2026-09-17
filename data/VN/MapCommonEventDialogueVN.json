@@ -1,9 +1,14 @@
 {
     "MapExploration": {
-        "TemporaryTemplate": [
-            "Phòng Tắm",
+        "mapTemplate": [
+            "Sảnh ra vào",
+            "Phòng ăn",
             "Phòng Khách",
-            "Phòng \\str[120]",
+            "Phòng của \\str[120]",
+            "Phòng của tôi",
+            "Phòng ngủ chính",
+            "Khu giặt rửa",
+            "Phòng tắm",
             "Nhà Vệ Sinh"
         ],
         "saveButton": [
@@ -43,6 +48,11 @@
         "CSP": "Tốc Độ Thi Triển",
         "HRG": "Tự Động Hồi Phục",
         "SPD": "Tốc Độ Di Chuyển"
+    },
+    "EquipScene": {
+        "operationInstructions": "Nhấp hoặc kéo biểu tượng để trang bị hoặc vứt bỏ.",
+        "discardDescription": "Kéo trang bị vào đây để vứt bỏ.",
+        "unequipDescription": "Kéo trang bị vào đây để tháo ra và bỏ lại vào túi đồ."
     },
     "magicCamera": {
         "record": "Quay Video",
