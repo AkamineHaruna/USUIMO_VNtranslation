@@ -1741,7 +1741,7 @@
       "Guh... I guess that really is the case...",
       "I wonder why... Every time this happens, ",
       "I just can't seem to control myself."
-    ],  
+    ],
     "36": [
       "\\nl< >\"—It must be painful to hold it in, right?",
       "Even with me watching you like this, it's still so energetic...",
@@ -1906,6 +1906,13 @@
       "Since \\str[120] had satisfied so many of my strange requests,",
       "I desperately tried to make it up to her, ",
       "enthusiastically helping her wash her body all over again."
+    ]
+  },
+  "6": {
+    "1": [
+      "Run a Bath",
+      "Heat Up",
+      "Cool Down"
     ]
   },
   "7": {

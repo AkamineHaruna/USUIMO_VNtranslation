@@ -483,7 +483,7 @@
       "but it sure boosts one's presence"
     ],
     "ability": [
-      "Physical attack power +15%"
+      "Physical attack power +15%, Physical attack cap +150"
     ]
   },
   "35": {
@@ -826,7 +826,7 @@
       "burned by fate's emotions, you too inherit this forbidden technique! "
     ],
     "ability": [
-      "Unlock and allow the use of Skill \\c[27]Musou Burst Stream"
+      "Unlock and allow the use of Skill \\is[12]"
     ]
   },
   "59": {
