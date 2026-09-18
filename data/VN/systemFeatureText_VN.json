@@ -91,6 +91,9 @@
 	"LockedFPS": [
 		"Khoá ở 60 FPS"
 	],
+	"FPSDisplay": [
+		"Hiển thị FPS"
+	],
 	"ZakoMode": [
 		"Chế độ ZAKO"
 	],
