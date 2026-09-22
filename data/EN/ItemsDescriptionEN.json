@@ -3344,6 +3344,75 @@
     ],
     "ability": ""
   },
+  "445": {
+    "name": [
+      "Bathe Together"
+    ],
+    "recallEventName": [
+      "Bathe With \\str[120]"
+    ],
+    "subtitle": [
+      "\"That look in your eyes...",
+      "I can tell just by looking that \\str[121] is ",
+      "thinking about lewd things again.",
+      "You big pervert...\""
+    ],
+    "ability": ""
+  },
+  "446": {
+    "name": [
+      "compete For Toilet"
+    ],
+    "recallEventName": [
+      "A tragedy caused by food poisoning..."
+    ],
+    "subtitle": [
+      "\"Uwaaaahhh——!",
+      "I can't hold it anymore...!\""
+    ],
+    "ability": ""
+  },
+  "447": {
+    "name": [
+      "Brush Together"
+    ],
+    "recallEventName": [
+      "Brush Teeth with \\str[120]"
+    ],
+    "subtitle": [
+      "\"yeh go sidewayth... yeh'th get cweanah...\"",
+      " ",
+      "\"O-nii-cha... yoh're... the one—!\""
+    ],
+    "ability": ""
+  },
+  "448": {
+    "name": [
+      "Wake Up \\str[120]"
+    ],
+    "recallEventName": [
+      "If you don't wake up, \\str[121]'s gonna get serious~!"
+    ],
+    "subtitle": [
+      "\"Roll, roll, roll, roll, roll, roll~!\"",
+      " ",
+      "\"Squish, squish, squish, squish, squish~!\""
+    ],
+    "ability": ""
+  },
+  "449": {
+    "name": [
+      "Shake Cola"
+    ],
+    "recallEventName": [
+      "Uwaaahhh—mmmmmffff———!!"
+    ],
+    "subtitle": [
+      "This seems to be a special cola with extra carbonation,",
+      "if I shake it a little…"
+    ],
+    "ability": ""
+  },
   "480": {
     "name": [
       "The Power of Prayer"
