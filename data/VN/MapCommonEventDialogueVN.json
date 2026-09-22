@@ -33,7 +33,8 @@
         "option": "Cài Đặt",
         "skill": "Kỹ Năng",
         "inventory": "Vật Phẩm",
-        "status": "Thông Số"
+        "status": "Thông Số",
+        "collection": "NEXUS"
     },
     "equipmentDescriptionKeyword": {
         "sentouryoku": "Lực Chiến",
@@ -53,6 +54,22 @@
         "operationInstructions": "Nhấp hoặc kéo biểu tượng để trang bị hoặc vứt bỏ.",
         "discardDescription": "Kéo trang bị vào đây để vứt bỏ.",
         "unequipDescription": "Kéo trang bị vào đây để tháo ra và bỏ lại vào túi đồ."
+    },
+    "CollectionScene": {
+        "itemCollection": "Vật Phẩm",
+        "weaponCollection": "Vũ Khí",
+        "gearCollection": "Trang Bị",
+        "lockedObject": "?????",
+        "lockedNotice": [
+            "Thiếu Dữ Liệu—",
+            "Thu thập vật phẩm này ít nhất một lần để mở khóa."
+        ],
+        "collectionProgress": "Tiến Độ Bộ Sưu Tập: %1 / %2",
+        "acquiredCount": "Số Lần Thu Thập",
+        "firstAcquiredTime": [
+            "Lần Đầu Thu Thập:",
+            "Ngày %1, %2h %3m"
+        ]
     },
     "magicCamera": {
         "record": "Quay Video",
@@ -74,7 +91,8 @@
             "Hồi tưởng ký ức",
             "Bỏ qua"
         ],
-        "placeholder": "Ký ức hiện có",
+        "lockedVariation": "Bạn chưa mở khóa cảnh này!",
+        "placeholder": "Nội Dung Ký Ức Hiện Có (Sắp có thêm)",
         "takeBathWithImouto": "Tắm cùng với \\str[120]",
         "Polaroid": "Bộ ảnh NLCH Polaroid"
     },

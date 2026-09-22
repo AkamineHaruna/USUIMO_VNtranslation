@@ -15,7 +15,9 @@
         "relatedTags": {
             "keyItem": true,
             "nonConsumableItem": true,
-            "relatedDropPool": [189],
+            "relatedDropPool": [
+                189
+            ],
             "firstAppearanceVersion": 0.77
         },
         "obtainSource": [
@@ -3168,6 +3170,9 @@
     },
     "430": {
         "name": [
+            "Làm Trò Xấu Hổ"
+        ],
+        "recallEventName": [
             "Chơi Xấu Hổ Trước Gương Trong Phòng Tắm"
         ],
         "subtitle": [
@@ -3180,6 +3185,9 @@
     },
     "431": {
         "name": [
+            "Dịch Vụ Tắm Rửa Đặc Biệt II"
+        ],
+        "recallEventName": [
             "Dịch Vụ Tắm Rửa Đặc Biệt Của \\str[120] II"
         ],
         "subtitle": [
@@ -3192,6 +3200,9 @@
     },
     "432": {
         "name": [
+            "Dịch Vụ Tắm Rửa Đặc Biệt I"
+        ],
+        "recallEventName": [
             "Dịch Vụ Tắm Rửa Đặc Biệt Của \\str[120] I"
         ],
         "subtitle": [
@@ -3204,6 +3215,9 @@
     },
     "433": {
         "name": [
+            "Chỉnh Đốn \\str[120]"
+        ],
+        "recallEventName": [
             "Chỉnh Đốn \\str[120] Vì Lén Lút Trở Nên Dâm Đãng"
         ],
         "subtitle": [
@@ -3217,6 +3231,9 @@
     },
     "434": {
         "name": [
+            "Xem Phim Kinh Dị"
+        ],
+        "recallEventName": [
             "Xem Phim Kinh Dị Cùng Với \\str[120]"
         ],
         "subtitle": [
@@ -3231,6 +3248,9 @@
     },
     "435": {
         "name": [
+            "Nhìn Trộm Khi Tắm"
+        ],
+        "recallEventName": [
             "Lén nhìn \\str[120] tắm"
         ],
         "description": [
@@ -3247,6 +3267,9 @@
         "name": [
             "Trở thành kẻ biến thái vì \\str[120]!"
         ],
+        "recallEventName": [
+            "Trở thành kẻ biến thái vì \\str[120]!"
+        ],
         "subtitle": [
             "'\\str[120] thân yêu à, em cũng không muốn \\str[121] cứ phải chịu đựng",
             "như thế này mãi đâu đúng không?' Mặc dù bị bắt quả tang đang lén nhìn \\str[120] tắm",
@@ -3257,6 +3280,9 @@
     },
     "437": {
         "name": [
+            "Dịch Vụ Quần Lót"
+        ],
+        "recallEventName": [
             "Dịch Vụ Quần Lót Của \\str[120]"
         ],
         "subtitle": [
@@ -3265,6 +3291,138 @@
             "Dù có phần bất lực trước \\str[121] vì lúc nào cũng nghĩ đến ",
             "những chuyện dâm đãng, \\str[120] ngọt ngào và đáng yêu vẫn tận tình ",
             "phục vụ anh bằng chính chiếc quần lót còn ấm vừa mới cởi ra của mình—"
+        ],
+        "ability": ""
+    },
+    "438": {
+        "name": [
+            "Ba Lựa Chọn Tân Hôn I I"
+        ],
+        "recallEventName": [
+            "Ba Lựa Chọn Tân Hôn: Đi tắm trước~?"
+        ],
+        "subtitle": [
+            "Anh muốn đi tắm trước? Hay muốn ăn tối trước? Hay là anh muốn...em...trước?"
+        ],
+        "ability": ""
+    },
+    "439": {
+        "name": [
+            "Ba Lựa Chọn Tân Hôn II"
+        ],
+        "recallEventName": [
+            "Ba Lựa Chọn Tân Hôn: Ăn \\str[120] trước~?"
+        ],
+        "subtitle": [
+            "Anh muốn đi tắm trước? Hay muốn ăn tối trước? Hay là anh muốn...em...trước?"
+        ],
+        "ability": ""
+    },
+    "442": {
+        "name": [
+            "Sấy Tóc"
+        ],
+        "recallEventName": [
+            "Sấy Tóc Cho \\str[120]"
+        ],
+        "subtitle": [
+            "\"Tóc em dài quá rồi nhỉ.",
+            "Anh nhớ hồi còn nhỏ tóc em đâu có dài thế này...\""
+        ],
+        "ability": ""
+    },
+    "443": {
+        "name": [
+            "Luôn Bên Nhau"
+        ],
+        "recallEventName": [
+            "Tối nay anh sẽ ở bên em nhé..."
+        ],
+        "subtitle": [
+            "\"\\str[121]... đừng bỏ em lại mà...",
+            "Tối nay... chúng ta ngủ cùng nhau nhé...\""
+        ],
+        "ability": ""
+    },
+    "444": {
+        "name": [
+            "C-Chào buổi sáng..."
+        ],
+        "recallEventName": [
+            "C-Chào buổi sáng..."
+        ],
+        "subtitle": [
+            "\"Eh... \\str[121]...?",
+            "Sao...anh cũng ở trên giường vậy...?\""
+        ],
+        "ability": ""
+    },
+    "445": {
+        "name": [
+            "Tắm Cùng Nhau"
+        ],
+        "recallEventName": [
+            "Tắm Cùng \\str[120]"
+        ],
+        "subtitle": [
+            "\"Ánh mắt đó...",
+            "Chỉ cần nhìn thôi là em biết \\str[121] lại ",
+            "đang nghĩ đến mấy chuyện dâm đãng rồi.",
+            "Anh đúng là đồ biến thái...\""
+        ],
+        "ability": ""
+    },
+    "446": {
+        "name": [
+            "Tranh Giành Nhà Vệ Sinh"
+        ],
+        "recallEventName": [
+            "Bi Kịch Do Ngộ Độc Thức Ăn..."
+        ],
+        "subtitle": [
+            "\"Uwaaaahhh——!",
+            "Em không nhịn nổi nữa rồi...!\""
+        ],
+        "ability": ""
+    },
+    "447": {
+        "name": [
+            "Đánh Răng Cùng Nhau"
+        ],
+        "recallEventName": [
+            "Đánh Răng Cùng Với \\str[120]"
+        ],
+        "subtitle": [
+            "\"Đánh sang bên... thì sẽ sạch hơn...\"",
+            " ",
+            "\"O-nii-cha... anh... là—!\""
+        ],
+        "ability": ""
+    },
+    "448": {
+        "name": [
+            "Đánh Thức \\str[120] dậy"
+        ],
+        "recallEventName": [
+            "Nếu em không chịu dậy thì \\str[121] sẽ nghiêm túc đấy nhé~!"
+        ],
+        "subtitle": [
+            "\"Lăn, Lăn, Lăn, Lăn, Lăn, Lăn~!\"",
+            " ",
+            "\"Quay, Quay, Quay, Quay, Quay~!\""
+        ],
+        "ability": ""
+    },
+    "449": {
+        "name": [
+            "Lắc Cola"
+        ],
+        "recallEventName": [
+            "Uwaaahhh—mmmmmffff———!!"
+        ],
+        "subtitle": [
+            "Có vẻ đây là một loại cola đặc biệt với nhiều ga hơn bình thường,",
+            "nếu mình lắc nhẹ một chút thì..."
         ],
         "ability": ""
     },
