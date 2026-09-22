@@ -33,7 +33,8 @@
     "option": "設定",
     "skill": "スキル",
     "inventory": "アイテム",
-    "status": "能力"
+    "status": "能力",
+    "collection": "機枢"
   },
   "equipmentDescriptionKeyword": {
     "sentouryoku": "戦闘力",
@@ -53,6 +54,22 @@
     "operationInstructions": "装備アイコンをクリックまたはドラッグして装備・破棄",
     "discardDescription": "ここにドラッグして装備を破棄",
     "unequipDescription": "ここにドラッグして装備を外し、バッグに戻す"
+  },
+  "CollectionScene": {
+    "itemCollection": "アイテム",
+    "weaponCollection": "武器",
+    "gearCollection": "装備",
+    "lockedObject": "？？？？？",
+    "lockedNotice": [
+      "データ欠損——",
+      "この対象を1回以上入手すると解放されます"
+    ],
+    "collectionProgress": "収集進捗：%1 / %2",
+    "acquiredCount": "入手回数",
+    "firstAcquiredTime": [
+      "初回入手日時：",
+      "%1日目 %2時 %3分"
+    ]
   },
   "magicCamera": {
     "record": "動画撮影",
@@ -74,7 +91,8 @@
       "イベント回想",
       "やめておく"
     ],
-    "placeholder": "回想可能なイベント",
+    "lockedVariation": "この差分はまだ解放されていません！",
+    "placeholder": "現在解放済みのギャラリーコンテンツ（更新中）",
     "takeBathWithImouto": "\\str[120]と一緒にお風呂に入る",
     "Polaroid": "茶会チェキシリーズ"
   },

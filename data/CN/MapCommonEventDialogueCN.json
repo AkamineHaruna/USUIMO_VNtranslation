@@ -33,7 +33,8 @@
     "option": "设置",
     "skill": "技能",
     "inventory": "背包",
-    "status": "属性"
+    "status": "属性",
+    "collection": "图鉴"
   },
   "equipmentDescriptionKeyword": {
     "sentouryoku": "战斗力",
@@ -54,6 +55,22 @@
     "discardDescription": "将装备拖拽至此处即可丢弃", 
     "unequipDescription": "将装备拖拽至此处即可卸下并放回背包"
   },
+  "CollectionScene": {
+    "itemCollection": "道具",
+    "weaponCollection": "武器",
+    "gearCollection": "装备",
+    "lockedObject": "？？？？？",
+    "lockedNotice": [
+      "数据缺失——",
+      "至少获得一次该对象后即可解锁" 
+    ], 
+    "collectionProgress": "已经完成收集：%1 / %2",
+    "acquiredCount": "获得过的数量",
+    "firstAcquiredTime": [
+      "第一次获得的时间:",
+      "第%1天 %2时 %3分"
+    ]
+  },  
   "magicCamera": {
     "record": "录制视频",
     "stop": "结束录制",
@@ -74,7 +91,8 @@
       "事件回想",
       "还是算了"
     ],
-    "placeholder": "目前可回想的事件",
+    "lockedVariation": "还没有解锁这个差分！",
+    "placeholder": "目前已解锁的画廊内容（更新中）",
     "takeBathWithImouto": "和\\str[120]一起洗澡",
     "Polaroid": "茶会拍立得系列"
   },

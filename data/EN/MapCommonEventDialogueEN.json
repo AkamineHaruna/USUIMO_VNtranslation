@@ -33,7 +33,8 @@
     "option": "CONFIG",
     "skill": "SKILL",
     "inventory": "ITEM",
-    "status": "STATUS"
+    "status": "STATUS",
+    "collection": "NEXUS"
   },
   "equipmentDescriptionKeyword": {
     "sentouryoku": "Combat Power",
@@ -53,6 +54,22 @@
     "operationInstructions": "Click or drag equipment icons to equip or discard.",
     "discardDescription": "Drag equipment here to discard.",
     "unequipDescription": "Drag equipment here to unequip and return it to bag."
+  },
+  "CollectionScene": {
+    "itemCollection": "ITEM",
+    "weaponCollection": "WEAPON",
+    "gearCollection": "GEAR",
+    "lockedObject": "?????",
+    "lockedNotice": [
+      "Data Missing—",
+      "Acquire this item at least once to unlock it."
+    ],
+    "collectionProgress": "Collection Progress: %1 / %2",
+    "acquiredCount": "Times Acquired",
+    "firstAcquiredTime": [
+      "First Acquired:",
+      "Day %1, %2h %3m"
+    ]
   },
   "magicCamera": {
     "record": "Record Video",
@@ -74,7 +91,8 @@
       "Recall Event",
       "Never Mind"
     ],
-    "placeholder": "Available Recollections",
+    "lockedVariation": "Haven't unlocked this variation yet!",
+    "placeholder": "Gallery Content Currently Available (More to Come)",
     "takeBathWithImouto": "Taking a bath with \\str[120]",
     "Polaroid": "NLCH Polaroid Series"
   },

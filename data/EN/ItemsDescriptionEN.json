@@ -15,7 +15,9 @@
     "relatedTags": {
       "keyItem": true,
       "nonConsumableItem": true,
-      "relatedDropPool": [189],
+      "relatedDropPool": [
+        189
+      ],
       "firstAppearanceVersion": 0.77
     },
     "obtainSource": [
@@ -3156,6 +3158,9 @@
   },
   "430": {
     "name": [
+      "Shame Play"
+    ],
+    "recallEventName": [
       "Bathroom Mirror Shame Play"
     ],
     "subtitle": [
@@ -3168,6 +3173,9 @@
   },
   "431": {
     "name": [
+      "Special Wash Service II"
+    ],
+    "recallEventName": [
       "\\str[120]'s Special Wash Service II"
     ],
     "subtitle": [
@@ -3180,6 +3188,9 @@
   },
   "432": {
     "name": [
+      "Special Wash Service I"
+    ],
+    "recallEventName": [
       "\\str[120]'s Special Wash Service I"
     ],
     "subtitle": [
@@ -3192,6 +3203,9 @@
   },
   "433": {
     "name": [
+      "Correcting \\str[120]"
+    ],
+    "recallEventName": [
       "Correcting \\str[120] Who Secretly Turned Lewd"
     ],
     "subtitle": [
@@ -3205,6 +3219,9 @@
   },
   "434": {
     "name": [
+      "Watching a Horror Movie"
+    ],
+    "recallEventName": [
       "Watching a Horror Movie with \\str[120]"
     ],
     "subtitle": [
@@ -3219,6 +3236,9 @@
   },
   "435": {
     "name": [
+      "Bath Peeping"
+    ],
+    "recallEventName": [
       "Peeping at \\str[120] Bathing"
     ],
     "description": [
@@ -3234,6 +3254,9 @@
     "name": [
       "Become Hentai for \\str[120]!"
     ],
+    "recallEventName": [
+      "Become Hentai for \\str[120]!"
+    ],
     "subtitle": [
       "'My dear \\str[120], you wouldn't want \\str[121] to keep suffering like this, right?'",
       "Even though he was caught red-handed peeping at \\str[120], ",
@@ -3244,6 +3267,9 @@
   },
   "437": {
     "name": [
+      "panty service"
+    ],
+    "recallEventName": [
       "\\str[120]'s panty service"
     ],
     "subtitle": [
@@ -3252,6 +3278,69 @@
       "Although exasperated by \\str[121] who is always up to lewd things, ",
       "the sweet and adorable \\str[120] still attentively serves him ",
       "using her freshly taken off, warm panties—"
+    ],
+    "ability": ""
+  },
+  "438": {
+    "name": [
+      "Newlywed Three Choice I"
+    ],
+    "recallEventName": [
+      "Newlywed Three Choice: A bath first~?"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "ability": ""
+  },
+  "439": {
+    "name": [
+      "Newlywed Three Choice II"
+    ],
+    "recallEventName": [
+      "Newlywed Three Choice: \\str[120] first~?"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "ability": ""
+  },
+  "442": {
+    "name": [
+      "Dry Hair"
+    ],
+    "recallEventName": [
+      "Dry \\str[120]'s Hair"
+    ],
+    "subtitle": [
+      "\"Your hair's gotten so long.",
+      "I remember it wasn't this long when you were little...\""
+    ],
+    "ability": ""
+  },
+  "443": {
+    "name": [
+      "Always Together"
+    ],
+    "recallEventName": [
+      "I'll stay by your side tonight..."
+    ],
+    "subtitle": [
+      "\"\\str[121]... don't leave me...",
+      "Tonight... let's sleep together...\""
+    ],
+    "ability": ""
+  },
+  "444": {
+    "name": [
+      "G-Good Morning..."
+    ],
+    "recallEventName": [
+      "G-Good Morning..."
+    ],
+    "subtitle": [
+      "\"Eh... \\str[121]...?",
+      "Why... are you in bed too...?\""
     ],
     "ability": ""
   },

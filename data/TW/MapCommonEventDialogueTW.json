@@ -33,7 +33,8 @@
     "option": "設置",
     "skill": "技能",
     "inventory": "揹包",
-    "status": "屬性"
+    "status": "屬性",
+    "collection": "圖鑑"
   },
   "equipmentDescriptionKeyword": {
     "sentouryoku": "戰鬥力",
@@ -53,6 +54,22 @@
     "operationInstructions": "點擊或拖拽裝備圖標進行裝備或丟棄",
     "discardDescription": "將裝備拖拽至此處即可丟棄",
     "unequipDescription": "將裝備拖拽至此處即可卸下並放回揹包"
+  },
+  "CollectionScene": {
+    "itemCollection": "道具",
+    "weaponCollection": "武器",
+    "gearCollection": "裝備",
+    "lockedObject": "？？？？？",
+    "lockedNotice": [
+      "數據缺失——",
+      "至少獲得一次該對象後即可解鎖"
+    ],
+    "collectionProgress": "已經完成收集：%1 / %2",
+    "acquiredCount": "獲得過的數量",
+    "firstAcquiredTime": [
+      "第一次獲得的時間:",
+      "第%1天 %2時 %3分"
+    ]
   },
   "magicCamera": {
     "record": "錄製視頻",
