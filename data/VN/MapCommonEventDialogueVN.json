@@ -59,6 +59,7 @@
         "itemCollection": "Vật Phẩm",
         "weaponCollection": "Vũ Khí",
         "gearCollection": "Trang Bị",
+        "traceCollection": "TRACE",
         "lockedObject": "?????",
         "lockedNotice": [
             "Thiếu Dữ Liệu—",
@@ -69,7 +70,18 @@
         "firstAcquiredTime": [
             "Lần Đầu Thu Thập:",
             "Ngày %1, %2h %3m"
-        ]
+        ],
+        "allEvents": "All Events",
+        "mainEvents": "Main Events",
+        "sideEvents": "Side Events",
+        "eroEvents": "Ero Events",
+        "readMore": "Read More",
+        "achievementEvents": "Achievements",
+        "unlockTime": "Day %1 · %2",
+        "unlockCondition": "Requirements: ",
+        "howToObtain": "Obtained From: ",
+        "traceControls": "Drag to browse the timeline · Scroll / Pinch to zoom the timeline",
+        "readMoreControls": "Scroll / Swipe up or down to read"
     },
     "magicCamera": {
         "record": "Quay Video",
@@ -113,17 +125,9 @@
         ]
     },
     "UnitINexus": {
-        "bossRespawnCountdown": [
-            "%1",
-            "◈ Sẽ hồi sinh sau %2 ngày nữa!"
-        ],
-        "bossChallengeAvailable": [
-            "%1",
-            "◈ Đã xuất hiện!"
-        ],
-        "noBossDetected": [
-            "Không phát hiện boss nào sở hữu \\ii[20]!"
-        ]
+        "bossRespawnCountdown": "%1 sẽ hồi sinh sau %2 ngày nữa!",
+        "bossChallengeAvailable": "%1 đã xuất hiện!",
+        "noBossDetected": "Không phát hiện boss nào sở hữu \\ii[20]!"
     },
     "warehouseIsFull": "Không thể chứa thêm vật phẩm!",
     "cannotUseItem": "Không thể sử dụng vật phẩm lúc này!",
@@ -133,10 +137,17 @@
             "Đã lấy ra \\ii[\\v[90]]  ",
             "Mình nên làm gì đây…?"
         ],
-        "1": [
+        "doubleConfirm": [
             "Sử dụng",
-            "Thôi vậy",
             "Vứt bỏ"
+        ],
+        "cannotQuickUse": "This item cannot be added to the quick item wheel",
+        "operationInstructions": [
+            "Drag items that support quick use into the quick item wheel",
+            "to switch between and use them on the map"
+        ],
+        "operationInstructionsForPC": [
+            "(Press F/G to switch, and R to use the item)"
         ]
     },
     "forceGoHome": [

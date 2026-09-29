@@ -1,0 +1,17 @@
+{
+    "Receptiveness": {
+        "name": "\\str[120]'s Receptiveness",
+        "description": [
+            "Measures how receptive \\str[120] is to lewd requests from \\str[121].",
+            "The base score is calculated from the various Hearts \\str[120] currently has:",
+            "\\dimg[15] = 1    \\dimg[16] = 2",
+            "\\dimg[17] = 1    \\dimg[18] = 2",
+            "\\dimg[19] = 2    \\dimg[20] = 3",
+            "\\dimg[21] = 3",
+            "While in heat, gain an additional 2 points.",
+            "While in a good mood, randomly gain 0–2 points.",
+            "While in a bad mood, randomly lose 0–2 points.",
+            "\\str[120]'s current Receptiveness: ${QJ.MPMZ.tl.canImoutoAcceptHentaiRequest({ predictedScore: true })}"
+        ]
+    }
+}

@@ -362,6 +362,10 @@
         "subtitle": [
             "\"Biển cả, Anh & Em\""
         ],
+        "unlockCondition": [
+            "Already obtained \\ii[22]",
+            "Choose to go home early during hot weather"
+        ],
         "beIndependent": true,
         "description": [
             "Một bộ sản phẩm hợp tác phiên bản mùa hè của tựa game Shadow Souls",
@@ -3190,6 +3194,12 @@
         "recallEventName": [
             "Dịch Vụ Tắm Rửa Đặc Biệt Của \\str[120] II"
         ],
+        "unlockCondition": [
+            "Requires at least \\px[10]\\dimg[15]\\dimg[15]",
+            "Successfully invite \\str[120] to take a bath together",
+            "Ask \\str[120] to wash the back, and then the dick",
+            "Requires successfully triggering the arm washing branch first"
+        ],
         "subtitle": [
             "Để thắt chặt mối quan hệ, \\str[121] đã nhờ \\str[120] kỳ lưng cho mình,",
             "Nhưng được đà lấn tới, \\str[121] yêu cầu em ấy rửa cả 'thằng đệ' ở phía trước.",
@@ -3205,6 +3215,11 @@
         "recallEventName": [
             "Dịch Vụ Tắm Rửa Đặc Biệt Của \\str[120] I"
         ],
+        "unlockCondition": [
+            "Requires at least \\px[10]\\dimg[15]\\dimg[15]",
+            "Successfully invite \\str[120] to take a bath together",
+            "Ask \\str[120] to wash the back, and then an arm"
+        ],
         "subtitle": [
             "Để thắt chặt mối quan hệ, \\str[121] đã nhờ \\str[120] kỳ lưng cho mình, ",
             "Nhưng được đà lấn tới, \\str[121] yêu cầu em ấy tắm rửa cả cánh tay ở phía trước. ",
@@ -3219,6 +3234,11 @@
         ],
         "recallEventName": [
             "Chỉnh Đốn \\str[120] Vì Lén Lút Trở Nên Dâm Đãng"
+        ],
+        "unlockCondition": [
+            "Already obtained \\ii[193]",
+            "Choose to go home early on a day that is not hot",
+            "Depending on \\str[120]'s libido level, there is a chance to catch her secretly dildoing herself in the living room"
         ],
         "subtitle": [
             "Về nhà sớm, \\str[121] tình cờ bắt gặp \\str[120] đang lén ",
@@ -3270,6 +3290,10 @@
         "recallEventName": [
             "Trở thành kẻ biến thái vì \\str[120]!"
         ],
+        "unlockCondition": [
+            "When \\str[120] is undressing in the wash area to take a bath, choose to barge in",
+            "When confronted by \\str[120], choose \"Wanna Lewd\""
+        ],
         "subtitle": [
             "'\\str[120] thân yêu à, em cũng không muốn \\str[121] cứ phải chịu đựng",
             "như thế này mãi đâu đúng không?' Mặc dù bị bắt quả tang đang lén nhìn \\str[120] tắm",
@@ -3284,6 +3308,11 @@
         ],
         "recallEventName": [
             "Dịch Vụ Quần Lót Của \\str[120]"
+        ],
+        "unlockCondition": [
+            "Already obtained \\ia[130]",
+            "Get caught by \\str[120] while jerking off with her panties in the Wash Area",
+            "Requires \\dMPFCstart[Receptiveness] of at least 8"
         ],
         "subtitle": [
             "'Làm chuyện như thế này với quần lót của em trong khi nghĩ về em...",
@@ -3318,12 +3347,50 @@
         ],
         "ability": ""
     },
+    "440": {
+        "name": [
+            "Maxx C"
+        ],
+        "recallEventName": [
+            "\"No matter how many times it takes, I'll return from Hell! ▓▓▓▓▓▓▓ says hello♪\""
+        ],
+        "unlockCondition": [
+            "Feed \\str[120] \\ii[30] to trigger her heat state",
+            "Tail \\str[120] and peep on her when she goes to the toilet",
+            "\\str[120] has encountered C in the toilet at least once"
+        ],
+        "subtitle": [
+            "The Unnameable C—the arch-nemesis destined to return to the toilet no matter how many times it's killed!",
+            "It now eyes \\str[120], flushed and holding her breath in the toilet!",
+            "\\str[121], with both fists and dick rock hard, stand up and fight!"
+        ],
+        "ability": ""
+    },
+    "441": {
+        "name": [
+            "Toilet Intrusion"
+        ],
+        "recallEventName": [
+            "Service from \\str[120] in Heat"
+        ],
+        "subtitle": [
+            "\\str[120] stuck out her tongue playfully, ",
+            "but I could tell she was still really shy.",
+            "She'd never do something this bold normally—",
+            "it must be the effect of that candy."
+        ],
+        "ability": ""
+    },
     "442": {
         "name": [
             "Sấy Tóc"
         ],
         "recallEventName": [
             "Sấy Tóc Cho \\str[120]"
+        ],
+        "unlockCondition": [
+            "Requires at least \\px[10]\\dimg[15]\\dimg[15]",
+            "Successfully invite \\str[120] to take a bath together"
         ],
         "subtitle": [
             "\"Tóc em dài quá rồi nhỉ.",
@@ -3338,6 +3405,9 @@
         "recallEventName": [
             "Tối nay anh sẽ ở bên em nhé..."
         ],
+        "unlockCondition": [
+            "Have sex with \\str[120] in the living room at night"
+        ],
         "subtitle": [
             "\"\\str[121]... đừng bỏ em lại mà...",
             "Tối nay... chúng ta ngủ cùng nhau nhé...\""
@@ -3351,6 +3421,10 @@
         "recallEventName": [
             "C-Chào buổi sáng..."
         ],
+        "unlockCondition": [
+            "Have sex with \\str[120] late at night until her stamina is fully exhausted,",
+            "or sleep together after having sex in the master bedroom"
+        ],
         "subtitle": [
             "\"Eh... \\str[121]...?",
             "Sao...anh cũng ở trên giường vậy...?\""
@@ -3363,6 +3437,11 @@
         ],
         "recallEventName": [
             "Tắm Cùng \\str[120]"
+        ],
+        "unlockCondition": [
+            "Requires at least \\px[10]\\dimg[15]\\dimg[15]",
+            "Successfully invite \\str[120] to take a bath together",
+            "While soaking in the bathtub, successfully persuade \\str[120] to sit together"
         ],
         "subtitle": [
             "\"Ánh mắt đó...",
@@ -3379,6 +3458,10 @@
         "recallEventName": [
             "Bi Kịch Do Ngộ Độc Thức Ăn..."
         ],
+        "unlockCondition": [
+            "Cook a dish using poisonous ingredients",
+            "or get food poisoning by chance after making a failed dish"
+        ],
         "subtitle": [
             "\"Uwaaaahhh——!",
             "Em không nhịn nổi nữa rồi...!\""
@@ -3391,6 +3474,10 @@
         ],
         "recallEventName": [
             "Đánh Răng Cùng Với \\str[120]"
+        ],
+        "unlockCondition": [
+            "Triggered after successfully waking up \\str[120] in the morning",
+            "Different events may occur depending on the number of times triggered and \\str[120]'s condition upon waking"
         ],
         "subtitle": [
             "\"Đánh sang bên... thì sẽ sạch hơn...\"",
@@ -3406,6 +3493,10 @@
         "recallEventName": [
             "Nếu em không chịu dậy thì \\str[121] sẽ nghiêm túc đấy nhé~!"
         ],
+        "unlockCondition": [
+            "Successfully wake up \\str[120] in the morning once",
+            "Requires completing at least one treatment"
+        ],
         "subtitle": [
             "\"Lăn, Lăn, Lăn, Lăn, Lăn, Lăn~!\"",
             " ",
@@ -3420,9 +3511,27 @@
         "recallEventName": [
             "Uwaaahhh—mmmmmffff———!!"
         ],
+        "unlockCondition": [
+            "Choose to go home early during hot weather",
+            "Choose to secretly shake the chilled \\ii[35] before giving it to \\str[120]"
+        ],
         "subtitle": [
             "Có vẻ đây là một loại cola đặc biệt với nhiều ga hơn bình thường,",
             "nếu mình lắc nhẹ một chút thì..."
+        ],
+        "ability": ""
+    },
+    "451": {
+        "name": [
+            "Peeping while Undressing II"
+        ],
+        "recallEventName": [
+            "This is strictly a health checkup for \\str[120], alright?! II"
+        ],
+        "subtitle": [
+            "\"Okay, that's enough!",
+            "You've had more than enough of a look for your 'health checkup', haven't you, \\str[121]?",
+            "I'm gonna take a bath, so get out already!\""
         ],
         "ability": ""
     },
