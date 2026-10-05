@@ -192,9 +192,10 @@
 		"Nội dung bản vá mới cho ${} đã được cài đặt thành công và sẽ có hiệu lực sau lần khởi động lại tiếp theo."
 	],
 	"outdatedVersionWarning": [
-		"Phiên bản trò chơi hiện tại đã hết hạn. Phiên bản mới nhất là ${}.",
-		"Hiện đã hỗ trợ cập nhật tự động cho các bản cập nhật lớn, nhưng chỉ dành riêng cho người dùng đã xác minh quyền sở hữu game.",
-		"Nếu bạn không thể hoàn tất xác minh, bạn sẽ cần tải lại trò chơi từ các kênh chính thức để cập nhật."
+		"Đã có bản cập nhật lớn cho game. Phiên bản mới nhất là ${}.",
+		"Tính năng tự động cập nhật các phiên bản lớn chỉ dành cho người dùng đã đăng nhập và hoàn tất xác minh mua game.",
+		"Nếu bạn không thể hoàn tất xác minh mua game, vui lòng tải xuống và cài đặt thủ công phiên bản mới nhất từ nền tảng nơi bạn đã mua game.",
+		"Sau khi cập nhật, bạn có thể tự chuyển các file save hoặc sử dụng tính năng lưu trữ đám mây của game để tiếp tục tiến trình."
 	],
 	"renameCharacter": [
 		"Tôi nhớ ra rồi—",

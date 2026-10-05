@@ -1,17 +1,28 @@
 {
     "Receptiveness": {
-        "name": "\\str[120]'s Receptiveness",
+        "name": "Mức Độ Cởi Mở Của \\str[120]",
         "description": [
-            "Measures how receptive \\str[120] is to lewd requests from \\str[121].",
-            "The base score is calculated from the various Hearts \\str[120] currently has:",
+            "Đo lường mức độ cởi mở của \\str[120] đối với những yêu cầu dâm dục từ \\str[121].",
+            "Điểm cơ bản được tính dựa trên các tim mà \\str[120] hiện có:",
             "\\dimg[15] = 1    \\dimg[16] = 2",
             "\\dimg[17] = 1    \\dimg[18] = 2",
             "\\dimg[19] = 2    \\dimg[20] = 3",
             "\\dimg[21] = 3",
-            "While in heat, gain an additional 2 points.",
-            "While in a good mood, randomly gain 0–2 points.",
-            "While in a bad mood, randomly lose 0–2 points.",
-            "\\str[120]'s current Receptiveness: ${QJ.MPMZ.tl.canImoutoAcceptHentaiRequest({ predictedScore: true })}"
+            "Khi đang trong kỳ động dục: nhận thêm 2 điểm.",
+            "Khi đang có tâm trạng tốt: nhận ngẫu nhiên 0–2 điểm.",
+            "Khi đang có tâm trạng xấu: mất ngẫu nhiên 0–2 điểm.",
+            "Mức độ cởi mở hiện tại của \\str[120]: ${QJ.MPMZ.tl.canImoutoAcceptHentaiRequest({ predictedScore: true })}"
+        ]
+    },
+    "Koufun": {
+        "name": "Hưng Phấn",
+        "description": [
+            "Đo mức độ ham muốn của \\str[121].",
+            "Một thông báo sẽ xuất hiện trên thanh trạng thái khi chỉ số vượt quá 20.",
+            "Tăng khi thực hiện các hành vi nghịch ngợm hoặc ngủ mỗi ngày.",
+            "Một số sự kiện yêu cầu đạt một mức Hưng Phấn nhất định.",
+            "Xuất tinh sẽ lập tức xóa toàn bộ Hưng Phấn và tiến vào trạng thái Hiền Giả.",
+            "Tất cả chỉ số được tăng khi ở trạng thái Hiền Giả."
         ]
     }
 }

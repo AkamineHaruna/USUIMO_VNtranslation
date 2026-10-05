@@ -59,7 +59,7 @@
         "itemCollection": "Vật Phẩm",
         "weaponCollection": "Vũ Khí",
         "gearCollection": "Trang Bị",
-        "traceCollection": "TRACE",
+        "traceCollection": "Hành Trình",
         "lockedObject": "?????",
         "lockedNotice": [
             "Thiếu Dữ Liệu—",
@@ -71,17 +71,17 @@
             "Lần Đầu Thu Thập:",
             "Ngày %1, %2h %3m"
         ],
-        "allEvents": "All Events",
-        "mainEvents": "Main Events",
-        "sideEvents": "Side Events",
-        "eroEvents": "Ero Events",
-        "readMore": "Read More",
-        "achievementEvents": "Achievements",
-        "unlockTime": "Day %1 · %2",
-        "unlockCondition": "Requirements: ",
-        "howToObtain": "Obtained From: ",
-        "traceControls": "Drag to browse the timeline · Scroll / Pinch to zoom the timeline",
-        "readMoreControls": "Scroll / Swipe up or down to read"
+        "allEvents": "Toàn Bộ Sự Kiện",
+        "mainEvents": "Sự Kiện Chính",
+        "sideEvents": "Sự Kiện Phụ",
+        "eroEvents": "Sự Kiện Dâm Dục",
+        "readMore": "Đọc Thêm",
+        "achievementEvents": "Thành Tựu",
+        "unlockTime": "Ngày %1 · %2",
+        "unlockCondition": "Điều Kiện: ",
+        "howToObtain": "Nhận Được Từ: ",
+        "traceControls": "Kéo để xem dòng thời gian · Cuộn / Chụm để phóng to dòng thời gian",
+        "readMoreControls": "Cuộn / Vuốt lên hoặc xuống để đọc"
     },
     "magicCamera": {
         "record": "Quay Video",
@@ -101,7 +101,8 @@
         ],
         "recallButton": [
             "Hồi tưởng ký ức",
-            "Bỏ qua"
+            "Bỏ qua",
+            "Xem Bộ Sưu Tập"
         ],
         "lockedVariation": "Bạn chưa mở khóa cảnh này!",
         "placeholder": "Nội Dung Ký Ức Hiện Có (Sắp có thêm)",
@@ -125,8 +126,8 @@
         ]
     },
     "UnitINexus": {
-        "bossRespawnCountdown": "%1 sẽ hồi sinh sau %2 ngày nữa!",
-        "bossChallengeAvailable": "%1 đã xuất hiện!",
+        "bossRespawnCountdown": "◇ \\c[10]%1\\c[0] sẽ hồi sinh sau %2 ngày nữa!",
+        "bossChallengeAvailable": "◈ \\c[10]%1\\c[0]  đã xuất hiện!",
         "noBossDetected": "Không phát hiện boss nào sở hữu \\ii[20]!"
     },
     "warehouseIsFull": "Không thể chứa thêm vật phẩm!",
@@ -141,13 +142,13 @@
             "Sử dụng",
             "Vứt bỏ"
         ],
-        "cannotQuickUse": "This item cannot be added to the quick item wheel",
+        "cannotQuickUse": "Vật phẩm này không thể thêm vào dùng nhanh",
         "operationInstructions": [
-            "Drag items that support quick use into the quick item wheel",
-            "to switch between and use them on the map"
+            "Kéo các vật phẩm hỗ trợ sử dụng nhanh vào vòng dùng nhanh để chuyển đổi và sử dụng chúng trên bản đồ",
+            ""
         ],
         "operationInstructionsForPC": [
-            "(Press F/G to switch, and R to use the item)"
+            "(Nhấn F/G để chuyển đổi và R để sử dụng vật phẩm)"
         ]
     },
     "forceGoHome": [

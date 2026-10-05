@@ -409,7 +409,7 @@
     },
     "103": {
         "name": [
-            "Karmic Retribution"
+            "Thiện Hữu Ác Báo"
         ],
         "subtitle": [
             ""
@@ -418,8 +418,8 @@
             ""
         ],
         "ability": [
-            "Releases a shockwave to counter surrounding enemies when taking damage",
-            "Releases a healing wave that heals surrounding enemies when healed"
+            "Phát ra sóng xung kích phản công kẻ địch xung quanh khi chịu sát thương",
+            "Phát ra làn sóng hồi phục chữa lành cho kẻ địch xung quanh khi được hồi máu"
         ]
     }
 }
