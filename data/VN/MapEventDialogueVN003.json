@@ -1544,13 +1544,14 @@
             "Tôi đã sốc đến mức gần như chẳng nhìn kỹ được."
         ],
         "29": [
-            "\\nl< >\"Được rồi, thế là đủ rồi!",
-            "\\str[121] đã xong kiểm tra sức khoẻ rồi đúng không?",
-            "Em đi tắm đây, đi ra ngoài mau!\""
+            "\\nl< >\"Đủ rồi đó!",
+            "Anh đã xem đủ cho cái 'kiểm tra sức khỏe' của mình rồi đúng không, \\str[121]?",
+            "Em đi tắm đây, anh mau ra ngoài đi!\"",
+            " "
         ],
         "30": [
             "\\nl< >\\{",
-            "\"Không đời nào! \\str[121], đồ ngốc!\""
+            "\"Không đời nào! \\str[121] là đồ ngốc!\""
         ],
         "31": [
             "Tôi bị \\str[120] đẩy ra khỏi phòng tắm.      \\w[30]",

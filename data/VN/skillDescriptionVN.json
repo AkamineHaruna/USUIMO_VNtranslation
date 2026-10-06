@@ -406,5 +406,20 @@
             "Thi triển ma pháp triệu hồi, đánh dấu vị trí mục tiêu khi kết thúc",
             "Sau vài giây, triệu hồi thiên thạch giáng xuống vị trí đã đánh dấu"
         ]
+    },
+    "103": {
+        "name": [
+            "Thiện Hữu Ác Báo"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            "Phát ra sóng xung kích phản công kẻ địch xung quanh khi chịu sát thương",
+            "Phát ra làn sóng hồi phục chữa lành cho kẻ địch xung quanh khi được hồi máu"
+        ]
     }
 }
