@@ -31,14 +31,16 @@
       "Name": "게임 콘솔을 얻었다!",
       "Description": "이제 여동생과 함께 게임을 할 수 있다!",
       "Pop Up Desc": [
-        "게임이라 해도 놀이가 아니다"
+        "\\fs[24]게임이라 해도",
+        "놀이가 아니다"
       ]
     },
     "MyImoutoIsJustThatCute": {
       "Name": "내 여동생이 이렇게 귀여울 리가!",
       "Description": "서로에 대한 호감도는 최고가 되었다!",
       "Pop Up Desc": [
-        "내 여동생이 이렇게 귀여울 리가!"
+        "\\fs[24]내 여동생이 이렇게",
+        "귀여울 리가!"
       ]
     },
     "ImoutoBodyPillow": {
@@ -70,14 +72,16 @@
       "Name": "사람은 살해당하면 죽는...가?",
       "Description": "아비스에서 체력이 0이 된다...",
       "Pop Up Desc": [
-        "사람은 살해당하면 죽는...가?"
+        "\\fs[24]사람은 살해당하면",
+        "죽는...가?"
       ]
     },
     "HoardingHabit": {
       "Name": "수집가",
       "Description": "별의 문에 대량의 아이템을 넣었다",
       "Pop Up Desc": [
-        "모으지 않으면 죽는 병에 걸렸다"
+        "\\fs[24]모으지 않으면 죽는",
+        "병에 걸렸다"
       ]
     },
     "TransportedToIsekai": {
@@ -133,7 +137,8 @@
       "Name": "무한의 검총",
       "Description": "100자루 이상의 무기를 파괴했다",
       "Pop Up Desc": [
-        "무기의 저장량은 충분한가?"
+        "\\fs[24]무기의 저장량은",
+        "충분한가?"
       ]
     },
     "IJustWitnessedAPricelessPieceOfFootage": {
