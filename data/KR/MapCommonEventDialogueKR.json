@@ -383,6 +383,7 @@
     "itemCollection": "아이템",
     "weaponCollection": "무기",
     "gearCollection": "장비",
+    "traceCollection": "궤적",
     "lockedObject": "?????",
     "lockedNotice": [
       "데이터 결손——",
@@ -393,7 +394,18 @@
     "firstAcquiredTime": [
       "최초 입수 일시:",
       "%1일째 %2시 %3분"
-    ]
+    ],
+    "allEvents": "전체 이벤트",
+    "mainEvents": "메인 이벤트",
+    "sideEvents": "서브 이벤트",
+    "eroEvents": "에로 이벤트",
+    "readMore": "더 보기",
+    "achievementEvents": "업적 이벤트",
+    "unlockTime": "%1일째 · %2",
+    "unlockCondition": "해금 조건: ",
+    "howToObtain": "입수 방법: ",
+    "traceControls": "드래그해서 타임라인 둘러보기 · 스크롤/핀치로 타임라인 확대·축소",
+    "readMoreControls": "스크롤 또는 위아래 스와이프로 읽기"
   },
   "magicCamera": {
     "record": "동영상 촬영",
@@ -413,7 +425,8 @@
     ],
     "recallButton": [
       "이벤트 회상",
-      "그만둔다"
+      "그만둔다",
+      "도감을 본다"
     ],
     "lockedVariation": "이 차분은 아직 해금되지 않았습니다!",
     "placeholder": "현재 해금된 갤러리 콘텐츠 (업데이트 중)",
@@ -453,6 +466,18 @@
       "사용한다",
       "그만둔다",
       "버린다"
+    ],
+    "doubleConfirm": [
+      "사용한다",
+      "버린다"
+    ],
+    "cannotQuickUse": "이 아이템은 퀵 아이템 휠에 추가할 수 없습니다",
+    "operationInstructions": [
+      "퀵 사용을 지원하는 아이템을 퀵 아이템 휠로 드래그하면,",
+      "맵에서 아이템을 전환하며 사용할 수 있습니다"
+    ],
+    "operationInstructionsForPC": [
+      "(F/G 키로 전환하고, R 키로 아이템을 사용하세요)"
     ]
   },
   "forceGoHome": [
