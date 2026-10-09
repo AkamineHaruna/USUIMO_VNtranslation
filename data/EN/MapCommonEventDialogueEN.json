@@ -16,6 +16,18 @@
       "Save"
     ]
   },
+  "changelogScene": {
+    "Announcements": "Announcements",
+    "Changelog": "Changelog",
+    "ReleaseDate": "Release Date",
+    "LastModified": "Last Modified",
+    "UpgradableFrom": "Upgradable From",
+    "NotRecorded": "Not Recorded",
+    "MajorUpdate": "Major Update",
+    "PatchUpdate": "Patch Update",
+    "ReadControls": "Drag / Scroll Wheel to Read · Hover Over or Hold Arrows to Scroll",
+    "NotProvided": "Not provided"
+  },
   "autoUpdateReminder": {
     "0": [
       "The update process will automatically start when you wake up the next day.",

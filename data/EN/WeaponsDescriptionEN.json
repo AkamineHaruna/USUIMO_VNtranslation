@@ -350,7 +350,7 @@
       "Water balls create puddles when they burst on land",
       "Hold right mouse button to cast \\is[96]"
     ]
-  },  
+  },
   "26": {
     "name": [
       "Starlit Night"
@@ -456,7 +456,7 @@
     "ability": [
       "Can fire water balls. if water is nearby, fires more of them",
       "Water balls slow enemies when they hit targets on land",
-      "Water balls create puddles when they burst on land",      
+      "Water balls create puddles when they burst on land",
       "Hold right mouse button to cast \\is[97]"
     ]
   },
@@ -500,10 +500,10 @@
       "but if you don't feed it, it'll throw a tantrum and refuse to work..."
     ],
     "ability": [
-      "Attacking consumes one \\ii[20] to awaken Mistilteinn",
-      "The activated state lasts for 10 minutes",
-      "While active, increases damage and grants defense penetration",
-      "Attacks while activated have a chance to unleash a sword wave"
+      "Consume one \\ii[20] to awaken Mistilteinn, activating it for 10 minutes",
+      "While active, Mistilteinn gains the Full Power state",
+      "While active, Mistilteinn's attacks have a chance to unleash a sword wave",
+      "When the active state ends, Mistilteinn will automatically perform a spinning slash before falling back into slumber"
     ]
   },
   "38": {

@@ -16,6 +16,18 @@
       "セーブ"
     ]
   },
+  "changelogScene": {
+    "Announcements": "お知らせ",
+    "Changelog": "更新履歴",
+    "ReleaseDate": "公開日時",
+    "LastModified": "更新日時",
+    "UpgradableFrom": "アップデート可能なバージョン",
+    "NotRecorded": "記録なし",
+    "MajorUpdate": "メジャーアップデート",
+    "PatchUpdate": "パッチアップデート",
+    "ReadControls": "ドラッグ / マウスホイールで閲覧 · 矢印にカーソルを合わせるか長押しでスクロール",
+    "NotProvided": "情報なし"
+  },
   "autoUpdateReminder": {
     "0": [
       "アップデートは翌朝起床時に自動で開始されます。",

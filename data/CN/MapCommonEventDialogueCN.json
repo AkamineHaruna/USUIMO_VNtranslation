@@ -28,6 +28,18 @@
       "\\w[120]"
     ]
   },
+  "changelogScene": {
+    "Announcements": "游戏公告",
+    "Changelog": "更新履历",
+    "ReleaseDate": "发布时间",
+    "LastModified": "修改时间",
+    "UpgradableFrom": "可由以下版本进行升级",
+    "NotRecorded": "未记录",
+    "MajorUpdate": "主要版本更新",
+    "PatchUpdate": "补丁版本更新",
+    "ReadControls": "拖拽 / 滚轮阅读 · 悬停或按住箭头滚动",
+    "NotProvided": "未提供"
+  },
   "rpgMapButtonDescription": {
     "starDoor": "回家",
     "option": "设置",

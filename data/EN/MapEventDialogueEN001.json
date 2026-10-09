@@ -999,6 +999,23 @@
       "target for adventurers and chefs alike."
     ]
   },
+  "46": {
+    "objectName": [
+      "Demon Sword Mystletainn"
+    ],
+    "subtitle": [
+      "Sealed within the Stone Monument"
+    ],
+    "bossName": [
+      "Demon Sword Mystletainn"
+    ],
+    "sentouryoku": [
+      "6000"
+    ],
+    "description": [
+      ""
+    ]
+  },
   "47": {
     "objectName": [
       "\\c[114]Door of Star"

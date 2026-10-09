@@ -654,7 +654,7 @@
     "description": [
       "Physical attacks gain Penetration, ignoring a portion of the target's defense"
     ]
-  },  
+  },
   "85": {
     "name": [],
     "subtitle": [
@@ -691,7 +691,17 @@
       "Afflicted with ${$gameParty.leader().getStateCounter(93)} stacks of Waterlogged! ",
       "Movement Speed decreases with each stack! Instantly drowns at over 10 stacks!"
     ]
-  },  
+  },
+  "96": {
+    "name": [],
+    "subtitle": [
+      "Mistilteinn at Full Power——!"
+    ],
+    "description": [
+      "Increases MAT, grants 20 Defense Penetration, ",
+      "and gives \\is[4] a homing effect"
+    ]
+  },
   "98": {
     "name": [],
     "subtitle": [
